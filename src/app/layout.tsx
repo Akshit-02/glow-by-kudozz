@@ -65,6 +65,9 @@ export const metadata: Metadata = {
       "max-video-preview": -1,
     },
   },
+  verification: {
+    google: "0hbFb6pYWfYAfW77QdmlDy2euqOTCP7XfVqyGeac39s",
+  },
 };
 
 export const viewport: Viewport = {
@@ -88,6 +91,18 @@ export default function RootLayout({
       suppressHydrationWarning
     >
       <body className="min-h-screen flex flex-col bg-background text-foreground">
+        <Script
+          src="https://www.googletagmanager.com/gtag/js?id=G-0NW6BJTNY3"
+          strategy="afterInteractive"
+        />
+        <Script id="google-analytics" strategy="afterInteractive">
+          {`
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
+            gtag('config', 'G-0NW6BJTNY3');
+          `}
+        </Script>
         <Script
           id="organization-schema"
           type="application/ld+json"
