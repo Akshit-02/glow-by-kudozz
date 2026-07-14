@@ -18,7 +18,7 @@ export const authors: Author[] = [
       twitter: "https://twitter.com/mirashahskin",
       linkedin: "https://linkedin.com/in/mirashah",
     },
-    articleCount: 1,
+    articleCount: 4,
     featured: true,
   },
   {
@@ -91,7 +91,7 @@ export const authors: Author[] = [
     social: {
       linkedin: "https://linkedin.com/in/drsanamalik",
     },
-    articleCount: 1,
+    articleCount: 3,
     featured: false,
   },
 ];

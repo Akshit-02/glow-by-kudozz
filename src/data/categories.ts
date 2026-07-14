@@ -11,7 +11,7 @@ export const categories: Category[] = [
     image: "https://images.unsplash.com/photo-1620916566398-39f1143ab7be?w=1200&q=80",
     icon: "Droplets",
     color: "rose-gold",
-    articleCount: 2,
+    articleCount: 7,
     featured: true,
   },
   {
@@ -82,19 +82,19 @@ export const categories: Category[] = [
 ];
 
 export const tags: Tag[] = [
-  { id: "tag-retinol", slug: "retinol", name: "Retinol", articleCount: 0 },
-  { id: "tag-spf", slug: "spf", name: "SPF", articleCount: 0 },
-  { id: "tag-acne", slug: "acne", name: "Acne", articleCount: 0 },
-  { id: "tag-anti-aging", slug: "anti-aging", name: "Anti-Aging", articleCount: 0 },
+  { id: "tag-retinol", slug: "retinol", name: "Retinol", articleCount: 2 },
+  { id: "tag-spf", slug: "spf", name: "SPF", articleCount: 3 },
+  { id: "tag-acne", slug: "acne", name: "Acne", articleCount: 2 },
+  { id: "tag-anti-aging", slug: "anti-aging", name: "Anti-Aging", articleCount: 1 },
   { id: "tag-curly-hair", slug: "curly-hair", name: "Curly Hair", articleCount: 0 },
   { id: "tag-scalp-care", slug: "scalp-care", name: "Scalp Care", articleCount: 0 },
-  { id: "tag-clean-beauty", slug: "clean-beauty", name: "Clean Beauty", articleCount: 0 },
-  { id: "tag-k-beauty", slug: "k-beauty", name: "K-Beauty", articleCount: 1 },
+  { id: "tag-clean-beauty", slug: "clean-beauty", name: "Clean Beauty", articleCount: 2 },
+  { id: "tag-k-beauty", slug: "k-beauty", name: "K-Beauty", articleCount: 2 },
   { id: "tag-beard-care", slug: "beard-care", name: "Beard Care", articleCount: 0 },
   { id: "tag-perfume-layering", slug: "perfume-layering", name: "Perfume Layering", articleCount: 0 },
-  { id: "tag-sleep", slug: "sleep", name: "Sleep", articleCount: 0 },
-  { id: "tag-budget-beauty", slug: "budget-beauty", name: "Budget Beauty", articleCount: 1 },
-  { id: "tag-vitamin-c", slug: "vitamin-c", name: "Vitamin C", articleCount: 1 },
+  { id: "tag-sleep", slug: "sleep", name: "Sleep", articleCount: 1 },
+  { id: "tag-budget-beauty", slug: "budget-beauty", name: "Budget Beauty", articleCount: 3 },
+  { id: "tag-vitamin-c", slug: "vitamin-c", name: "Vitamin C", articleCount: 2 },
   { id: "tag-pigmentation", slug: "pigmentation", name: "Pigmentation", articleCount: 1 },
   { id: "tag-ayurveda", slug: "ayurveda", name: "Ayurveda", articleCount: 1 },
 ];
