@@ -1,26 +1,214 @@
 @import "tailwindcss";
+@import "tw-animate-css";
+
+@custom-variant dark (&:is(.dark *));
 
 :root {
-  --background: #ffffff;
-  --foreground: #171717;
+  /* Core neutrals */
+  --color-white: #ffffff;
+  --color-off-white: #fdfbf9;
+  --color-cream: #faf3ec;
+  --color-light-beige: #f3e9dd;
+  --color-charcoal: #2a2320;
+
+  /* Brand */
+  --color-rose-gold: #b76e79;
+  --color-rose-gold-light: #d9a5ac;
+  --color-rose-gold-dark: #96525c;
+  --color-champagne: #f2dfc7;
+  --color-champagne-dark: #e2c39a;
+  --color-coral: #e8836f;
+  --color-coral-dark: #d0644e;
+  --color-success: #7a9b76;
+
+  --background: var(--color-off-white);
+  --foreground: var(--color-charcoal);
+
+  --card: var(--color-white);
+  --card-foreground: var(--color-charcoal);
+
+  --popover: var(--color-white);
+  --popover-foreground: var(--color-charcoal);
+
+  --primary: var(--color-rose-gold);
+  --primary-foreground: var(--color-white);
+
+  --secondary: var(--color-champagne);
+  --secondary-foreground: var(--color-charcoal);
+
+  --accent: var(--color-coral);
+  --accent-foreground: var(--color-white);
+
+  --muted: var(--color-light-beige);
+  --muted-foreground: #6b5f56;
+
+  --success: var(--color-success);
+  --success-foreground: var(--color-white);
+
+  --destructive: #c0524a;
+  --destructive-foreground: var(--color-white);
+
+  --border: #e7dccd;
+  --input: #e7dccd;
+  --ring: var(--color-rose-gold);
+
+  --radius: 1.25rem;
+}
+
+.dark {
+  --background: #171310;
+  --foreground: #f3ece4;
+
+  --card: #211b17;
+  --card-foreground: #f3ece4;
+
+  --popover: #211b17;
+  --popover-foreground: #f3ece4;
+
+  --primary: var(--color-rose-gold-light);
+  --primary-foreground: #171310;
+
+  --secondary: #3a2f27;
+  --secondary-foreground: #f3ece4;
+
+  --accent: var(--color-coral);
+  --accent-foreground: #171310;
+
+  --muted: #2a2320;
+  --muted-foreground: #b8a99a;
+
+  --success: var(--color-success);
+  --success-foreground: #171310;
+
+  --destructive: #e0776c;
+  --destructive-foreground: #171310;
+
+  --border: #362c25;
+  --input: #362c25;
+  --ring: var(--color-rose-gold-light);
 }
 
 @theme inline {
   --color-background: var(--background);
   --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
-}
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
+  --color-card: var(--card);
+  --color-card-foreground: var(--card-foreground);
+  --color-popover: var(--popover);
+  --color-popover-foreground: var(--popover-foreground);
+
+  --color-primary: var(--primary);
+  --color-primary-foreground: var(--primary-foreground);
+  --color-secondary: var(--secondary);
+  --color-secondary-foreground: var(--secondary-foreground);
+  --color-accent: var(--accent);
+  --color-accent-foreground: var(--accent-foreground);
+  --color-muted: var(--muted);
+  --color-muted-foreground: var(--muted-foreground);
+  --color-success: var(--success);
+  --color-success-foreground: var(--success-foreground);
+  --color-destructive: var(--destructive);
+  --color-destructive-foreground: var(--destructive-foreground);
+
+  --color-border: var(--border);
+  --color-input: var(--input);
+  --color-ring: var(--ring);
+
+  --color-rose-gold: var(--color-rose-gold);
+  --color-rose-gold-light: var(--color-rose-gold-light);
+  --color-rose-gold-dark: var(--color-rose-gold-dark);
+  --color-champagne: var(--color-champagne);
+  --color-champagne-dark: var(--color-champagne-dark);
+  --color-coral: var(--color-coral);
+  --color-coral-dark: var(--color-coral-dark);
+  --color-cream: var(--color-cream);
+  --color-off-white: var(--color-off-white);
+  --color-light-beige: var(--color-light-beige);
+  --color-charcoal: var(--color-charcoal);
+
+  --font-display: var(--font-playfair);
+  --font-sans: var(--font-inter);
+
+  --radius-sm: calc(var(--radius) - 0.5rem);
+  --radius-md: calc(var(--radius) - 0.25rem);
+  --radius-lg: var(--radius);
+  --radius-xl: calc(var(--radius) + 0.5rem);
+  --radius-2xl: calc(var(--radius) + 1rem);
+
+  --shadow-soft: 0 2px 8px -2px rgb(42 35 32 / 0.06), 0 8px 24px -8px rgb(42 35 32 / 0.08);
+  --shadow-elevated: 0 8px 30px -10px rgb(42 35 32 / 0.15), 0 2px 8px -2px rgb(42 35 32 / 0.08);
+  --shadow-glow: 0 0 0 1px rgb(183 110 121 / 0.1), 0 8px 30px -8px rgb(183 110 121 / 0.25);
+
+  --animate-fade-in: fade-in 0.6s ease-out forwards;
+  --animate-slide-up: slide-up 0.6s cubic-bezier(0.22, 1, 0.36, 1) forwards;
+  --animate-float: float 6s ease-in-out infinite;
+  --animate-shimmer: shimmer 2s linear infinite;
+
+  @keyframes fade-in {
+    from { opacity: 0; }
+    to { opacity: 1; }
+  }
+  @keyframes slide-up {
+    from { opacity: 0; transform: translateY(24px); }
+    to { opacity: 1; transform: translateY(0); }
+  }
+  @keyframes float {
+    0%, 100% { transform: translateY(0px); }
+    50% { transform: translateY(-12px); }
+  }
+  @keyframes shimmer {
+    from { background-position: -200% 0; }
+    to { background-position: 200% 0; }
   }
 }
 
-body {
-  background: var(--background);
-  color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+@layer base {
+  * {
+    @apply border-border outline-ring/50;
+  }
+
+  html {
+    scroll-behavior: smooth;
+  }
+
+  body {
+    @apply bg-background text-foreground font-sans antialiased;
+    font-feature-settings: "cv11", "ss01";
+    text-rendering: optimizeLegibility;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    @apply font-display;
+    letter-spacing: -0.01em;
+  }
+
+  ::selection {
+    background-color: var(--color-rose-gold-light);
+    color: var(--color-charcoal);
+  }
+}
+
+@layer utilities {
+  .glass {
+    @apply bg-white/60 dark:bg-white/5 backdrop-blur-xl border border-white/40 dark:border-white/10;
+  }
+
+  .text-balance {
+    text-wrap: balance;
+  }
+
+  .bg-gradient-rose {
+    background-image: linear-gradient(135deg, var(--color-rose-gold) 0%, var(--color-coral) 100%);
+  }
+
+  .bg-gradient-champagne {
+    background-image: linear-gradient(135deg, var(--color-champagne) 0%, var(--color-cream) 100%);
+  }
+
+  .text-gradient-rose {
+    background-image: linear-gradient(135deg, var(--color-rose-gold) 0%, var(--color-coral) 100%);
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+  }
 }

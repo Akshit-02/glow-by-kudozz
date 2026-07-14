@@ -1,0 +1,100 @@
+import type { Category, Tag } from "@/types";
+
+export const categories: Category[] = [
+  {
+    id: "cat-skincare",
+    slug: "skincare",
+    name: "Skincare",
+    description:
+      "Evidence-informed skincare guidance — routines, ingredients, and dermatologist-reviewed advice for every skin type and concern.",
+    shortDescription: "Routines, ingredients & dermatologist-backed advice.",
+    image: "https://images.unsplash.com/photo-1620916566398-39f1143ab7be?w=1200&q=80",
+    icon: "Droplets",
+    color: "rose-gold",
+    articleCount: 2,
+    featured: true,
+  },
+  {
+    id: "cat-haircare",
+    slug: "haircare",
+    name: "Haircare",
+    description:
+      "From scalp health to styling science — everything you need for stronger, shinier, healthier hair.",
+    shortDescription: "Scalp health, styling science & repair routines.",
+    image: "https://images.unsplash.com/photo-1522337360788-8b13dee7a37e?w=1200&q=80",
+    icon: "Wind",
+    color: "champagne",
+    articleCount: 0,
+    featured: true,
+  },
+  {
+    id: "cat-makeup",
+    slug: "makeup",
+    name: "Makeup",
+    description:
+      "Tutorials, product edits, and trend reports from the world of color cosmetics.",
+    shortDescription: "Tutorials, edits & the latest color trends.",
+    image: "https://images.unsplash.com/photo-1487412947147-5cebf100ffc2?w=1200&q=80",
+    icon: "Palette",
+    color: "coral",
+    articleCount: 0,
+    featured: true,
+  },
+  {
+    id: "cat-grooming",
+    slug: "grooming",
+    name: "Grooming",
+    description:
+      "Unisex grooming essentials — shaving, beard care, and personal upkeep done right.",
+    shortDescription: "Shaving, beard care & everyday upkeep.",
+    image: "https://images.unsplash.com/photo-1503951914875-452162b0f3f1?w=1200&q=80",
+    icon: "Scissors",
+    color: "charcoal",
+    articleCount: 0,
+    featured: true,
+  },
+  {
+    id: "cat-fragrance",
+    slug: "fragrance",
+    name: "Fragrance",
+    description:
+      "Notes, layering techniques, and the season's most-loved scents, explained by people who love perfume as much as you do.",
+    shortDescription: "Notes, layering & the season's best scents.",
+    image: "https://images.unsplash.com/photo-1541643600914-78b084683601?w=1200&q=80",
+    icon: "Sparkles",
+    color: "rose-gold",
+    articleCount: 0,
+    featured: true,
+  },
+  {
+    id: "cat-wellness",
+    slug: "wellness",
+    name: "Wellness",
+    description:
+      "Beauty from within — sleep, nutrition, movement, and mindfulness practices that show up on your skin.",
+    shortDescription: "Sleep, nutrition & mindfulness for skin health.",
+    image: "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?w=1200&q=80",
+    icon: "Leaf",
+    color: "success",
+    articleCount: 0,
+    featured: true,
+  },
+];
+
+export const tags: Tag[] = [
+  { id: "tag-retinol", slug: "retinol", name: "Retinol", articleCount: 0 },
+  { id: "tag-spf", slug: "spf", name: "SPF", articleCount: 0 },
+  { id: "tag-acne", slug: "acne", name: "Acne", articleCount: 0 },
+  { id: "tag-anti-aging", slug: "anti-aging", name: "Anti-Aging", articleCount: 0 },
+  { id: "tag-curly-hair", slug: "curly-hair", name: "Curly Hair", articleCount: 0 },
+  { id: "tag-scalp-care", slug: "scalp-care", name: "Scalp Care", articleCount: 0 },
+  { id: "tag-clean-beauty", slug: "clean-beauty", name: "Clean Beauty", articleCount: 0 },
+  { id: "tag-k-beauty", slug: "k-beauty", name: "K-Beauty", articleCount: 1 },
+  { id: "tag-beard-care", slug: "beard-care", name: "Beard Care", articleCount: 0 },
+  { id: "tag-perfume-layering", slug: "perfume-layering", name: "Perfume Layering", articleCount: 0 },
+  { id: "tag-sleep", slug: "sleep", name: "Sleep", articleCount: 0 },
+  { id: "tag-budget-beauty", slug: "budget-beauty", name: "Budget Beauty", articleCount: 1 },
+  { id: "tag-vitamin-c", slug: "vitamin-c", name: "Vitamin C", articleCount: 1 },
+  { id: "tag-pigmentation", slug: "pigmentation", name: "Pigmentation", articleCount: 1 },
+  { id: "tag-ayurveda", slug: "ayurveda", name: "Ayurveda", articleCount: 1 },
+];
