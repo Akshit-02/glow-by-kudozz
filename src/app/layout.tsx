@@ -72,8 +72,14 @@ export const metadata: Metadata = {
 
 export const viewport: Viewport = {
   themeColor: [
-    { media: "(prefers-color-scheme: light)", color: SITE_CONFIG.themeColor.light },
-    { media: "(prefers-color-scheme: dark)", color: SITE_CONFIG.themeColor.dark },
+    {
+      media: "(prefers-color-scheme: light)",
+      color: SITE_CONFIG.themeColor.light,
+    },
+    {
+      media: "(prefers-color-scheme: dark)",
+      color: SITE_CONFIG.themeColor.dark,
+    },
   ],
   width: "device-width",
   initialScale: 1,
@@ -92,7 +98,7 @@ export default function RootLayout({
     >
       <body className="min-h-screen flex flex-col bg-background text-foreground">
         <Script
-          src="https://www.googletagmanager.com/gtag/js?id=G-0NW6BJTNY3"
+          src="https://www.googletagmanager.com/gtag/js?id=G-6C19X2ET68"
           strategy="afterInteractive"
         />
         <Script id="google-analytics" strategy="afterInteractive">
@@ -100,13 +106,15 @@ export default function RootLayout({
             window.dataLayer = window.dataLayer || [];
             function gtag(){dataLayer.push(arguments);}
             gtag('js', new Date());
-            gtag('config', 'G-0NW6BJTNY3');
+            gtag('config', 'G-6C19X2ET68');
           `}
         </Script>
         <Script
           id="organization-schema"
           type="application/ld+json"
-          dangerouslySetInnerHTML={{ __html: JSON.stringify(organizationSchema) }}
+          dangerouslySetInnerHTML={{
+            __html: JSON.stringify(organizationSchema),
+          }}
         />
         <Script
           id="website-schema"
@@ -121,7 +129,7 @@ export default function RootLayout({
             Skip to content
           </a>
           <Navbar />
-          
+
           <main id="main-content" className="flex-1">
             {children}
           </main>
