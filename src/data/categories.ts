@@ -11,7 +11,7 @@ export const categories: Category[] = [
     image: "https://images.unsplash.com/photo-1620916566398-39f1143ab7be?w=1200&q=80",
     icon: "Droplets",
     color: "rose-gold",
-    articleCount: 27,
+    articleCount: 32,
     featured: true,
   },
   {
@@ -82,19 +82,19 @@ export const categories: Category[] = [
 ];
 
 export const tags: Tag[] = [
-  { id: "tag-retinol", slug: "retinol", name: "Retinol", articleCount: 6 },
-  { id: "tag-spf", slug: "spf", name: "SPF", articleCount: 22 },
+  { id: "tag-retinol", slug: "retinol", name: "Retinol", articleCount: 7 },
+  { id: "tag-spf", slug: "spf", name: "SPF", articleCount: 25 },
   { id: "tag-acne", slug: "acne", name: "Acne", articleCount: 8 },
   { id: "tag-anti-aging", slug: "anti-aging", name: "Anti-Aging", articleCount: 6 },
   { id: "tag-curly-hair", slug: "curly-hair", name: "Curly Hair", articleCount: 0 },
   { id: "tag-scalp-care", slug: "scalp-care", name: "Scalp Care", articleCount: 0 },
-  { id: "tag-clean-beauty", slug: "clean-beauty", name: "Clean Beauty", articleCount: 8 },
+  { id: "tag-clean-beauty", slug: "clean-beauty", name: "Clean Beauty", articleCount: 11 },
   { id: "tag-k-beauty", slug: "k-beauty", name: "K-Beauty", articleCount: 2 },
   { id: "tag-beard-care", slug: "beard-care", name: "Beard Care", articleCount: 0 },
   { id: "tag-perfume-layering", slug: "perfume-layering", name: "Perfume Layering", articleCount: 0 },
-  { id: "tag-sleep", slug: "sleep", name: "Sleep", articleCount: 3 },
-  { id: "tag-budget-beauty", slug: "budget-beauty", name: "Budget Beauty", articleCount: 17 },
-  { id: "tag-vitamin-c", slug: "vitamin-c", name: "Vitamin C", articleCount: 4 },
+  { id: "tag-sleep", slug: "sleep", name: "Sleep", articleCount: 4 },
+  { id: "tag-budget-beauty", slug: "budget-beauty", name: "Budget Beauty", articleCount: 22 },
+  { id: "tag-vitamin-c", slug: "vitamin-c", name: "Vitamin C", articleCount: 5 },
   { id: "tag-pigmentation", slug: "pigmentation", name: "Pigmentation", articleCount: 1 },
-  { id: "tag-ayurveda", slug: "ayurveda", name: "Ayurveda", articleCount: 2 },
+  { id: "tag-ayurveda", slug: "ayurveda", name: "Ayurveda", articleCount: 3 },
 ];
