@@ -54,7 +54,6 @@ export interface BlogPost {
   heroImageAlt: string;
   categorySlug: string;
   tagSlugs: string[];
-  authorId: string;
   publishedAt: string;
   updatedAt: string;
   readingTimeMinutes: number;
@@ -72,8 +71,8 @@ export interface BlogPost {
 export interface Comment {
   id: string;
   postId: string;
-  authorName: string;
-  authorAvatar?: string;
+  name: string;
+  avatar?: string;
   text: string;
   createdAt: string;
   replies?: Comment[];

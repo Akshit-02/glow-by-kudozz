@@ -30,7 +30,6 @@ export const metadata: Metadata = {
   },
   description: SITE_CONFIG.description,
   keywords: [...SITE_CONFIG.keywords],
-  authors: [{ name: SITE_CONFIG.author, url: SITE_CONFIG.url }],
   creator: SITE_CONFIG.publisher,
   publisher: SITE_CONFIG.publisher,
   applicationName: SITE_CONFIG.name,

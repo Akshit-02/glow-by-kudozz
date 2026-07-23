@@ -12,8 +12,8 @@ function CommentItem({ comment }: { comment: Comment }) {
   return (
     <div className="flex gap-3">
       <div className="relative h-10 w-10 shrink-0 overflow-hidden rounded-full bg-muted">
-        {comment.authorAvatar ? (
-          <Image src={comment.authorAvatar} alt={comment.authorName} fill sizes="40px" className="object-cover" />
+        {comment.avatar ? (
+          <Image src={comment.avatar} alt={comment.name} fill sizes="40px" className="object-cover" />
         ) : (
           <div className="flex h-full w-full items-center justify-center text-muted-foreground">
             <User className="h-5 w-5" />
@@ -22,7 +22,7 @@ function CommentItem({ comment }: { comment: Comment }) {
       </div>
       <div className="flex-1">
         <div className="flex items-center gap-2">
-          <p className="text-sm font-semibold text-foreground">{comment.authorName}</p>
+          <p className="text-sm font-semibold text-foreground">{comment.name}</p>
           <span className="text-xs text-muted-foreground">{formatDate(comment.createdAt)}</span>
         </div>
         <p className="mt-1 text-sm leading-relaxed text-foreground/85">{comment.text}</p>
@@ -49,7 +49,7 @@ export function CommentsSection({ comments }: { comments: Comment[] }) {
       {
         id: `local-${Date.now()}`,
         postId: comments[0]?.postId ?? "",
-        authorName: "You",
+        name: "You",
         text: draft.trim(),
         createdAt: new Date().toISOString(),
       },

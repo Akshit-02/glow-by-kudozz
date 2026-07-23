@@ -1,15 +1,7 @@
-import { authors, categories, products, tags } from "@/data";
+import { categories, products, tags } from "@/data";
 
 export function getCategoryBySlug(slug: string) {
   return categories.find((c) => c.slug === slug);
-}
-
-export function getAuthorBySlug(slug: string) {
-  return authors.find((a) => a.slug === slug);
-}
-
-export function getAuthorById(id: string) {
-  return authors.find((a) => a.id === id);
 }
 
 export function getProductBySlug(slug: string) {

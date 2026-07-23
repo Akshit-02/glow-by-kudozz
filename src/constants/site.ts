@@ -5,7 +5,6 @@ export const SITE_CONFIG = {
   description:
     "Glow by Kudozz is a premium editorial destination for skincare, haircare, fragrance, grooming, and wellness — expert-vetted guides, honest product reviews, and trend reporting you can trust.",
   url: "https://glow.kudozz.in",
-  author: "Glow by Kudozz Editorial Team",
   publisher: "Kudozz",
   keywords: [
     "beauty",
@@ -31,7 +30,7 @@ export const SITE_CONFIG = {
     youtube: "https://youtube.com/@glowbykudozz",
     facebook: "https://facebook.com/glowbykudozz",
   },
-  contactEmail: "hello@glow.kudozz.in",
+  contactEmail: "connect@kudozz.in",
   links: {
     rss: "/rss.xml",
     sitemap: "/sitemap.xml",
@@ -51,7 +50,6 @@ export const FOOTER_LINKS = {
   company: [
     { label: "About Us", href: "/about" },
     { label: "Contact", href: "/contact" },
-    { label: "Authors", href: "/author" },
     { label: "Categories", href: "/categories" },
   ],
   legal: [

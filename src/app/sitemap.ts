@@ -1,7 +1,6 @@
 import type { MetadataRoute } from "next";
 import { posts } from "@/data/posts";
 import { categories } from "@/data/categories";
-import { authors } from "@/data/authors";
 import { SITE_CONFIG } from "@/constants/site";
 
 export default function sitemap(): MetadataRoute.Sitemap {
@@ -29,11 +28,5 @@ export default function sitemap(): MetadataRoute.Sitemap {
     priority: 0.6,
   }));
 
-  const authorRoutes: MetadataRoute.Sitemap = authors.map((author) => ({
-    url: `${SITE_CONFIG.url}/author/${author.slug}`,
-    changeFrequency: "monthly",
-    priority: 0.4,
-  }));
-
-  return [...staticRoutes, ...postRoutes, ...categoryRoutes, ...authorRoutes];
+  return [...staticRoutes, ...postRoutes, ...categoryRoutes];
 }

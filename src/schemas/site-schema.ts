@@ -52,8 +52,6 @@ export function articleSchema(article: {
   image: string;
   publishedAt: string;
   updatedAt: string;
-  authorName: string;
-  authorUrl: string;
   category: string;
 }) {
   return {
@@ -65,11 +63,6 @@ export function articleSchema(article: {
     image: [article.image],
     datePublished: article.publishedAt,
     dateModified: article.updatedAt,
-    author: {
-      "@type": "Person",
-      name: article.authorName,
-      url: article.authorUrl,
-    },
     publisher: { "@id": `${SITE_CONFIG.url}/#organization` },
     mainEntityOfPage: {
       "@type": "WebPage",
@@ -91,27 +84,5 @@ export function faqSchema(items: { question: string; answer: string }[]) {
         text: item.answer,
       },
     })),
-  };
-}
-
-export function personSchema(author: {
-  name: string;
-  slug: string;
-  bio: string;
-  image: string;
-  jobTitle?: string;
-  sameAs?: string[];
-}) {
-  return {
-    "@context": "https://schema.org",
-    "@type": "Person",
-    "@id": `${SITE_CONFIG.url}/author/${author.slug}/#person`,
-    name: author.name,
-    description: author.bio,
-    image: author.image,
-    url: `${SITE_CONFIG.url}/author/${author.slug}`,
-    jobTitle: author.jobTitle,
-    sameAs: author.sameAs ?? [],
-    worksFor: { "@id": `${SITE_CONFIG.url}/#organization` },
   };
 }

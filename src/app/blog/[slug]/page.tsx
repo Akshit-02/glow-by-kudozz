@@ -97,8 +97,6 @@ export default async function BlogPostPage({ params }: { params: Promise<{ slug:
               image: post.heroImage,
               publishedAt: post.publishedAt,
               updatedAt: post.updatedAt,
-              authorName: SITE_CONFIG.author,
-              authorUrl: SITE_CONFIG.url,
               category: category?.name ?? "",
             })
           ),

@@ -7,7 +7,6 @@ export interface PostFilters {
   q?: string;
   category?: string;
   tag?: string;
-  author?: string;
   sort?: "newest" | "oldest" | "trending" | "popular";
   page?: number;
   pageSize?: number;
@@ -42,7 +41,7 @@ function sortPosts(list: BlogPost[], sort: PostFilters["sort"]) {
 export async function getFilteredPosts(filters: PostFilters = {}): Promise<PaginatedPosts> {
   await new Promise((resolve) => setTimeout(resolve, 350));
 
-  const { q, category, tag, author, sort = "newest", page = 1, pageSize = POSTS_PER_PAGE } = filters;
+  const { q, category, tag, sort = "newest", page = 1, pageSize = POSTS_PER_PAGE } = filters;
 
   let filtered = posts;
 
@@ -51,9 +50,6 @@ export async function getFilteredPosts(filters: PostFilters = {}): Promise<Pagin
   }
   if (tag) {
     filtered = filtered.filter((p) => p.tagSlugs.includes(tag));
-  }
-  if (author) {
-    filtered = filtered.filter((p) => p.authorId === author);
   }
   if (q) {
     const query = q.toLowerCase();
