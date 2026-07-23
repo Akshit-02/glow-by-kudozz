@@ -28,16 +28,16 @@ export default function HomePage() {
   return (
     <>
       <Hero />
-      <FeaturedArticle />
+      {/* <FeaturedArticle /> */}
       <TrendingArticles />
       <LatestArticles />
       <CategoriesSection />
       <EditorsPicks />
-      <MostPopular />
+      {/* <MostPopular /> */}
       <FeaturedProducts />
       <NewsletterCta />
-      <InstagramGallery />
-      <TestimonialsSection />
+      {/* <InstagramGallery /> */}
+      {/* <TestimonialsSection /> */}
       <FaqSection />
     </>
   );
