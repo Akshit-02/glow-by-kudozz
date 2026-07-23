@@ -12,8 +12,8 @@ export function Logo({ className }: { className?: string }) {
       )}
       aria-label="Glow by Kudozz — Home"
     >
-      <span className="flex h-9 w-9 shrink-0 items-center justify-center transition-transform duration-300 group-hover:scale-105">
-        <LogoMark size={36} className="h-9 w-9 shadow-soft rounded-full" />
+      <span className="flex h-10 w-10 shrink-0 items-center justify-center transition-transform duration-300 group-hover:scale-105 group-hover:-rotate-3">
+        <LogoMark size={40} className="h-10 w-10 shadow-soft" />
       </span>
       <span className="flex flex-col leading-none">
         <span className="font-display text-xl font-semibold tracking-tight text-foreground">
