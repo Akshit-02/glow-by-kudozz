@@ -7,6 +7,7 @@ import { ComparisonTable } from "@/components/blog/blocks/comparison-table";
 import { FaqAccordion } from "@/components/shared/faq-accordion";
 import { ProductCard } from "@/components/product/product-card";
 import { getProductsBySlugs } from "@/lib/content";
+import { products as allProducts } from "@/data";
 
 export function ContentRenderer({ blocks }: { blocks: ContentBlock[] }) {
   return (
@@ -93,9 +94,11 @@ export function ContentRenderer({ blocks }: { blocks: ContentBlock[] }) {
             return null;
 
           case "productGrid": {
-            const products = getProductsBySlugs(block.productSlugs);
+            const selected = getProductsBySlugs(block.productSlugs);
+            const fillers = allProducts.filter((p) => !selected.some((s) => s.id === p.id));
+            const products = [...selected, ...fillers].slice(0, 6);
             return (
-              <div key={index} className="not-prose grid grid-cols-1 gap-5 sm:grid-cols-3">
+              <div key={index} className="not-prose grid grid-cols-2 gap-5 sm:grid-cols-3">
                 {products.map((product) => (
                   <ProductCard key={product.id} product={product} />
                 ))}
