@@ -11874,7 +11874,7 @@ export const posts: BlogPost[] = [
         "Lower concentrations can feel 'fresher' or more transparent, since lighter top and middle notes have less competition from a dense concentrate",
         "The same fragrance formula released at two concentrations can genuinely smell like two related, but distinct, scents",
       ] },
-      { type: "heading", level: 2, text: "Higher Concentration Isn't Automatically Better", text: "" },
+      { type: "heading", level: 2, text: "Higher Concentration Isn't Automatically Better", id: "not-automatically-better" },
       { type: "paragraph", text: "A higher concentration can feel overwhelming in hot, humid conditions or enclosed spaces like offices, while a lower concentration might not last through a long event without reapplication. The right concentration depends entirely on your specific climate, occasion, and how often you're willing to reapply — not on which one is objectively \"stronger\" or more premium." },
       { type: "prosCons", pros: [
         "Understanding concentration as the driver of strength, longevity, and price",
@@ -12944,7 +12944,7 @@ export const posts: BlogPost[] = [
         "Use your family knowledge to describe what you're looking for when asking for recommendations",
       ] },
       { type: "callout", variant: "tip", title: "Your Family Can Include Cross-Family Blends", text: "Many modern fragrances deliberately blend two families (like a woody floral or a fresh oriental) — if you're drawn to these, it's worth noting which combination specifically appeals to you." },
-      { type: "heading", level: 2, text: "Your Family Isn't a Permanent Rule", text: "" },
+      { type: "heading", level: 2, text: "Your Family Isn't a Permanent Rule", id: "not-a-permanent-rule" },
       { type: "paragraph", text: "Identifying your dominant fragrance family is a starting filter for efficient shopping, not a permanent restriction. Preferences can shift with seasons, life stages, or simply a desire to try something different — treat your identified family as your reliable default, not your only option." },
       { type: "prosCons", pros: [
         "Reviewing fragrances you've genuinely enjoyed to identify your dominant family pattern",
