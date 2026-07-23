@@ -1,24 +1,3 @@
-Complete Fragrance Guide for Beginners
-How to Choose the Right Perfume
-How to Find Your Signature Scent
-How to Understand Fragrance Notes
-Top, Middle & Base Notes Explained
-Eau de Parfum vs Eau de Toilette vs Parfum
-Perfume vs Cologne vs Eau de Toilette
-What Is Fragrance Concentration?
-How Long Does Perfume Last?
-How to Make Your Perfume Last Longer
-How to Apply Perfume Correctly
-Where to Apply Perfume
-How to Store Perfume Properly
-How to Layer Perfumes
-What Is Perfume Sillage?
-What Is Perfume Projection?
-What Is Perfume Longevity?
-How to Test a Perfume Before Buying
-How to Read a Perfume Pyramid
-How to Identify Your Fragrance Family
-
 Floral Fragrances Explained
 Woody Fragrances Explained
 Fresh Fragrances Explained
