@@ -11,7 +11,7 @@ export const categories: Category[] = [
     image: "https://images.unsplash.com/photo-1620916566398-39f1143ab7be?w=1200&q=80",
     icon: "Droplets",
     color: "rose-gold",
-    articleCount: 32,
+    articleCount: 52,
     featured: true,
   },
   {
