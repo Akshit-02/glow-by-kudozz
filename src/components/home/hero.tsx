@@ -29,14 +29,21 @@ export function Hero() {
             Beauty · Grooming · Wellness
           </span>
           <h1 className="text-balance font-display text-4xl font-semibold leading-[1.1] text-charcoal dark:text-foreground sm:text-5xl lg:text-6xl">
-            Beauty advice worth <span className="text-gradient-rose">trusting</span>, not just trending
+            Beauty advice worth{" "}
+            <span className="text-gradient-rose">trusting</span>, not just
+            trending
           </h1>
           <p className="max-w-lg text-lg leading-relaxed text-charcoal/70 dark:text-muted-foreground">
-            Expert-vetted skincare, haircare, grooming, and fragrance guidance — researched, tested,
-            and written by people who actually know the science behind the glow.
+            Expert-vetted skincare, haircare, grooming, and fragrance guidance —
+            researched, tested, and written by people who actually know the
+            science behind the glow.
           </p>
           <div className="flex flex-col gap-3 sm:flex-row">
-            <Button asChild size="lg" className="h-14 rounded-full px-8 text-base font-semibold shadow-glow">
+            <Button
+              asChild
+              size="lg"
+              className="h-14 rounded-full px-8 text-base font-semibold shadow-glow"
+            >
               <Link href="/blog">
                 Explore Articles <ArrowRight className="ml-1 h-4 w-4" />
               </Link>
@@ -60,7 +67,9 @@ export function Hero() {
                   <span className="font-display text-base font-semibold text-charcoal dark:text-foreground">
                     {value}
                   </span>
-                  <span className="text-xs text-charcoal/60 dark:text-muted-foreground">{label}</span>
+                  <span className="text-xs text-charcoal/60 dark:text-muted-foreground">
+                    {label}
+                  </span>
                 </div>
               </div>
             ))}
@@ -75,7 +84,7 @@ export function Hero() {
         >
           <div className="relative aspect-[4/5] w-full overflow-hidden rounded-[2.5rem] shadow-elevated">
             <Image
-              src="https://images.unsplash.com/photo-1596462502278-27bfdc403348?w=1200&q=80"
+              src="/hero.jpeg"
               alt="Editorial beauty portrait with soft, dewy skin finish"
               fill
               priority
@@ -89,13 +98,22 @@ export function Hero() {
             transition={{ duration: 6, repeat: Infinity, ease: "easeInOut" }}
             className="glass absolute -left-6 top-10 hidden w-48 rounded-2xl p-4 shadow-elevated sm:block"
           >
-            <p className="font-display text-2xl font-semibold text-foreground">98%</p>
-            <p className="text-xs text-muted-foreground">of readers say our routines actually work</p>
+            <p className="font-display text-2xl font-semibold text-foreground">
+              98%
+            </p>
+            <p className="text-xs text-muted-foreground">
+              of readers say our routines actually work
+            </p>
           </motion.div>
 
           <motion.div
             animate={{ y: [0, 10, 0] }}
-            transition={{ duration: 7, repeat: Infinity, ease: "easeInOut", delay: 1 }}
+            transition={{
+              duration: 7,
+              repeat: Infinity,
+              ease: "easeInOut",
+              delay: 1,
+            }}
             className="glass absolute -bottom-6 right-2 hidden w-52 rounded-2xl p-4 shadow-elevated sm:block"
           >
             <div className="flex items-center gap-1 text-primary">
@@ -103,7 +121,9 @@ export function Hero() {
                 <Star key={i} className="h-3.5 w-3.5 fill-primary" />
               ))}
             </div>
-            <p className="mt-1 text-xs text-muted-foreground">Rated 4.8/5 by 12,000+ readers</p>
+            <p className="mt-1 text-xs text-muted-foreground">
+              Rated 4.8/5 by 12,000+ readers
+            </p>
           </motion.div>
         </motion.div>
       </div>
