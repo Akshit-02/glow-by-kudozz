@@ -40,7 +40,7 @@ const STATS = [
     value: `${posts.length}+`,
     label: "Expert Guides Published",
   },
-  { Icon: Users, value: "7K+", label: "Monthly Readers" },
+  { Icon: Users, value: "20K+", label: "Monthly Readers" },
   { Icon: Star, value: "4.8/5", label: "Average Reader Rating" },
   { Icon: Globe2, value: `${categories.length}`, label: "Categories Covered" },
 ];

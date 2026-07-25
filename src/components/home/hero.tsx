@@ -8,7 +8,7 @@ import { Button } from "@/components/ui/button";
 
 const STATS = [
   { icon: BookOpen, label: "Expert Guides", value: "500+" },
-  { icon: Users, label: "Monthly Readers", value: "7K+" },
+  { icon: Users, label: "Monthly Readers", value: "20K+" },
   { icon: Star, label: "Avg. Rating", value: "4.8" },
 ];
 
