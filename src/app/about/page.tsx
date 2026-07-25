@@ -35,8 +35,12 @@ export const metadata: Metadata = {
 };
 
 const STATS = [
-  { Icon: BookOpen, value: `${posts.length}+`, label: "Expert Guides Published" },
-  { Icon: Users, value: "2.4M", label: "Monthly Readers" },
+  {
+    Icon: BookOpen,
+    value: `${posts.length}+`,
+    label: "Expert Guides Published",
+  },
+  { Icon: Users, value: "7K+", label: "Monthly Readers" },
   { Icon: Star, value: "4.8/5", label: "Average Reader Rating" },
   { Icon: Globe2, value: `${categories.length}`, label: "Categories Covered" },
 ];
@@ -108,9 +112,9 @@ export default function AboutPage() {
             {SITE_CONFIG.name} started with a simple frustration: most beauty
             content online is written to chase trends, not to actually help
             readers make better decisions. We set out to build something
-            different — an editorial process built around licensed
-            estheticians, grooming specialists, and clinical review,
-            publishing guidance that holds up to scrutiny.
+            different — an editorial process built around licensed estheticians,
+            grooming specialists, and clinical review, publishing guidance that
+            holds up to scrutiny.
           </p>
           <p className="text-base leading-relaxed text-muted-foreground">
             Today, over 2.4 million readers a month trust Glow for routines that
@@ -118,12 +122,21 @@ export default function AboutPage() {
             separates what&apos;s genuinely useful from what&apos;s just noise.
           </p>
           <div className="flex flex-col gap-3 pt-2 sm:flex-row">
-            <Button asChild size="lg" className="h-12 w-fit rounded-full px-7 font-semibold">
+            <Button
+              asChild
+              size="lg"
+              className="h-12 w-fit rounded-full px-7 font-semibold"
+            >
               <Link href="/blog">
                 Explore Our Guides <ArrowRight className="ml-1 h-4 w-4" />
               </Link>
             </Button>
-            <Button asChild size="lg" variant="outline" className="h-12 w-fit rounded-full px-7 font-semibold">
+            <Button
+              asChild
+              size="lg"
+              variant="outline"
+              className="h-12 w-fit rounded-full px-7 font-semibold"
+            >
               <Link href="/contact">Get in Touch</Link>
             </Button>
           </div>
@@ -144,30 +157,49 @@ export default function AboutPage() {
 
       <Reveal className="mt-16 grid grid-cols-2 gap-4 rounded-[2rem] border border-border bg-card p-6 sm:grid-cols-4 sm:p-8">
         {STATS.map(({ Icon, value, label }) => (
-          <div key={label} className="flex flex-col items-center gap-2 text-center sm:items-start sm:text-left">
+          <div
+            key={label}
+            className="flex flex-col items-center gap-2 text-center sm:items-start sm:text-left"
+          >
             <span className="flex h-11 w-11 items-center justify-center rounded-full bg-secondary text-primary">
               <Icon className="h-5 w-5" />
             </span>
-            <p className="font-display text-2xl font-semibold text-foreground sm:text-3xl">{value}</p>
+            <p className="font-display text-2xl font-semibold text-foreground sm:text-3xl">
+              {value}
+            </p>
             <p className="text-xs text-muted-foreground sm:text-sm">{label}</p>
           </div>
         ))}
       </Reveal>
 
       <div className="mt-20">
-        <SectionHeading eyebrow="Our Journey" title="From frustration to a trusted destination" align="center" />
+        <SectionHeading
+          eyebrow="Our Journey"
+          title="From frustration to a trusted destination"
+          align="center"
+        />
         <div className="relative mx-auto mt-12 max-w-2xl">
           <div className="absolute left-5 top-2 bottom-2 w-px bg-border" />
           <div className="flex flex-col gap-10">
             {JOURNEY.map(({ Icon, year, title, text }, index) => (
-              <Reveal key={year} delay={index * 0.05} className="relative flex gap-6">
+              <Reveal
+                key={year}
+                delay={index * 0.05}
+                className="relative flex gap-6"
+              >
                 <div className="relative z-10 flex h-11 w-11 shrink-0 items-center justify-center rounded-full border-4 border-background bg-primary text-primary-foreground shadow-soft">
                   <Icon className="h-4 w-4" />
                 </div>
                 <div className="flex-1 rounded-3xl border border-border bg-card p-5 sm:p-6">
-                  <span className="text-xs font-semibold uppercase tracking-wider text-primary">{year}</span>
-                  <h3 className="mt-1.5 font-display text-lg font-semibold text-foreground">{title}</h3>
-                  <p className="mt-2 text-sm leading-relaxed text-muted-foreground">{text}</p>
+                  <span className="text-xs font-semibold uppercase tracking-wider text-primary">
+                    {year}
+                  </span>
+                  <h3 className="mt-1.5 font-display text-lg font-semibold text-foreground">
+                    {title}
+                  </h3>
+                  <p className="mt-2 text-sm leading-relaxed text-muted-foreground">
+                    {text}
+                  </p>
                 </div>
               </Reveal>
             ))}
@@ -176,22 +208,37 @@ export default function AboutPage() {
       </div>
 
       <div className="mt-20">
-        <SectionHeading eyebrow="What We Stand For" title="The principles behind every guide" align="center" />
+        <SectionHeading
+          eyebrow="What We Stand For"
+          title="The principles behind every guide"
+          align="center"
+        />
         <div className="mt-10 grid grid-cols-1 gap-5 sm:grid-cols-2 lg:grid-cols-4">
           {VALUES.map(({ Icon, title, text }) => (
-            <Reveal key={title} className="flex flex-col gap-3 rounded-3xl border border-border bg-card p-6">
+            <Reveal
+              key={title}
+              className="flex flex-col gap-3 rounded-3xl border border-border bg-card p-6"
+            >
               <span className="flex h-11 w-11 items-center justify-center rounded-full bg-secondary text-primary">
                 <Icon className="h-5 w-5" />
               </span>
-              <h3 className="font-display text-base font-semibold text-foreground">{title}</h3>
-              <p className="text-sm leading-relaxed text-muted-foreground">{text}</p>
+              <h3 className="font-display text-base font-semibold text-foreground">
+                {title}
+              </h3>
+              <p className="text-sm leading-relaxed text-muted-foreground">
+                {text}
+              </p>
             </Reveal>
           ))}
         </div>
       </div>
 
       <div className="mt-20">
-        <SectionHeading eyebrow="Explore" title="What we cover" align="center" />
+        <SectionHeading
+          eyebrow="Explore"
+          title="What we cover"
+          align="center"
+        />
         <div className="mt-10 grid grid-cols-2 gap-4 sm:grid-cols-3 lg:grid-cols-6">
           {categories.map((category) => (
             <Link
@@ -202,7 +249,9 @@ export default function AboutPage() {
               <span className="flex h-10 w-10 items-center justify-center rounded-full bg-secondary text-primary transition-transform group-hover:scale-110">
                 <Sparkles className="h-4 w-4" />
               </span>
-              <span className="text-sm font-medium text-foreground">{category.name}</span>
+              <span className="text-sm font-medium text-foreground">
+                {category.name}
+              </span>
             </Link>
           ))}
         </div>
@@ -213,7 +262,8 @@ export default function AboutPage() {
           Stay in the Glow
         </span>
         <h2 className="max-w-xl text-balance font-display text-2xl font-semibold text-charcoal dark:text-foreground sm:text-3xl">
-          Weekly, editor-vetted routines and trend reports — straight to your inbox
+          Weekly, editor-vetted routines and trend reports — straight to your
+          inbox
         </h2>
         <NewsletterForm className="mt-2 w-full max-w-md" />
       </Reveal>
