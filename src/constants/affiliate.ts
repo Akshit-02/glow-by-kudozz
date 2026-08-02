@@ -1,4 +1,4 @@
-export const AMAZON_AFFILIATE_TAG = "mytech0d6-21";
+export const AMAZON_AFFILIATE_TAG = "mytech0575-21";
 
 export function buildAmazonAffiliateUrl(asinOrUrl: string): string {
   const base = /^[A-Z0-9]{10}$/.test(asinOrUrl)
