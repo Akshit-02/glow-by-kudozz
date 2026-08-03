@@ -2,6 +2,7 @@ import Link from "next/link";
 import { ArrowRight } from "lucide-react";
 import { products } from "@/data/products";
 import { ProductCard } from "@/components/product/product-card";
+import { AffiliateDisclosure } from "@/components/product/affiliate-disclosure";
 import { SectionHeading } from "@/components/shared/section-heading";
 import { Reveal } from "@/components/shared/reveal";
 
@@ -29,6 +30,7 @@ export function FeaturedProducts() {
             <ProductCard key={product.id} product={product} />
           ))}
         </div>
+        <AffiliateDisclosure />
       </Reveal>
     </section>
   );

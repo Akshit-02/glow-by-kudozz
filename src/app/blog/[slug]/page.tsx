@@ -16,6 +16,7 @@ import { KeyTakeaways } from "@/components/blog/key-takeaways";
 import { ContentRenderer } from "@/components/blog/content-renderer";
 import { BlogCard } from "@/components/blog/blog-card";
 import { ProductCard } from "@/components/product/product-card";
+import { AffiliateDisclosure } from "@/components/product/affiliate-disclosure";
 import {
   RelatedArticlesWidget,
   TrendingWidget,
@@ -201,6 +202,7 @@ export default async function BlogPostPage({ params }: { params: Promise<{ slug:
                     <ProductCard key={product.id} product={product} />
                   ))}
                 </div>
+                <AffiliateDisclosure />
               </div>
             )}
 

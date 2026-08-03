@@ -4,6 +4,7 @@ import { posts } from "@/data/posts";
 import { products } from "@/data/products";
 import { BlogCard } from "@/components/blog/blog-card";
 import { ProductCard } from "@/components/product/product-card";
+import { AffiliateDisclosure } from "@/components/product/affiliate-disclosure";
 import { NewsletterForm } from "@/components/shared/newsletter-form";
 
 export function RelatedArticlesWidget({ posts: related }: { posts: BlogPost[] }) {
@@ -61,6 +62,7 @@ export function PopularProductsWidget() {
           <ProductCard key={product.id} product={product} />
         ))}
       </div>
+      <AffiliateDisclosure className="text-[0.65rem]" />
     </div>
   );
 }

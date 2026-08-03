@@ -6,6 +6,7 @@ import { ProsCons } from "@/components/blog/blocks/pros-cons";
 import { ComparisonTable } from "@/components/blog/blocks/comparison-table";
 import { FaqAccordion } from "@/components/shared/faq-accordion";
 import { ProductCard } from "@/components/product/product-card";
+import { AffiliateDisclosure } from "@/components/product/affiliate-disclosure";
 import { getProductsBySlugs } from "@/lib/content";
 import { products as allProducts } from "@/data";
 
@@ -98,10 +99,13 @@ export function ContentRenderer({ blocks }: { blocks: ContentBlock[] }) {
             const fillers = allProducts.filter((p) => !selected.some((s) => s.id === p.id));
             const products = [...selected, ...fillers].slice(0, 6);
             return (
-              <div key={index} className="not-prose grid grid-cols-2 gap-5 sm:grid-cols-3">
-                {products.map((product) => (
-                  <ProductCard key={product.id} product={product} />
-                ))}
+              <div key={index} className="not-prose flex flex-col gap-4">
+                <div className="grid grid-cols-2 gap-5 sm:grid-cols-3">
+                  {products.map((product) => (
+                    <ProductCard key={product.id} product={product} />
+                  ))}
+                </div>
+                <AffiliateDisclosure />
               </div>
             );
           }
