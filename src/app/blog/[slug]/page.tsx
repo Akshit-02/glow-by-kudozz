@@ -1,12 +1,13 @@
 import type { Metadata } from "next";
 import Image from "next/image";
-import Script from "next/script";
 import { notFound } from "next/navigation";
 import { ChevronDown, BookText } from "lucide-react";
 import { posts, getPostBySlug, getRelatedPosts } from "@/data/posts";
 import { getCategoryBySlug, getProductsBySlugs, formatDate } from "@/lib/content";
 import { SITE_CONFIG } from "@/constants/site";
-import { articleSchema, faqSchema } from "@/schemas/site-schema";
+import { articleSchema, howToSchema } from "@/schemas/article-schema";
+import { faqSchema } from "@/schemas/faq-schema";
+import { JsonLd } from "@/schemas/json-ld";
 import { Breadcrumbs } from "@/components/shared/breadcrumbs";
 import { FaqAccordion } from "@/components/shared/faq-accordion";
 import { ReadingProgress } from "@/components/blog/reading-progress";
@@ -86,30 +87,14 @@ export default async function BlogPostPage({ params }: { params: Promise<{ slug:
   return (
     <>
       <ReadingProgress targetId="article-content" />
-      <Script
+      <JsonLd
         id="article-schema"
-        type="application/ld+json"
-        dangerouslySetInnerHTML={{
-          __html: JSON.stringify(
-            articleSchema({
-              title: post.title,
-              description: post.excerpt,
-              slug: post.slug,
-              image: post.heroImage,
-              publishedAt: post.publishedAt,
-              updatedAt: post.updatedAt,
-              category: category?.name ?? "",
-            })
-          ),
-        }}
+        data={[
+          articleSchema(post, category?.name ?? ""),
+          post.faqs.length > 0 && faqSchema(post.faqs),
+          howToSchema(post),
+        ]}
       />
-      {post.faqs.length > 0 && (
-        <Script
-          id="post-faq-schema"
-          type="application/ld+json"
-          dangerouslySetInnerHTML={{ __html: JSON.stringify(faqSchema(post.faqs)) }}
-        />
-      )}
 
       <div className="mx-auto max-w-[1440px] px-4 py-8 sm:px-6 lg:px-8">
         <Breadcrumbs

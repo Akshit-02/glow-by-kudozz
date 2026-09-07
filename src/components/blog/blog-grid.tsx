@@ -2,13 +2,26 @@ import { SearchX } from "lucide-react";
 import { BlogCard } from "@/components/blog/blog-card";
 import { Pagination } from "@/components/shared/pagination";
 import { getFilteredPosts, type PostFilters } from "@/lib/get-posts";
+import { collectionPageSchema, postsToListItems } from "@/schemas/collection-schema";
+import { JsonLd } from "@/schemas/json-ld";
+
+interface CollectionMeta {
+  name: string;
+  description: string;
+  url: string;
+}
 
 export async function BlogGrid({
   filters,
   basePath = "/blog",
+  collection,
 }: {
   filters: PostFilters;
   basePath?: string;
+  /** Pass only for the canonical, unfiltered view of a listing page — the
+   * resulting ItemList always mirrors exactly the posts rendered below, so
+   * it must never be attached to a search/filtered result set. */
+  collection?: CollectionMeta;
 }) {
   const { posts, total, page, totalPages } = await getFilteredPosts(filters);
 
@@ -26,6 +39,12 @@ export async function BlogGrid({
 
   return (
     <div className="flex flex-col gap-8">
+      {collection && (
+        <JsonLd
+          id="collection-schema"
+          data={collectionPageSchema({ ...collection, items: postsToListItems(posts) })}
+        />
+      )}
       <p className="text-sm text-muted-foreground">
         Showing {posts.length} of {total} article{total === 1 ? "" : "s"}
       </p>

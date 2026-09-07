@@ -1,4 +1,7 @@
 import { Breadcrumbs } from "@/components/shared/breadcrumbs";
+import { webPageSchema } from "@/schemas/webpage-schema";
+import { JsonLd } from "@/schemas/json-ld";
+import { SITE_CONFIG } from "@/constants/site";
 
 export interface LegalSection {
   heading: string;
@@ -20,6 +23,10 @@ export function LegalPage({
 }) {
   return (
     <div className="mx-auto max-w-3xl px-4 py-10 sm:px-6 lg:px-8">
+      <JsonLd
+        id="legal-page-schema"
+        data={webPageSchema({ name: title, description: intro, url: `${SITE_CONFIG.url}${path}` })}
+      />
       <Breadcrumbs items={[{ name: title, href: path }]} />
       <div className="mt-6 flex flex-col gap-3">
         <h1 className="font-display text-4xl font-semibold text-foreground">{title}</h1>

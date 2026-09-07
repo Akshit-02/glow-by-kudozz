@@ -1,11 +1,11 @@
-import Script from "next/script";
 import {
   Accordion,
   AccordionContent,
   AccordionItem,
   AccordionTrigger,
 } from "@/components/ui/accordion";
-import { faqSchema } from "@/schemas/site-schema";
+import { faqSchema } from "@/schemas/faq-schema";
+import { JsonLd } from "@/schemas/json-ld";
 
 export function FaqAccordion({
   items,
@@ -16,13 +16,7 @@ export function FaqAccordion({
 }) {
   return (
     <>
-      {withSchema && (
-        <Script
-          id="faq-schema"
-          type="application/ld+json"
-          dangerouslySetInnerHTML={{ __html: JSON.stringify(faqSchema(items)) }}
-        />
-      )}
+      {withSchema && <JsonLd id="faq-schema" data={faqSchema(items)} />}
       <Accordion type="single" collapsible className="w-full">
         {items.map((item, index) => (
           <AccordionItem

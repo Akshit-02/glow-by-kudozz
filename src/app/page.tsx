@@ -12,6 +12,8 @@ import { InstagramGallery } from "@/components/home/instagram-gallery";
 import { TestimonialsSection } from "@/components/home/testimonials-section";
 import { FaqSection } from "@/components/home/faq-section";
 import { SITE_CONFIG } from "@/constants/site";
+import { webPageSchema } from "@/schemas/webpage-schema";
+import { JsonLd } from "@/schemas/json-ld";
 
 export const metadata: Metadata = {
   title: `${SITE_CONFIG.name} — ${SITE_CONFIG.tagline}`,
@@ -27,6 +29,14 @@ export const metadata: Metadata = {
 export default function HomePage() {
   return (
     <>
+      <JsonLd
+        id="homepage-schema"
+        data={webPageSchema({
+          name: `${SITE_CONFIG.name} — ${SITE_CONFIG.tagline}`,
+          description: SITE_CONFIG.description,
+          url: SITE_CONFIG.url,
+        })}
+      />
       <Hero />
       {/* <FeaturedArticle /> */}
       <TrendingArticles />

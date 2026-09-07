@@ -3,14 +3,19 @@ import { Breadcrumbs } from "@/components/shared/breadcrumbs";
 import { CategoryCard } from "@/components/shared/category-card";
 import { categories } from "@/data/categories";
 import { SITE_CONFIG } from "@/constants/site";
+import { collectionPageSchema, categoriesToListItems } from "@/schemas/collection-schema";
+import { JsonLd } from "@/schemas/json-ld";
+
+const description =
+  "Explore every Glow by Kudozz category — skincare, haircare, makeup, grooming, fragrance, and wellness.";
 
 export const metadata: Metadata = {
   title: "Categories",
-  description:
-    "Explore every Glow by Kudozz category — skincare, haircare, makeup, grooming, fragrance, and wellness.",
+  description,
   alternates: { canonical: "/categories" },
   openGraph: {
     title: `Categories | ${SITE_CONFIG.name}`,
+    description,
     url: `${SITE_CONFIG.url}/categories`,
   },
 };
@@ -18,6 +23,15 @@ export const metadata: Metadata = {
 export default function CategoriesPage() {
   return (
     <div className="mx-auto max-w-[1440px] px-4 py-10 sm:px-6 lg:px-8">
+      <JsonLd
+        id="categories-page-schema"
+        data={collectionPageSchema({
+          name: "Categories",
+          description,
+          url: `${SITE_CONFIG.url}/categories`,
+          items: categoriesToListItems(categories),
+        })}
+      />
       <Breadcrumbs items={[{ name: "Categories", href: "/categories" }]} />
       <div className="mt-6 flex flex-col gap-3">
         <h1 className="font-display text-4xl font-semibold text-foreground sm:text-5xl">Categories</h1>

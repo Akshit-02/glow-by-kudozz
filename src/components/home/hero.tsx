@@ -35,9 +35,9 @@ export function Hero() {
             trending
           </h1>
           <p className="max-w-lg text-lg leading-relaxed text-charcoal/70 dark:text-muted-foreground">
-            Expert-vetted skincare, haircare, grooming, and fragrance guidance —
-            researched, tested, and written by people who actually know the
-            science behind the glow.
+            Research-backed skincare, haircare, grooming, and fragrance
+            guidance — every guide sourced and updated, with the science
+            behind the glow.
           </p>
           <div className="flex flex-col gap-3 sm:flex-row">
             <Button

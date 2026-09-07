@@ -9,14 +9,16 @@ import { posts } from "@/data/posts";
 import { SITE_CONFIG } from "@/constants/site";
 import type { PostFilters } from "@/lib/get-posts";
 
+const description =
+  "Browse every Glow by Kudozz guide across skincare, haircare, makeup, grooming, fragrance, and wellness.";
+
 export const metadata: Metadata = {
   title: "All Articles",
-  description:
-    "Browse every Glow by Kudozz guide across skincare, haircare, makeup, grooming, fragrance, and wellness.",
+  description,
   alternates: { canonical: "/blog" },
   openGraph: {
     title: `All Articles | ${SITE_CONFIG.name}`,
-    description: "Browse every Glow by Kudozz guide across skincare, haircare, makeup, grooming, fragrance, and wellness.",
+    description,
     url: `${SITE_CONFIG.url}/blog`,
   },
 };
@@ -45,7 +47,7 @@ export default async function BlogPage({ searchParams }: BlogPageProps) {
       <div className="mt-6 flex flex-col gap-3">
         <h1 className="font-display text-4xl font-semibold text-foreground sm:text-5xl">All Articles</h1>
         <p className="max-w-2xl text-base leading-relaxed text-muted-foreground">
-          Expert-vetted guides across skincare, haircare, makeup, grooming, fragrance, and wellness —
+          Research-backed guides across skincare, haircare, makeup, grooming, fragrance, and wellness —
           filter by category or search to find exactly what you need.
         </p>
       </div>
@@ -62,7 +64,14 @@ export default async function BlogPage({ searchParams }: BlogPageProps) {
 
       <div className="mt-8">
         <Suspense key={JSON.stringify(filters)} fallback={<BlogGridSkeleton />}>
-          <BlogGrid filters={filters} />
+          <BlogGrid
+            filters={filters}
+            collection={
+              !hasFilters
+                ? { name: "All Articles", description, url: `${SITE_CONFIG.url}/blog` }
+                : undefined
+            }
+          />
         </Suspense>
       </div>
     </div>

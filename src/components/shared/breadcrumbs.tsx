@@ -1,7 +1,7 @@
 import Link from "next/link";
 import { ChevronRight, Home } from "lucide-react";
-import Script from "next/script";
 import { breadcrumbSchema } from "@/schemas/site-schema";
+import { JsonLd } from "@/schemas/json-ld";
 
 export interface BreadcrumbItem {
   name: string;
@@ -13,11 +13,7 @@ export function Breadcrumbs({ items }: { items: BreadcrumbItem[] }) {
 
   return (
     <>
-      <Script
-        id="breadcrumb-schema"
-        type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema(schemaItems)) }}
-      />
+      <JsonLd id="breadcrumb-schema" data={breadcrumbSchema(schemaItems)} />
       <nav aria-label="Breadcrumb" className="flex items-center gap-1.5 text-sm text-muted-foreground">
         <Link href="/" aria-label="Home" className="flex items-center hover:text-foreground">
           <Home className="h-3.5 w-3.5" />

@@ -9,6 +9,7 @@ import { BackToTop } from "@/components/layout/back-to-top";
 import { CookieBanner } from "@/components/layout/cookie-banner";
 import { SITE_CONFIG } from "@/constants/site";
 import { organizationSchema, websiteSchema } from "@/schemas/site-schema";
+import { JsonLd } from "@/schemas/json-ld";
 
 const playfair = Playfair_Display({
   variable: "--font-playfair",
@@ -108,18 +109,7 @@ export default function RootLayout({
             gtag('config', 'G-0NW6BJTNY3');
           `}
         </Script>
-        <Script
-          id="organization-schema"
-          type="application/ld+json"
-          dangerouslySetInnerHTML={{
-            __html: JSON.stringify(organizationSchema),
-          }}
-        />
-        <Script
-          id="website-schema"
-          type="application/ld+json"
-          dangerouslySetInnerHTML={{ __html: JSON.stringify(websiteSchema) }}
-        />
+        <JsonLd id="site-schema" data={[organizationSchema, websiteSchema]} />
         <AppProviders>
           <a
             href="#main-content"

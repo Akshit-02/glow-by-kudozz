@@ -25,7 +25,7 @@ export default function TermsPage() {
         {
           heading: "2. Not Medical Advice",
           paragraphs: [
-            "Content on this site, including articles reviewed by a licensed dermatologist, is provided for informational purposes only and does not constitute medical advice. Always consult a qualified healthcare provider before starting a new skincare, haircare, or wellness regimen.",
+            "Content on this site is researched against published dermatology and cosmetic-science sources and is provided for informational purposes only — it does not constitute medical advice. Always consult a qualified healthcare provider before starting a new skincare, haircare, or wellness regimen.",
           ],
         },
         {

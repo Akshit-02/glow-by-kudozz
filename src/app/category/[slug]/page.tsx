@@ -66,6 +66,11 @@ export default async function CategoryPage({
     page: sp.page ? Number(sp.page) : 1,
   };
 
+  // Only the canonical, unfiltered view of this page should claim a
+  // CollectionPage/ItemList — a search or sort variant is a different,
+  // non-canonical view of the same URL.
+  const isDefaultView = !sp.q && !sp.sort && (!sp.page || sp.page === "1");
+
   return (
     <div className="mx-auto max-w-[1440px] px-4 py-10 sm:px-6 lg:px-8">
       <Breadcrumbs items={[{ name: "Categories", href: "/categories" }, { name: category.name, href: `/category/${category.slug}` }]} />
@@ -106,7 +111,19 @@ export default async function CategoryPage({
 
           <div className="mt-8">
             <Suspense key={JSON.stringify(filters)} fallback={<BlogGridSkeleton />}>
-              <BlogGrid filters={filters} basePath={`/category/${category.slug}`} />
+              <BlogGrid
+                filters={filters}
+                basePath={`/category/${category.slug}`}
+                collection={
+                  isDefaultView
+                    ? {
+                        name: category.name,
+                        description: category.description,
+                        url: `${SITE_CONFIG.url}/category/${category.slug}`,
+                      }
+                    : undefined
+                }
+              />
             </Suspense>
           </div>
         </>

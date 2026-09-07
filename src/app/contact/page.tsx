@@ -4,13 +4,18 @@ import { Breadcrumbs } from "@/components/shared/breadcrumbs";
 import { ContactForm } from "@/components/shared/contact-form";
 import { InstagramIcon, TwitterIcon, YoutubeIcon, FacebookIcon, PinterestIcon } from "@/components/shared/social-icons";
 import { SITE_CONFIG } from "@/constants/site";
+import { webPageSchema } from "@/schemas/webpage-schema";
+import { JsonLd } from "@/schemas/json-ld";
+
+const description = `Get in touch with the ${SITE_CONFIG.name} editorial team — pitches, partnerships, corrections, and reader questions.`;
 
 export const metadata: Metadata = {
   title: "Contact Us",
-  description: `Get in touch with the ${SITE_CONFIG.name} editorial team — pitches, partnerships, corrections, and reader questions.`,
+  description,
   alternates: { canonical: "/contact" },
   openGraph: {
     title: `Contact Us | ${SITE_CONFIG.name}`,
+    description,
     url: `${SITE_CONFIG.url}/contact`,
   },
 };
@@ -38,6 +43,10 @@ const SOCIAL_LINKS = [
 export default function ContactPage() {
   return (
     <div className="mx-auto max-w-[1440px] px-4 py-10 sm:px-6 lg:px-8">
+      <JsonLd
+        id="contact-page-schema"
+        data={webPageSchema({ name: "Contact Us", description, url: `${SITE_CONFIG.url}/contact` })}
+      />
       <Breadcrumbs items={[{ name: "Contact", href: "/contact" }]} />
 
       <div className="mt-6 flex flex-col gap-3">

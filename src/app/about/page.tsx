@@ -22,13 +22,18 @@ import { Button } from "@/components/ui/button";
 import { categories } from "@/data/categories";
 import { posts } from "@/data/posts";
 import { SITE_CONFIG } from "@/constants/site";
+import { webPageSchema } from "@/schemas/webpage-schema";
+import { JsonLd } from "@/schemas/json-ld";
+
+const description = `Learn about ${SITE_CONFIG.name}'s editorial standards, mission, and journey behind our beauty, grooming, and wellness coverage.`;
 
 export const metadata: Metadata = {
   title: "About Us",
-  description: `Learn about ${SITE_CONFIG.name}'s editorial standards, mission, and journey behind our beauty, grooming, and wellness coverage.`,
+  description,
   alternates: { canonical: "/about" },
   openGraph: {
     title: `About Us | ${SITE_CONFIG.name}`,
+    description,
     url: `${SITE_CONFIG.url}/about`,
   },
 };
@@ -94,6 +99,10 @@ const JOURNEY = [
 export default function AboutPage() {
   return (
     <div className="mx-auto max-w-[1440px] px-4 py-10 sm:px-6 lg:px-8">
+      <JsonLd
+        id="about-page-schema"
+        data={webPageSchema({ name: "About Us", description, url: `${SITE_CONFIG.url}/about` })}
+      />
       <Breadcrumbs items={[{ name: "About", href: "/about" }]} />
 
       <div className="mt-8 grid grid-cols-1 items-center gap-10 lg:grid-cols-2">
