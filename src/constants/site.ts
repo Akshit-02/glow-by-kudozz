@@ -3,7 +3,7 @@ export const SITE_CONFIG = {
   shortName: "Glow",
   tagline: "Beauty • Grooming • Wellness",
   description:
-    "Glow by Kudozz is a premium editorial destination for skincare, haircare, fragrance, grooming, and wellness — expert-vetted guides, honest product reviews, and trend reporting you can trust.",
+    "Glow by Kudozz is a premium editorial destination for skincare, haircare, fragrance, grooming, and wellness — research-backed guides, honest product reviews, and trend reporting you can trust.",
   url: "https://glow.kudozz.in",
   publisher: "Kudozz",
   keywords: [
@@ -18,7 +18,7 @@ export const SITE_CONFIG = {
     "skincare tips",
     "beauty trends",
   ],
-  locale: "en_US",
+  locale: "en_IN",
   themeColor: {
     light: "#faf3ec",
     dark: "#171310",

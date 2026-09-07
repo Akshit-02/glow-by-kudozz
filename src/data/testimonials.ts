@@ -44,13 +44,13 @@ export const siteFaqs: FaqItem[] = [
     id: "faq-1",
     question: "How does Glow by Kudozz choose which products to feature?",
     answer:
-      "Every product featured on Glow is either tested directly by our editorial team or reviewed against ingredient lists and clinical claims by our medical reviewer. We do not accept payment for positive coverage — affiliate links may earn us a commission, but placement is never for sale.",
+      "We evaluate products against their ingredient lists, published research on those ingredients, price, and how they compare to alternatives in the same category. We do not accept payment for positive coverage — affiliate links may earn us a commission, but placement is never for sale.",
   },
   {
     id: "faq-2",
     question: "Is the advice on Glow medically reviewed?",
     answer:
-      "Clinical and dermatological claims across our skincare and wellness content are reviewed by Dr. Sana Malik, a board-certified dermatologist, to ensure accuracy and safety.",
+      "Our content covers cosmetic skincare, haircare, and grooming, researched against published dermatology and cosmetic-science sources (linked at the bottom of each guide). It is not a substitute for professional medical advice — for any diagnosis or treatment of a skin, hair, or scalp condition, please consult a licensed dermatologist.",
   },
   {
     id: "faq-3",

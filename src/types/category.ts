@@ -7,7 +7,6 @@ export interface Category {
   image: string;
   icon: string;
   color: string;
-  articleCount: number;
   featured?: boolean;
 }
 

@@ -20,7 +20,7 @@ export default function DisclaimerPage() {
           heading: "Medical Disclaimer",
           paragraphs: [
             "Content is provided for general informational and educational purposes only and is not a substitute for professional medical advice, diagnosis, or treatment. Always seek the advice of a physician or qualified dermatologist regarding any skin, hair, or health condition.",
-            "Clinical claims are reviewed by our medical reviewer for general accuracy, but individual results vary based on skin type, health history, and product formulation.",
+            "Clinical and ingredient claims are researched against published dermatology and cosmetic-science sources, which are linked at the end of the relevant guide. This research process does not replace a professional medical evaluation, and individual results vary based on skin type, health history, and product formulation.",
           ],
         },
         {

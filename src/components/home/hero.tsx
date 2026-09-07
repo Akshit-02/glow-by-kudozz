@@ -3,13 +3,14 @@
 import Link from "next/link";
 import Image from "next/image";
 import { motion } from "framer-motion";
-import { ArrowRight, Users, BookOpen, Star } from "lucide-react";
+import { ArrowRight, BookOpen, LayoutGrid } from "lucide-react";
 import { Button } from "@/components/ui/button";
+import { posts } from "@/data/posts";
+import { categories } from "@/data/categories";
 
 const STATS = [
-  { icon: BookOpen, label: "Expert Guides", value: "500+" },
-  { icon: Users, label: "Monthly Readers", value: "20K+" },
-  { icon: Star, label: "Avg. Rating", value: "4.8" },
+  { icon: BookOpen, label: "In-Depth Guides", value: `${posts.length}+` },
+  { icon: LayoutGrid, label: "Categories Covered", value: `${categories.length}` },
 ];
 
 export function Hero() {
@@ -99,10 +100,10 @@ export function Hero() {
             className="glass absolute -left-6 top-10 hidden w-48 rounded-2xl p-4 shadow-elevated sm:block"
           >
             <p className="font-display text-2xl font-semibold text-foreground">
-              98%
+              {categories.length} categories
             </p>
             <p className="text-xs text-muted-foreground">
-              of readers say our routines actually work
+              skincare, haircare, makeup, grooming, fragrance & wellness
             </p>
           </motion.div>
 
@@ -116,13 +117,14 @@ export function Hero() {
             }}
             className="glass absolute -bottom-6 right-2 hidden w-52 rounded-2xl p-4 shadow-elevated sm:block"
           >
-            <div className="flex items-center gap-1 text-primary">
-              {Array.from({ length: 5 }).map((_, i) => (
-                <Star key={i} className="h-3.5 w-3.5 fill-primary" />
-              ))}
+            <div className="flex items-center gap-1.5 text-primary">
+              <BookOpen className="h-3.5 w-3.5" />
+              <span className="text-xs font-semibold text-foreground">
+                Source-backed guides
+              </span>
             </div>
             <p className="mt-1 text-xs text-muted-foreground">
-              Rated 4.8/5 by 12,000+ readers
+              Referencing dermatology &amp; research journals
             </p>
           </motion.div>
         </motion.div>

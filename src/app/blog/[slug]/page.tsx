@@ -4,7 +4,7 @@ import Script from "next/script";
 import { notFound } from "next/navigation";
 import { ChevronDown, BookText } from "lucide-react";
 import { posts, getPostBySlug, getRelatedPosts } from "@/data/posts";
-import { getCategoryBySlug, getProductsBySlugs } from "@/lib/content";
+import { getCategoryBySlug, getProductsBySlugs, formatDate } from "@/lib/content";
 import { SITE_CONFIG } from "@/constants/site";
 import { articleSchema, faqSchema } from "@/schemas/site-schema";
 import { Breadcrumbs } from "@/components/shared/breadcrumbs";
@@ -138,7 +138,17 @@ export default async function BlogPostPage({ params }: { params: Promise<{ slug:
               </h1>
               <p className="text-lg leading-relaxed text-muted-foreground">{post.excerpt}</p>
 
-              <div className="flex flex-wrap items-center gap-4 border-y border-border py-4 text-sm text-muted-foreground">
+              <div className="flex flex-wrap items-center gap-x-4 gap-y-1 border-y border-border py-4 text-sm text-muted-foreground">
+                <span>By the Glow by Kudozz Editorial Team</span>
+                <span aria-hidden="true">·</span>
+                <span>Published {formatDate(post.publishedAt)}</span>
+                {post.updatedAt !== post.publishedAt && (
+                  <>
+                    <span aria-hidden="true">·</span>
+                    <span>Updated {formatDate(post.updatedAt)}</span>
+                  </>
+                )}
+                <span aria-hidden="true">·</span>
                 <span>{post.readingTimeMinutes} min read</span>
               </div>
             </div>

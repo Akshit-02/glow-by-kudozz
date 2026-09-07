@@ -7,11 +7,10 @@ import {
   Users,
   Heart,
   BookOpen,
-  Star,
   Sparkles,
   Rocket,
   FlaskConical,
-  TrendingUp,
+  Library,
   Globe2,
   ArrowRight,
 } from "lucide-react";
@@ -38,28 +37,31 @@ const STATS = [
   {
     Icon: BookOpen,
     value: `${posts.length}+`,
-    label: "Expert Guides Published",
+    label: "Guides Published",
   },
-  { Icon: Users, value: "20K+", label: "Monthly Readers" },
-  { Icon: Star, value: "4.8/5", label: "Average Reader Rating" },
   { Icon: Globe2, value: `${categories.length}`, label: "Categories Covered" },
+  {
+    Icon: Library,
+    value: `${new Set(posts.flatMap((p) => p.sources.map((s) => s.label.split(/ — | - |: /)[0]))).size}+`,
+    label: "Research Sources Cited",
+  },
 ];
 
 const VALUES = [
   {
     Icon: Microscope,
     title: "Evidence Over Trends",
-    text: "Every clinical claim is checked against research and reviewed by our clinical review process before it goes live.",
+    text: "Claims about ingredients and routines are checked against dermatology and cosmetic-science research, with sources linked at the bottom of every guide.",
   },
   {
     Icon: ShieldCheck,
     title: "No Pay-for-Praise",
-    text: "Affiliate links may earn a commission, but product placement and ratings are never for sale.",
+    text: "Affiliate links may earn a commission, but product placement is never for sale — we disclose every affiliate relationship.",
   },
   {
     Icon: Users,
-    title: "Real Testing",
-    text: "We test the majority of products we feature in real routines before recommending them.",
+    title: "Cosmetic, Not Medical, Advice",
+    text: "Our guides cover cosmetic routines and product choices. For diagnosing or treating a skin, hair, or scalp condition, we always point readers to a qualified dermatologist.",
   },
   {
     Icon: Heart,
@@ -73,25 +75,19 @@ const JOURNEY = [
     Icon: Rocket,
     year: "The Beginning",
     title: "A frustration turned into a mission",
-    text: "Glow by Kudozz started as a reaction to noisy, trend-chasing beauty content — a small team decided to build something that prioritized evidence over virality.",
+    text: "Glow by Kudozz started as a reaction to noisy, trend-chasing beauty content — we set out to build something that prioritized evidence over virality.",
   },
   {
     Icon: FlaskConical,
     year: "Building the Standard",
-    title: "A clinical review process, from day one",
-    text: "Every guide was routed through a structured research-and-review process before publishing, so claims about actives and routines could actually hold up to scrutiny.",
+    title: "A research-first editorial process",
+    text: "Every guide is written against published dermatology and cosmetic-science research, so claims about actives and routines can be traced back to a real source.",
   },
   {
     Icon: BookOpen,
-    year: "Scaling the Library",
-    title: `Crossing ${posts.length}+ published guides`,
-    text: "From vitamin C serums to seasonal routines and life-stage-specific skincare, our library grew into one of the most comprehensive, dermatologist-informed resources online.",
-  },
-  {
-    Icon: TrendingUp,
     year: "Today",
-    title: "2.4 million readers a month",
-    text: "Glow is now a trusted destination across skincare, haircare, makeup, grooming, fragrance, and wellness — and we're just getting started.",
+    title: `${posts.length}+ published guides and growing`,
+    text: "From vitamin C serums to seasonal routines and life-stage-specific skincare, our library keeps expanding across skincare, haircare, makeup, grooming, fragrance, and wellness.",
   },
 ];
 
@@ -112,14 +108,14 @@ export default function AboutPage() {
             {SITE_CONFIG.name} started with a simple frustration: most beauty
             content online is written to chase trends, not to actually help
             readers make better decisions. We set out to build something
-            different — an editorial process built around licensed estheticians,
-            grooming specialists, and clinical review, publishing guidance that
-            holds up to scrutiny.
+            different — guides researched against published dermatology and
+            cosmetic-science sources, written in plain language, and updated
+            as the research and product landscape changes.
           </p>
           <p className="text-base leading-relaxed text-muted-foreground">
-            Today, over 2.4 million readers a month trust Glow for routines that
-            actually work, honest product reviews, and trend reporting that
-            separates what&apos;s genuinely useful from what&apos;s just noise.
+            Every guide links to the sources behind its claims, discloses how
+            we handle affiliate links, and is updated when the underlying
+            research, ingredients, or products change.
           </p>
           <div className="flex flex-col gap-3 pt-2 sm:flex-row">
             <Button

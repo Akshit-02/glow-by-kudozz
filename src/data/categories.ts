@@ -6,12 +6,11 @@ export const categories: Category[] = [
     slug: "skincare",
     name: "Skincare",
     description:
-      "Evidence-informed skincare guidance — routines, ingredients, and dermatologist-reviewed advice for every skin type and concern.",
+      "Evidence-informed skincare guidance — routines, ingredients, and research-backed advice for every skin type and concern.",
     shortDescription: "Routines, ingredients & dermatologist-backed advice.",
     image: "https://images.unsplash.com/photo-1620916566398-39f1143ab7be?w=1200&q=80",
     icon: "Droplets",
     color: "rose-gold",
-    articleCount: 52,
     featured: true,
   },
   {
@@ -24,7 +23,6 @@ export const categories: Category[] = [
     image: "https://images.unsplash.com/photo-1522337360788-8b13dee7a37e?w=1200&q=80",
     icon: "Wind",
     color: "champagne",
-    articleCount: 0,
     featured: true,
   },
   {
@@ -37,7 +35,6 @@ export const categories: Category[] = [
     image: "https://images.unsplash.com/photo-1487412947147-5cebf100ffc2?w=1200&q=80",
     icon: "Palette",
     color: "coral",
-    articleCount: 0,
     featured: true,
   },
   {
@@ -50,7 +47,6 @@ export const categories: Category[] = [
     image: "https://images.unsplash.com/photo-1503951914875-452162b0f3f1?w=1200&q=80",
     icon: "Scissors",
     color: "charcoal",
-    articleCount: 0,
     featured: true,
   },
   {
@@ -63,7 +59,6 @@ export const categories: Category[] = [
     image: "https://images.unsplash.com/photo-1541643600914-78b084683601?w=1200&q=80",
     icon: "Sparkles",
     color: "rose-gold",
-    articleCount: 0,
     featured: true,
   },
   {
@@ -76,7 +71,6 @@ export const categories: Category[] = [
     image: "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?w=1200&q=80",
     icon: "Leaf",
     color: "success",
-    articleCount: 0,
     featured: true,
   },
 ];

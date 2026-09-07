@@ -1,5 +1,6 @@
 import { Suspense } from "react";
 import type { Metadata } from "next";
+import Link from "next/link";
 import { notFound } from "next/navigation";
 import * as Icons from "lucide-react";
 import { Breadcrumbs } from "@/components/shared/breadcrumbs";
@@ -7,6 +8,7 @@ import { CategoryFilters } from "@/components/blog/category-filters";
 import { BlogGrid } from "@/components/blog/blog-grid";
 import { BlogGridSkeleton } from "@/components/blog/blog-grid-skeleton";
 import { categories } from "@/data/categories";
+import { getPostsByCategory } from "@/data/posts";
 import { getCategoryBySlug } from "@/lib/content";
 import { SITE_CONFIG } from "@/constants/site";
 import type { PostFilters } from "@/lib/get-posts";
@@ -24,10 +26,15 @@ export async function generateMetadata({
   const category = getCategoryBySlug(slug);
   if (!category) return {};
 
+  const isEmpty = getPostsByCategory(category.slug).length === 0;
+
   return {
     title: category.name,
     description: category.description,
     alternates: { canonical: `/category/${category.slug}` },
+    // Empty category hubs are noindexed to avoid indexing thin/placeholder
+    // pages; this flips automatically once posts are added to the category.
+    ...(isEmpty && { robots: { index: false, follow: true } }),
     openGraph: {
       title: `${category.name} | ${SITE_CONFIG.name}`,
       description: category.description,
@@ -50,6 +57,7 @@ export default async function CategoryPage({
 
   const sp = await searchParams;
   const Icon = (Icons as unknown as Record<string, Icons.LucideIcon>)[category.icon] ?? Icons.Sparkles;
+  const isEmpty = getPostsByCategory(category.slug).length === 0;
 
   const filters: PostFilters = {
     category: category.slug,
@@ -70,15 +78,39 @@ export default async function CategoryPage({
         <p className="max-w-2xl text-base leading-relaxed text-muted-foreground">{category.description}</p>
       </div>
 
-      <div className="mt-10">
-        <CategoryFilters />
-      </div>
+      {isEmpty ? (
+        <div className="mt-10 flex flex-col items-center gap-4 rounded-3xl border border-dashed border-border bg-card/50 p-10 text-center">
+          <p className="max-w-md text-base text-muted-foreground">
+            We&apos;re still building out {category.name.toLowerCase()} guides. In the
+            meantime, explore our most active categories below.
+          </p>
+          <div className="flex flex-wrap justify-center gap-2">
+            {categories
+              .filter((c) => c.slug !== category.slug && getPostsByCategory(c.slug).length > 0)
+              .map((c) => (
+                <Link
+                  key={c.slug}
+                  href={`/category/${c.slug}`}
+                  className="rounded-full border border-border px-4 py-2 text-sm font-medium text-foreground transition-colors hover:border-primary hover:text-primary"
+                >
+                  {c.name}
+                </Link>
+              ))}
+          </div>
+        </div>
+      ) : (
+        <>
+          <div className="mt-10">
+            <CategoryFilters />
+          </div>
 
-      <div className="mt-8">
-        <Suspense key={JSON.stringify(filters)} fallback={<BlogGridSkeleton />}>
-          <BlogGrid filters={filters} basePath={`/category/${category.slug}`} />
-        </Suspense>
-      </div>
+          <div className="mt-8">
+            <Suspense key={JSON.stringify(filters)} fallback={<BlogGridSkeleton />}>
+              <BlogGrid filters={filters} basePath={`/category/${category.slug}`} />
+            </Suspense>
+          </div>
+        </>
+      )}
     </div>
   );
 }

@@ -3,9 +3,11 @@ import Image from "next/image";
 import * as Icons from "lucide-react";
 import type { Category } from "@/types";
 import { cn } from "@/lib/utils";
+import { getPostsByCategory } from "@/data/posts";
 
 export function CategoryCard({ category, className }: { category: Category; className?: string }) {
   const Icon = (Icons as unknown as Record<string, Icons.LucideIcon>)[category.icon] ?? Icons.Sparkles;
+  const articleCount = getPostsByCategory(category.slug).length;
 
   return (
     <Link
@@ -28,7 +30,9 @@ export function CategoryCard({ category, className }: { category: Category; clas
       </span>
       <div className="relative flex flex-col gap-1 p-5">
         <h3 className="font-display text-xl font-semibold text-white">{category.name}</h3>
-        <p className="text-xs text-white/80">{category.articleCount} articles</p>
+        <p className="text-xs text-white/80">
+          {articleCount > 0 ? `${articleCount} article${articleCount === 1 ? "" : "s"}` : "Coming soon"}
+        </p>
       </div>
     </Link>
   );

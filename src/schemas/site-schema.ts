@@ -63,6 +63,7 @@ export function articleSchema(article: {
     image: [article.image],
     datePublished: article.publishedAt,
     dateModified: article.updatedAt,
+    author: { "@id": `${SITE_CONFIG.url}/#organization` },
     publisher: { "@id": `${SITE_CONFIG.url}/#organization` },
     mainEntityOfPage: {
       "@type": "WebPage",

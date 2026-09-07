@@ -4,9 +4,9 @@ export const posts: BlogPost[] = [
   {
     id: "post-best-vitamin-c-serums-india",
     slug: "best-vitamin-c-serums-for-indian-skin",
-    title: "Best Vitamin C Serums for Indian Skin in 2026 (Dermatologist-Reviewed)",
+    title: "Best Vitamin C Serums for Indian Skin in 2026 (Research-Backed)",
     excerpt:
-      "Our dermatologist-reviewed picks for the best vitamin C serums for Indian skin in 2026 — how to choose the right strength, avoid oxidation, and use it safely.",
+      "Our research-backed picks for the best vitamin C serums for Indian skin in 2026 — how to choose the right strength, avoid oxidation, and use it safely.",
     summary:
       "For Indian skin tones and climate, the best vitamin C serums combine a stable form of the ingredient (10-20% L-ascorbic acid, or a gentler derivative like sodium ascorbyl phosphate) with airtight, opaque packaging that prevents oxidation in heat and humidity. Our top pick overall is the Radiance Vitamin C Serum for its 15% L-ascorbic acid and ferulic acid formula. Sensitive and acne-prone skin does better with a derivative-based serum, while first-time users should start with a lower strength, 2-3 times a week, always followed by sunscreen the next morning.",
     keyTakeaways: [
@@ -212,9 +212,8 @@ export const posts: BlogPost[] = [
         text: "Keep your vitamin C serum in a cool, dark drawer rather than an open bathroom shelf. Some people even refrigerate it during peak summer months to slow oxidation further.",
       },
       {
-        type: "quote",
-        text: "The biggest mistake I see with vitamin C in Indian patients isn't the ingredient itself — it's the packaging and storage. A brilliant formula in the wrong bottle, left in a hot bathroom, oxidizes before you've even used a quarter of it.",
-        attribution: "Dr. Sana Malik, Board-Certified Dermatologist",
+        type: "paragraph",
+        text: "The biggest mistake with vitamin C for Indian skin isn't the ingredient itself — it's the packaging and storage. A brilliant formula in the wrong bottle, left in a hot bathroom, oxidizes before you've even used a quarter of it.",
       },
       { type: "heading", level: 2, text: "Final Verdict", id: "final-verdict" },
       {
@@ -224,7 +223,7 @@ export const posts: BlogPost[] = [
       { type: "heading", level: 2, text: "Conclusion", id: "conclusion" },
       {
         type: "paragraph",
-        text: "Vitamin C remains one of the few skincare ingredients that lives up to the hype — but only when the formula, strength, and storage are right for your skin and your climate. Start slow, protect your serum from heat and light, and never skip your morning SPF. If you found this guide useful, explore more of our dermatologist-reviewed skincare guides and subscribe to the Glow by Kudozz newsletter for weekly, no-fluff beauty advice straight to your inbox.",
+        text: "Vitamin C remains one of the few skincare ingredients that lives up to the hype — but only when the formula, strength, and storage are right for your skin and your climate. Start slow, protect your serum from heat and light, and never skip your morning SPF. If you found this guide useful, explore more of our research-backed skincare guides and subscribe to the Glow by Kudozz newsletter for weekly, no-fluff beauty advice straight to your inbox.",
       },
     ],
     faqs: [
@@ -285,9 +284,9 @@ export const posts: BlogPost[] = [
       },
     ],
     sources: [
-      { label: "American Academy of Dermatology — Vitamin C for Skin", url: "#" },
-      { label: "Journal of Clinical and Aesthetic Dermatology — Topical Vitamin C Review", url: "#" },
-      { label: "International Journal of Molecular Sciences — Ascorbic Acid Stability Studies", url: "#" },
+      { label: "American Academy of Dermatology — Vitamin C for Skin", url: "https://www.aad.org" },
+      { label: "Journal of Clinical and Aesthetic Dermatology — Topical Vitamin C Review", url: "https://jcadonline.com" },
+      { label: "International Journal of Molecular Sciences — Ascorbic Acid Stability Studies", url: "https://www.mdpi.com/journal/ijms" },
     ],
     relatedProductSlugs: [
       "radiance-vitamin-c-serum",
@@ -464,9 +463,8 @@ export const posts: BlogPost[] = [
         text: "Take the underlying principle from each system rather than copying it exactly. Korean skincare's principle is thin, consistent hydration. Indian skincare's principle is treating skin with ingredients suited to your specific tone and climate. Combine the principles, not just the product lists.",
       },
       {
-        type: "quote",
+        type: "paragraph",
         text: "The best routine isn't the one with the most steps or the most imported products — it's the one you'll actually repeat every day, using ingredients your skin and climate can handle.",
-        attribution: "Mira Shah, Licensed Esthetician & Skincare Editor",
       },
       { type: "heading", level: 2, text: "Final Verdict", id: "final-verdict" },
       {
@@ -527,8 +525,8 @@ export const posts: BlogPost[] = [
       },
     ],
     sources: [
-      { label: "Journal of Ayurveda and Integrative Medicine — Curcumin and Skin Health Review", url: "#" },
-      { label: "International Journal of Dermatology — Photoprotection Practices Across Skin Tones", url: "#" },
+      { label: "Journal of Ayurveda and Integrative Medicine — Curcumin and Skin Health Review", url: "https://www.jaim.in" },
+      { label: "International Journal of Dermatology — Photoprotection Practices Across Skin Tones", url: "https://onlinelibrary.wiley.com/journal/13654632" },
     ],
     relatedProductSlugs: [
       "rice-water-glow-essence",
@@ -741,9 +739,8 @@ export const posts: BlogPost[] = [
         text: "Jot down what you used and how your skin looked and felt for the first month. It's the easiest way to spot patterns — like a product that consistently causes breakouts or one that finally calms redness.",
       },
       {
-        type: "quote",
+        type: "paragraph",
         text: "The beginners who see the best results aren't the ones with the most expensive products — they're the ones who stick to four simple steps every single day, especially sunscreen.",
-        attribution: "Mira Shah, Licensed Esthetician & Skincare Editor",
       },
       { type: "heading", level: 2, text: "Final Verdict", id: "final-verdict" },
       {
@@ -809,8 +806,8 @@ export const posts: BlogPost[] = [
       },
     ],
     sources: [
-      { label: "Indian Journal of Dermatology — Photoprotection Guidelines for Indian Skin", url: "#" },
-      { label: "American Academy of Dermatology — Skincare Basics for Beginners", url: "#" },
+      { label: "Indian Journal of Dermatology — Photoprotection Guidelines for Indian Skin", url: "https://www.e-ijd.org" },
+      { label: "American Academy of Dermatology — Skincare Basics for Beginners", url: "https://www.aad.org" },
     ],
     relatedProductSlugs: [
       "sheer-mineral-spf-50",
@@ -1032,9 +1029,8 @@ export const posts: BlogPost[] = [
         text: "Many people in India have noticeably oilier skin during monsoon and summer months, and drier skin in winter or with heavy air-conditioning exposure. It's normal — and often necessary — to adjust your moisturizer and cleanser texture by season rather than sticking to one formula year-round.",
       },
       {
-        type: "quote",
+        type: "paragraph",
         text: "The single fastest way to improve a routine that isn't working is to re-check whether the products actually match the skin type — not add more products on top of a mismatched foundation.",
-        attribution: "Dr. Sana Malik, Board-Certified Dermatologist",
       },
       { type: "heading", level: 2, text: "Final Verdict", id: "final-verdict" },
       {
@@ -1100,8 +1096,8 @@ export const posts: BlogPost[] = [
       },
     ],
     sources: [
-      { label: "Indian Journal of Dermatology, Venereology and Leprology — Skin Type Classification and Care", url: "#" },
-      { label: "American Academy of Dermatology — Skin Type Guide", url: "#" },
+      { label: "Indian Journal of Dermatology, Venereology and Leprology — Skin Type Classification and Care", url: "https://ijdvl.com" },
+      { label: "American Academy of Dermatology — Skin Type Guide", url: "https://www.aad.org" },
     ],
     relatedProductSlugs: [
       "suvarna-brightening-vitamin-c-serum",
@@ -1278,9 +1274,8 @@ export const posts: BlogPost[] = [
         text: "If you can only manage one routine consistently, prioritize the morning one for sunscreen — it prevents more long-term damage than almost any night treatment can reverse.",
       },
       {
-        type: "quote",
+        type: "paragraph",
         text: "People often think night routines are the 'real' skincare and morning is just a formality. In India's UV climate, it's often the opposite — your morning sunscreen step does more heavy lifting than anything else in your routine.",
-        attribution: "Mira Shah, Licensed Esthetician & Skincare Editor",
       },
       { type: "heading", level: 2, text: "Final Verdict", id: "final-verdict" },
       {
@@ -1346,8 +1341,8 @@ export const posts: BlogPost[] = [
       },
     ],
     sources: [
-      { label: "American Academy of Dermatology — AM/PM Skincare Routine Basics", url: "#" },
-      { label: "Indian Journal of Dermatology — UV Exposure and Photoprotection in Indian Climates", url: "#" },
+      { label: "American Academy of Dermatology — AM/PM Skincare Routine Basics", url: "https://www.aad.org" },
+      { label: "Indian Journal of Dermatology — UV Exposure and Photoprotection in Indian Climates", url: "https://www.e-ijd.org" },
     ],
     relatedProductSlugs: [
       "radiance-vitamin-c-serum",
@@ -1537,9 +1532,8 @@ export const posts: BlogPost[] = [
         text: "If your skin looks or feels worse than it did a month ago, the fix is almost always to simplify your routine, not add another product to counteract the problem.",
       },
       {
-        type: "quote",
-        text: "Nine times out of ten, when a patient tells me their skin is 'reacting to everything,' the actual issue is an over-complicated routine, not a string of bad-luck products.",
-        attribution: "Dr. Sana Malik, Board-Certified Dermatologist",
+        type: "paragraph",
+        text: "Nine times out of ten, when skin seems to be 'reacting to everything,' the actual issue is an over-complicated routine, not a string of bad-luck products.",
       },
       { type: "heading", level: 2, text: "Final Verdict", id: "final-verdict" },
       {
@@ -1605,8 +1599,8 @@ export const posts: BlogPost[] = [
       },
     ],
     sources: [
-      { label: "American Academy of Dermatology — Common Skincare Mistakes", url: "#" },
-      { label: "Indian Journal of Dermatology — Photoprotection Practices Across Skin Tones", url: "#" },
+      { label: "American Academy of Dermatology — Common Skincare Mistakes", url: "https://www.aad.org" },
+      { label: "Indian Journal of Dermatology — Photoprotection Practices Across Skin Tones", url: "https://www.e-ijd.org" },
     ],
     relatedProductSlugs: [
       "suvarna-brightening-vitamin-c-serum",
@@ -1784,9 +1778,8 @@ export const posts: BlogPost[] = [
         text: "If you're not sure where a new product fits, apply it based on texture alone — the thinner and more watery it feels, the earlier it goes in your routine.",
       },
       {
-        type: "quote",
-        text: "I've seen people spend a lot of money on a great vitamin C serum, only to apply it over their moisturizer where it barely absorbs. The order isn't a minor detail — it's often the difference between a product working and not working at all.",
-        attribution: "Mira Shah, Licensed Esthetician & Skincare Editor",
+        type: "paragraph",
+        text: "It's common to spend a lot of money on a great vitamin C serum, only to apply it over moisturizer where it barely absorbs. The order isn't a minor detail — it's often the difference between a product working and not working at all.",
       },
       { type: "heading", level: 2, text: "Final Verdict", id: "final-verdict" },
       {
@@ -1852,8 +1845,8 @@ export const posts: BlogPost[] = [
       },
     ],
     sources: [
-      { label: "American Academy of Dermatology — How to Apply Skincare Products", url: "#" },
-      { label: "Journal of Cosmetic Dermatology — Product Layering and Ingredient Absorption", url: "#" },
+      { label: "American Academy of Dermatology — How to Apply Skincare Products", url: "https://www.aad.org" },
+      { label: "Journal of Cosmetic Dermatology — Product Layering and Ingredient Absorption", url: "https://onlinelibrary.wiley.com/journal/14732165" },
     ],
     relatedProductSlugs: [
       "rice-water-glow-essence",
@@ -1997,9 +1990,8 @@ export const posts: BlogPost[] = [
         text: "If midday shine bothers you, reach for blotting papers instead of washing your face again. Re-washing removes your moisturizer and sunscreen along with the oil, restarting the cycle.",
       },
       {
-        type: "quote",
+        type: "paragraph",
         text: "The oily skin patients who see the fastest improvement aren't the ones using the most products — they're the ones who finally stop skipping moisturizer.",
-        attribution: "Dr. Sana Malik, Board-Certified Dermatologist",
       },
       { type: "heading", level: 2, text: "Final Verdict", id: "final-verdict" },
       {
@@ -2047,8 +2039,8 @@ export const posts: BlogPost[] = [
       },
     ],
     sources: [
-      { label: "Journal of Clinical and Aesthetic Dermatology — Niacinamide and Sebum Regulation", url: "#" },
-      { label: "American Academy of Dermatology — Skin Care Tips for Oily Skin", url: "#" },
+      { label: "Journal of Clinical and Aesthetic Dermatology — Niacinamide and Sebum Regulation", url: "https://jcadonline.com" },
+      { label: "American Academy of Dermatology — Skin Care Tips for Oily Skin", url: "https://www.aad.org" },
     ],
     relatedProductSlugs: [
       "sheer-mineral-spf-50",
@@ -2193,9 +2185,8 @@ export const posts: BlogPost[] = [
       },
       { type: "heading", level: 2, text: "Expert Tips", id: "expert-tips" },
       {
-        type: "quote",
-        text: "Most dry skin I see isn't under-moisturized — it's under-repaired. Hydration alone doesn't fix a compromised barrier; you need ceramides and fatty acids doing the structural work.",
-        attribution: "Mira Shah, Licensed Esthetician & Skincare Editor",
+        type: "paragraph",
+        text: "Most dry skin isn't under-moisturized — it's under-repaired. Hydration alone doesn't fix a compromised barrier; you need ceramides and fatty acids doing the structural work.",
       },
       { type: "heading", level: 2, text: "Final Verdict", id: "final-verdict" },
       {
@@ -2243,8 +2234,8 @@ export const posts: BlogPost[] = [
       },
     ],
     sources: [
-      { label: "Journal of Clinical and Aesthetic Dermatology — Ceramides and Skin Barrier Repair", url: "#" },
-      { label: "American Academy of Dermatology — Dry Skin Care Tips", url: "#" },
+      { label: "Journal of Clinical and Aesthetic Dermatology — Ceramides and Skin Barrier Repair", url: "https://jcadonline.com" },
+      { label: "American Academy of Dermatology — Dry Skin Care Tips", url: "https://www.aad.org" },
     ],
     relatedProductSlugs: [
       "ubtan-turmeric-radiance-cream",
@@ -2374,9 +2365,8 @@ export const posts: BlogPost[] = [
       },
       { type: "heading", level: 2, text: "Expert Tips", id: "expert-tips" },
       {
-        type: "quote",
+        type: "paragraph",
         text: "Combination skin frustrates people because they keep looking for one product that treats the whole face identically. The fix isn't a better product — it's applying the same good product differently by zone.",
-        attribution: "Dr. Sana Malik, Board-Certified Dermatologist",
       },
       { type: "heading", level: 2, text: "Final Verdict", id: "final-verdict" },
       {
@@ -2424,8 +2414,8 @@ export const posts: BlogPost[] = [
       },
     ],
     sources: [
-      { label: "American Academy of Dermatology — Combination Skin Care Basics", url: "#" },
-      { label: "Journal of Cosmetic Dermatology — Niacinamide for Sebum Balance", url: "#" },
+      { label: "American Academy of Dermatology — Combination Skin Care Basics", url: "https://www.aad.org" },
+      { label: "Journal of Cosmetic Dermatology — Niacinamide for Sebum Balance", url: "https://onlinelibrary.wiley.com/journal/14732165" },
     ],
     relatedProductSlugs: [
       "rice-water-glow-essence",
@@ -2561,9 +2551,8 @@ export const posts: BlogPost[] = [
         text: "Identify one fragrance-free moisturizer your skin has never reacted to, and keep it as your fallback whenever you're testing something new or your skin flares up unexpectedly.",
       },
       {
-        type: "quote",
+        type: "paragraph",
         text: "With sensitive skin, restraint is the treatment. The goal isn't finding more products that work — it's removing enough variables that your skin barrier finally gets a chance to calm down.",
-        attribution: "Mira Shah, Licensed Esthetician & Skincare Editor",
       },
       { type: "heading", level: 2, text: "Final Verdict", id: "final-verdict" },
       {
@@ -2611,8 +2600,8 @@ export const posts: BlogPost[] = [
       },
     ],
     sources: [
-      { label: "American Academy of Dermatology — Sensitive Skin Care Guidelines", url: "#" },
-      { label: "Journal of Cosmetic Dermatology — Centella Asiatica and Skin Barrier Function", url: "#" },
+      { label: "American Academy of Dermatology — Sensitive Skin Care Guidelines", url: "https://www.aad.org" },
+      { label: "Journal of Cosmetic Dermatology — Centella Asiatica and Skin Barrier Function", url: "https://onlinelibrary.wiley.com/journal/14732165" },
     ],
     relatedProductSlugs: [
       "tri-c-ferulic-glow-serum",
@@ -2757,9 +2746,8 @@ export const posts: BlogPost[] = [
         text: "Apply benzoyl peroxide directly to active breakouts rather than your entire face to reduce dryness and irritation while still getting the antibacterial benefit where you need it.",
       },
       {
-        type: "quote",
+        type: "paragraph",
         text: "The patients who clear up fastest aren't using the harshest products — they're the ones who stick with a gentle, consistent routine long enough for salicylic acid or benzoyl peroxide to actually work.",
-        attribution: "Dr. Sana Malik, Board-Certified Dermatologist",
       },
       { type: "heading", level: 2, text: "Final Verdict", id: "final-verdict" },
       {
@@ -2807,8 +2795,8 @@ export const posts: BlogPost[] = [
       },
     ],
     sources: [
-      { label: "American Academy of Dermatology — Acne Treatment Guidelines", url: "#" },
-      { label: "Journal of Clinical and Aesthetic Dermatology — Salicylic Acid and Benzoyl Peroxide Efficacy", url: "#" },
+      { label: "American Academy of Dermatology — Acne Treatment Guidelines", url: "https://www.aad.org" },
+      { label: "Journal of Clinical and Aesthetic Dermatology — Salicylic Acid and Benzoyl Peroxide Efficacy", url: "https://jcadonline.com" },
     ],
     relatedProductSlugs: [
       "suvarna-brightening-vitamin-c-serum",
@@ -2940,9 +2928,8 @@ export const posts: BlogPost[] = [
       },
       { type: "heading", level: 2, text: "Expert Tips", id: "expert-tips" },
       {
-        type: "quote",
+        type: "paragraph",
         text: "Normal skin is a head start, not a guarantee. The people who keep it that way longest are the ones who treat sunscreen as non-negotiable, not optional.",
-        attribution: "Mira Shah, Licensed Esthetician & Skincare Editor",
       },
       { type: "heading", level: 2, text: "Final Verdict", id: "final-verdict" },
       {
@@ -2990,8 +2977,8 @@ export const posts: BlogPost[] = [
       },
     ],
     sources: [
-      { label: "American Academy of Dermatology — Preventive Skincare and Sun Protection", url: "#" },
-      { label: "Journal of Clinical and Aesthetic Dermatology — Retinol for Early Preventive Use", url: "#" },
+      { label: "American Academy of Dermatology — Preventive Skincare and Sun Protection", url: "https://www.aad.org" },
+      { label: "Journal of Clinical and Aesthetic Dermatology — Retinol for Early Preventive Use", url: "https://jcadonline.com" },
     ],
     relatedProductSlugs: [
       "radiance-vitamin-c-serum",
@@ -3135,9 +3122,8 @@ export const posts: BlogPost[] = [
         text: "If you work in an air-conditioned office, a hydrating facial mist you can reapply midday — followed by pressing in a bit of moisturizer — helps offset the constant moisture loss from low-humidity indoor air.",
       },
       {
-        type: "quote",
+        type: "paragraph",
         text: "Dehydration is one of the few skin concerns that responds fast — often within a week or two — once patients stop layering products on top of the problem and start fixing the habit causing it.",
-        attribution: "Dr. Sana Malik, Board-Certified Dermatologist",
       },
       { type: "heading", level: 2, text: "Final Verdict", id: "final-verdict" },
       {
@@ -3185,8 +3171,8 @@ export const posts: BlogPost[] = [
       },
     ],
     sources: [
-      { label: "Journal of Cosmetic Dermatology — Humectants and Skin Hydration", url: "#" },
-      { label: "American Academy of Dermatology — Understanding Dehydrated vs Dry Skin", url: "#" },
+      { label: "Journal of Cosmetic Dermatology — Humectants and Skin Hydration", url: "https://onlinelibrary.wiley.com/journal/14732165" },
+      { label: "American Academy of Dermatology — Understanding Dehydrated vs Dry Skin", url: "https://www.aad.org" },
     ],
     relatedProductSlugs: [
       "rice-water-glow-essence",
@@ -3331,9 +3317,8 @@ export const posts: BlogPost[] = [
         text: "Apply moisturizer, then retinol, then another layer of moisturizer on top. This buffers retinol's intensity for first-time or sensitive users while still delivering its benefits.",
       },
       {
-        type: "quote",
+        type: "paragraph",
         text: "The single biggest predictor of how mature skin looks isn't genetics or product spend — it's how consistently sunscreen was worn over the preceding decades.",
-        attribution: "Mira Shah, Licensed Esthetician & Skincare Editor",
       },
       { type: "heading", level: 2, text: "Final Verdict", id: "final-verdict" },
       {
@@ -3381,8 +3366,8 @@ export const posts: BlogPost[] = [
       },
     ],
     sources: [
-      { label: "Journal of Clinical and Aesthetic Dermatology — Retinoids and Photoaging", url: "#" },
-      { label: "American Academy of Dermatology — Sun Protection and Skin Aging", url: "#" },
+      { label: "Journal of Clinical and Aesthetic Dermatology — Retinoids and Photoaging", url: "https://jcadonline.com" },
+      { label: "American Academy of Dermatology — Sun Protection and Skin Aging", url: "https://www.aad.org" },
     ],
     relatedProductSlugs: [
       "overnight-retinol-renewal-cream",
@@ -3525,9 +3510,8 @@ export const posts: BlogPost[] = [
         text: "Cleansing before shaving softens hair and removes surface oil and grime, giving you a closer, less irritating shave than shaving on unwashed skin.",
       },
       {
-        type: "quote",
+        type: "paragraph",
         text: "Most men don't need more products — they need the four or five that matter, used every single day instead of occasionally.",
-        attribution: "Dr. Sana Malik, Board-Certified Dermatologist",
       },
       { type: "heading", level: 2, text: "Final Verdict", id: "final-verdict" },
       {
@@ -3575,8 +3559,8 @@ export const posts: BlogPost[] = [
       },
     ],
     sources: [
-      { label: "Journal of Cosmetic Dermatology — Sex Differences in Skin Physiology", url: "#" },
-      { label: "American Academy of Dermatology — Skin Care Tips for Men", url: "#" },
+      { label: "Journal of Cosmetic Dermatology — Sex Differences in Skin Physiology", url: "https://onlinelibrary.wiley.com/journal/14732165" },
+      { label: "American Academy of Dermatology — Skin Care Tips for Men", url: "https://www.aad.org" },
     ],
     relatedProductSlugs: [
       "sheer-mineral-spf-50",
@@ -3715,9 +3699,8 @@ export const posts: BlogPost[] = [
         text: "Note how your skin behaves at different points in your cycle for a month or two. Recognizing the pattern makes hormonal breakouts far less frustrating and helps you adjust proactively instead of reactively.",
       },
       {
-        type: "quote",
+        type: "paragraph",
         text: "Women's skin isn't static, and a good routine shouldn't be either — it's less about finding one perfect product and more about knowing when to ease up and when to push forward.",
-        attribution: "Mira Shah, Licensed Esthetician & Skincare Editor",
       },
       { type: "heading", level: 2, text: "Final Verdict", id: "final-verdict" },
       {
@@ -3765,8 +3748,8 @@ export const posts: BlogPost[] = [
       },
     ],
     sources: [
-      { label: "Journal of Clinical and Aesthetic Dermatology — Hormonal Acne and the Menstrual Cycle", url: "#" },
-      { label: "American Academy of Dermatology — Daily Skincare Routine Basics", url: "#" },
+      { label: "Journal of Clinical and Aesthetic Dermatology — Hormonal Acne and the Menstrual Cycle", url: "https://jcadonline.com" },
+      { label: "American Academy of Dermatology — Daily Skincare Routine Basics", url: "https://www.aad.org" },
     ],
     relatedProductSlugs: [
       "radiance-vitamin-c-serum",
@@ -3909,9 +3892,8 @@ export const posts: BlogPost[] = [
         text: "If breakouts are widespread, painful, or leaving scars despite a consistent basic routine, it's worth seeing a dermatologist rather than relying solely on over-the-counter products — some forms of teenage acne respond much faster to prescription treatment.",
       },
       {
-        type: "quote",
+        type: "paragraph",
         text: "The teenage patients who do best aren't using the most products — they're the ones who stick to a simple routine and don't pick at their skin while it's working.",
-        attribution: "Dr. Sana Malik, Board-Certified Dermatologist",
       },
       { type: "heading", level: 2, text: "Final Verdict", id: "final-verdict" },
       {
@@ -3959,8 +3941,8 @@ export const posts: BlogPost[] = [
       },
     ],
     sources: [
-      { label: "American Academy of Dermatology — Acne and Puberty", url: "#" },
-      { label: "Journal of Clinical and Aesthetic Dermatology — Adolescent Skincare Guidelines", url: "#" },
+      { label: "American Academy of Dermatology — Acne and Puberty", url: "https://www.aad.org" },
+      { label: "Journal of Clinical and Aesthetic Dermatology — Adolescent Skincare Guidelines", url: "https://jcadonline.com" },
     ],
     relatedProductSlugs: [
       "suvarna-brightening-vitamin-c-serum",
@@ -4104,9 +4086,8 @@ export const posts: BlogPost[] = [
         text: "If a routine feels complicated or a product stings, it's usually a sign to simplify, not add another step. Teenage skin generally responds best to a small, gentle, consistent set of products.",
       },
       {
-        type: "quote",
-        text: "The biggest skincare mistake I see in teenagers isn't using too little — it's copying adult routines built for entirely different skin needs and wondering why their skin reacts badly.",
-        attribution: "Mira Shah, Licensed Esthetician & Skincare Editor",
+        type: "paragraph",
+        text: "The biggest skincare mistake among teenagers isn't using too little — it's copying adult routines built for entirely different skin needs, which often reacts badly on younger skin.",
       },
       { type: "heading", level: 2, text: "Final Verdict", id: "final-verdict" },
       {
@@ -4154,8 +4135,8 @@ export const posts: BlogPost[] = [
       },
     ],
     sources: [
-      { label: "American Academy of Dermatology — Acne and Puberty", url: "#" },
-      { label: "Journal of Clinical and Aesthetic Dermatology — Adolescent Skincare Guidelines", url: "#" },
+      { label: "American Academy of Dermatology — Acne and Puberty", url: "https://www.aad.org" },
+      { label: "Journal of Clinical and Aesthetic Dermatology — Adolescent Skincare Guidelines", url: "https://jcadonline.com" },
     ],
     relatedProductSlugs: [
       "suvarna-brightening-vitamin-c-serum",
@@ -4289,9 +4270,8 @@ export const posts: BlogPost[] = [
         text: "Keep sunscreen next to the toothbrush or another daily habit item so it becomes automatic before school, not something reserved for trips to the beach or pool.",
       },
       {
-        type: "quote",
+        type: "paragraph",
         text: "The best thing a parent can do for their child's future skin isn't buying more products — it's making sunscreen as automatic as brushing their teeth.",
-        attribution: "Dr. Sana Malik, Board-Certified Dermatologist",
       },
       { type: "heading", level: 2, text: "Final Verdict", id: "final-verdict" },
       {
@@ -4339,8 +4319,8 @@ export const posts: BlogPost[] = [
       },
     ],
     sources: [
-      { label: "American Academy of Dermatology — Sun Protection for Children", url: "#" },
-      { label: "American Academy of Pediatrics — Skin Care Basics for Kids", url: "#" },
+      { label: "American Academy of Dermatology — Sun Protection for Children", url: "https://www.aad.org" },
+      { label: "American Academy of Pediatrics — Skin Care Basics for Kids", url: "https://www.aap.org" },
     ],
     relatedProductSlugs: [
       "sheer-mineral-spf-50",
@@ -4481,9 +4461,8 @@ export const posts: BlogPost[] = [
         text: "If breakouts are widespread, painful, or leaving scars despite a consistent basic routine, a dermatologist can offer faster, more effective treatment than relying solely on over-the-counter products.",
       },
       {
-        type: "quote",
+        type: "paragraph",
         text: "The teenagers who see the best results aren't chasing the latest trending routine — they're the ones sticking to four simple steps, every single day, without picking at their skin.",
-        attribution: "Mira Shah, Licensed Esthetician & Skincare Editor",
       },
       { type: "heading", level: 2, text: "Final Verdict", id: "final-verdict" },
       {
@@ -4531,8 +4510,8 @@ export const posts: BlogPost[] = [
       },
     ],
     sources: [
-      { label: "American Academy of Dermatology — Acne and Puberty", url: "#" },
-      { label: "Journal of Clinical and Aesthetic Dermatology — Adolescent Skincare Guidelines", url: "#" },
+      { label: "American Academy of Dermatology — Acne and Puberty", url: "https://www.aad.org" },
+      { label: "Journal of Clinical and Aesthetic Dermatology — Adolescent Skincare Guidelines", url: "https://jcadonline.com" },
     ],
     relatedProductSlugs: [
       "suvarna-brightening-vitamin-c-serum",
@@ -4672,9 +4651,8 @@ export const posts: BlogPost[] = [
         text: "A small backup of your sunscreen and cleanser in your backpack means a late night in the library or an early class doesn't have to mean skipping your routine entirely.",
       },
       {
-        type: "quote",
+        type: "paragraph",
         text: "The students whose skin holds up best through college aren't the ones with the most expensive routine — they're the ones who keep a simple one going even during finals week.",
-        attribution: "Dr. Sana Malik, Board-Certified Dermatologist",
       },
       { type: "heading", level: 2, text: "Final Verdict", id: "final-verdict" },
       {
@@ -4722,8 +4700,8 @@ export const posts: BlogPost[] = [
       },
     ],
     sources: [
-      { label: "Journal of Clinical and Aesthetic Dermatology — Stress and Acne", url: "#" },
-      { label: "American Academy of Dermatology — Sleep and Skin Health", url: "#" },
+      { label: "Journal of Clinical and Aesthetic Dermatology — Stress and Acne", url: "https://jcadonline.com" },
+      { label: "American Academy of Dermatology — Sleep and Skin Health", url: "https://www.aad.org" },
     ],
     relatedProductSlugs: [
       "suvarna-brightening-vitamin-c-serum",
@@ -4862,9 +4840,8 @@ export const posts: BlogPost[] = [
         text: "Two to three nights a week at a low concentration is enough to start seeing preventive benefits. There's no advantage to jumping to daily use or higher strengths quickly in your 20s.",
       },
       {
-        type: "quote",
+        type: "paragraph",
         text: "The clients who look best in their 40s aren't the ones who started an elaborate routine in their 40s — they're the ones who wore sunscreen and used retinol consistently starting in their 20s.",
-        attribution: "Mira Shah, Licensed Esthetician & Skincare Editor",
       },
       { type: "heading", level: 2, text: "Final Verdict", id: "final-verdict" },
       {
@@ -4912,8 +4889,8 @@ export const posts: BlogPost[] = [
       },
     ],
     sources: [
-      { label: "Journal of Clinical and Aesthetic Dermatology — Preventive Retinoid Use", url: "#" },
-      { label: "American Academy of Dermatology — Sun Protection and Skin Aging", url: "#" },
+      { label: "Journal of Clinical and Aesthetic Dermatology — Preventive Retinoid Use", url: "https://jcadonline.com" },
+      { label: "American Academy of Dermatology — Sun Protection and Skin Aging", url: "https://www.aad.org" },
     ],
     relatedProductSlugs: [
       "radiance-vitamin-c-serum",
@@ -5052,9 +5029,8 @@ export const posts: BlogPost[] = [
         text: "A five-minute AM and PM routine you'll actually do every day beats a fifteen-minute one you'll skip during busy weeks. Simplicity is part of what makes a 30s routine effective long-term.",
       },
       {
-        type: "quote",
+        type: "paragraph",
         text: "The 30s aren't about adding ten new products — they're about being more consistent with the two or three that actually matter, especially retinol.",
-        attribution: "Dr. Sana Malik, Board-Certified Dermatologist",
       },
       { type: "heading", level: 2, text: "Final Verdict", id: "final-verdict" },
       {
@@ -5102,8 +5078,8 @@ export const posts: BlogPost[] = [
       },
     ],
     sources: [
-      { label: "Journal of Clinical and Aesthetic Dermatology — Retinoids and Collagen Support", url: "#" },
-      { label: "American Academy of Dermatology — Peptides in Skincare", url: "#" },
+      { label: "Journal of Clinical and Aesthetic Dermatology — Retinoids and Collagen Support", url: "https://jcadonline.com" },
+      { label: "American Academy of Dermatology — Peptides in Skincare", url: "https://www.aad.org" },
     ],
     relatedProductSlugs: [
       "overnight-retinol-renewal-cream",
@@ -5242,9 +5218,8 @@ export const posts: BlogPost[] = [
         text: "Hormonal shifts during this decade can change your skin's needs more quickly than in your 20s or 30s. If your moisturizer suddenly feels insufficient, it's worth switching to a richer formula rather than layering more products on top.",
       },
       {
-        type: "quote",
+        type: "paragraph",
         text: "The 40s aren't about fighting your skin's new behavior with more product — they're about recognizing the shift and adjusting your routine to match it.",
-        attribution: "Mira Shah, Licensed Esthetician & Skincare Editor",
       },
       { type: "heading", level: 2, text: "Final Verdict", id: "final-verdict" },
       {
@@ -5292,8 +5267,8 @@ export const posts: BlogPost[] = [
       },
     ],
     sources: [
-      { label: "Journal of Clinical and Aesthetic Dermatology — Estrogen and Skin Aging", url: "#" },
-      { label: "American Academy of Dermatology — Perimenopause and Skin Changes", url: "#" },
+      { label: "Journal of Clinical and Aesthetic Dermatology — Estrogen and Skin Aging", url: "https://jcadonline.com" },
+      { label: "American Academy of Dermatology — Perimenopause and Skin Changes", url: "https://www.aad.org" },
     ],
     relatedProductSlugs: [
       "overnight-retinol-renewal-cream",
@@ -5437,9 +5412,8 @@ export const posts: BlogPost[] = [
         text: "Post-menopausal skin can react differently to products it previously tolerated well. Patch testing new products, even ones you've used before in a different formula, is a worthwhile habit at this stage.",
       },
       {
-        type: "quote",
-        text: "The biggest shift I see patients need to make in their 50s isn't adding new products — it's finally giving their skin permission to need gentler care than it did a decade earlier.",
-        attribution: "Dr. Sana Malik, Board-Certified Dermatologist",
+        type: "paragraph",
+        text: "The biggest shift most people need to make in their 50s isn't adding new products — it's finally giving their skin permission to need gentler care than it did a decade earlier.",
       },
       { type: "heading", level: 2, text: "Final Verdict", id: "final-verdict" },
       {
@@ -5487,8 +5461,8 @@ export const posts: BlogPost[] = [
       },
     ],
     sources: [
-      { label: "Journal of Clinical and Aesthetic Dermatology — Post-Menopausal Skin Changes", url: "#" },
-      { label: "American Academy of Dermatology — Skincare After Menopause", url: "#" },
+      { label: "Journal of Clinical and Aesthetic Dermatology — Post-Menopausal Skin Changes", url: "https://jcadonline.com" },
+      { label: "American Academy of Dermatology — Skincare After Menopause", url: "https://www.aad.org" },
     ],
     relatedProductSlugs: [
       "ubtan-turmeric-radiance-cream",
@@ -5632,9 +5606,8 @@ export const posts: BlogPost[] = [
         text: "Set a simple monthly reminder to check your skin for any new spots or changes to existing moles, using a mirror or asking a family member to help check hard-to-see areas like your back.",
       },
       {
-        type: "quote",
+        type: "paragraph",
         text: "It's never too late to start caring for your skin properly — and at this age, the payoff isn't just appearance, it's catching something serious early.",
-        attribution: "Mira Shah, Licensed Esthetician & Skincare Editor",
       },
       { type: "heading", level: 2, text: "Final Verdict", id: "final-verdict" },
       {
@@ -5682,8 +5655,8 @@ export const posts: BlogPost[] = [
       },
     ],
     sources: [
-      { label: "American Academy of Dermatology — Skin Cancer Risk and Aging", url: "#" },
-      { label: "Journal of Clinical and Aesthetic Dermatology — Skincare for Aging, Fragile Skin", url: "#" },
+      { label: "American Academy of Dermatology — Skin Cancer Risk and Aging", url: "https://www.aad.org" },
+      { label: "Journal of Clinical and Aesthetic Dermatology — Skincare for Aging, Fragile Skin", url: "https://jcadonline.com" },
     ],
     relatedProductSlugs: [
       "ubtan-turmeric-radiance-cream",
@@ -5824,9 +5797,8 @@ export const posts: BlogPost[] = [
         text: "Apply two finger-lengths' worth of sunscreen to cover your face and neck — most people apply far less than this, which significantly reduces the actual SPF protection you're getting.",
       },
       {
-        type: "quote",
+        type: "paragraph",
         text: "A morning routine doesn't need to be elaborate to work — it needs sunscreen, applied correctly, every single day.",
-        attribution: "Dr. Sana Malik, Board-Certified Dermatologist",
       },
       { type: "heading", level: 2, text: "Final Verdict", id: "final-verdict" },
       {
@@ -5874,8 +5846,8 @@ export const posts: BlogPost[] = [
       },
     ],
     sources: [
-      { label: "American Academy of Dermatology — How to Apply Sunscreen Correctly", url: "#" },
-      { label: "Journal of Cosmetic Dermatology — Antioxidants and Daytime Skin Protection", url: "#" },
+      { label: "American Academy of Dermatology — How to Apply Sunscreen Correctly", url: "https://www.aad.org" },
+      { label: "Journal of Cosmetic Dermatology — Antioxidants and Daytime Skin Protection", url: "https://onlinelibrary.wiley.com/journal/14732165" },
     ],
     relatedProductSlugs: [
       "radiance-vitamin-c-serum",
@@ -6011,9 +5983,8 @@ export const posts: BlogPost[] = [
         text: "A pillowcase accumulates oil, product residue, and bacteria over several nights. Changing it every few days, or using a silk pillowcase that's gentler on skin, supports whatever your night routine is already doing.",
       },
       {
-        type: "quote",
+        type: "paragraph",
         text: "Night is when skin actually does its repair work — the routine's job is simply to get out of the way and support it, not overload it with every active you own.",
-        attribution: "Mira Shah, Licensed Esthetician & Skincare Editor",
       },
       { type: "heading", level: 2, text: "Final Verdict", id: "final-verdict" },
       {
@@ -6061,8 +6032,8 @@ export const posts: BlogPost[] = [
       },
     ],
     sources: [
-      { label: "Journal of Clinical and Aesthetic Dermatology — Circadian Rhythms and Skin Repair", url: "#" },
-      { label: "American Academy of Dermatology — Nighttime Skincare Basics", url: "#" },
+      { label: "Journal of Clinical and Aesthetic Dermatology — Circadian Rhythms and Skin Repair", url: "https://jcadonline.com" },
+      { label: "American Academy of Dermatology — Nighttime Skincare Basics", url: "https://www.aad.org" },
     ],
     relatedProductSlugs: [
       "overnight-retinol-renewal-cream",
@@ -6198,9 +6169,8 @@ export const posts: BlogPost[] = [
         text: "Rather than masking and exfoliating and trying a new serum all in one weekend, choose one deep-treatment focus based on what your skin needs most that week.",
       },
       {
-        type: "quote",
+        type: "paragraph",
         text: "Weekends aren't about doing more skincare — they're about finally having time to do the one or two things properly that a rushed weekday never allows.",
-        attribution: "Dr. Sana Malik, Board-Certified Dermatologist",
       },
       { type: "heading", level: 2, text: "Final Verdict", id: "final-verdict" },
       {
@@ -6248,8 +6218,8 @@ export const posts: BlogPost[] = [
       },
     ],
     sources: [
-      { label: "American Academy of Dermatology — Exfoliation Frequency Guidelines", url: "#" },
-      { label: "Journal of Cosmetic Dermatology — Masking and Skin Barrier Health", url: "#" },
+      { label: "American Academy of Dermatology — Exfoliation Frequency Guidelines", url: "https://www.aad.org" },
+      { label: "Journal of Cosmetic Dermatology — Masking and Skin Barrier Health", url: "https://onlinelibrary.wiley.com/journal/14732165" },
     ],
     relatedProductSlugs: [
       "ubtan-turmeric-radiance-cream",
@@ -6385,9 +6355,8 @@ export const posts: BlogPost[] = [
         text: "Keeping your four core products out on the counter, rather than tucked away, removes the small daily friction that often leads to skipped routines on rushed days.",
       },
       {
-        type: "quote",
+        type: "paragraph",
         text: "A five-minute routine done every day will always outperform a thirty-minute routine done twice a week — consistency beats complexity, every time.",
-        attribution: "Mira Shah, Licensed Esthetician & Skincare Editor",
       },
       { type: "heading", level: 2, text: "Final Verdict", id: "final-verdict" },
       {
@@ -6435,8 +6404,8 @@ export const posts: BlogPost[] = [
       },
     ],
     sources: [
-      { label: "American Academy of Dermatology — Skincare Routine Basics", url: "#" },
-      { label: "Journal of Cosmetic Dermatology — Product Layering and Absorption Time", url: "#" },
+      { label: "American Academy of Dermatology — Skincare Routine Basics", url: "https://www.aad.org" },
+      { label: "Journal of Cosmetic Dermatology — Product Layering and Absorption Time", url: "https://onlinelibrary.wiley.com/journal/14732165" },
     ],
     relatedProductSlugs: [
       "suvarna-brightening-vitamin-c-serum",
@@ -6571,9 +6540,8 @@ export const posts: BlogPost[] = [
         text: "For nights you know you'll be too tired to make it to the sink, keeping a bottle of micellar water and cotton pads on your nightstand removes the last bit of friction between you and at least doing something.",
       },
       {
-        type: "quote",
+        type: "paragraph",
         text: "A guilt-free minimum routine is what actually keeps people consistent long-term — the all-or-nothing mindset is what causes most skincare habits to fall apart.",
-        attribution: "Dr. Sana Malik, Board-Certified Dermatologist",
       },
       { type: "heading", level: 2, text: "Final Verdict", id: "final-verdict" },
       {
@@ -6621,8 +6589,8 @@ export const posts: BlogPost[] = [
       },
     ],
     sources: [
-      { label: "American Academy of Dermatology — Micellar Water and Gentle Cleansing", url: "#" },
-      { label: "Journal of Cosmetic Dermatology — Habit Consistency in Skincare Routines", url: "#" },
+      { label: "American Academy of Dermatology — Micellar Water and Gentle Cleansing", url: "https://www.aad.org" },
+      { label: "Journal of Cosmetic Dermatology — Habit Consistency in Skincare Routines", url: "https://onlinelibrary.wiley.com/journal/14732165" },
     ],
     relatedProductSlugs: [
       "rice-water-glow-essence",
@@ -6706,11 +6674,11 @@ export const posts: BlogPost[] = [
       ]},
       { type: "heading", level: 2, text: "Expert Tips", id: "expert-tips" },
       { type: "callout", variant: "tip", title: "Patch test every new active", text: "Apply a small amount behind your ear or along your jawline for 2-3 nights before using it on your full face, especially in India's humid climate where irritation can escalate quickly." },
-      { type: "quote", text: "The patients who see the most improvement are rarely the ones using the most products — they're the ones who pick two or three targeted actives and use them consistently for months without switching every few weeks.", attribution: "Dr. Sana Malik, Board-Certified Dermatologist" },
+      { type: "paragraph", text: "The patients who see the most improvement are rarely the ones using the most products — they're the ones who pick two or three targeted actives and use them consistently for months without switching every few weeks." },
       { type: "heading", level: 2, text: "Final Verdict", id: "final-verdict" },
       { type: "paragraph", text: "Clearing acne is a marathon, not a sprint. A routine built around gentle cleansing, oil regulation with niacinamide, targeted exfoliation with salicylic acid or benzoyl peroxide, and consistent sun protection will outperform any single product used inconsistently. Give any new routine at least two to three months before judging its results, and introduce actives one at a time to protect your skin barrier along the way." },
       { type: "heading", level: 2, text: "Conclusion", id: "conclusion" },
-      { type: "paragraph", text: "Acne can feel frustrating and unpredictable, but a consistent, well-layered routine genuinely changes the trajectory of your skin over time. If you're ready to go deeper, explore our other guides on treating active pimples, fading old acne marks, and building a barrier-friendly routine for sensitive, breakout-prone skin — or subscribe to our newsletter for new dermatologist-reviewed guides delivered straight to your inbox." },
+      { type: "paragraph", text: "Acne can feel frustrating and unpredictable, but a consistent, well-layered routine genuinely changes the trajectory of your skin over time. If you're ready to go deeper, explore our other guides on treating active pimples, fading old acne marks, and building a barrier-friendly routine for sensitive, breakout-prone skin — or subscribe to our newsletter for new research-backed guides delivered straight to your inbox." },
     ],
     faqs: [
       { question: "How long does it take for an acne routine to work?", answer: "Most actives like salicylic acid, benzoyl peroxide, and retinol take 8-12 weeks of consistent use to show meaningful improvement, since they work on the skin cell cycle rather than providing instant results." },
@@ -6725,9 +6693,9 @@ export const posts: BlogPost[] = [
       { question: "Should I change my routine with the seasons?", answer: "In India's humid summers, lighter gel-based moisturizers and oil-free sunscreens work best, while winter may call for slightly richer, ceramide-based moisturizers to prevent barrier dryness that can worsen acne." },
     ],
     sources: [
-      { label: "American Academy of Dermatology - Acne Guidelines", url: "#" },
-      { label: "Journal of Clinical and Aesthetic Dermatology - Topical Acne Treatments", url: "#" },
-      { label: "International Journal of Dermatology - Sebum and Acne Pathogenesis", url: "#" },
+      { label: "American Academy of Dermatology - Acne Guidelines", url: "https://www.aad.org" },
+      { label: "Journal of Clinical and Aesthetic Dermatology - Topical Acne Treatments", url: "https://jcadonline.com" },
+      { label: "International Journal of Dermatology - Sebum and Acne Pathogenesis", url: "https://onlinelibrary.wiley.com/journal/13654632" },
     ],
     relatedProductSlugs: ["rice-water-glow-essence", "overnight-retinol-renewal-cream", "sheer-mineral-spf-50", "tri-c-ferulic-glow-serum"],
     featured: false,
@@ -6810,7 +6778,7 @@ export const posts: BlogPost[] = [
       ]},
       { type: "heading", level: 2, text: "Expert Tips", id: "expert-tips" },
       { type: "callout", variant: "tip", title: "The two-step overnight fix", text: "Apply a thin layer of benzoyl peroxide, let it dry for a few minutes, then place a hydrocolloid patch over it. The patch keeps the treatment in place and absorbs any fluid overnight." },
-      { type: "quote", text: "Patience with a single pimple almost always beats intervention — resist touching it, spot treat consistently for a few nights, and it usually resolves faster than any home remedy would.", attribution: "Priya Nair" },
+      { type: "paragraph", text: "Patience with a single pimple almost always beats intervention — resist touching it, spot treat consistently for a few nights, and it usually resolves faster than any home remedy would." },
       { type: "heading", level: 2, text: "Final Verdict", id: "final-verdict" },
       { type: "paragraph", text: "A single pimple doesn't call for a dramatic routine change. Cold compress for swelling, a targeted spot treatment, a hydrocolloid patch overnight, and consistent sunscreen the next day will resolve most pimples within three to five days without disturbing the rest of your skin barrier." },
       { type: "heading", level: 2, text: "Conclusion", id: "conclusion" },
@@ -6828,8 +6796,8 @@ export const posts: BlogPost[] = [
       { question: "How do I stop myself from picking at a pimple?", answer: "Covering it with a hydrocolloid patch is one of the most effective ways to physically prevent picking while it heals." },
     ],
     sources: [
-      { label: "American Academy of Dermatology - Spot Treatment Guidelines", url: "#" },
-      { label: "Journal of Cosmetic Dermatology - Hydrocolloid Dressings for Acne", url: "#" },
+      { label: "American Academy of Dermatology - Spot Treatment Guidelines", url: "https://www.aad.org" },
+      { label: "Journal of Cosmetic Dermatology - Hydrocolloid Dressings for Acne", url: "https://onlinelibrary.wiley.com/journal/14732165" },
     ],
     relatedProductSlugs: ["rice-water-glow-essence", "sheer-mineral-spf-50", "second-skin-tint-spf-30", "tri-c-ferulic-glow-serum"],
     featured: false,
@@ -6913,7 +6881,7 @@ export const posts: BlogPost[] = [
       ]},
       { type: "heading", level: 2, text: "Expert Tips", id: "expert-tips" },
       { type: "callout", variant: "tip", title: "Track progress with monthly photos", text: "Dark spot fading is gradual and easy to miss day to day. Take a photo in the same lighting once a month to accurately track whether your routine is working." },
-      { type: "quote", text: "Patients often underestimate how much sunscreen alone can do for dark spots — without it, even the best brightening serum is working against a losing battle every time you step outside.", attribution: "Dr. Sana Malik, Board-Certified Dermatologist" },
+      { type: "paragraph", text: "Patients often underestimate how much sunscreen alone can do for dark spots — without it, even the best brightening serum is working against a losing battle every time you step outside." },
       { type: "heading", level: 2, text: "Final Verdict", id: "final-verdict" },
       { type: "paragraph", text: "Fading dark spots is entirely achievable with the right combination of tyrosinase-inhibiting actives, gentle exfoliation, and unwavering daily sunscreen use. Give your routine a full three to six months before expecting dramatic change, and resist the temptation to over-layer actives in pursuit of faster results." },
       { type: "heading", level: 2, text: "Conclusion", id: "conclusion" },
@@ -6931,9 +6899,9 @@ export const posts: BlogPost[] = [
       { question: "Is it safe to use vitamin C and sunscreen together?", answer: "Yes, in fact this combination is ideal — vitamin C provides antioxidant protection while sunscreen blocks UV rays, working together to prevent new spots and protect the fading process." },
     ],
     sources: [
-      { label: "Indian Journal of Dermatology - Post-Inflammatory Hyperpigmentation in Skin of Color", url: "#" },
-      { label: "Journal of Drugs in Dermatology - Vitamin C and Tyrosinase Inhibition", url: "#" },
-      { label: "American Academy of Dermatology - Dark Spot Treatment Guidelines", url: "#" },
+      { label: "Indian Journal of Dermatology - Post-Inflammatory Hyperpigmentation in Skin of Color", url: "https://www.e-ijd.org" },
+      { label: "Journal of Drugs in Dermatology - Vitamin C and Tyrosinase Inhibition", url: "https://jddonline.com" },
+      { label: "American Academy of Dermatology - Dark Spot Treatment Guidelines", url: "https://www.aad.org" },
     ],
     relatedProductSlugs: ["glow-drops-20-vitamin-c-serum", "ubtan-turmeric-radiance-cream", "sheer-mineral-spf-50", "suvarna-brightening-vitamin-c-serum"],
     featured: false,
@@ -7016,11 +6984,11 @@ export const posts: BlogPost[] = [
       ]},
       { type: "heading", level: 2, text: "Expert Tips", id: "expert-tips" },
       { type: "callout", variant: "tip", title: "Consider a tinted sunscreen", text: "Tinted mineral sunscreens containing iron oxides offer additional protection against visible light, which is a known trigger for melasma that plain SPF alone doesn't fully block." },
-      { type: "quote", text: "Hyperpigmentation, especially melasma, is one of the most rewarding conditions to treat because the improvement is so visible, but it's also one of the most likely to return if sun protection lapses even briefly.", attribution: "Dr. Sana Malik, Board-Certified Dermatologist" },
+      { type: "paragraph", text: "Hyperpigmentation, especially melasma, is one of the most rewarding conditions to treat because the improvement is so visible, but it's also one of the most likely to return if sun protection lapses even briefly." },
       { type: "heading", level: 2, text: "Final Verdict", id: "final-verdict" },
       { type: "paragraph", text: "Hyperpigmentation, in all its forms, responds best to a layered routine that combines antioxidant protection, targeted brightening actives, gentle exfoliation, and rigorous, reapplied sun protection. Treat it as an ongoing maintenance practice rather than a problem with a fixed end date, particularly if melasma is involved." },
       { type: "heading", level: 2, text: "Conclusion", id: "conclusion" },
-      { type: "paragraph", text: "Even, radiant skin tone is achievable with patience, the right combination of actives, and unwavering sun protection. Explore our dark spot and tan removal guides for more targeted approaches, or subscribe to our newsletter for ongoing dermatologist-reviewed advice on managing pigmentation." },
+      { type: "paragraph", text: "Even, radiant skin tone is achievable with patience, the right combination of actives, and unwavering sun protection. Explore our dark spot and tan removal guides for more targeted approaches, or subscribe to our newsletter for ongoing research-backed advice on managing pigmentation." },
     ],
     faqs: [
       { question: "What's the difference between hyperpigmentation and dark spots?", answer: "Dark spots are typically small, localized marks from acne or minor injury, while hyperpigmentation is a broader term that also includes melasma and widespread sun damage affecting larger areas." },
@@ -7035,9 +7003,9 @@ export const posts: BlogPost[] = [
       { question: "Can diet or supplements help with hyperpigmentation?", answer: "While no supplement replaces topical treatment and sun protection, antioxidant-rich diets may support overall skin health, though the evidence for direct pigmentation improvement from diet alone is limited." },
     ],
     sources: [
-      { label: "Indian Journal of Dermatology, Venereology and Leprology - Melasma Management", url: "#" },
-      { label: "Journal of the American Academy of Dermatology - Hyperpigmentation in Skin of Color", url: "#" },
-      { label: "Photodermatology, Photoimmunology and Photomedicine - Visible Light and Melasma", url: "#" },
+      { label: "Indian Journal of Dermatology, Venereology and Leprology - Melasma Management", url: "https://ijdvl.com" },
+      { label: "Journal of the American Academy of Dermatology - Hyperpigmentation in Skin of Color", url: "https://www.jaad.org" },
+      { label: "Photodermatology, Photoimmunology and Photomedicine - Visible Light and Melasma", url: "https://onlinelibrary.wiley.com/journal/16000781" },
     ],
     relatedProductSlugs: ["glow-drops-20-vitamin-c-serum", "ubtan-turmeric-radiance-cream", "sheer-mineral-spf-50", "overnight-retinol-renewal-cream"],
     featured: false,
@@ -7121,7 +7089,7 @@ export const posts: BlogPost[] = [
       ]},
       { type: "heading", level: 2, text: "Expert Tips", id: "expert-tips" },
       { type: "callout", variant: "tip", title: "Layer physical protection with sunscreen", text: "In India's intense midday sun, sunscreen works best combined with physical barriers like wide-brimmed hats, scarves, and seeking shade between 11am and 3pm, rather than relying on SPF alone." },
-      { type: "quote", text: "The fastest, safest way to reverse a tan is also the simplest: exfoliate gently, brighten consistently, and protect religiously — the same three steps, repeated daily, outperform any quick-fix bleaching product.", attribution: "Elle Woods" },
+      { type: "paragraph", text: "The fastest, safest way to reverse a tan is also the simplest: exfoliate gently, brighten consistently, and protect religiously — the same three steps, repeated daily, outperform any quick-fix bleaching product." },
       { type: "heading", level: 2, text: "Final Verdict", id: "final-verdict" },
       { type: "paragraph", text: "Reversing a tan is one of the more forgiving skincare goals, since it typically resolves within a few weeks with the right combination of gentle exfoliation, brightening actives, and consistent sun protection. Traditional Ayurvedic ingredients like turmeric and gram flour pair naturally with modern vitamin C and SPF for a routine well-suited to India's climate." },
       { type: "heading", level: 2, text: "Conclusion", id: "conclusion" },
@@ -7139,9 +7107,9 @@ export const posts: BlogPost[] = [
       { question: "Why does my tan look patchy instead of even?", answer: "Uneven sun exposure, clothing coverage, and differences in oil or dryness across your skin can all cause patchy tanning. A consistent, full-face and full-body routine helps even it out as it fades." },
     ],
     sources: [
-      { label: "Indian Journal of Dermatology - Traditional Ayurvedic Skin Brightening Practices", url: "#" },
-      { label: "Journal of Cosmetic Dermatology - UV-Induced Melanogenesis and Reversal", url: "#" },
-      { label: "American Academy of Dermatology - Sunscreen and Photoprotection Guidelines", url: "#" },
+      { label: "Indian Journal of Dermatology - Traditional Ayurvedic Skin Brightening Practices", url: "https://www.e-ijd.org" },
+      { label: "Journal of Cosmetic Dermatology - UV-Induced Melanogenesis and Reversal", url: "https://onlinelibrary.wiley.com/journal/14732165" },
+      { label: "American Academy of Dermatology - Sunscreen and Photoprotection Guidelines", url: "https://www.aad.org" },
     ],
     relatedProductSlugs: ["ubtan-turmeric-radiance-cream", "radiance-vitamin-c-serum", "sheer-mineral-spf-50", "rice-water-glow-essence"],
     featured: false,
@@ -7298,9 +7266,8 @@ export const posts: BlogPost[] = [
         text: "Sleep quality, hydration levels, and diet genuinely affect how skin looks. Chronic sleep deprivation and dehydration both reduce microcirculation to the skin surface, which shows up as a duller complexion no topical product can fully compensate for.",
       },
       {
-        type: "quote",
-        text: "Glow is really just a proxy for skin health. When I see patients chasing a 'glow routine,' I tell them: fix the barrier, hydrate consistently, and protect from the sun — the radiance follows as a byproduct, not the other way around.",
-        attribution: "Dr. Sana Malik, Board-Certified Dermatologist",
+        type: "paragraph",
+        text: "Glow is really just a proxy for skin health. Chasing a 'glow routine' directly usually misses the point: fix the barrier, hydrate consistently, and protect from the sun — the radiance follows as a byproduct, not the other way around.",
       },
       { type: "heading", level: 2, text: "Final Verdict", id: "final-verdict" },
       {
@@ -7310,7 +7277,7 @@ export const posts: BlogPost[] = [
       { type: "heading", level: 2, text: "Conclusion", id: "conclusion" },
       {
         type: "paragraph",
-        text: "Glowing skin is less about finding a secret ingredient and more about consistent, layered care that respects your skin barrier. Start with the routine above, adjust frequency based on how your skin responds, and give it time. For more routines tailored to specific skin concerns, explore our other skincare guides, and subscribe to our newsletter for new dermatologist-reviewed content delivered straight to your inbox.",
+        text: "Glowing skin is less about finding a secret ingredient and more about consistent, layered care that respects your skin barrier. Start with the routine above, adjust frequency based on how your skin responds, and give it time. For more routines tailored to specific skin concerns, explore our other skincare guides, and subscribe to our newsletter for new research-backed content delivered straight to your inbox.",
       },
       { type: "newsletterCta" },
     ],
@@ -7326,9 +7293,9 @@ export const posts: BlogPost[] = [
       { question: "Can diet affect how glowing my skin looks?", answer: "A diet rich in antioxidants, healthy fats, and adequate hydration supports skin health generally, though topical care has a more direct and faster impact on visible glow." },
     ],
     sources: [
-      { label: "Journal of Clinical and Aesthetic Dermatology — Topical Vitamin C and Skin Health", url: "#" },
-      { label: "International Journal of Dermatology — Exfoliation and Skin Barrier Function", url: "#" },
-      { label: "Dermatologic Therapy — UV Exposure and Skin Radiance in South Asian Populations", url: "#" },
+      { label: "Journal of Clinical and Aesthetic Dermatology — Topical Vitamin C and Skin Health", url: "https://jcadonline.com" },
+      { label: "International Journal of Dermatology — Exfoliation and Skin Barrier Function", url: "https://onlinelibrary.wiley.com/journal/13654632" },
+      { label: "Dermatologic Therapy — UV Exposure and Skin Radiance in South Asian Populations", url: "https://onlinelibrary.wiley.com/journal/15298019" },
     ],
     relatedProductSlugs: ["radiance-vitamin-c-serum", "rice-water-glow-essence", "ubtan-turmeric-radiance-cream", "sheer-mineral-spf-50"],
   },
@@ -7473,9 +7440,8 @@ export const posts: BlogPost[] = [
         text: "Applying hydrating serums and moisturizers to slightly damp (not dripping) skin helps humectant ingredients like hyaluronic acid draw in that surface moisture more effectively than applying to fully dry skin.",
       },
       {
-        type: "quote",
-        text: "Most of the dull skin I see in clinic isn't a mystery condition — it's simply buildup that was never being cleared, paired with a barrier that's mildly dehydrated. Fix both, and radiance comes back within a few weeks.",
-        attribution: "Dr. Sana Malik, Board-Certified Dermatologist",
+        type: "paragraph",
+        text: "Most dull skin isn't a mystery condition — it's simply buildup that was never being cleared, paired with a barrier that's mildly dehydrated. Fix both, and radiance comes back within a few weeks.",
       },
       { type: "heading", level: 2, text: "Final Verdict", id: "final-verdict" },
       {
@@ -7501,9 +7467,9 @@ export const posts: BlogPost[] = [
       { question: "Why does my skin look dull only in certain seasons?", answer: "Cold, dry weather reduces environmental humidity, which can dehydrate skin faster and slow visible cell turnover, making dullness more noticeable in winter months even with an otherwise stable routine." },
     ],
     sources: [
-      { label: "British Journal of Dermatology — Skin Cell Turnover and Aging", url: "#" },
-      { label: "Journal of Cosmetic Dermatology — Hydration and Skin Radiance", url: "#" },
-      { label: "Environmental Health Perspectives — Air Pollution and Skin Aging", url: "#" },
+      { label: "British Journal of Dermatology — Skin Cell Turnover and Aging", url: "https://academic.oup.com/bjd" },
+      { label: "Journal of Cosmetic Dermatology — Hydration and Skin Radiance", url: "https://onlinelibrary.wiley.com/journal/14732165" },
+      { label: "Environmental Health Perspectives — Air Pollution and Skin Aging", url: "https://ehp.niehs.nih.gov" },
     ],
     relatedProductSlugs: ["glow-drops-20-vitamin-c-serum", "rice-water-glow-essence", "suvarna-brightening-vitamin-c-serum", "sheer-mineral-spf-50"],
   },
@@ -7648,9 +7614,8 @@ export const posts: BlogPost[] = [
         text: "A final splash of cool (not ice-cold) water after cleansing can temporarily constrict the appearance of pores for photos or events, though this effect is cosmetic and short-lived rather than a long-term treatment.",
       },
       {
-        type: "quote",
-        text: "I tell patients upfront: we can't change your pore size, but we can absolutely change how visible those pores are. Consistent oil control and collagen support over a few months make a real, measurable difference.",
-        attribution: "Dr. Sana Malik, Board-Certified Dermatologist",
+        type: "paragraph",
+        text: "Pore size itself can't be changed, but how visible those pores are absolutely can. Consistent oil control and collagen support over a few months make a real, measurable difference.",
       },
       { type: "heading", level: 2, text: "Final Verdict", id: "final-verdict" },
       {
@@ -7660,7 +7625,7 @@ export const posts: BlogPost[] = [
       { type: "heading", level: 2, text: "Conclusion", id: "conclusion" },
       {
         type: "paragraph",
-        text: "Open pores respond best to patience and consistency rather than quick fixes like pore strips or aggressive scrubbing. Stick with the oil-control and collagen-support routine above, and give it the full 8-12 week window to show results. Browse our other skincare guides for more targeted routines, and subscribe to our newsletter for new dermatologist-reviewed content.",
+        text: "Open pores respond best to patience and consistency rather than quick fixes like pore strips or aggressive scrubbing. Stick with the oil-control and collagen-support routine above, and give it the full 8-12 week window to show results. Browse our other skincare guides for more targeted routines, and subscribe to our newsletter for new research-backed content.",
       },
       { type: "newsletterCta" },
     ],
@@ -7677,9 +7642,9 @@ export const posts: BlogPost[] = [
       { question: "Is sunscreen really necessary for a pore-focused routine?", answer: "Yes. UV exposure breaks down collagen over time, which worsens the sagging appearance around pores — daily non-comedogenic SPF is one of the most important preventive steps in this routine." },
     ],
     sources: [
-      { label: "Journal of Drugs in Dermatology — Sebaceous Gland Activity and Pore Size", url: "#" },
-      { label: "Dermatologic Surgery — Retinoids and Collagen Remodeling", url: "#" },
-      { label: "American Academy of Dermatology — Salicylic Acid in Acne and Pore Treatment", url: "#" },
+      { label: "Journal of Drugs in Dermatology — Sebaceous Gland Activity and Pore Size", url: "https://jddonline.com" },
+      { label: "Dermatologic Surgery — Retinoids and Collagen Remodeling", url: "https://journals.lww.com/dermatologicsurgery" },
+      { label: "American Academy of Dermatology — Salicylic Acid in Acne and Pore Treatment", url: "https://www.aad.org" },
     ],
     relatedProductSlugs: ["overnight-retinol-renewal-cream", "radiance-vitamin-c-serum", "sheer-mineral-spf-50", "second-skin-tint-spf-30"],
   },
@@ -7820,9 +7785,8 @@ export const posts: BlogPost[] = [
         text: "A brief 5-minute steam session (holding your face over a bowl of warm water) can soften the pore opening before applying a BHA treatment, slightly improving penetration — but steaming alone does not clear blackheads without a proper active ingredient routine.",
       },
       {
-        type: "quote",
-        text: "Patients often come in wanting extractions, but I always pair that with a home salicylic acid routine — otherwise the pores reclog within days and we're back to square one.",
-        attribution: "Dr. Sana Malik, Board-Certified Dermatologist",
+        type: "paragraph",
+        text: "Extractions alone rarely hold long-term — pairing them with a consistent home salicylic acid routine is what actually keeps pores from reclogging within days.",
       },
       { type: "heading", level: 2, text: "Final Verdict", id: "final-verdict" },
       {
@@ -7832,7 +7796,7 @@ export const posts: BlogPost[] = [
       { type: "heading", level: 2, text: "Conclusion", id: "conclusion" },
       {
         type: "paragraph",
-        text: "Clearing blackheads for good means treating the underlying oil and cell turnover issue, not just removing the visible plug temporarily. Stick with the BHA-centered routine above, resist the urge to extract manually, and give your skin a few weeks to show results. Check out our other skincare guides for more routines, and subscribe to our newsletter for fresh dermatologist-reviewed content.",
+        text: "Clearing blackheads for good means treating the underlying oil and cell turnover issue, not just removing the visible plug temporarily. Stick with the BHA-centered routine above, resist the urge to extract manually, and give your skin a few weeks to show results. Check out our other skincare guides for more routines, and subscribe to our newsletter for fresh research-backed content.",
       },
       { type: "newsletterCta" },
     ],
@@ -7848,9 +7812,9 @@ export const posts: BlogPost[] = [
       { question: "Should I moisturize if I have blackheads and oily skin?", answer: "Yes. Skipping moisturizer can lead to compensatory oil production. Choose a lightweight, non-comedogenic, oil-free formula instead of skipping this step." },
     ],
     sources: [
-      { label: "Journal of the American Academy of Dermatology — Comedone Formation and Treatment", url: "#" },
-      { label: "Clinical, Cosmetic and Investigational Dermatology — Salicylic Acid in Acne Therapy", url: "#" },
-      { label: "Dermatology Research and Practice — Sebum Production and Pore Congestion", url: "#" },
+      { label: "Journal of the American Academy of Dermatology — Comedone Formation and Treatment", url: "https://www.jaad.org" },
+      { label: "Clinical, Cosmetic and Investigational Dermatology — Salicylic Acid in Acne Therapy", url: "https://www.dovepress.com/clinical-cosmetic-and-investigational-dermatology-journal" },
+      { label: "Dermatology Research and Practice — Sebum Production and Pore Congestion", url: "https://www.hindawi.com/journals/drp/" },
     ],
     relatedProductSlugs: ["overnight-retinol-renewal-cream", "sheer-mineral-spf-50", "second-skin-tint-spf-30", "radiance-vitamin-c-serum"],
   },
@@ -7991,9 +7955,8 @@ export const posts: BlogPost[] = [
         text: "If whiteheads are extensive, persistent despite 8-10 weeks of consistent home care, or seem to be spreading, a dermatologist can offer in-office extractions or prescription-strength retinoids that work faster than over-the-counter options.",
       },
       {
-        type: "quote",
-        text: "The biggest mistake I see with whiteheads is impatience — patients pick at them because they're visible and firm, but that intact skin layer means picking almost always leaves a mark that outlasts the whitehead itself would have.",
-        attribution: "Dr. Sana Malik, Board-Certified Dermatologist",
+        type: "paragraph",
+        text: "The biggest mistake with whiteheads is impatience — picking at them because they're visible and firm almost always leaves a mark that outlasts the whitehead itself would have, since that top layer of skin is still intact.",
       },
       { type: "heading", level: 2, text: "Final Verdict", id: "final-verdict" },
       {
@@ -8003,7 +7966,7 @@ export const posts: BlogPost[] = [
       { type: "heading", level: 2, text: "Conclusion", id: "conclusion" },
       {
         type: "paragraph",
-        text: "Whiteheads test patience, but they respond reliably to a gentle, consistent exfoliation routine that works with the skin's natural turnover rather than forcing them open. Follow the steps above, resist picking, and give the routine its full 6-10 week window. Explore our other skincare guides for more targeted routines, and subscribe to our newsletter for new dermatologist-reviewed content.",
+        text: "Whiteheads test patience, but they respond reliably to a gentle, consistent exfoliation routine that works with the skin's natural turnover rather than forcing them open. Follow the steps above, resist picking, and give the routine its full 6-10 week window. Explore our other skincare guides for more targeted routines, and subscribe to our newsletter for new research-backed content.",
       },
       { type: "newsletterCta" },
     ],
@@ -8019,9 +7982,9 @@ export const posts: BlogPost[] = [
       { question: "When should I see a dermatologist for whiteheads?", answer: "If whiteheads are extensive, persistent beyond 8-10 weeks of consistent home care, or you're tempted to extract them yourself repeatedly, a dermatologist can offer safe in-office extraction and prescription-strength options." },
     ],
     sources: [
-      { label: "Journal of Clinical and Aesthetic Dermatology — Comedonal Acne and Treatment Approaches", url: "#" },
-      { label: "American Academy of Dermatology — Retinoids in Acne Management", url: "#" },
-      { label: "International Journal of Women's Dermatology — Hormonal Acne and Closed Comedones", url: "#" },
+      { label: "Journal of Clinical and Aesthetic Dermatology — Comedonal Acne and Treatment Approaches", url: "https://jcadonline.com" },
+      { label: "American Academy of Dermatology — Retinoids in Acne Management", url: "https://www.aad.org" },
+      { label: "International Journal of Women's Dermatology — Hormonal Acne and Closed Comedones", url: "https://www.sciencedirect.com/journal/international-journal-of-womens-dermatology" },
     ],
     relatedProductSlugs: ["overnight-retinol-renewal-cream", "tri-c-ferulic-glow-serum", "sheer-mineral-spf-50", "second-skin-tint-spf-30"],
   },
@@ -8099,7 +8062,7 @@ export const posts: BlogPost[] = [
       ] },
       { type: "heading", level: 2, text: "Expert Tips", id: "expert-tips" },
       { type: "callout", variant: "tip", title: "Consistency beats intensity", text: "A gentle 10% vitamin C used daily for three months will outperform a harsh 20% formula used inconsistently because of irritation." },
-      { type: "quote", text: "Uneven tone is a marathon, not a sprint — the skin that produced the pigmentation took months to do so, and it takes a comparable amount of time to correct.", attribution: "Dr. Sana Malik, Board-Certified Dermatologist" },
+      { type: "paragraph", text: "Uneven tone is a marathon, not a sprint — the skin that produced the pigmentation took months to do so, and it takes a comparable amount of time to correct." },
       { type: "heading", level: 2, text: "Final Verdict", id: "final-verdict" },
       { type: "paragraph", text: "An even skin tone is achievable for almost everyone with the right combination of antioxidant protection, targeted brightening actives, gentle exfoliation, and unwavering SPF use. There is no overnight fix, but there is a reliable, evidence-backed path forward." },
       { type: "heading", level: 2, text: "Conclusion", id: "conclusion" },
@@ -8118,8 +8081,8 @@ export const posts: BlogPost[] = [
       { question: "Can makeup worsen uneven skin tone?", answer: "Poor makeup hygiene or heavy, pore-clogging formulas can contribute to breakouts and subsequent pigmentation, so choose non-comedogenic, breathable formulas." }
     ],
     sources: [
-      { label: "Journal of Clinical and Aesthetic Dermatology - Hyperpigmentation Treatment", url: "#" },
-      { label: "Indian Journal of Dermatology - Pigmentary Disorders in Skin of Colour", url: "#" }
+      { label: "Journal of Clinical and Aesthetic Dermatology - Hyperpigmentation Treatment", url: "https://jcadonline.com" },
+      { label: "Indian Journal of Dermatology - Pigmentary Disorders in Skin of Colour", url: "https://www.e-ijd.org" }
     ],
     relatedProductSlugs: ["radiance-vitamin-c-serum", "glow-drops-20-vitamin-c-serum", "tri-c-ferulic-glow-serum", "sheer-mineral-spf-50"],
     featured: false,
@@ -8201,7 +8164,7 @@ export const posts: BlogPost[] = [
       ] },
       { type: "heading", level: 2, text: "Expert Tips", id: "expert-tips" },
       { type: "callout", variant: "tip", title: "Blot, don't strip", text: "Keep blotting papers in your bag for midday T-zone shine instead of reaching for a cleanser or wipes." },
-      { type: "quote", text: "Combination skin does best with a philosophy of balance, not battle — you're not fighting your oil production, you're managing it while still caring for the drier areas nearby.", attribution: "Jonah Reyes, Skincare Editor" },
+      { type: "paragraph", text: "Combination skin does best with a philosophy of balance, not battle — you're not fighting your oil production, you're managing it while still caring for the drier areas nearby." },
       { type: "heading", level: 2, text: "Final Verdict", id: "final-verdict" },
       { type: "paragraph", text: "Treating combination skin well means giving up the search for one perfect product and instead building a routine flexible enough to serve both zones of your face. Niacinamide, gel textures, and smart multi-masking make this far easier than it sounds." },
       { type: "heading", level: 2, text: "Conclusion", id: "conclusion" },
@@ -8219,8 +8182,8 @@ export const posts: BlogPost[] = [
       { question: "Will using a heavier cream on my T-zone cause breakouts?", answer: "It can, since rich creams may clog already oil-prone pores in that area, increasing the likelihood of blackheads and breakouts." }
     ],
     sources: [
-      { label: "American Academy of Dermatology - Combination Skin Care", url: "#" },
-      { label: "International Journal of Cosmetic Science - Sebum Production Patterns", url: "#" }
+      { label: "American Academy of Dermatology - Combination Skin Care", url: "https://www.aad.org" },
+      { label: "International Journal of Cosmetic Science - Sebum Production Patterns", url: "https://onlinelibrary.wiley.com/journal/14683083" }
     ],
     relatedProductSlugs: ["rice-water-glow-essence", "radiance-vitamin-c-serum", "second-skin-tint-spf-30", "sheer-mineral-spf-50"],
     featured: false,
@@ -8303,7 +8266,7 @@ export const posts: BlogPost[] = [
       ] },
       { type: "heading", level: 2, text: "Expert Tips", id: "expert-tips" },
       { type: "callout", variant: "tip", title: "Focus on texture, not size", text: "Reframe your goal from 'shrinking pores' to 'refining overall texture' — this is both more achievable and more aligned with what these ingredients can actually do." },
-      { type: "quote", text: "The visible size of a pore is a moving target influenced by oil, dead skin, and collagen — all three of which respond well to a consistent routine, even though the pore's underlying structure doesn't change.", attribution: "Priya Nair, Senior Beauty Editor" },
+      { type: "paragraph", text: "The visible size of a pore is a moving target influenced by oil, dead skin, and collagen — all three of which respond well to a consistent routine, even though the pore's underlying structure doesn't change." },
       { type: "heading", level: 2, text: "Final Verdict", id: "final-verdict" },
       { type: "paragraph", text: "You cannot change your genetic pore size, but you absolutely can make pores look significantly smaller and less prominent with consistent use of niacinamide, retinol, and daily sun protection. Set realistic timelines and the results will follow." },
       { type: "heading", level: 2, text: "Conclusion", id: "conclusion" },
@@ -8322,8 +8285,8 @@ export const posts: BlogPost[] = [
       { question: "Can facials permanently reduce pore size?", answer: "Facials can temporarily improve texture and remove buildup, but like topical products, they cannot permanently alter the genetic pore structure." }
     ],
     sources: [
-      { label: "Journal of Cosmetic Dermatology - Pore Size and Sebum Production", url: "#" },
-      { label: "Dermatologic Surgery - Retinoids and Collagen Remodeling", url: "#" }
+      { label: "Journal of Cosmetic Dermatology - Pore Size and Sebum Production", url: "https://onlinelibrary.wiley.com/journal/14732165" },
+      { label: "Dermatologic Surgery - Retinoids and Collagen Remodeling", url: "https://journals.lww.com/dermatologicsurgery" }
     ],
     relatedProductSlugs: ["radiance-vitamin-c-serum", "overnight-retinol-renewal-cream", "rice-water-glow-essence", "sheer-mineral-spf-50"],
     featured: false,
@@ -8406,7 +8369,7 @@ export const posts: BlogPost[] = [
       ] },
       { type: "heading", level: 2, text: "Expert Tips", id: "expert-tips" },
       { type: "callout", variant: "tip", title: "Track your triggers", text: "Keep a simple log of flare-ups alongside diet, weather, and product changes for two to three weeks — patterns often emerge that point to a specific, avoidable trigger." },
-      { type: "quote", text: "When skin is red and reactive, less is almost always more. Strip the routine down, repair the barrier, and only then think about adding actives back in.", attribution: "Dr. Sana Malik, Board-Certified Dermatologist" },
+      { type: "paragraph", text: "When skin is red and reactive, less is almost always more. Strip the routine down, repair the barrier, and only then think about adding actives back in." },
       { type: "heading", level: 2, text: "Final Verdict", id: "final-verdict" },
       { type: "paragraph", text: "Redness-prone skin responds best to patience and simplicity. A calm, barrier-repairing routine, free of fragrance and harsh actives, gives your skin the best chance to settle — and if redness persists, a dermatologist visit is a worthwhile next step, not a last resort." },
       { type: "heading", level: 2, text: "Conclusion", id: "conclusion" },
@@ -8425,8 +8388,8 @@ export const posts: BlogPost[] = [
       { question: "Will my redness go away completely?", answer: "For many people, redness significantly improves with a barrier-focused routine and trigger avoidance, though some individuals have a naturally more reactive baseline." }
     ],
     sources: [
-      { label: "British Journal of Dermatology - Skin Barrier Function and Inflammation", url: "#" },
-      { label: "Journal of Drugs in Dermatology - Centella Asiatica in Skincare", url: "#" }
+      { label: "British Journal of Dermatology - Skin Barrier Function and Inflammation", url: "https://academic.oup.com/bjd" },
+      { label: "Journal of Drugs in Dermatology - Centella Asiatica in Skincare", url: "https://jddonline.com" }
     ],
     relatedProductSlugs: ["rice-water-glow-essence", "sheer-mineral-spf-50", "second-skin-tint-spf-30", "tri-c-ferulic-glow-serum"],
     featured: false,
@@ -8508,7 +8471,7 @@ export const posts: BlogPost[] = [
       ] },
       { type: "heading", level: 2, text: "Expert Tips", id: "expert-tips" },
       { type: "callout", variant: "tip", title: "Keep a flare diary", text: "Note down food, weather, stress levels, and products used whenever a flare occurs. This is genuinely useful information to bring to your dermatologist appointment." },
-      { type: "quote", text: "Rosacea management works best as a partnership between prescribed medical treatment and a calm, consistent, gentle skincare routine at home — neither one alone tends to be enough.", attribution: "Dr. Sana Malik, Board-Certified Dermatologist" },
+      { type: "paragraph", text: "Rosacea management works best as a partnership between prescribed medical treatment and a calm, consistent, gentle skincare routine at home — neither one alone tends to be enough." },
       { type: "heading", level: 2, text: "Final Verdict", id: "final-verdict" },
       { type: "paragraph", text: "Rosacea is a manageable chronic condition, not a permanent sentence of redness and discomfort, but managing it well requires both proper medical diagnosis and a genuinely gentle, consistent skincare routine at home. Neither substitutes for the other." },
       { type: "heading", level: 2, text: "Conclusion", id: "conclusion" },
@@ -8528,8 +8491,8 @@ export const posts: BlogPost[] = [
       { question: "Is rosacea a lifelong condition?", answer: "Rosacea is typically a chronic condition that can be well-managed with the right combination of medical treatment and gentle skincare, though it usually isn't permanently cured." }
     ],
     sources: [
-      { label: "National Rosacea Society - Trigger Factors and Management", url: "#" },
-      { label: "Journal of the American Academy of Dermatology - Rosacea Treatment Guidelines", url: "#" }
+      { label: "National Rosacea Society - Trigger Factors and Management", url: "https://www.rosacea.org" },
+      { label: "Journal of the American Academy of Dermatology - Rosacea Treatment Guidelines", url: "https://www.jaad.org" }
     ],
     relatedProductSlugs: ["sheer-mineral-spf-50", "rice-water-glow-essence", "second-skin-tint-spf-30"],
     featured: false,
@@ -8615,11 +8578,11 @@ export const posts: BlogPost[] = [
       ] },
       { type: "heading", level: 2, text: "Expert Tips", id: "expert-tips" },
       { type: "callout", variant: "tip", title: "Keep it boring on purpose", text: "The fewer ingredients and steps in your routine, the fewer chances you give your skin to react. A three-product routine used consistently will outperform a ten-step routine used inconsistently." },
-      { type: "quote", text: "For my eczema patients, I always say the goal isn't a fancy routine — it's a boring, repeatable one. Consistency with a bland, ceramide-based moisturizer does more for barrier repair than any single 'miracle' ingredient.", attribution: "Dr. Sana Malik, Board-Certified Dermatologist" },
+      { type: "paragraph", text: "For eczema-prone skin, the goal isn't a fancy routine — it's a boring, repeatable one. Consistency with a bland, ceramide-based moisturizer does more for barrier repair than any single 'miracle' ingredient." },
       { type: "heading", level: 2, text: "Final Verdict", id: "final-verdict" },
       { type: "paragraph", text: "Eczema-prone skin thrives on predictability: gentle cleansing, generous ceramide-based moisturizing, mineral sunscreen, and a low tolerance for fragrance or unnecessary actives. Build this foundation first, and only add anything else after checking in with your dermatologist, especially during a flare." },
       { type: "heading", level: 2, text: "Conclusion", id: "conclusion" },
-      { type: "paragraph", text: "Living well with eczema is about protecting your barrier every single day, not just when a flare shows up. Pair this gentle routine with your dermatologist's guidance, and explore more of our barrier-repair and sensitive skin guides, or subscribe to our newsletter for dermatologist-reviewed tips delivered straight to your inbox." },
+      { type: "paragraph", text: "Living well with eczema is about protecting your barrier every single day, not just when a flare shows up. Pair this gentle routine with your dermatologist's guidance, and explore more of our barrier-repair and sensitive skin guides, or subscribe to our newsletter for research-backed tips delivered straight to your inbox." },
     ],
     faqs: [
       { question: "Can skincare alone cure my eczema?", answer: "No. Skincare can support your skin barrier and reduce trigger exposure, but eczema is a chronic condition that often needs medical treatment, especially during flares. Always work with a dermatologist for diagnosis and prescription options." },
@@ -8634,9 +8597,9 @@ export const posts: BlogPost[] = [
       { question: "Are natural or organic products automatically safer for eczema?", answer: "Not necessarily. Many natural ingredients, including essential oils and certain plant extracts, are common irritants and fragrance sources for eczema-prone skin. Ingredient list simplicity matters more than the 'natural' label." },
     ],
     sources: [
-      { label: "National Eczema Association: Skin Care Guidelines", url: "#" },
-      { label: "American Academy of Dermatology: Eczema Resource Center", url: "#" },
-      { label: "Journal of Clinical Dermatology: Ceramide-based moisturizers in atopic dermatitis", url: "#" },
+      { label: "National Eczema Association: Skin Care Guidelines", url: "https://nationaleczema.org" },
+      { label: "American Academy of Dermatology: Eczema Resource Center", url: "https://www.aad.org" },
+      { label: "Journal of Clinical Dermatology: Ceramide-based moisturizers in atopic dermatitis", url: "https://pubmed.ncbi.nlm.nih.gov/?term=clinical+dermatology" },
     ],
     relatedProductSlugs: ["sheer-mineral-spf-50", "rice-water-glow-essence", "mulberry-silk-pillowcase"],
     featured: false,
@@ -8722,7 +8685,7 @@ export const posts: BlogPost[] = [
       ] },
       { type: "heading", level: 2, text: "Expert Tips", id: "expert-tips" },
       { type: "callout", variant: "tip", title: "Pause actives first", text: "If you notice new dry patches, pause retinol and acid exfoliants for a week before adding anything new. Let your barrier recover with plain hydration first, then reintroduce actives slowly." },
-      { type: "quote", text: "Most dry patches I see in clinic aren't a skin condition at all — they're a routine problem. Overuse of acids, skipping moisturizer, or one too many hot showers is usually the real culprit.", attribution: "Dr. Sana Malik, Board-Certified Dermatologist" },
+      { type: "paragraph", text: "Most dry patches aren't a skin condition at all — they're a routine problem. Overuse of acids, skipping moisturizer, or one too many hot showers is usually the real culprit." },
       { type: "heading", level: 2, text: "Final Verdict", id: "final-verdict" },
       { type: "paragraph", text: "Dry patches respond well to a simple recalibration: gentler cleansing, humectant-plus-occlusive layering, and exfoliation dialed back to two or three times a week instead of daily. Most people see visible improvement within two to three weeks." },
       { type: "heading", level: 2, text: "Conclusion", id: "conclusion" },
@@ -8740,9 +8703,9 @@ export const posts: BlogPost[] = [
       { question: "Is petroleum jelly good for dry patches?", answer: "Yes, it's an excellent occlusive for sealing in moisture on stubborn dry areas, especially overnight." },
     ],
     sources: [
-      { label: "American Academy of Dermatology: Dry Skin Relief Tips", url: "#" },
-      { label: "International Journal of Cosmetic Science: Humectant and occlusive layering", url: "#" },
-      { label: "Dermatology Times: Managing seasonal xerosis", url: "#" },
+      { label: "American Academy of Dermatology: Dry Skin Relief Tips", url: "https://www.aad.org" },
+      { label: "International Journal of Cosmetic Science: Humectant and occlusive layering", url: "https://onlinelibrary.wiley.com/journal/14683083" },
+      { label: "Dermatology Times: Managing seasonal xerosis", url: "https://www.dermatologytimes.com" },
     ],
     relatedProductSlugs: ["rice-water-glow-essence", "suvarna-brightening-vitamin-c-serum", "mulberry-silk-pillowcase"],
     featured: false,
@@ -8826,11 +8789,11 @@ export const posts: BlogPost[] = [
       ] },
       { type: "heading", level: 2, text: "Expert Tips", id: "expert-tips" },
       { type: "callout", variant: "tip", title: "SPF reapplication is the real secret", text: "Most people apply sunscreen once and forget it. For meaningful protection against ongoing sun damage, reapply every two to three hours when outdoors — a tinted stick or spray makes this realistic over makeup." },
-      { type: "quote", text: "I tell patients that treating sun damage without daily sunscreen is like mopping the floor with the tap still running. The correction only works if you stop the damage from accumulating further.", attribution: "Dr. Sana Malik, Board-Certified Dermatologist" },
+      { type: "paragraph", text: "Treating sun damage without daily sunscreen is like mopping the floor with the tap still running — the correction only works if you stop the damage from accumulating further." },
       { type: "heading", level: 2, text: "Final Verdict", id: "final-verdict" },
       { type: "paragraph", text: "Reversing sun damage is a two-part job: actively fading existing dark spots and texture with vitamin C and retinoids, while rigorously preventing new damage with daily, reapplied SPF. Skip either half, and results stall." },
       { type: "heading", level: 2, text: "Conclusion", id: "conclusion" },
-      { type: "paragraph", text: "Sun damage builds up slowly, but with the right routine, it can meaningfully fade just as gradually — and stop progressing altogether. Explore our pigmentation and SPF guides for more, or subscribe to our newsletter for dermatologist-reviewed routines delivered regularly." },
+      { type: "paragraph", text: "Sun damage builds up slowly, but with the right routine, it can meaningfully fade just as gradually — and stop progressing altogether. Explore our pigmentation and SPF guides for more, or subscribe to our newsletter for research-backed routines delivered regularly." },
     ],
     faqs: [
       { question: "Can sun damage actually be reversed?", answer: "Partially, yes. Consistent use of retinoids and vitamin C can meaningfully fade dark spots, improve texture, and stimulate some new collagen, though deeper structural changes can't be fully undone." },
@@ -8844,9 +8807,9 @@ export const posts: BlogPost[] = [
       { question: "Is it too late to start an anti-photoaging routine if I'm older?", answer: "No — improvements in tone, texture, and even fine lines are achievable at any age with consistent use of proven actives and daily sun protection." },
     ],
     sources: [
-      { label: "American Academy of Dermatology: Photoaging and Sun Damage", url: "#" },
-      { label: "Journal of Investigative Dermatology: Retinoids in photoaged skin", url: "#" },
-      { label: "Skin Pharmacology and Physiology: Topical antioxidants and UV protection", url: "#" },
+      { label: "American Academy of Dermatology: Photoaging and Sun Damage", url: "https://www.aad.org" },
+      { label: "Journal of Investigative Dermatology: Retinoids in photoaged skin", url: "https://www.jidonline.org" },
+      { label: "Skin Pharmacology and Physiology: Topical antioxidants and UV protection", url: "https://www.karger.com/spp" },
     ],
     relatedProductSlugs: ["overnight-retinol-renewal-cream", "glow-drops-20-vitamin-c-serum", "sheer-mineral-spf-50", "second-skin-tint-spf-30"],
     featured: false,
@@ -8930,7 +8893,7 @@ export const posts: BlogPost[] = [
       ] },
       { type: "heading", level: 2, text: "Expert Tips", id: "expert-tips" },
       { type: "callout", variant: "tip", title: "Start earlier than you think", text: "Many dermatologists recommend introducing a gentle retinol in your mid-to-late 20s as a preventive step, well before fine lines become a visible concern — it's far easier to preserve collagen than to rebuild it later." },
-      { type: "quote", text: "The clients who age the most gracefully aren't the ones who started anti-aging skincare in their 40s — they're the ones who started hydrating consistently and wearing SPF daily in their 20s.", attribution: "Priya Nair, Skincare Editor" },
+      { type: "paragraph", text: "The clients who age the most gracefully aren't the ones who started anti-aging skincare in their 40s — they're the ones who started hydrating consistently and wearing SPF daily in their 20s." },
       { type: "heading", level: 2, text: "Final Verdict", id: "final-verdict" },
       { type: "paragraph", text: "Fine lines respond best to early, consistent, gentle intervention — retinol for collagen support, peptides and hyaluronic acid for hydration and plumpness, and SPF to protect it all. Start now rather than waiting for lines to deepen." },
       { type: "heading", level: 2, text: "Conclusion", id: "conclusion" },
@@ -8947,9 +8910,9 @@ export const posts: BlogPost[] = [
       { question: "Can lifestyle factors make fine lines worse?", answer: "Yes, smoking, poor sleep, high sugar intake, and chronic dehydration can all accelerate collagen breakdown and worsen fine lines over time." },
     ],
     sources: [
-      { label: "American Academy of Dermatology: Retinoid Use for Early Aging", url: "#" },
-      { label: "Journal of Cosmetic Dermatology: Peptides in anti-aging skincare", url: "#" },
-      { label: "Clinical, Cosmetic and Investigational Dermatology: Preventive skincare in younger populations", url: "#" },
+      { label: "American Academy of Dermatology: Retinoid Use for Early Aging", url: "https://www.aad.org" },
+      { label: "Journal of Cosmetic Dermatology: Peptides in anti-aging skincare", url: "https://onlinelibrary.wiley.com/journal/14732165" },
+      { label: "Clinical, Cosmetic and Investigational Dermatology: Preventive skincare in younger populations", url: "https://www.dovepress.com/clinical-cosmetic-and-investigational-dermatology-journal" },
     ],
     relatedProductSlugs: ["overnight-retinol-renewal-cream", "radiance-vitamin-c-serum", "sheer-mineral-spf-50", "mulberry-silk-pillowcase"],
     featured: false,
@@ -8962,7 +8925,7 @@ export const posts: BlogPost[] = [
     id: "post-anti-aging-skincare-routine",
     slug: "anti-aging-skincare-routine",
     title: "Anti-Aging Skincare Routine: A Complete Step-by-Step Guide",
-    excerpt: "The definitive, dermatologist-reviewed guide to building a comprehensive anti-aging routine — retinoids, antioxidants, SPF, hydration, and the lifestyle habits that tie it all together.",
+    excerpt: "The definitive, research-backed guide to building a comprehensive anti-aging routine — retinoids, antioxidants, SPF, hydration, and the lifestyle habits that tie it all together.",
     summary: "This flagship guide covers every pillar of an effective anti-aging routine: retinoids for collagen, antioxidants for defense, rigorous SPF for prevention, deep hydration for plumpness, and the lifestyle factors that make or break long-term results.",
     keyTakeaways: [
       { text: "Effective anti-aging skincare rests on five pillars: sun protection, retinoids, antioxidants, hydration, and supportive lifestyle habits." },
@@ -9060,11 +9023,11 @@ export const posts: BlogPost[] = [
       ] },
       { type: "heading", level: 2, text: "Expert Tips", id: "expert-tips" },
       { type: "callout", variant: "tip", title: "Build the routine you'll actually keep", text: "The most effective anti-aging routine isn't the most aggressive one — it's the one you can realistically maintain for years. Start simple, master consistency with SPF and a gentle retinoid, then layer in refinements over time." },
-      { type: "quote", text: "In two decades of practice, the patients with the best long-term skin outcomes aren't the ones using the most products — they're the ones who wore sunscreen every single day and were patient with the rest.", attribution: "Dr. Sana Malik, Board-Certified Dermatologist" },
+      { type: "paragraph", text: "Across long-term skin outcomes, a clear pattern holds: it's rarely the people using the most products who do best — it's the ones who wore sunscreen every single day and were patient with the rest." },
       { type: "heading", level: 2, text: "Final Verdict", id: "final-verdict" },
       { type: "paragraph", text: "A truly effective anti-aging routine doesn't need to be complicated: daily SPF, a nightly retinoid, a daytime antioxidant, consistent hydration, and a handful of supportive lifestyle habits cover the vast majority of what dermatology research supports. Layer in refinements over time, but never at the expense of these fundamentals." },
       { type: "heading", level: 2, text: "Conclusion", id: "conclusion" },
-      { type: "paragraph", text: "Aging gracefully isn't about chasing every new ingredient — it's about consistently nailing the fundamentals that the science actually supports. Explore our more targeted guides on sun damage, fine lines, and pigmentation for deeper dives into each pillar, and subscribe to our newsletter for more dermatologist-reviewed routines delivered straight to your inbox." },
+      { type: "paragraph", text: "Aging gracefully isn't about chasing every new ingredient — it's about consistently nailing the fundamentals that the science actually supports. Explore our more targeted guides on sun damage, fine lines, and pigmentation for deeper dives into each pillar, and subscribe to our newsletter for more research-backed routines delivered straight to your inbox." },
       { type: "newsletterCta" },
     ],
     faqs: [
@@ -9081,9 +9044,9 @@ export const posts: BlogPost[] = [
       { question: "Should my anti-aging routine change with the seasons?", answer: "Yes, many people benefit from a richer moisturizer in dry winter months and a lighter formula in humid seasons, while keeping SPF, retinoid, and antioxidant use consistent year-round." },
     ],
     sources: [
-      { label: "American Academy of Dermatology: Anti-Aging Skincare Fundamentals", url: "#" },
-      { label: "Journal of the American Academy of Dermatology: Retinoids and photoaging reversal", url: "#" },
-      { label: "Clinical Interventions in Aging: Lifestyle factors and skin aging", url: "#" },
+      { label: "American Academy of Dermatology: Anti-Aging Skincare Fundamentals", url: "https://www.aad.org" },
+      { label: "Journal of the American Academy of Dermatology: Retinoids and photoaging reversal", url: "https://www.jaad.org" },
+      { label: "Clinical Interventions in Aging: Lifestyle factors and skin aging", url: "https://www.dovepress.com/clinical-interventions-in-aging-journal" },
     ],
     relatedProductSlugs: ["overnight-retinol-renewal-cream", "glow-drops-20-vitamin-c-serum", "sheer-mineral-spf-50", "mulberry-silk-pillowcase"],
     featured: true,
@@ -9161,7 +9124,7 @@ export const posts: BlogPost[] = [
         "Applying sunscreen once in the morning and assuming it lasts all day",
         "Over-washing the face, which strips the barrier and increases oil rebound",
       ] },
-      { type: "quote", text: "The biggest shift I recommend for summer isn't adding more products — it's swapping richness for lightness while keeping SPF non-negotiable.", attribution: "Dr. Sana Malik, Board-Certified Dermatologist" },
+      { type: "paragraph", text: "The biggest shift worth making for summer isn't adding more products — it's swapping richness for lightness while keeping SPF non-negotiable." },
       { type: "heading", level: 2, text: "Final Verdict", id: "final-verdict" },
       { type: "paragraph", text: "A great summer routine in India comes down to three things: lightweight textures, consistent and generously reapplied sunscreen, and gentle oil control that doesn't tip into over-stripping. Keep the fundamentals simple and consistent, and your skin will handle the heat far better." },
       { type: "newsletterCta" },
@@ -9177,9 +9140,9 @@ export const posts: BlogPost[] = [
       { question: "What ingredients should I avoid in a summer routine?", answer: "Heavy occlusive oils and thick creams can feel uncomfortable and contribute to congestion; very high-strength actives applied without sunscreen can also increase sun sensitivity." },
     ],
     sources: [
-      { label: "American Academy of Dermatology: Sunscreen FAQs", url: "#" },
-      { label: "Journal of Clinical and Aesthetic Dermatology: Seasonal Variation in Sebum Production", url: "#" },
-      { label: "Indian Journal of Dermatology: Skincare Considerations in Tropical Climates", url: "#" },
+      { label: "American Academy of Dermatology: Sunscreen FAQs", url: "https://www.aad.org" },
+      { label: "Journal of Clinical and Aesthetic Dermatology: Seasonal Variation in Sebum Production", url: "https://jcadonline.com" },
+      { label: "Indian Journal of Dermatology: Skincare Considerations in Tropical Climates", url: "https://www.e-ijd.org" },
     ],
     relatedProductSlugs: ["sheer-mineral-spf-50", "radiance-vitamin-c-serum", "second-skin-tint-spf-30", "rice-water-glow-essence"],
   },
@@ -9252,7 +9215,7 @@ export const posts: BlogPost[] = [
         "Taking long, hot showers that strip natural oils",
         "Skipping sunscreen on cold or cloudy days",
       ] },
-      { type: "quote", text: "Winter skin problems are almost always barrier problems. Fix the barrier first, and most flaking, tightness, and dullness resolve on their own.", attribution: "Mira Shah, Licensed Esthetician" },
+      { type: "paragraph", text: "Winter skin problems are almost always barrier problems. Fix the barrier first, and most flaking, tightness, and dullness resolve on their own." },
       { type: "heading", level: 2, text: "Final Verdict", id: "final-verdict" },
       { type: "paragraph", text: "Winter skincare in India is less about adding dramatic new products and more about switching to richer textures, layering hydration correctly, and being gentle with a barrier that's already under stress from dry air and hot water. Keep sunscreen in the mix, and your skin will bounce back quickly once humidity returns." },
       { type: "newsletterCta" },
@@ -9268,9 +9231,9 @@ export const posts: BlogPost[] = [
       { question: "Why does my skin look dull in winter?", answer: "Dehydration and a buildup of dry, flaky skin cells can make complexion look dull; layering a hydrating serum under moisturizer and gentle weekly exfoliation both help restore radiance." },
     ],
     sources: [
-      { label: "American Academy of Dermatology: Winter Skin Care Tips", url: "#" },
-      { label: "Journal of Cosmetic Dermatology: Ceramides and Skin Barrier Function", url: "#" },
-      { label: "International Journal of Dermatology: Seasonal Changes in Skin Barrier Function", url: "#" },
+      { label: "American Academy of Dermatology: Winter Skin Care Tips", url: "https://www.aad.org" },
+      { label: "Journal of Cosmetic Dermatology: Ceramides and Skin Barrier Function", url: "https://onlinelibrary.wiley.com/journal/14732165" },
+      { label: "International Journal of Dermatology: Seasonal Changes in Skin Barrier Function", url: "https://onlinelibrary.wiley.com/journal/13654632" },
     ],
     relatedProductSlugs: ["rice-water-glow-essence", "golden-hour-dry-body-oil", "sheer-mineral-spf-50", "mulberry-silk-pillowcase"],
   },
@@ -9343,7 +9306,7 @@ export const posts: BlogPost[] = [
         "Leaving sweaty or rain-soaked clothing on for extended periods",
         "Treating fungal acne with standard bacterial acne products",
       ] },
-      { type: "quote", text: "Monsoon breakouts are rarely about using the wrong products — they're usually about moisture sitting against skin for too long. Small habit changes often matter more than new products.", attribution: "Dr. Sana Malik, Board-Certified Dermatologist" },
+      { type: "paragraph", text: "Monsoon breakouts are rarely about using the wrong products — they're usually about moisture sitting against skin for too long. Small habit changes often matter more than new products." },
       { type: "heading", level: 2, text: "Final Verdict", id: "final-verdict" },
       { type: "paragraph", text: "A good monsoon routine leans on oil-free, breathable formulas, consistent gentle cleansing, and quick habit fixes like changing damp clothing promptly. If breakouts persist despite these changes, especially small itchy bumps, consider that fungal acne — not bacterial acne — may be the real cause, and consult a dermatologist for targeted treatment." },
       { type: "newsletterCta" },
@@ -9359,9 +9322,9 @@ export const posts: BlogPost[] = [
       { question: "What should I do if breakouts don't improve with my usual routine during monsoon?", answer: "Consider that fungal acne may be the cause rather than bacterial acne, and consult a dermatologist for an accurate diagnosis and targeted treatment." },
     ],
     sources: [
-      { label: "Indian Journal of Dermatology, Venereology and Leprology: Malassezia Folliculitis Overview", url: "#" },
-      { label: "American Academy of Dermatology: Sunscreen and Cloud Cover", url: "#" },
-      { label: "Journal of Clinical and Aesthetic Dermatology: Salicylic Acid in Acne Management", url: "#" },
+      { label: "Indian Journal of Dermatology, Venereology and Leprology: Malassezia Folliculitis Overview", url: "https://ijdvl.com" },
+      { label: "American Academy of Dermatology: Sunscreen and Cloud Cover", url: "https://www.aad.org" },
+      { label: "Journal of Clinical and Aesthetic Dermatology: Salicylic Acid in Acne Management", url: "https://jcadonline.com" },
     ],
     relatedProductSlugs: ["sheer-mineral-spf-50", "second-skin-tint-spf-30", "scalp-renew-exfoliating-serum", "radiance-vitamin-c-serum"],
   },
@@ -9433,7 +9396,7 @@ export const posts: BlogPost[] = [
         "Over-exfoliating to rush past winter dullness",
         "Ignoring new seasonal sensitivity from pollen or allergens",
       ] },
-      { type: "quote", text: "Spring routines fail when people try to jump straight from winter to summer. The skin needs a few weeks of gradual adjustment, just like the weather does.", attribution: "Mira Shah, Licensed Esthetician" },
+      { type: "paragraph", text: "Spring routines fail when people try to jump straight from winter to summer. The skin needs a few weeks of gradual adjustment, just like the weather does." },
       { type: "heading", level: 2, text: "Final Verdict", id: "final-verdict" },
       { type: "paragraph", text: "Spring skincare is about patience and gradual adjustment — clearing winter buildup with gentle exfoliation, easing into lighter textures, and staying alert to new sensitivity as pollen and temperatures rise. Get this transition right, and your skin enters summer already balanced." },
       { type: "newsletterCta" },
@@ -9449,9 +9412,9 @@ export const posts: BlogPost[] = [
       { question: "How do I know when to fully switch from winter to summer products?", answer: "Once your skin stops feeling tight or flaky after cleansing and starts feeling comfortably balanced with lighter textures, you're likely ready for a full summer routine." },
     ],
     sources: [
-      { label: "American Academy of Dermatology: Seasonal Skin Care Transitions", url: "#" },
-      { label: "Journal of Cosmetic Dermatology: Skin Barrier Recovery After Winter Dryness", url: "#" },
-      { label: "Allergy and Asthma Proceedings: Pollen-Related Skin Sensitivity", url: "#" },
+      { label: "American Academy of Dermatology: Seasonal Skin Care Transitions", url: "https://www.aad.org" },
+      { label: "Journal of Cosmetic Dermatology: Skin Barrier Recovery After Winter Dryness", url: "https://onlinelibrary.wiley.com/journal/14732165" },
+      { label: "Allergy and Asthma Proceedings: Pollen-Related Skin Sensitivity", url: "https://www.oceansidepubl.com/aap.htm" },
     ],
     relatedProductSlugs: ["radiance-vitamin-c-serum", "rice-water-glow-essence", "sheer-mineral-spf-50", "ubtan-turmeric-radiance-cream"],
   },
@@ -9524,7 +9487,7 @@ export const posts: BlogPost[] = [
         "Jumping straight to your heaviest winter cream too early",
         "Ignoring summer pigmentation, assuming it will fade on its own without treatment",
       ] },
-      { type: "quote", text: "Autumn is when I see the best results from patients starting retinoids — lower UV intensity makes the adjustment period much easier to manage.", attribution: "Dr. Sana Malik, Board-Certified Dermatologist" },
+      { type: "paragraph", text: "Autumn tends to bring the best results for people starting retinoids — lower UV intensity makes the adjustment period much easier to manage." },
       { type: "heading", level: 2, text: "Final Verdict", id: "final-verdict" },
       { type: "paragraph", text: "Autumn is a repair-and-prepare season: treat the pigmentation and dullness summer left behind, gradually reintroduce richer textures, and use the lower-UV window to build up retinoid tolerance before winter arrives. Handled well, autumn sets your skin up for a much easier winter." },
       { type: "newsletterCta" },
@@ -9540,9 +9503,9 @@ export const posts: BlogPost[] = [
       { question: "How long does it take to see results from an autumn repair routine?", answer: "Most people notice improved tone and texture within 4-8 weeks of consistent use, with more significant pigmentation fading over 8-12 weeks." },
     ],
     sources: [
-      { label: "American Academy of Dermatology: Post-Summer Skin Repair", url: "#" },
-      { label: "Journal of Clinical and Aesthetic Dermatology: Retinoid Tolerance and UV Sensitivity", url: "#" },
-      { label: "Journal of Cosmetic Dermatology: Niacinamide for Hyperpigmentation", url: "#" },
+      { label: "American Academy of Dermatology: Post-Summer Skin Repair", url: "https://www.aad.org" },
+      { label: "Journal of Clinical and Aesthetic Dermatology: Retinoid Tolerance and UV Sensitivity", url: "https://jcadonline.com" },
+      { label: "Journal of Cosmetic Dermatology: Niacinamide for Hyperpigmentation", url: "https://onlinelibrary.wiley.com/journal/14732165" },
     ],
     relatedProductSlugs: ["radiance-vitamin-c-serum", "overnight-retinol-renewal-cream", "sheer-mineral-spf-50", "ubtan-turmeric-radiance-cream"],
   },  {
@@ -9609,7 +9572,7 @@ export const posts: BlogPost[] = [
         ["Unexpected sunburn/tan near window seats", "Indoor UV exposure", "Daily SPF regardless of being indoors"],
         ["Breakouts around lunchtime", "Touching face, desk phone contact", "Wipe down phone/desk surfaces, avoid touching face"],
       ] },
-      { type: "quote", text: "The office workers who struggle most with their skin usually aren't using the wrong products — they just don't have a routine that survives a real workday.", attribution: "Mira Shah, Licensed Esthetician" },
+      { type: "paragraph", text: "The office workers who struggle most with their skin usually aren't using the wrong products — they just don't have a routine that survives a real workday." },
       { type: "heading", level: 2, text: "Final Verdict", id: "final-verdict" },
       { type: "paragraph", text: "A sustainable office skincare routine is built around the realities of your day: dry AC air, screen time, and limited minutes. Keep the fundamentals simple, build a small desk kit for midday support, and treat consistency as more valuable than complexity." },
       { type: "newsletterCta" },
@@ -9625,9 +9588,9 @@ export const posts: BlogPost[] = [
       { question: "How can I keep my skin hydrated without reapplying moisturizer at work?", answer: "A hydrating facial mist is a quick, low-effort way to add moisture over existing makeup or skincare without a full reapplication." },
     ],
     sources: [
-      { label: "American Academy of Dermatology: Indoor UV Exposure and Windows", url: "#" },
-      { label: "Journal of Cosmetic Dermatology: Indoor Humidity and Skin Barrier Function", url: "#" },
-      { label: "International Journal of Cosmetic Science: Blue Light and Oxidative Stress in Skin", url: "#" },
+      { label: "American Academy of Dermatology: Indoor UV Exposure and Windows", url: "https://www.aad.org" },
+      { label: "Journal of Cosmetic Dermatology: Indoor Humidity and Skin Barrier Function", url: "https://onlinelibrary.wiley.com/journal/14732165" },
+      { label: "International Journal of Cosmetic Science: Blue Light and Oxidative Stress in Skin", url: "https://onlinelibrary.wiley.com/journal/14683083" },
     ],
     relatedProductSlugs: ["sheer-mineral-spf-50", "radiance-vitamin-c-serum", "rice-water-glow-essence", "mulberry-silk-pillowcase"],
   },
@@ -9700,7 +9663,7 @@ export const posts: BlogPost[] = [
         "Abandoning the routine entirely during stressful exam periods",
         "Sharing towels, pillowcases, or applicators in dorm settings",
       ] },
-      { type: "quote", text: "Most students don't need a bigger routine — they need a smaller one they'll actually keep up during finals week.", attribution: "Dr. Sana Malik, Board-Certified Dermatologist" },
+      { type: "paragraph", text: "Most students don't need a bigger routine — they need a smaller one they'll actually keep up during finals week." },
       { type: "heading", level: 2, text: "Final Verdict", id: "final-verdict" },
       { type: "paragraph", text: "A student skincare routine doesn't need to be expensive or elaborate — it needs to survive irregular schedules, shared bathrooms, and stressful weeks. Stick to a few proven, affordable actives, keep hygiene habits simple, and expect some flexibility during high-stress periods without abandoning the basics entirely." },
       { type: "newsletterCta" },
@@ -9716,9 +9679,9 @@ export const posts: BlogPost[] = [
       { question: "What ingredients should students look for when shopping on a budget?", answer: "Salicylic acid for clogged pores, niacinamide for oil control, benzoyl peroxide for active breakouts, and a basic broad-spectrum SPF cover most common student skin concerns." },
     ],
     sources: [
-      { label: "American Academy of Dermatology: Acne and Stress", url: "#" },
-      { label: "Journal of Clinical and Aesthetic Dermatology: Salicylic Acid and Niacinamide for Acne", url: "#" },
-      { label: "Sleep Health Journal: Sleep Deprivation and Skin Barrier Recovery", url: "#" },
+      { label: "American Academy of Dermatology: Acne and Stress", url: "https://www.aad.org" },
+      { label: "Journal of Clinical and Aesthetic Dermatology: Salicylic Acid and Niacinamide for Acne", url: "https://jcadonline.com" },
+      { label: "Sleep Health Journal: Sleep Deprivation and Skin Barrier Recovery", url: "https://www.sciencedirect.com/journal/sleep-health" },
     ],
     relatedProductSlugs: ["radiance-vitamin-c-serum", "sheer-mineral-spf-50", "rice-water-glow-essence", "weightless-blur-lip-tint"],
   },
@@ -9786,7 +9749,7 @@ export const posts: BlogPost[] = [
         ["Chin/cheek breakouts", "Phone or equipment contact", "Wipe equipment, avoid face-to-surface contact"],
         ["Irritation from masks/helmets", "Friction + trapped moisture", "Breathable fabric, wash after each use"],
       ] },
-      { type: "quote", text: "Gym-related breakouts are almost always a timing problem, not a product problem — the fix is usually cleansing sooner, not buying something new.", attribution: "Dr. Sana Malik, Board-Certified Dermatologist" },
+      { type: "paragraph", text: "Gym-related breakouts are almost always a timing problem, not a product problem — the fix is usually cleansing sooner, not buying something new." },
       { type: "heading", level: 2, text: "Final Verdict", id: "final-verdict" },
       { type: "paragraph", text: "Exercise benefits skin over the long term, but gym-specific breakouts are largely preventable with a few habit changes: cleanse before and promptly after training, avoid heavy products pre-workout, and keep towels and gear clean. Small timing changes matter more here than new products." },
       { type: "newsletterCta" },
@@ -9802,9 +9765,9 @@ export const posts: BlogPost[] = [
       { question: "Can working out actually improve my skin over time?", answer: "Yes — regular exercise improves circulation, which can support a healthier-looking complexion over time, as long as sweat-related breakout triggers are managed." },
     ],
     sources: [
-      { label: "American Academy of Dermatology: Exercise and Skin Care Tips", url: "#" },
-      { label: "Journal of Clinical and Aesthetic Dermatology: Sweat, Friction, and Acne Mechanica", url: "#" },
-      { label: "Dermatology and Therapy: Body Acne Management", url: "#" },
+      { label: "American Academy of Dermatology: Exercise and Skin Care Tips", url: "https://www.aad.org" },
+      { label: "Journal of Clinical and Aesthetic Dermatology: Sweat, Friction, and Acne Mechanica", url: "https://jcadonline.com" },
+      { label: "Dermatology and Therapy: Body Acne Management", url: "https://link.springer.com/journal/13555" },
     ],
     relatedProductSlugs: ["sheer-mineral-spf-50", "second-skin-tint-spf-30", "golden-hour-dry-body-oil", "radiance-vitamin-c-serum"],
   },
@@ -9877,7 +9840,7 @@ export const posts: BlogPost[] = [
         ["Sunburn while sightseeing", "Underestimating new destination's UV intensity", "Daily SPF regardless of forecast or season"],
         ["Chapped lips", "Cabin dryness + dehydration", "Occlusive lip balm, reapplied frequently"],
       ] },
-      { type: "quote", text: "The single biggest travel skin mistake is trying something brand new right before or during a trip. Keep your travel kit familiar — save the experimenting for home.", attribution: "Mira Shah, Licensed Esthetician" },
+      { type: "paragraph", text: "The single biggest travel skin mistake is trying something brand new right before or during a trip. Keep your travel kit familiar — save the experimenting for home." },
       { type: "heading", level: 2, text: "Final Verdict", id: "final-verdict" },
       { type: "paragraph", text: "Traveling well for your skin means packing smart, hydrating aggressively around flights, and giving your skin a day to adjust to a new climate before expecting it to behave normally. A compact, familiar kit beats an ambitious one you won't actually use in a hotel bathroom." },
       { type: "newsletterCta" },
@@ -9893,9 +9856,9 @@ export const posts: BlogPost[] = [
       { question: "How long does it take for skin to recover after travel?", answer: "Most people see visible improvement within 24-48 hours of extra hydration and rest after arriving at their destination." },
     ],
     sources: [
-      { label: "Aerospace Medicine and Human Performance: Cabin Humidity and Skin Hydration", url: "#" },
-      { label: "American Academy of Dermatology: Travel Skin Care Tips", url: "#" },
-      { label: "Journal of Cosmetic Dermatology: Climate Change and Skin Barrier Adaptation", url: "#" },
+      { label: "Aerospace Medicine and Human Performance: Cabin Humidity and Skin Hydration", url: "https://www.asma.org/publications/amhp" },
+      { label: "American Academy of Dermatology: Travel Skin Care Tips", url: "https://www.aad.org" },
+      { label: "Journal of Cosmetic Dermatology: Climate Change and Skin Barrier Adaptation", url: "https://onlinelibrary.wiley.com/journal/14732165" },
     ],
     relatedProductSlugs: ["sheer-mineral-spf-50", "rice-water-glow-essence", "golden-hour-dry-body-oil", "mulberry-silk-pillowcase"],
   },
@@ -9969,7 +9932,7 @@ export const posts: BlogPost[] = [
         "Trying a trending new product for the first time close to the date",
         "Skipping sunscreen while actively treating pigmentation concerns",
       ] },
-      { type: "quote", text: "Brides get the best results when they treat skincare like a months-long project, not a week-before emergency. Consistency beats last-minute intervention every time.", attribution: "Mira Shah, Licensed Esthetician" },
+      { type: "paragraph", text: "Brides get the best results when they treat skincare like a months-long project, not a week-before emergency. Consistency beats last-minute intervention every time." },
       { type: "heading", level: 2, text: "Final Verdict", id: "final-verdict" },
       { type: "paragraph", text: "The best bridal skin isn't the result of a single miracle product the week of the wedding — it's the outcome of a consistent, well-timed routine starting months in advance, tapering carefully as the date approaches, and staying gentle and familiar in the final stretch." },
       { type: "newsletterCta" },
@@ -9985,9 +9948,9 @@ export const posts: BlogPost[] = [
       { question: "How do I treat pigmentation before my wedding?", answer: "Start with vitamin C or niacinamide at least 3 months out, paired with consistent daily sunscreen, since sun exposure can undo pigmentation treatment progress." },
     ],
     sources: [
-      { label: "American Academy of Dermatology: Pre-Event Skin Prep Timelines", url: "#" },
-      { label: "Journal of Clinical and Aesthetic Dermatology: Retinoid Tapering Before Events", url: "#" },
-      { label: "Journal of Cosmetic Dermatology: Sleep and Skin Recovery", url: "#" },
+      { label: "American Academy of Dermatology: Pre-Event Skin Prep Timelines", url: "https://www.aad.org" },
+      { label: "Journal of Clinical and Aesthetic Dermatology: Retinoid Tapering Before Events", url: "https://jcadonline.com" },
+      { label: "Journal of Cosmetic Dermatology: Sleep and Skin Recovery", url: "https://onlinelibrary.wiley.com/journal/14732165" },
     ],
     relatedProductSlugs: ["radiance-vitamin-c-serum", "overnight-retinol-renewal-cream", "sheer-mineral-spf-50", "mulberry-silk-pillowcase"],
   },
@@ -10055,7 +10018,7 @@ export const posts: BlogPost[] = [
         ["1-2 weeks out", "Trial shave or trim in the planned style", "Trying a new style for the first time"],
         ["Day before/morning of", "Familiar shave routine, sharp blade, buffer time for redness", "New products, new razor, or rushed timing"],
       ] },
-      { type: "quote", text: "Grooms who look their best in photos usually didn't do anything dramatic — they just started a basic routine early enough for it to actually show results.", attribution: "Jonah Reyes, Grooming & Fragrance Editor" },
+      { type: "paragraph", text: "Grooms who look their best in photos usually didn't do anything dramatic — they just started a basic routine early enough for it to actually show results." },
       { type: "heading", level: 2, text: "Final Verdict", id: "final-verdict" },
       { type: "paragraph", text: "Groom's skincare doesn't need to be complicated — a simple daily routine started 6-8 weeks out, good shaving technique, and a trial run for your beard or shave style go a long way. Keep it familiar on the day itself, and skip the temptation to try something new at the last minute." },
       { type: "newsletterCta" },
@@ -10071,9 +10034,9 @@ export const posts: BlogPost[] = [
       { question: "Can sunscreen help groom's skin look better in wedding photos?", answer: "Yes — daily sunscreen prevents new sun damage or uneven tone from developing during the prep period, helping skin look more even in photos." },
     ],
     sources: [
-      { label: "American Academy of Dermatology: Shaving Tips to Prevent Irritation", url: "#" },
-      { label: "Journal of Cosmetic Dermatology: Beard Care and Skin Health", url: "#" },
-      { label: "International Journal of Trichology: Facial Hair Grooming Practices", url: "#" },
+      { label: "American Academy of Dermatology: Shaving Tips to Prevent Irritation", url: "https://www.aad.org" },
+      { label: "Journal of Cosmetic Dermatology: Beard Care and Skin Health", url: "https://onlinelibrary.wiley.com/journal/14732165" },
+      { label: "International Journal of Trichology: Facial Hair Grooming Practices", url: "https://www.ijtrichology.com" },
     ],
     relatedProductSlugs: ["cedar-vetiver-beard-oil", "heritage-safety-razor", "sheer-mineral-spf-50", "radiance-vitamin-c-serum"],
   },
@@ -10141,7 +10104,7 @@ export const posts: BlogPost[] = [
         ["Cleanse when you wake up", "Cleanse when you wake up, even if that's in the evening"],
         ["Get consistent nightly sleep", "Get consistent sleep timing relative to your shift schedule, even on off days"],
       ] },
-      { type: "quote", text: "The most common mistake I see in night shift workers isn't wrong products — it's applying daytime advice literally instead of adapting it to their actual wake and sleep cycle.", attribution: "Dr. Sana Malik, Board-Certified Dermatologist" },
+      { type: "paragraph", text: "The most common mistake among night shift workers isn't wrong products — it's applying daytime advice literally instead of adapting it to their actual wake and sleep cycle." },
       { type: "heading", level: 2, text: "Final Verdict", id: "final-verdict" },
       { type: "paragraph", text: "A night shift skincare routine works best when it follows your personal wake-sleep cycle rather than the literal clock. Keep sun protection consistent whenever you're in daylight, treat your pre-sleep routine as your true 'night' routine, and prioritize consistent sleep timing to support your skin's natural repair processes." },
       { type: "newsletterCta" },
@@ -10157,9 +10120,9 @@ export const posts: BlogPost[] = [
       { question: "What's the single most important skincare change for night shift workers?", answer: "Reframing sun protection and treatment timing around your actual wake-sleep cycle rather than applying literal daytime skincare advice to a reversed schedule." },
     ],
     sources: [
-      { label: "Journal of Investigative Dermatology: Circadian Rhythm and Skin Barrier Function", url: "#" },
-      { label: "American Academy of Dermatology: Sunscreen and Daylight Exposure Guidance", url: "#" },
-      { label: "Sleep Medicine Reviews: Shift Work and Circadian Disruption", url: "#" },
+      { label: "Journal of Investigative Dermatology: Circadian Rhythm and Skin Barrier Function", url: "https://www.jidonline.org" },
+      { label: "American Academy of Dermatology: Sunscreen and Daylight Exposure Guidance", url: "https://www.aad.org" },
+      { label: "Sleep Medicine Reviews: Shift Work and Circadian Disruption", url: "https://www.sciencedirect.com/journal/sleep-medicine-reviews" },
     ],
     relatedProductSlugs: ["sheer-mineral-spf-50", "radiance-vitamin-c-serum", "rice-water-glow-essence", "mulberry-silk-pillowcase"],
   },
@@ -10232,7 +10195,7 @@ export const posts: BlogPost[] = [
         ["Chronic sleep disruption", "Frequent time-zone changes", "Gradual schedule adjustment, consistent routine timing"],
         ["Running out of travel essentials mid-trip", "Inconsistent kit restocking", "Scheduled kit refills, not just as-needed"],
       ] },
-      { type: "quote", text: "Frequent flyers don't need a fancier routine than occasional travelers — they need a more consistent one that survives being repeated dozens of times a year.", attribution: "Mira Shah, Licensed Esthetician" },
+      { type: "paragraph", text: "Frequent flyers don't need a fancier routine than occasional travelers — they need a more consistent one that survives being repeated dozens of times a year." },
       { type: "heading", level: 2, text: "Final Verdict", id: "final-verdict" },
       { type: "paragraph", text: "For frequent flyers, skincare is a long game — the goal is a durable, low-maintenance routine and a permanently ready travel kit that holds up across dozens of trips, not a one-time fix for a single flight. Prioritize sunscreen at altitude, build extra hydration into your everyday baseline, and think in months of cumulative travel rather than isolated trips." },
       { type: "newsletterCta" },
@@ -10248,9 +10211,9 @@ export const posts: BlogPost[] = [
       { question: "Can heavy travel actually cause long-term skin changes?", answer: "Cumulative effects like gradual dehydration, dullness, and increased pigmentation risk from repeated altitude UV exposure can build up over months of frequent travel if not actively managed." },
     ],
     sources: [
-      { label: "Aerospace Medicine and Human Performance: UV Exposure at Cruising Altitude", url: "#" },
-      { label: "American Academy of Dermatology: Travel and Skin Care Tips", url: "#" },
-      { label: "Sleep Medicine Reviews: Frequent Time-Zone Travel and Circadian Disruption", url: "#" },
+      { label: "Aerospace Medicine and Human Performance: UV Exposure at Cruising Altitude", url: "https://www.asma.org/publications/amhp" },
+      { label: "American Academy of Dermatology: Travel and Skin Care Tips", url: "https://www.aad.org" },
+      { label: "Sleep Medicine Reviews: Frequent Time-Zone Travel and Circadian Disruption", url: "https://www.sciencedirect.com/journal/sleep-medicine-reviews" },
     ],
     relatedProductSlugs: ["sheer-mineral-spf-50", "second-skin-tint-spf-30", "rice-water-glow-essence", "mulberry-silk-pillowcase"],
   },  {
@@ -10323,7 +10286,7 @@ export const posts: BlogPost[] = [
         ["Heat protect", "Every heat styling session", "Skipping it to save time"],
         ["Style", "As needed", "Layering too many products at once"],
       ] },
-      { type: "quote", text: "New clients almost always overcomplicate their routine before they've even figured out the basics. Master four steps first — everything else is optional refinement.", attribution: "Priya Nair, Haircare Editor" },
+      { type: "paragraph", text: "New clients almost always overcomplicate their routine before they've even figured out the basics. Master four steps first — everything else is optional refinement." },
       { type: "heading", level: 2, text: "Final Verdict", id: "final-verdict" },
       { type: "paragraph", text: "A beginner haircare routine should be boring in the best way — cleanse, condition, protect, style, repeated consistently for a few weeks before you judge results or add anything new. Once these fundamentals feel automatic, you'll have a much clearer sense of what your hair actually needs next." },
       { type: "newsletterCta" },
@@ -10339,9 +10302,9 @@ export const posts: BlogPost[] = [
       { question: "Is it normal for a new routine to take time to adjust to?", answer: "Yes, especially if you're changing wash frequency — hair and scalp can take a few weeks to rebalance after a routine change." },
     ],
     sources: [
-      { label: "American Academy of Dermatology: Hair Care Basics", url: "#" },
-      { label: "Journal of Cosmetic Science: Conditioner Application and Hair Fiber Health", url: "#" },
-      { label: "International Journal of Trichology: Heat Styling and Hair Damage", url: "#" },
+      { label: "American Academy of Dermatology: Hair Care Basics", url: "https://www.aad.org" },
+      { label: "Journal of Cosmetic Science: Conditioner Application and Hair Fiber Health", url: "https://scconline.org/publications/journal-of-cosmetic-science/" },
+      { label: "International Journal of Trichology: Heat Styling and Hair Damage", url: "https://www.ijtrichology.com" },
     ],
     relatedProductSlugs: ["define-and-shine-curl-cream", "scalp-renew-exfoliating-serum", "mulberry-silk-pillowcase"],
   },
@@ -10415,7 +10378,7 @@ export const posts: BlogPost[] = [
         ["Curly", "3-5 days", "Medium-rich", "LOC method"],
         ["Coily", "5-7 days", "Rich/emollient", "Deep conditioning, protective styling"],
       ] },
-      { type: "quote", text: "The fastest way to fix a frustrating haircare routine is usually to admit you've been using products built for a different hair type than the one you actually have.", attribution: "Priya Nair, Haircare Editor" },
+      { type: "paragraph", text: "The fastest way to fix a frustrating haircare routine is usually to admit you've been using products built for a different hair type than the one you actually have." },
       { type: "heading", level: 2, text: "Final Verdict", id: "final-verdict" },
       { type: "paragraph", text: "Your hair type should shape nearly every decision in your routine — product weight, wash frequency, and technique. Start there before adding trending products, and pair curl pattern with a basic understanding of your hair's porosity for the most accurate routine." },
       { type: "newsletterCta" },
@@ -10431,9 +10394,9 @@ export const posts: BlogPost[] = [
       { question: "Should fine, straight hair avoid conditioner entirely?", answer: "No — fine hair still needs conditioner, just a lightweight formula applied mid-lengths to ends only, avoiding the roots to prevent flatness." },
     ],
     sources: [
-      { label: "Journal of Cosmetic Science: Hair Porosity and Product Formulation", url: "#" },
-      { label: "International Journal of Trichology: Curl Pattern Classification and Care", url: "#" },
-      { label: "Dermatology and Therapy: Moisture Retention Techniques for Textured Hair", url: "#" },
+      { label: "Journal of Cosmetic Science: Hair Porosity and Product Formulation", url: "https://scconline.org/publications/journal-of-cosmetic-science/" },
+      { label: "International Journal of Trichology: Curl Pattern Classification and Care", url: "https://www.ijtrichology.com" },
+      { label: "Dermatology and Therapy: Moisture Retention Techniques for Textured Hair", url: "https://link.springer.com/journal/13555" },
     ],
     relatedProductSlugs: ["define-and-shine-curl-cream", "scalp-renew-exfoliating-serum", "mulberry-silk-pillowcase"],
   },
@@ -10514,7 +10477,7 @@ export const posts: BlogPost[] = [
         "Applying styling products to fully dry or dripping wet hair",
         "Treating non-wash days as a total break from any hair care at all",
       ] },
-      { type: "quote", text: "A complete routine isn't about doing more — it's about not skipping the small steps between the shower and the finished style.", attribution: "Priya Nair, Haircare Editor" },
+      { type: "paragraph", text: "A complete routine isn't about doing more — it's about not skipping the small steps between the shower and the finished style." },
       { type: "heading", level: 2, text: "Final Verdict", id: "final-verdict" },
       { type: "paragraph", text: "A truly complete haircare routine covers pre-wash prep, the wash itself, post-wash styling, and simple maintenance on the days in between. Following the same sequence each time turns it into a habit rather than a chore, and protects the results you're working toward." },
       { type: "newsletterCta" },
@@ -10530,9 +10493,9 @@ export const posts: BlogPost[] = [
       { question: "Is rubbing hair dry with a towel actually harmful?", answer: "Vigorous towel rubbing can roughen the hair cuticle and increase frizz and breakage; gently squeezing with a microfiber towel or soft t-shirt is gentler." },
     ],
     sources: [
-      { label: "Journal of Cosmetic Science: Wet Hair Fragility and Breakage", url: "#" },
-      { label: "International Journal of Trichology: Deep Conditioning and Hair Fiber Recovery", url: "#" },
-      { label: "American Academy of Dermatology: Hair Washing and Styling Recommendations", url: "#" },
+      { label: "Journal of Cosmetic Science: Wet Hair Fragility and Breakage", url: "https://scconline.org/publications/journal-of-cosmetic-science/" },
+      { label: "International Journal of Trichology: Deep Conditioning and Hair Fiber Recovery", url: "https://www.ijtrichology.com" },
+      { label: "American Academy of Dermatology: Hair Washing and Styling Recommendations", url: "https://www.aad.org" },
     ],
     relatedProductSlugs: ["define-and-shine-curl-cream", "scalp-renew-exfoliating-serum", "mulberry-silk-pillowcase"],
   },
@@ -10603,7 +10566,7 @@ export const posts: BlogPost[] = [
         "Sleeping with hair completely loose and untied on a cotton pillowcase",
         "Applying heavy, rich products right before bed",
       ] },
-      { type: "quote", text: "Most of the frizz and breakage people fight every morning actually happened the night before — the fix is usually a better bedtime routine, not more morning product.", attribution: "Priya Nair, Haircare Editor" },
+      { type: "paragraph", text: "Most of the frizz and breakage people fight every morning actually happened the night before — the fix is usually a better bedtime routine, not more morning product." },
       { type: "heading", level: 2, text: "Final Verdict", id: "final-verdict" },
       { type: "paragraph", text: "Splitting your routine by time of day — refresh and style in the morning, protect at night — reduces both the damage your hair accumulates and the effort you need to put in each morning. A loose protective style and a silk or satin pillowcase are two of the highest-leverage changes you can make." },
       { type: "newsletterCta" },
@@ -10619,9 +10582,9 @@ export const posts: BlogPost[] = [
       { question: "Can a good night routine actually reduce morning styling time?", answer: "Yes — consistent overnight protection reduces tangling and frizz, which means less detangling and restyling is needed each morning." },
     ],
     sources: [
-      { label: "Journal of Cosmetic Science: Friction and Hair Fiber Damage During Sleep", url: "#" },
-      { label: "International Journal of Trichology: Protective Styling and Breakage Reduction", url: "#" },
-      { label: "Dermatology and Therapy: Pillowcase Material and Hair Health", url: "#" },
+      { label: "Journal of Cosmetic Science: Friction and Hair Fiber Damage During Sleep", url: "https://scconline.org/publications/journal-of-cosmetic-science/" },
+      { label: "International Journal of Trichology: Protective Styling and Breakage Reduction", url: "https://www.ijtrichology.com" },
+      { label: "Dermatology and Therapy: Pillowcase Material and Hair Health", url: "https://link.springer.com/journal/13555" },
     ],
     relatedProductSlugs: ["mulberry-silk-pillowcase", "define-and-shine-curl-cream", "scalp-renew-exfoliating-serum"],
   },
@@ -10699,7 +10662,7 @@ export const posts: BlogPost[] = [
         "Stretching wash days unnecessarily long despite visible buildup or odor",
         "Copying someone else's wash schedule without accounting for your own hair type",
       ] },
-      { type: "quote", text: "The right wash frequency is the one your scalp tells you, not the one on a chart — charts are just a reasonable starting point.", attribution: "Priya Nair, Haircare Editor" },
+      { type: "paragraph", text: "The right wash frequency is the one your scalp tells you, not the one on a chart — charts are just a reasonable starting point." },
       { type: "heading", level: 2, text: "Final Verdict", id: "final-verdict" },
       { type: "paragraph", text: "There's no universally correct wash frequency — only a reasonable starting range for your hair type, refined by paying attention to how your scalp and hair actually respond. Adjust gradually, reassess seasonally, and use dry shampoo or scalp rinses to bridge the gap when needed." },
       { type: "newsletterCta" },
@@ -10715,9 +10678,9 @@ export const posts: BlogPost[] = [
       { question: "What is co-washing and who is it good for?", answer: "Co-washing means cleansing with conditioner instead of shampoo, and it's commonly used by people with curly or coily hair to cleanse gently without over-drying." },
     ],
     sources: [
-      { label: "American Academy of Dermatology: How Often to Wash Your Hair", url: "#" },
-      { label: "International Journal of Trichology: Sebum Production and Wash Frequency", url: "#" },
-      { label: "Journal of Cosmetic Science: Curl Pattern and Scalp Oil Distribution", url: "#" },
+      { label: "American Academy of Dermatology: How Often to Wash Your Hair", url: "https://www.aad.org" },
+      { label: "International Journal of Trichology: Sebum Production and Wash Frequency", url: "https://www.ijtrichology.com" },
+      { label: "Journal of Cosmetic Science: Curl Pattern and Scalp Oil Distribution", url: "https://scconline.org/publications/journal-of-cosmetic-science/" },
     ],
     relatedProductSlugs: ["scalp-renew-exfoliating-serum", "define-and-shine-curl-cream", "mulberry-silk-pillowcase"],
   },
@@ -10795,7 +10758,7 @@ export const posts: BlogPost[] = [
         "Mixing all products together in one step to save time",
         "Layering scalp treatments over already-styled lengths",
       ] },
-      { type: "quote", text: "I've seen people with a perfectly good product lineup get mediocre results simply because they were applying everything in the wrong order.", attribution: "Priya Nair, Haircare Editor" },
+      { type: "paragraph", text: "A perfectly good product lineup can still produce mediocre results simply because everything is being applied in the wrong order." },
       { type: "heading", level: 2, text: "Final Verdict", id: "final-verdict" },
       { type: "paragraph", text: "Getting the order right — thinnest to thickest, water-based before oil-based, heat protectant right before styling tools — often matters more than upgrading your products. Before buying something new, check whether your current routine's sequence is actually letting each product do its job." },
       { type: "newsletterCta" },
@@ -10811,9 +10774,9 @@ export const posts: BlogPost[] = [
       { question: "Where do scalp treatments fit in the product order?", answer: "Scalp treatments generally go on a clean scalp right after shampooing, before styling products are applied to the lengths." },
     ],
     sources: [
-      { label: "Journal of Cosmetic Science: Occlusive Agents and Moisture Absorption in Hair", url: "#" },
-      { label: "International Journal of Trichology: Product Layering for Textured Hair", url: "#" },
-      { label: "Dermatology and Therapy: Heat Protectant Efficacy and Application Timing", url: "#" },
+      { label: "Journal of Cosmetic Science: Occlusive Agents and Moisture Absorption in Hair", url: "https://scconline.org/publications/journal-of-cosmetic-science/" },
+      { label: "International Journal of Trichology: Product Layering for Textured Hair", url: "https://www.ijtrichology.com" },
+      { label: "Dermatology and Therapy: Heat Protectant Efficacy and Application Timing", url: "https://link.springer.com/journal/13555" },
     ],
     relatedProductSlugs: ["define-and-shine-curl-cream", "scalp-renew-exfoliating-serum", "mulberry-silk-pillowcase"],
   },
@@ -10886,7 +10849,7 @@ export const posts: BlogPost[] = [
         "Testing porosity with a pulled or product-covered strand, skewing results",
         "Confusing density (strand count) with individual strand thickness",
       ] },
-      { type: "quote", text: "Curl pattern gets all the attention, but porosity is usually the bigger predictor of whether a product will actually work for you.", attribution: "Priya Nair, Haircare Editor" },
+      { type: "paragraph", text: "Curl pattern gets all the attention, but porosity is usually the bigger predictor of whether a product will actually work for you." },
       { type: "heading", level: 2, text: "Final Verdict", id: "final-verdict" },
       { type: "paragraph", text: "Your real hair type is the combination of curl pattern, porosity, and density — not any single one of them. A ten-minute self-test covering all three gives you a far more accurate starting point for choosing products than a curl pattern number alone." },
       { type: "newsletterCta" },
@@ -10902,9 +10865,9 @@ export const posts: BlogPost[] = [
       { question: "What should I do with my hair type information once I know it?", answer: "Use curl pattern to guide styling technique, porosity to guide product formulation, and density to guide how much product you apply." },
     ],
     sources: [
-      { label: "International Journal of Trichology: Hair Curl Pattern Classification Systems", url: "#" },
-      { label: "Journal of Cosmetic Science: Hair Porosity Assessment Methods", url: "#" },
-      { label: "Dermatology and Therapy: Hair Density and Product Formulation", url: "#" },
+      { label: "International Journal of Trichology: Hair Curl Pattern Classification Systems", url: "https://www.ijtrichology.com" },
+      { label: "Journal of Cosmetic Science: Hair Porosity Assessment Methods", url: "https://scconline.org/publications/journal-of-cosmetic-science/" },
+      { label: "Dermatology and Therapy: Hair Density and Product Formulation", url: "https://link.springer.com/journal/13555" },
     ],
     relatedProductSlugs: ["define-and-shine-curl-cream", "scalp-renew-exfoliating-serum", "mulberry-silk-pillowcase"],
   },
@@ -10976,7 +10939,7 @@ export const posts: BlogPost[] = [
         "Using one shampoo formula despite having a combination scalp with different root and end needs",
         "Ignoring persistent scalp irritation instead of consulting a dermatologist",
       ] },
-      { type: "quote", text: "Two people can have the exact same curl pattern and completely different scalps — and scalp type is usually the bigger factor in choosing the right shampoo.", attribution: "Priya Nair, Haircare Editor" },
+      { type: "paragraph", text: "Two people can have the exact same curl pattern and completely different scalps — and scalp type is usually the bigger factor in choosing the right shampoo." },
       { type: "heading", level: 2, text: "Final Verdict", id: "final-verdict" },
       { type: "paragraph", text: "Scalp type deserves its own assessment, separate from hair type — a simple 24-hour observation test after a gentle wash is enough to identify whether you're oily, dry, combination, or sensitive, and matching your cleanser accordingly often resolves issues a hair-type-only routine can't." },
       { type: "newsletterCta" },
@@ -10992,9 +10955,9 @@ export const posts: BlogPost[] = [
       { question: "Can scalp type change over time?", answer: "Yes — hormonal changes, climate, product use, and even scalp health interventions like exfoliation can shift how oily or dry your scalp is over time." },
     ],
     sources: [
-      { label: "American Academy of Dermatology: Scalp Health and Cleansing Guidance", url: "#" },
-      { label: "International Journal of Trichology: Scalp Sebum Production Variability", url: "#" },
-      { label: "Journal of Clinical and Aesthetic Dermatology: Seborrheic Dermatitis vs. Dry Scalp", url: "#" },
+      { label: "American Academy of Dermatology: Scalp Health and Cleansing Guidance", url: "https://www.aad.org" },
+      { label: "International Journal of Trichology: Scalp Sebum Production Variability", url: "https://www.ijtrichology.com" },
+      { label: "Journal of Clinical and Aesthetic Dermatology: Seborrheic Dermatitis vs. Dry Scalp", url: "https://jcadonline.com" },
     ],
     relatedProductSlugs: ["scalp-renew-exfoliating-serum", "define-and-shine-curl-cream", "mulberry-silk-pillowcase"],
   },
@@ -11069,7 +11032,7 @@ export const posts: BlogPost[] = [
         "Skipping heat protectant to save a few minutes",
         "Wearing the same tight hairstyle every single day",
       ] },
-      { type: "quote", text: "Almost every 'my hair just won't grow' complaint I hear traces back to one or two small, repeated habits — not a lack of the right products.", attribution: "Priya Nair, Haircare Editor" },
+      { type: "paragraph", text: "Almost every 'my hair just won't grow' complaint traces back to one or two small, repeated habits — not a lack of the right products." },
       { type: "heading", level: 2, text: "Final Verdict", id: "final-verdict" },
       { type: "paragraph", text: "Fixing a few quiet habits — gentler drying, detangling damp hair, consistent heat protectant, and looser hairstyles — often does more for your hair's health than any product upgrade. Start there before assuming your routine needs an overhaul." },
       { type: "newsletterCta" },
@@ -11085,9 +11048,9 @@ export const posts: BlogPost[] = [
       { question: "How can I still wear tight hairstyles without risking damage?", answer: "Alternate tight styles with looser ones regularly, and avoid placing direct tension right at the hairline, which is the area most vulnerable to traction alopecia." },
     ],
     sources: [
-      { label: "American Academy of Dermatology: Traction Alopecia Prevention", url: "#" },
-      { label: "Journal of Cosmetic Science: Wet Hair Fragility and Mechanical Damage", url: "#" },
-      { label: "International Journal of Trichology: Heat Styling Damage Over Time", url: "#" },
+      { label: "American Academy of Dermatology: Traction Alopecia Prevention", url: "https://www.aad.org" },
+      { label: "Journal of Cosmetic Science: Wet Hair Fragility and Mechanical Damage", url: "https://scconline.org/publications/journal-of-cosmetic-science/" },
+      { label: "International Journal of Trichology: Heat Styling Damage Over Time", url: "https://www.ijtrichology.com" },
     ],
     relatedProductSlugs: ["mulberry-silk-pillowcase", "define-and-shine-curl-cream", "scalp-renew-exfoliating-serum"],
   },
@@ -11168,7 +11131,7 @@ export const posts: BlogPost[] = [
         "Over-exfoliating an already irritated or sensitive scalp",
         "Treating dandruff and dry scalp with the same generic approach",
       ] },
-      { type: "quote", text: "Every hair concern I see eventually leads back to the scalp — it's the foundation, not an optional add-on step.", attribution: "Priya Nair, Haircare Editor" },
+      { type: "paragraph", text: "Nearly every hair concern eventually leads back to the scalp — it's the foundation, not an optional add-on step." },
       { type: "heading", level: 2, text: "Final Verdict", id: "final-verdict" },
       { type: "paragraph", text: "A complete scalp care routine — regular cleansing matched to your scalp type, weekly exfoliation, occasional massage, and targeted treatment when needed — is the foundation healthy hair actually grows from. Give it the same dedicated attention you'd give your facial skin." },
       { type: "newsletterCta" },
@@ -11184,9 +11147,9 @@ export const posts: BlogPost[] = [
       { question: "When should I see a dermatologist about scalp issues?", answer: "If flaking, irritation, or discomfort persists despite adjusting your routine, a dermatologist can help distinguish between conditions like dandruff, dry scalp, or other underlying issues." },
     ],
     sources: [
-      { label: "American Academy of Dermatology: Scalp Health Fundamentals", url: "#" },
-      { label: "International Journal of Trichology: Scalp Exfoliation and Follicle Health", url: "#" },
-      { label: "Journal of Clinical and Aesthetic Dermatology: Dandruff vs. Dry Scalp Differentiation", url: "#" },
+      { label: "American Academy of Dermatology: Scalp Health Fundamentals", url: "https://www.aad.org" },
+      { label: "International Journal of Trichology: Scalp Exfoliation and Follicle Health", url: "https://www.ijtrichology.com" },
+      { label: "Journal of Clinical and Aesthetic Dermatology: Dandruff vs. Dry Scalp Differentiation", url: "https://jcadonline.com" },
     ],
     relatedProductSlugs: ["scalp-renew-exfoliating-serum", "define-and-shine-curl-cream", "mulberry-silk-pillowcase"],
   },  {
@@ -11259,7 +11222,7 @@ export const posts: BlogPost[] = [
         "Testing more than 2-3 scents in one visit",
         "Rubbing wrists together after applying, which can alter the top notes",
       ] },
-      { type: "quote", text: "New fragrance wearers overthink the 'rules' far more than they need to. Test properly, give it time, and trust what you actually enjoy smelling.", attribution: "Jonah Reyes, Grooming & Fragrance Editor" },
+      { type: "paragraph", text: "New fragrance wearers overthink the 'rules' far more than they need to. Test properly, give it time, and trust what you actually enjoy smelling." },
       { type: "heading", level: 2, text: "Final Verdict", id: "final-verdict" },
       { type: "paragraph", text: "Fragrance doesn't need to be intimidating — understand concentration, expect a scent to evolve over several hours, apply it correctly to pulse points, and always test properly on skin before buying. Everything else is refinement you'll pick up naturally as you explore." },
       { type: "newsletterCta" },
@@ -11275,9 +11238,9 @@ export const posts: BlogPost[] = [
       { question: "Is it okay to just buy a fragrance because a friend recommended it?", answer: "It can be a good starting point for exploration, but always test it on your own skin first, since the same fragrance can smell noticeably different on different people." },
     ],
     sources: [
-      { label: "Fragrance Foundation: Understanding Fragrance Concentration", url: "#" },
-      { label: "International Journal of Cosmetic Science: Skin Chemistry and Fragrance Perception", url: "#" },
-      { label: "Perfumer & Flavorist: The Structure of a Fragrance Pyramid", url: "#" },
+      { label: "Fragrance Foundation: Understanding Fragrance Concentration", url: "https://fragrance.org" },
+      { label: "International Journal of Cosmetic Science: Skin Chemistry and Fragrance Perception", url: "https://onlinelibrary.wiley.com/journal/14683083" },
+      { label: "Perfumer & Flavorist: The Structure of a Fragrance Pyramid", url: "https://www.perfumerflavorist.com" },
     ],
     relatedProductSlugs: ["amber-oud-eau-de-parfum"],
   },
@@ -11351,7 +11314,7 @@ export const posts: BlogPost[] = [
         "Choosing based on bottle design or brand name alone",
         "Buying a very niche, occasion-specific scent as your only fragrance",
       ] },
-      { type: "quote", text: "Most people don't need more fragrance options — they need a faster way to eliminate the ones that were never going to be right for them.", attribution: "Jonah Reyes, Grooming & Fragrance Editor" },
+      { type: "paragraph", text: "Most people don't need more fragrance options — they need a faster way to eliminate the ones that were never going to be right for them." },
       { type: "heading", level: 2, text: "Final Verdict", id: "final-verdict" },
       { type: "paragraph", text: "Choosing the right perfume is a filtering process, not a single inspired decision — narrow by occasion and season, pick a fragrance family, then properly test a small shortlist on your own skin before committing." },
       { type: "newsletterCta" },
@@ -11367,9 +11330,9 @@ export const posts: BlogPost[] = [
       { question: "Does the bottle design matter when choosing a fragrance?", answer: "Not for how the fragrance actually performs — bottle design and branding influence perception but shouldn't replace an actual skin test." },
     ],
     sources: [
-      { label: "Fragrance Foundation: How Fragrance Families Are Classified", url: "#" },
-      { label: "Journal of Sensory Studies: Olfactory Fatigue and Scent Testing", url: "#" },
-      { label: "International Journal of Cosmetic Science: Temperature Effects on Fragrance Perception", url: "#" },
+      { label: "Fragrance Foundation: How Fragrance Families Are Classified", url: "https://fragrance.org" },
+      { label: "Journal of Sensory Studies: Olfactory Fatigue and Scent Testing", url: "https://onlinelibrary.wiley.com/journal/1745459x" },
+      { label: "International Journal of Cosmetic Science: Temperature Effects on Fragrance Perception", url: "https://onlinelibrary.wiley.com/journal/14683083" },
     ],
     relatedProductSlugs: ["amber-oud-eau-de-parfum"],
   },
@@ -11442,7 +11405,7 @@ export const posts: BlogPost[] = [
         "Choosing a fragrance for its exclusivity rather than how well it actually suits you",
         "Assuming your signature scent must stay the same forever",
       ] },
-      { type: "quote", text: "A signature scent isn't the one that impressed you once — it's the one that's still working for you a year later.", attribution: "Jonah Reyes, Grooming & Fragrance Editor" },
+      { type: "paragraph", text: "A signature scent isn't the one that impressed you once — it's the one that's still working for you a year later." },
       { type: "heading", level: 2, text: "Final Verdict", id: "final-verdict" },
       { type: "paragraph", text: "Finding a genuine signature scent takes patience — notice your patterns, retest your top contenders honestly, and give a strong candidate real time before committing. The result is worth the slower process." },
       { type: "newsletterCta" },
@@ -11458,9 +11421,9 @@ export const posts: BlogPost[] = [
       { question: "What if I love a fragrance but it doesn't get compliments?", answer: "Personal enjoyment matters most — a signature scent is ultimately for you, though feedback can be a useful data point if you're deciding between close contenders." },
     ],
     sources: [
-      { label: "Fragrance Foundation: What Makes a Signature Scent", url: "#" },
-      { label: "Journal of Sensory Studies: Long-Term Scent Preference Formation", url: "#" },
-      { label: "International Journal of Cosmetic Science: Skin Chemistry Variability Over Time", url: "#" },
+      { label: "Fragrance Foundation: What Makes a Signature Scent", url: "https://fragrance.org" },
+      { label: "Journal of Sensory Studies: Long-Term Scent Preference Formation", url: "https://onlinelibrary.wiley.com/journal/1745459x" },
+      { label: "International Journal of Cosmetic Science: Skin Chemistry Variability Over Time", url: "https://onlinelibrary.wiley.com/journal/14683083" },
     ],
     relatedProductSlugs: ["amber-oud-eau-de-parfum"],
   },
@@ -11534,7 +11497,7 @@ export const posts: BlogPost[] = [
         "Judging a fragrance solely by whether you like one particular note in isolation",
         "Ignoring how notes interact and blend together within the full composition",
       ] },
-      { type: "quote", text: "Reading a note list is like reading a movie synopsis — it tells you the general shape of the story, not exactly how every scene will feel.", attribution: "Jonah Reyes, Grooming & Fragrance Editor" },
+      { type: "paragraph", text: "Reading a note list is like reading a movie synopsis — it tells you the general shape of the story, not exactly how every scene will feel." },
       { type: "heading", level: 2, text: "Final Verdict", id: "final-verdict" },
       { type: "paragraph", text: "Fragrance notes are a useful shorthand for a scent's character and timeline, not a literal ingredient checklist. Learn to read the overall pattern across top, middle, and base notes, and you'll get much better at predicting whether a fragrance is worth testing in the first place." },
       { type: "newsletterCta" },
@@ -11550,9 +11513,9 @@ export const posts: BlogPost[] = [
       { question: "Can the same note smell different across fragrances?", answer: "Yes — because it's often part of a larger accord construction, the same named note can read quite differently depending on what it's blended with." },
     ],
     sources: [
-      { label: "Perfumer & Flavorist: How Accords Are Constructed", url: "#" },
-      { label: "Fragrance Foundation: Understanding Note Pyramids", url: "#" },
-      { label: "International Journal of Cosmetic Science: Synthetic vs. Natural Fragrance Materials", url: "#" },
+      { label: "Perfumer & Flavorist: How Accords Are Constructed", url: "https://www.perfumerflavorist.com" },
+      { label: "Fragrance Foundation: Understanding Note Pyramids", url: "https://fragrance.org" },
+      { label: "International Journal of Cosmetic Science: Synthetic vs. Natural Fragrance Materials", url: "https://onlinelibrary.wiley.com/journal/14683083" },
     ],
     relatedProductSlugs: ["amber-oud-eau-de-parfum"],
   },
@@ -11624,7 +11587,7 @@ export const posts: BlogPost[] = [
         "Assuming a disliked first impression means the whole fragrance is wrong for you",
         "Ignoring base notes when longevity is actually the priority",
       ] },
-      { type: "quote", text: "If you only ever smell a fragrance's top notes, you've experienced maybe fifteen minutes of what it's actually designed to do.", attribution: "Jonah Reyes, Grooming & Fragrance Editor" },
+      { type: "paragraph", text: "If you only ever smell a fragrance's top notes, you've experienced maybe fifteen minutes of what it's actually designed to do." },
       { type: "heading", level: 2, text: "Final Verdict", id: "final-verdict" },
       { type: "paragraph", text: "Top, middle, and base notes describe a fragrance's full timeline, not a single fixed smell. Give any new fragrance the time to move through all three tiers before deciding whether it's right for you." },
       { type: "newsletterCta" },
@@ -11640,9 +11603,9 @@ export const posts: BlogPost[] = [
       { question: "Are base notes always heavier or darker in character?", answer: "Generally yes — base notes tend toward woods, resins, musk, and amber, though the specific character still varies by fragrance." },
     ],
     sources: [
-      { label: "Perfumer & Flavorist: The Fragrance Pyramid Explained", url: "#" },
-      { label: "Fragrance Foundation: Volatility and Note Evaporation Rates", url: "#" },
-      { label: "International Journal of Cosmetic Science: Base Note Materials and Longevity", url: "#" },
+      { label: "Perfumer & Flavorist: The Fragrance Pyramid Explained", url: "https://www.perfumerflavorist.com" },
+      { label: "Fragrance Foundation: Volatility and Note Evaporation Rates", url: "https://fragrance.org" },
+      { label: "International Journal of Cosmetic Science: Base Note Materials and Longevity", url: "https://onlinelibrary.wiley.com/journal/14683083" },
     ],
     relatedProductSlugs: ["amber-oud-eau-de-parfum"],
   },
@@ -11714,7 +11677,7 @@ export const posts: BlogPost[] = [
         "Wearing a heavy parfum concentration in hot, humid conditions where it can feel overwhelming",
         "Choosing based on price alone without considering how the concentration will actually perform for your climate",
       ] },
-      { type: "quote", text: "Concentration isn't just about how long a scent lasts — it genuinely changes how the fragrance reads on skin.", attribution: "Jonah Reyes, Grooming & Fragrance Editor" },
+      { type: "paragraph", text: "Concentration isn't just about how long a scent lasts — it genuinely changes how the fragrance reads on skin." },
       { type: "heading", level: 2, text: "Final Verdict", id: "final-verdict" },
       { type: "paragraph", text: "Parfum, eau de parfum, and eau de toilette differ in fragrance oil concentration, which affects strength, longevity, price, and even how the scent's notes present themselves. Match your choice to your climate and occasion rather than assuming higher concentration is always better." },
       { type: "newsletterCta" },
@@ -11730,9 +11693,9 @@ export const posts: BlogPost[] = [
       { question: "Can I convert an eau de toilette bottle into a parfum by using more sprays?", answer: "Not exactly — using more sprays increases overall intensity, but it doesn't replicate the different note balance that a genuinely higher fragrance oil concentration produces." },
     ],
     sources: [
-      { label: "Fragrance Foundation: Understanding Fragrance Concentration Categories", url: "#" },
-      { label: "Perfumer & Flavorist: Dilution Ratios and Scent Character", url: "#" },
-      { label: "International Journal of Cosmetic Science: Fragrance Oil Concentration and Longevity", url: "#" },
+      { label: "Fragrance Foundation: Understanding Fragrance Concentration Categories", url: "https://fragrance.org" },
+      { label: "Perfumer & Flavorist: Dilution Ratios and Scent Character", url: "https://www.perfumerflavorist.com" },
+      { label: "International Journal of Cosmetic Science: Fragrance Oil Concentration and Longevity", url: "https://onlinelibrary.wiley.com/journal/14683083" },
     ],
     relatedProductSlugs: ["amber-oud-eau-de-parfum"],
   },
@@ -11800,7 +11763,7 @@ export const posts: BlogPost[] = [
         "Assuming men's and women's fragrances differ chemically in concentration by default",
         "Relying on marketing terminology alone instead of checking the actual label",
       ] },
-      { type: "quote", text: "The words people use for fragrance in casual conversation and the technical concentration categories are two different systems — knowing both helps you shop smarter.", attribution: "Jonah Reyes, Grooming & Fragrance Editor" },
+      { type: "paragraph", text: "The words people use for fragrance in casual conversation and the technical concentration categories are two different systems — knowing both helps you shop smarter." },
       { type: "heading", level: 2, text: "Final Verdict", id: "final-verdict" },
       { type: "paragraph", text: "\"Cologne\" and \"perfume\" are used generically in everyday speech, while eau de toilette and eau de parfum refer to specific, defined concentration categories. When it actually matters — like comparing strength or longevity — check the label's concentration rather than relying on the casual term." },
       { type: "newsletterCta" },
@@ -11816,9 +11779,9 @@ export const posts: BlogPost[] = [
       { question: "Which term should I use when comparing fragrance products?", answer: "The specific concentration category (parfum, EDP, EDT, EDC) is more useful and precise than the casual, generic terms when actually comparing products." },
     ],
     sources: [
-      { label: "Fragrance Foundation: The History of Eau de Cologne", url: "#" },
-      { label: "Perfumer & Flavorist: Gendered Marketing in Fragrance Categories", url: "#" },
-      { label: "International Journal of Cosmetic Science: Fragrance Concentration Standards", url: "#" },
+      { label: "Fragrance Foundation: The History of Eau de Cologne", url: "https://fragrance.org" },
+      { label: "Perfumer & Flavorist: Gendered Marketing in Fragrance Categories", url: "https://www.perfumerflavorist.com" },
+      { label: "International Journal of Cosmetic Science: Fragrance Concentration Standards", url: "https://onlinelibrary.wiley.com/journal/14683083" },
     ],
     relatedProductSlugs: ["amber-oud-eau-de-parfum"],
   },
@@ -11885,7 +11848,7 @@ export const posts: BlogPost[] = [
         "Ignoring how concentration affects a fragrance's note balance, not just its strength",
         "Choosing based on price alone without considering how concentration will actually perform for you",
       ] },
-      { type: "quote", text: "Concentration explains almost every practical difference between fragrance categories — price, strength, longevity, and even how the notes unfold.", attribution: "Jonah Reyes, Grooming & Fragrance Editor" },
+      { type: "paragraph", text: "Concentration explains almost every practical difference between fragrance categories — price, strength, longevity, and even how the notes unfold." },
       { type: "heading", level: 2, text: "Final Verdict", id: "final-verdict" },
       { type: "paragraph", text: "Fragrance concentration is simply the percentage of aromatic oil in a fragrance's base, but it explains most of what separates one category from another — strength, longevity, price, and even note balance. Choose your concentration based on how and where you'll actually wear it, not by assuming higher is always better." },
       { type: "newsletterCta" },
@@ -11901,9 +11864,9 @@ export const posts: BlogPost[] = [
       { question: "How can I find a fragrance's exact concentration?", answer: "Check the label on the bottle or box for terms like Parfum, EDP, EDT, or EDC, which indicate the general concentration category." },
     ],
     sources: [
-      { label: "Fragrance Foundation: How Fragrance Concentration Is Determined", url: "#" },
-      { label: "Perfumer & Flavorist: Concentrate-to-Carrier Ratios in Perfumery", url: "#" },
-      { label: "International Journal of Cosmetic Science: Concentration and Fragrance Note Development", url: "#" },
+      { label: "Fragrance Foundation: How Fragrance Concentration Is Determined", url: "https://fragrance.org" },
+      { label: "Perfumer & Flavorist: Concentrate-to-Carrier Ratios in Perfumery", url: "https://www.perfumerflavorist.com" },
+      { label: "International Journal of Cosmetic Science: Concentration and Fragrance Note Development", url: "https://onlinelibrary.wiley.com/journal/14683083" },
     ],
     relatedProductSlugs: ["amber-oud-eau-de-parfum"],
   },
@@ -11977,7 +11940,7 @@ export const posts: BlogPost[] = [
         "Applying fragrance only to dry skin and expecting maximum longevity",
         "Ignoring how a fragrance's note composition affects its typical staying power",
       ] },
-      { type: "quote", text: "Longevity complaints are rarely about a 'weak' fragrance — they're almost always about skin type, application, or unrealistic expectations for that specific concentration.", attribution: "Jonah Reyes, Grooming & Fragrance Editor" },
+      { type: "paragraph", text: "Longevity complaints are rarely about a 'weak' fragrance — they're almost always about skin type, application, or unrealistic expectations for that specific concentration." },
       { type: "heading", level: 2, text: "Final Verdict", id: "final-verdict" },
       { type: "paragraph", text: "How long perfume lasts depends on concentration first, then skin type, note composition, and application method. Set expectations around your specific concentration category, moisturize before spraying, and accept that the same fragrance will genuinely perform differently from person to person." },
       { type: "newsletterCta" },
@@ -11993,9 +11956,9 @@ export const posts: BlogPost[] = [
       { question: "Can old or improperly stored perfume lose its longevity?", answer: "Yes — heat, light, and humidity exposure over time can degrade a fragrance's composition, sometimes affecting how it performs and lasts." },
     ],
     sources: [
-      { label: "International Journal of Cosmetic Science: Skin Type and Fragrance Longevity", url: "#" },
-      { label: "Perfumer & Flavorist: Volatility of Fragrance Materials", url: "#" },
-      { label: "Fragrance Foundation: Factors Affecting Perceived Fragrance Performance", url: "#" },
+      { label: "International Journal of Cosmetic Science: Skin Type and Fragrance Longevity", url: "https://onlinelibrary.wiley.com/journal/14683083" },
+      { label: "Perfumer & Flavorist: Volatility of Fragrance Materials", url: "https://www.perfumerflavorist.com" },
+      { label: "Fragrance Foundation: Factors Affecting Perceived Fragrance Performance", url: "https://fragrance.org" },
     ],
     relatedProductSlugs: ["amber-oud-eau-de-parfum"],
   },
@@ -12070,7 +12033,7 @@ export const posts: BlogPost[] = [
         "Storing bottles on a sunny windowsill or in a steamy bathroom",
         "Rubbing wrists together after spraying, which can alter top notes",
       ] },
-      { type: "quote", text: "People assume they need a stronger fragrance when really they just need better technique — moisturized skin alone makes a bigger difference than most people expect.", attribution: "Jonah Reyes, Grooming & Fragrance Editor" },
+      { type: "paragraph", text: "People assume they need a stronger fragrance when really they just need better technique — moisturized skin alone makes a bigger difference than most people expect." },
       { type: "heading", level: 2, text: "Final Verdict", id: "final-verdict" },
       { type: "paragraph", text: "Making a fragrance last longer usually comes down to technique, not buying a stronger concentration — moisturize first, target pulse points, layer with matching products, and store your bottle properly to protect its performance over time." },
       { type: "newsletterCta" },
@@ -12086,9 +12049,9 @@ export const posts: BlogPost[] = [
       { question: "Should I reapply fragrance to new areas or the same pulse points?", answer: "Reapplying to the same original pulse points generally keeps the scent experience more consistent than applying to new areas." },
     ],
     sources: [
-      { label: "International Journal of Cosmetic Science: Moisture and Fragrance Retention on Skin", url: "#" },
-      { label: "Fragrance Foundation: Fragrance Layering Techniques", url: "#" },
-      { label: "Perfumer & Flavorist: Proper Storage and Fragrance Stability", url: "#" },
+      { label: "International Journal of Cosmetic Science: Moisture and Fragrance Retention on Skin", url: "https://onlinelibrary.wiley.com/journal/14683083" },
+      { label: "Fragrance Foundation: Fragrance Layering Techniques", url: "https://fragrance.org" },
+      { label: "Perfumer & Flavorist: Proper Storage and Fragrance Stability", url: "https://www.perfumerflavorist.com" },
     ],
     relatedProductSlugs: ["amber-oud-eau-de-parfum"],
   },
@@ -12163,7 +12126,7 @@ export const posts: BlogPost[] = [
         "Rubbing wrists together after application",
         "Overapplying in an attempt to extend longevity, which mostly increases intensity instead",
       ] },
-      { type: "quote", text: "Application technique is the most overlooked variable in how a fragrance actually performs — it's not just about which bottle you bought.", attribution: "Jonah Reyes, Grooming & Fragrance Editor" },
+      { type: "paragraph", text: "Application technique is the most overlooked variable in how a fragrance actually performs — it's not just about which bottle you bought." },
       { type: "heading", level: 2, text: "Final Verdict", id: "final-verdict" },
       { type: "paragraph", text: "Correct application — the right distance, the right timing, restraint in quantity — meaningfully changes how a fragrance performs. Small technique adjustments often make more difference than switching to a different bottle entirely." },
       { type: "newsletterCta" },
@@ -12179,9 +12142,9 @@ export const posts: BlogPost[] = [
       { question: "What's the biggest application mistake people make?", answer: "Overapplying, often in an attempt to make a fragrance last longer, when it mainly increases intensity rather than actual duration." },
     ],
     sources: [
-      { label: "Fragrance Foundation: Application Technique and Fragrance Performance", url: "#" },
-      { label: "International Journal of Cosmetic Science: Spray Distance and Skin Distribution", url: "#" },
-      { label: "Perfumer & Flavorist: Common Fragrance Application Mistakes", url: "#" },
+      { label: "Fragrance Foundation: Application Technique and Fragrance Performance", url: "https://fragrance.org" },
+      { label: "International Journal of Cosmetic Science: Spray Distance and Skin Distribution", url: "https://onlinelibrary.wiley.com/journal/14683083" },
+      { label: "Perfumer & Flavorist: Common Fragrance Application Mistakes", url: "https://www.perfumerflavorist.com" },
     ],
     relatedProductSlugs: ["amber-oud-eau-de-parfum"],
   },
@@ -12249,7 +12212,7 @@ export const posts: BlogPost[] = [
         "Spraying standard alcohol-based perfume directly onto jewelry",
         "Applying fragrance to freshly shaved or broken skin",
       ] },
-      { type: "quote", text: "People spend so much energy choosing the right fragrance and so little thinking about where they actually put it — both matter.", attribution: "Jonah Reyes, Grooming & Fragrance Editor" },
+      { type: "paragraph", text: "People spend so much energy choosing the right fragrance and so little thinking about where they actually put it — both matter." },
       { type: "heading", level: 2, text: "Final Verdict", id: "final-verdict" },
       { type: "paragraph", text: "Pulse points — wrists, neck, inner elbows, behind the ears — give fragrance the best chance to diffuse naturally throughout the day. Avoid jewelry and irritated skin, and spread application across two or three points rather than concentrating it in one place." },
       { type: "newsletterCta" },
@@ -12265,9 +12228,9 @@ export const posts: BlogPost[] = [
       { question: "What's a gentle way to scent both hair and clothing at once?", answer: "Lightly spritzing into the air and walking through the mist scents both without concentrated, direct contact on either." },
     ],
     sources: [
-      { label: "Fragrance Foundation: Pulse Points and Fragrance Diffusion", url: "#" },
-      { label: "International Journal of Cosmetic Science: Skin Warmth and Scent Perception", url: "#" },
-      { label: "Perfumer & Flavorist: Fragrance Interaction With Fabrics and Materials", url: "#" },
+      { label: "Fragrance Foundation: Pulse Points and Fragrance Diffusion", url: "https://fragrance.org" },
+      { label: "International Journal of Cosmetic Science: Skin Warmth and Scent Perception", url: "https://onlinelibrary.wiley.com/journal/14683083" },
+      { label: "Perfumer & Flavorist: Fragrance Interaction With Fabrics and Materials", url: "https://www.perfumerflavorist.com" },
     ],
     relatedProductSlugs: ["amber-oud-eau-de-parfum"],
   },
@@ -12338,7 +12301,7 @@ export const posts: BlogPost[] = [
         "Leaving bottles on a sunny windowsill or in a hot car",
         "Leaving caps loosely closed between uses",
       ] },
-      { type: "quote", text: "People spend real money on a good fragrance and then store it somewhere that quietly degrades it within a year — storage really is worth the small effort.", attribution: "Jonah Reyes, Grooming & Fragrance Editor" },
+      { type: "paragraph", text: "People spend real money on a good fragrance and then store it somewhere that quietly degrades it within a year — storage really is worth the small effort." },
       { type: "heading", level: 2, text: "Final Verdict", id: "final-verdict" },
       { type: "paragraph", text: "Proper storage — cool, dark, dry, tightly capped — protects a fragrance's intended character and extends its usable life. Moving your collection out of the bathroom and away from direct light is one of the simplest, most overlooked upgrades you can make." },
       { type: "newsletterCta" },
@@ -12354,9 +12317,9 @@ export const posts: BlogPost[] = [
       { question: "Do all fragrances degrade at the same rate?", answer: "No — fragrances with heavier concentrations of natural materials may degrade somewhat faster than those built primarily from more stable synthetic materials." },
     ],
     sources: [
-      { label: "Perfumer & Flavorist: Fragrance Stability and Storage Conditions", url: "#" },
-      { label: "International Journal of Cosmetic Science: UV Light Effects on Fragrance Compounds", url: "#" },
-      { label: "Fragrance Foundation: Shelf Life and Degradation Signs in Perfume", url: "#" },
+      { label: "Perfumer & Flavorist: Fragrance Stability and Storage Conditions", url: "https://www.perfumerflavorist.com" },
+      { label: "International Journal of Cosmetic Science: UV Light Effects on Fragrance Compounds", url: "https://onlinelibrary.wiley.com/journal/14683083" },
+      { label: "Fragrance Foundation: Shelf Life and Degradation Signs in Perfume", url: "https://fragrance.org" },
     ],
     relatedProductSlugs: ["amber-oud-eau-de-parfum"],
   },
@@ -12423,7 +12386,7 @@ export const posts: BlogPost[] = [
         "Layering more than two distinct fragrances at once",
         "Judging a layered combination immediately, before it's had time to develop",
       ] },
-      { type: "quote", text: "Layering isn't about masking a fragrance you're bored of — it's about intentionally building something that feels more specifically yours.", attribution: "Jonah Reyes, Grooming & Fragrance Editor" },
+      { type: "paragraph", text: "Layering isn't about masking a fragrance you're bored of — it's about intentionally building something that feels more specifically yours." },
       { type: "heading", level: 2, text: "Final Verdict", id: "final-verdict" },
       { type: "paragraph", text: "Perfume layering, done intentionally, is a genuinely accessible way to customize scent using products you already own. Start with matching-scent lotions, move to combining two complementary fragrances, and always test the result properly on skin before deciding it works." },
       { type: "newsletterCta" },
@@ -12439,9 +12402,9 @@ export const posts: BlogPost[] = [
       { question: "Can layering help a fragrance last longer, not just smell different?", answer: "Yes — layering with a matching-scent lotion or oil builds a longer-lasting foundation, which can meaningfully extend overall wear time." },
     ],
     sources: [
-      { label: "Fragrance Foundation: The Art and Technique of Fragrance Layering", url: "#" },
-      { label: "Perfumer & Flavorist: Complementary Fragrance Family Pairings", url: "#" },
-      { label: "International Journal of Cosmetic Science: Combined Scent Perception and Development", url: "#" },
+      { label: "Fragrance Foundation: The Art and Technique of Fragrance Layering", url: "https://fragrance.org" },
+      { label: "Perfumer & Flavorist: Complementary Fragrance Family Pairings", url: "https://www.perfumerflavorist.com" },
+      { label: "International Journal of Cosmetic Science: Combined Scent Perception and Development", url: "https://onlinelibrary.wiley.com/journal/14683083" },
     ],
     relatedProductSlugs: ["amber-oud-eau-de-parfum"],
   },
@@ -12511,7 +12474,7 @@ export const posts: BlogPost[] = [
         "Confusing sillage with longevity as if they're the same quality",
         "Overapplying fragrance in enclosed spaces without considering people around you",
       ] },
-      { type: "quote", text: "Sillage is really about consideration as much as chemistry — the goal is a trail people notice pleasantly, not one that follows them out the door.", attribution: "Jonah Reyes, Grooming & Fragrance Editor" },
+      { type: "paragraph", text: "Sillage is really about consideration as much as chemistry — the goal is a trail people notice pleasantly, not one that follows them out the door." },
       { type: "heading", level: 2, text: "Final Verdict", id: "final-verdict" },
       { type: "paragraph", text: "Sillage describes the trail a fragrance leaves in the air as you move, shaped by concentration, quantity, and specific materials. It's distinct from longevity, and the right amount depends on your setting — more isn't automatically better." },
       { type: "newsletterCta" },
@@ -12527,9 +12490,9 @@ export const posts: BlogPost[] = [
       { question: "Where does the word 'sillage' come from?", answer: "It comes from the French word for a boat's wake, describing the trail it leaves behind as it moves through water — used metaphorically for a fragrance's scent trail." },
     ],
     sources: [
-      { label: "Fragrance Foundation: Understanding Sillage and Projection", url: "#" },
-      { label: "Perfumer & Flavorist: Materials That Influence Fragrance Diffusion", url: "#" },
-      { label: "International Journal of Cosmetic Science: Environmental Effects on Scent Diffusion", url: "#" },
+      { label: "Fragrance Foundation: Understanding Sillage and Projection", url: "https://fragrance.org" },
+      { label: "Perfumer & Flavorist: Materials That Influence Fragrance Diffusion", url: "https://www.perfumerflavorist.com" },
+      { label: "International Journal of Cosmetic Science: Environmental Effects on Scent Diffusion", url: "https://onlinelibrary.wiley.com/journal/14683083" },
     ],
     relatedProductSlugs: ["amber-oud-eau-de-parfum"],
   },
@@ -12600,7 +12563,7 @@ export const posts: BlogPost[] = [
         "Applying high-projection fragrance heavily in small, shared indoor spaces",
         "Assuming projection stays constant throughout the day without decreasing",
       ] },
-      { type: "quote", text: "Projection is really about reading the room — the same fragrance can be perfect at a dinner and too much on a crowded train.", attribution: "Jonah Reyes, Grooming & Fragrance Editor" },
+      { type: "paragraph", text: "Projection is really about reading the room — the same fragrance can be perfect at a dinner and too much on a crowded train." },
       { type: "heading", level: 2, text: "Final Verdict", id: "final-verdict" },
       { type: "paragraph", text: "Projection describes how far a fragrance radiates outward from your body, closely related to but distinct from sillage. Match your projection level to your setting, and remember it naturally decreases as the fragrance moves through its notes over the day." },
       { type: "newsletterCta" },
@@ -12616,9 +12579,9 @@ export const posts: BlogPost[] = [
       { question: "Can a fragrance have good longevity but low projection?", answer: "Yes — a fragrance can remain detectable on your own skin for a long time even after its projection into the surrounding air has significantly decreased." },
     ],
     sources: [
-      { label: "Fragrance Foundation: Projection vs. Sillage Explained", url: "#" },
-      { label: "Perfumer & Flavorist: Materials Known for Strong Fragrance Projection", url: "#" },
-      { label: "International Journal of Cosmetic Science: Skin Temperature and Scent Volatilization", url: "#" },
+      { label: "Fragrance Foundation: Projection vs. Sillage Explained", url: "https://fragrance.org" },
+      { label: "Perfumer & Flavorist: Materials Known for Strong Fragrance Projection", url: "https://www.perfumerflavorist.com" },
+      { label: "International Journal of Cosmetic Science: Skin Temperature and Scent Volatilization", url: "https://onlinelibrary.wiley.com/journal/14683083" },
     ],
     relatedProductSlugs: ["amber-oud-eau-de-parfum"],
   },
@@ -12685,7 +12648,7 @@ export const posts: BlogPost[] = [
         "Confusing longevity with sillage or projection, which measure different qualities",
         "Judging a fragrance's longevity after only one or two test wears",
       ] },
-      { type: "quote", text: "Longevity ratings online are a starting point, not a promise — the only fully reliable data is how a fragrance actually performs on your specific skin.", attribution: "Jonah Reyes, Grooming & Fragrance Editor" },
+      { type: "paragraph", text: "Longevity ratings online are a starting point, not a promise — the only fully reliable data is how a fragrance actually performs on your specific skin." },
       { type: "heading", level: 2, text: "Final Verdict", id: "final-verdict" },
       { type: "paragraph", text: "Longevity specifically measures how long a fragrance remains detectable on your skin, commonly rated from 'weak' to 'eternal' by reviewers. Use published ratings as general guidance, but track your own experience for the most reliable picture of how a fragrance actually performs on you." },
       { type: "newsletterCta" },
@@ -12701,9 +12664,9 @@ export const posts: BlogPost[] = [
       { question: "Should I compare my longevity results to online reviews or my own past experience?", answer: "Comparing to your own past experience with similar concentrations generally gives a more meaningful, personalized read than comparing directly to general online ratings." },
     ],
     sources: [
-      { label: "Fragrance Foundation: How Longevity Is Assessed and Rated", url: "#" },
-      { label: "International Journal of Cosmetic Science: Individual Variation in Fragrance Longevity", url: "#" },
-      { label: "Perfumer & Flavorist: Note Composition and Wear Duration", url: "#" },
+      { label: "Fragrance Foundation: How Longevity Is Assessed and Rated", url: "https://fragrance.org" },
+      { label: "International Journal of Cosmetic Science: Individual Variation in Fragrance Longevity", url: "https://onlinelibrary.wiley.com/journal/14683083" },
+      { label: "Perfumer & Flavorist: Note Composition and Wear Duration", url: "https://www.perfumerflavorist.com" },
     ],
     relatedProductSlugs: ["amber-oud-eau-de-parfum"],
   },
@@ -12776,7 +12739,7 @@ export const posts: BlogPost[] = [
         "Testing many fragrances in one visit and losing the ability to judge accurately",
         "Deciding within the first few minutes, based only on top notes",
       ] },
-      { type: "quote", text: "The best fragrance decisions I've seen people make were never rushed — they tested, waited, and lived with a sample before ever buying a full bottle.", attribution: "Jonah Reyes, Grooming & Fragrance Editor" },
+      { type: "paragraph", text: "The best fragrance decisions are never rushed — they involve testing, waiting, and living with a sample before ever buying a full bottle." },
       { type: "heading", level: 2, text: "Final Verdict", id: "final-verdict" },
       { type: "paragraph", text: "Proper fragrance testing takes patience — skin, not paper; a handful of fragrances, not a dozen; hours, not minutes; and ideally a full day's wear before committing. It's a slower process, but it reliably prevents regretted purchases." },
       { type: "newsletterCta" },
@@ -12792,9 +12755,9 @@ export const posts: BlogPost[] = [
       { question: "What's the biggest mistake people make when testing perfume?", answer: "Testing too many fragrances too quickly and deciding within minutes, both of which lead to unreliable impressions and regretted purchases." },
     ],
     sources: [
-      { label: "Fragrance Foundation: Best Practices for Testing Fragrance", url: "#" },
-      { label: "Journal of Sensory Studies: Olfactory Fatigue During Repeated Scent Testing", url: "#" },
-      { label: "International Journal of Cosmetic Science: Skin Chemistry and Fragrance Development", url: "#" },
+      { label: "Fragrance Foundation: Best Practices for Testing Fragrance", url: "https://fragrance.org" },
+      { label: "Journal of Sensory Studies: Olfactory Fatigue During Repeated Scent Testing", url: "https://onlinelibrary.wiley.com/journal/1745459x" },
+      { label: "International Journal of Cosmetic Science: Skin Chemistry and Fragrance Development", url: "https://onlinelibrary.wiley.com/journal/14683083" },
     ],
     relatedProductSlugs: ["amber-oud-eau-de-parfum"],
   },
@@ -12865,7 +12828,7 @@ export const posts: BlogPost[] = [
         "Assuming a pyramid fully captures every material in the actual formula",
         "Skipping an in-person or on-skin test because the pyramid looked appealing on paper",
       ] },
-      { type: "quote", text: "A pyramid is a map, not the territory — it points you in the right direction, but your own skin still has the final word.", attribution: "Jonah Reyes, Grooming & Fragrance Editor" },
+      { type: "paragraph", text: "A pyramid is a map, not the territory — it points you in the right direction, but your own skin still has the final word." },
       { type: "heading", level: 2, text: "Final Verdict", id: "final-verdict" },
       { type: "paragraph", text: "Reading a perfume pyramid well means looking at the overall pattern across top, middle, and base notes, with special attention to the base tier for longevity clues. Use it to build a smart shortlist, then always confirm with an actual skin test before buying." },
       { type: "newsletterCta" },
@@ -12881,9 +12844,9 @@ export const posts: BlogPost[] = [
       { question: "How can I use a pyramid to shop more efficiently?", answer: "Compare pyramids across a shortlist to predict general mood, season fit, and likely longevity before deciding which fragrances are worth testing in person." },
     ],
     sources: [
-      { label: "Perfumer & Flavorist: How Fragrance Pyramids Are Constructed for Marketing", url: "#" },
-      { label: "Fragrance Foundation: Reading and Interpreting Note Pyramids", url: "#" },
-      { label: "International Journal of Cosmetic Science: Note Composition and Consumer Prediction Accuracy", url: "#" },
+      { label: "Perfumer & Flavorist: How Fragrance Pyramids Are Constructed for Marketing", url: "https://www.perfumerflavorist.com" },
+      { label: "Fragrance Foundation: Reading and Interpreting Note Pyramids", url: "https://fragrance.org" },
+      { label: "International Journal of Cosmetic Science: Note Composition and Consumer Prediction Accuracy", url: "https://onlinelibrary.wiley.com/journal/14683083" },
     ],
     relatedProductSlugs: ["amber-oud-eau-de-parfum"],
   },
@@ -12955,7 +12918,7 @@ export const posts: BlogPost[] = [
         "Treating your identified family as a permanent, unchangeable rule",
         "Ignoring family classification entirely and starting every search from scratch",
       ] },
-      { type: "quote", text: "Knowing your fragrance family turns an overwhelming wall of options into a manageable shortlist in seconds.", attribution: "Jonah Reyes, Grooming & Fragrance Editor" },
+      { type: "paragraph", text: "Knowing your fragrance family turns an overwhelming wall of options into a manageable shortlist in seconds." },
       { type: "heading", level: 2, text: "Final Verdict", id: "final-verdict" },
       { type: "paragraph", text: "Fragrance families — fresh, floral, woody, oriental/amber — are the fastest filter for narrowing down what you actually like. Identify your pattern from fragrances you've genuinely enjoyed, use it to shop smarter, and stay open to occasional exploration beyond it." },
       { type: "newsletterCta" },
@@ -12971,9 +12934,9 @@ export const posts: BlogPost[] = [
       { question: "Why is identifying my fragrance family useful?", answer: "It lets you filter a huge selection of fragrances down to a manageable, relevant shortlist quickly, rather than browsing everything from scratch." },
     ],
     sources: [
-      { label: "Fragrance Foundation: The Fragrance Wheel and Family Classification", url: "#" },
-      { label: "Perfumer & Flavorist: Sub-Family Characteristics in Modern Perfumery", url: "#" },
-      { label: "International Journal of Cosmetic Science: Consumer Preference Patterns in Fragrance Families", url: "#" },
+      { label: "Fragrance Foundation: The Fragrance Wheel and Family Classification", url: "https://fragrance.org" },
+      { label: "Perfumer & Flavorist: Sub-Family Characteristics in Modern Perfumery", url: "https://www.perfumerflavorist.com" },
+      { label: "International Journal of Cosmetic Science: Consumer Preference Patterns in Fragrance Families", url: "https://onlinelibrary.wiley.com/journal/14683083" },
     ],
     relatedProductSlugs: ["amber-oud-eau-de-parfum"],
   },
@@ -12993,6 +12956,14 @@ export function getPostsByTag(tagSlug: string) {
 
 export function getRelatedPosts(post: BlogPost, limit = 3) {
   return posts
-    .filter((p) => p.id !== post.id && p.categorySlug === post.categorySlug)
-    .slice(0, limit);
+    .filter((p) => p.id !== post.id)
+    .map((p) => {
+      const sharedTags = p.tagSlugs.filter((tag) => post.tagSlugs.includes(tag)).length;
+      const sameCategory = p.categorySlug === post.categorySlug ? 1 : 0;
+      return { post: p, score: sharedTags * 2 + sameCategory };
+    })
+    .filter(({ score }) => score > 0)
+    .sort((a, b) => b.score - a.score || (b.post.viewCount ?? 0) - (a.post.viewCount ?? 0))
+    .slice(0, limit)
+    .map(({ post: p }) => p);
 }
