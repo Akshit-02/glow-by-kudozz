@@ -76,9 +76,9 @@ export const categories: Category[] = [
 ];
 
 export const tags: Tag[] = [
-  { id: "tag-retinol", slug: "retinol", name: "Retinol", articleCount: 7 },
-  { id: "tag-spf", slug: "spf", name: "SPF", articleCount: 25 },
-  { id: "tag-acne", slug: "acne", name: "Acne", articleCount: 8 },
+  { id: "tag-retinol", slug: "retinol", name: "Retinol", articleCount: 9 },
+  { id: "tag-spf", slug: "spf", name: "SPF", articleCount: 32 },
+  { id: "tag-acne", slug: "acne", name: "Acne", articleCount: 11 },
   { id: "tag-anti-aging", slug: "anti-aging", name: "Anti-Aging", articleCount: 6 },
   { id: "tag-curly-hair", slug: "curly-hair", name: "Curly Hair", articleCount: 0 },
   { id: "tag-scalp-care", slug: "scalp-care", name: "Scalp Care", articleCount: 0 },
@@ -88,7 +88,17 @@ export const tags: Tag[] = [
   { id: "tag-perfume-layering", slug: "perfume-layering", name: "Perfume Layering", articleCount: 0 },
   { id: "tag-sleep", slug: "sleep", name: "Sleep", articleCount: 4 },
   { id: "tag-budget-beauty", slug: "budget-beauty", name: "Budget Beauty", articleCount: 22 },
-  { id: "tag-vitamin-c", slug: "vitamin-c", name: "Vitamin C", articleCount: 5 },
-  { id: "tag-pigmentation", slug: "pigmentation", name: "Pigmentation", articleCount: 1 },
+  { id: "tag-vitamin-c", slug: "vitamin-c", name: "Vitamin C", articleCount: 8 },
+  { id: "tag-pigmentation", slug: "pigmentation", name: "Pigmentation", articleCount: 4 },
   { id: "tag-ayurveda", slug: "ayurveda", name: "Ayurveda", articleCount: 3 },
+  { id: "tag-foxtale", slug: "foxtale", name: "Foxtale", articleCount: 51 },
+  { id: "tag-sunscreen", slug: "sunscreen", name: "Sunscreen", articleCount: 7 },
+  { id: "tag-cleanser", slug: "cleanser", name: "Cleanser", articleCount: 4 },
+  { id: "tag-moisturizer", slug: "moisturizer", name: "Moisturizer", articleCount: 6 },
+  { id: "tag-mask", slug: "mask", name: "Face Mask", articleCount: 5 },
+  { id: "tag-serum", slug: "serum", name: "Serum", articleCount: 10 },
+  { id: "tag-lip-care", slug: "lip-care", name: "Lip Care", articleCount: 3 },
+  { id: "tag-toner", slug: "toner", name: "Toner", articleCount: 3 },
+  { id: "tag-body-care", slug: "body-care", name: "Body Care", articleCount: 11 },
+  { id: "tag-fragrance-foxtale", slug: "fragrance-product", name: "Fragrance", articleCount: 1 },
 ];

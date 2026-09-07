@@ -7,8 +7,9 @@ import { ComparisonTable } from "@/components/blog/blocks/comparison-table";
 import { FaqAccordion } from "@/components/shared/faq-accordion";
 import { ProductCard } from "@/components/product/product-card";
 import { AffiliateDisclosure } from "@/components/product/affiliate-disclosure";
+import { BlogCard } from "@/components/blog/blog-card";
 import { getProductsBySlugs } from "@/lib/content";
-import { products as allProducts } from "@/data";
+import { products as allProducts, getPostsBySlugs } from "@/data";
 
 export function ContentRenderer({ blocks }: { blocks: ContentBlock[] }) {
   return (
@@ -106,6 +107,17 @@ export function ContentRenderer({ blocks }: { blocks: ContentBlock[] }) {
                   ))}
                 </div>
                 <AffiliateDisclosure />
+              </div>
+            );
+          }
+
+          case "postGrid": {
+            const relatedPosts = getPostsBySlugs(block.postSlugs);
+            return (
+              <div key={index} className="not-prose grid grid-cols-1 gap-6 sm:grid-cols-2 lg:grid-cols-3">
+                {relatedPosts.map((relatedPost) => (
+                  <BlogCard key={relatedPost.id} post={relatedPost} />
+                ))}
               </div>
             );
           }

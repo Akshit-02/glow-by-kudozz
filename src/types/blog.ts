@@ -26,7 +26,8 @@ export type ContentBlock =
       items: { question: string; answer: string }[];
     }
   | { type: "newsletterCta" }
-  | { type: "productGrid"; productSlugs: string[] };
+  | { type: "productGrid"; productSlugs: string[] }
+  | { type: "postGrid"; postSlugs: string[] };
 
 export interface KeyTakeaway {
   text: string;
