@@ -101,4 +101,5 @@ export const tags: Tag[] = [
   { id: "tag-toner", slug: "toner", name: "Toner", articleCount: 3 },
   { id: "tag-body-care", slug: "body-care", name: "Body Care", articleCount: 11 },
   { id: "tag-fragrance-foxtale", slug: "fragrance-product", name: "Fragrance", articleCount: 1 },
+  { id: "tag-dot-key", slug: "dot-key", name: "Dot & Key", articleCount: 20 },
 ];

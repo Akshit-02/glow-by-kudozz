@@ -23106,6 +23106,3524 @@ export const posts: BlogPost[] = [
     ],
     relatedProductSlugs: [],
   },
+  {
+    id: "post-dot-and-key-vitamin-c-e-sunscreen-review",
+    slug: "dot-and-key-vitamin-c-e-sunscreen-review",
+    title: "Dot & Key Vitamin C + E Sunscreen SPF 50+ PA++++: Ingredients, Benefits & How to Use",
+    excerpt:
+      "A research-based review of Dot & Key's Vitamin C + E Sunscreen SPF 50+ PA++++ — its Triple Vitamin C and Sicilian Blood Orange formula, full ingredient list, and how it compares with Dot & Key's Watermelon Cooling Sunscreen.",
+    summary:
+      "Dot & Key Vitamin C + E Sunscreen SPF 50+ PA++++ is a water-light, chemical-filter sunscreen built around what the brand calls \"Triple Vitamin C\" plus Sicilian Blood Orange extract, aimed at reducing dullness and dark spots caused by sun exposure while providing SPF 50+ broad-spectrum protection. It's sold in 50g (₹445) and 80g (₹595) sizes. It suits people who want a dewy-finish, no-white-cast daily sunscreen with a brightening angle, rather than a mattifying or tinted formula.",
+    keyTakeaways: [
+      { text: "Uses new-age chemical UV filters (Ethylhexyl Methoxycinnamate, Butyl Methoxydibenzoylmethane, Benzophenone-3) for SPF 50+ PA++++ broad-spectrum coverage." },
+      { text: "Built around a \"Triple Vitamin C\" complex plus Sicilian Blood Orange extract, positioned for dullness and dark-spot support alongside sun protection." },
+      { text: "Water-light, quick-absorbing gel-cream texture with a dewy finish and no white cast, according to the brand's self-assessment study." },
+      { text: "Sold in two sizes — 50g (₹445) and 80g (₹595) — making it one of Dot & Key's more accessible entry points into its sunscreen range." },
+      { text: "For an oil-control, mattifying preference instead of a dewy finish, Dot & Key's Watermelon Cooling Sunscreen is the closer match." },
+    ],
+    heroImage: "/products/dotandkey-vitamin-c-e-sunscreen.jpg",
+    heroImageAlt: "Dot & Key Vitamin C + E Sunscreen SPF 50+ PA++++ tube product packaging",
+    categorySlug: "skincare",
+    tagSlugs: ["dot-key", "sunscreen", "vitamin-c", "spf"],
+    publishedAt: "2026-09-08",
+    updatedAt: "2026-09-08",
+    readingTimeMinutes: 9,
+    editorsPick: true,
+    popular: true,
+    viewCount: 210,
+    content: [
+      {
+        type: "paragraph",
+        text: "Most sunscreen guides treat SPF as a single, interchangeable spec, but the finish and \"extra\" ingredients around the filter system are often what decide whether someone actually keeps reapplying it. Dot & Key's Vitamin C + E Sunscreen leans into a brightening angle on top of its UV filter base, positioning itself as a daily sunscreen that also addresses dullness from cumulative sun exposure.",
+      },
+      {
+        type: "paragraph",
+        text: "This guide covers what's actually in the formula, how the vitamin C angle fits alongside the UV filters, who it's likely to suit, and how it compares with Dot & Key's other sunscreens.",
+      },
+      { type: "heading", level: 2, text: "Quick Answer", id: "quick-answer" },
+      {
+        type: "paragraph",
+        text: "Dot & Key Vitamin C + E Sunscreen SPF 50+ PA++++ is a water-light, chemical-filter sunscreen built around a \"Triple Vitamin C\" complex plus Sicilian Blood Orange extract, aimed at reducing dullness and dark spots caused by sun exposure while providing SPF 50+ broad-spectrum protection. It's sold in 50g (₹445) and 80g (₹595) sizes. It suits people who want a dewy-finish, no-white-cast daily sunscreen with a brightening angle, rather than a mattifying or tinted formula.",
+      },
+      { type: "heading", level: 2, text: "Product Overview", id: "overview" },
+      {
+        type: "table",
+        headers: ["Feature", "Details"],
+        rows: [
+          ["Brand", "Dot & Key"],
+          ["Product Type", "Face sunscreen"],
+          ["Category", "Sunscreen"],
+          ["SPF / PA Rating", "SPF 50+ PA++++"],
+          ["Key Ingredients", "Triple Vitamin C, Vitamin E, Sicilian Blood Orange, new-age UV filters"],
+          ["Primary Purpose", "Sun protection with a dullness/dark-spot support angle"],
+          ["Texture / Finish", "Water-light gel-cream, dewy finish, no white cast"],
+          ["Skin Type", "All skin types (per brand)"],
+          ["Available Sizes", "50g (₹445), 80g (₹595)"],
+        ],
+      },
+      { type: "heading", level: 2, text: "What Is This Product?", id: "what-is-it" },
+      {
+        type: "paragraph",
+        text: "This is a chemical-filter sunscreen combining three UV-absorbing filters (Ethylhexyl Methoxycinnamate, Butyl Methoxydibenzoylmethane, and Benzophenone-3) with a vitamin C and vitamin E antioxidant complex and Sicilian Blood Orange extract. Dot & Key markets the vitamin C content as \"Triple Vitamin C,\" referring to a blend of vitamin C derivatives (including Ascorbyl Glucoside, a stable, water-soluble form) rather than a single high-percentage L-ascorbic acid concentration, which keeps the formula gentler and more sunscreen-appropriate than a dedicated vitamin C serum.",
+      },
+      { type: "heading", level: 2, text: "Official Brand Claims", id: "brand-says" },
+      {
+        type: "list",
+        items: [
+          "Reduces dullness and dark spots caused by excessive sun exposure.",
+          "Protects skin against UVA, UVB, and blue light rays.",
+          "Water-light and quick-absorbing, with a dewy finish and zero white cast on all skin types.",
+          "Brand self-assessment study (36 subjects, light to dusky skin tones): 99% agreed it leaves no white cast, 100% said it is lightweight and quick-absorbing.",
+        ],
+      },
+      { type: "heading", level: 3, text: "Formulation Analysis", id: "ingredient-analysis" },
+      {
+        type: "paragraph",
+        text: "Combining antioxidants with a sunscreen is a reasonable pairing — vitamin C and E can help offset some of the free-radical load generated by UV exposure, complementing rather than replacing the filters' job of blocking UV rays. The \"reduces dark spots\" framing should be read as a long-term, cumulative-use claim tied to consistent daily sun protection plus the antioxidant content, not a fast-acting spot-treatment effect. The 36-subject self-assessment study is brand-reported and useful as a directional finish/texture indicator, not independent clinical evidence.",
+      },
+      { type: "heading", level: 2, text: "Key Ingredients and Their Roles", id: "ingredients" },
+      {
+        type: "list",
+        items: [
+          "Ethylhexyl Methoxycinnamate, Butyl Methoxydibenzoylmethane, Benzophenone-3: the combined chemical UV filter system providing SPF 50+ PA++++ broad-spectrum coverage.",
+          "Niacinamide: supports a more even-looking tone and skin barrier function.",
+          "Ascorbyl Glucoside: a stable, water-soluble vitamin C derivative, gentler than pure L-ascorbic acid and well-suited to a leave-on daily sunscreen.",
+          "Tocopheryl Acetate (Vitamin E): an antioxidant that also helps stabilize the formula.",
+          "Titanium Dioxide, Silica, Dimethicone: contribute to the lightweight, quick-absorbing, no-white-cast finish.",
+        ],
+      },
+      { type: "heading", level: 2, text: "Full Ingredient List", id: "full-ingredient-list" },
+      {
+        type: "paragraph",
+        text: "As listed on the official Dot & Key product page at the time of writing: Water, Ethylhexyl Methoxycinnamate (and) Butyl Methoxy Dibenzoyl Methane (and) Benzophenone-3 (and) Phospholipids (and) 1,3 Butylene Glycol, Isododecane, Dicaprylyl Carbonate, Glycerin, Titanium Dioxide (and) Silica (and) Dimethicone, Caprylic Triglyceride, Glyceryl Citrate/Lactate/Linoleate/Oleate, Propanediol, Niacinamide, Ascorbyl Glucoside, Tocopheryl Acetate, Fructooligosaccharides, and additional stabilizers, emulsifiers, and preservatives as disclosed on the official listing.",
+      },
+      {
+        type: "callout",
+        variant: "note",
+        title: "Chemical-filter formula",
+        text: "This sunscreen relies on chemical (organic) UV filters rather than mineral filters like zinc oxide. If you specifically prefer a mineral-only sunscreen, check Dot & Key's Vitamin C + E 100% Mineral Sunscreen instead.",
+      },
+      { type: "heading", level: 2, text: "Who May Find It Suitable?", id: "who-may-suit" },
+      {
+        type: "list",
+        items: [
+          "People who want a daily sunscreen with a dewy rather than matte finish.",
+          "Anyone layering sunscreen over a vitamin C serum who wants the theme to continue without an oily or heavy after-feel.",
+          "Those prioritizing a no-white-cast finish, including deeper skin tones, per the brand's self-assessment study.",
+        ],
+      },
+      { type: "heading", level: 2, text: "How to Use It", id: "how-to-use" },
+      { type: "heading", level: 3, text: "Official Brand Directions", id: "brand-directions" },
+      {
+        type: "list",
+        items: [
+          "Dot & Key's product page does not publish a detailed step-by-step application method on this listing.",
+        ],
+      },
+      { type: "heading", level: 3, text: "General Usage Guidance", id: "general-usage" },
+      {
+        type: "list",
+        items: [
+          "Apply as the last step of a morning skincare routine, roughly two finger-lengths of product for full face and neck coverage.",
+          "Reapply every 2-3 hours with continued sun exposure, and after swimming or heavy sweating.",
+          "Chemical sunscreens generally need about 15-20 minutes to fully absorb before sun exposure for optimal protection.",
+          "This is general sunscreen guidance, not specific to Dot & Key.",
+        ],
+      },
+      { type: "heading", level: 2, text: "Where Does It Fit Into a Routine?", id: "routine" },
+      {
+        type: "paragraph",
+        text: "Used as the final step of a morning routine, after moisturizer (or after a vitamin C serum if skipping a separate moisturizer). It pairs naturally with Dot & Key's own Vitamin C + E serum and moisturizer for a consistent-theme brightening routine, though mixing actives across brands works just as well.",
+      },
+      { type: "heading", level: 2, text: "Potential Advantages", id: "pros" },
+      { type: "heading", level: 2, text: "Things to Consider", id: "cons" },
+      {
+        type: "prosCons",
+        pros: [
+          "SPF 50+ PA++++ broad-spectrum rating with a modern, well-studied filter combination",
+          "Genuinely lightweight, dewy finish reported with no white cast across skin tones",
+          "Antioxidant (vitamin C + E) content complements the UV filters",
+          "Two size options (50g/80g) at an accessible price point",
+        ],
+        cons: [
+          "Chemical-filter formula, not suitable for anyone who specifically avoids chemical UV filters",
+          "\"Reduces dark spots\" is a long-term, cumulative-use framing, not a fast spot-treatment effect",
+          "Brand-cited finish data comes from a small 36-subject self-assessment study",
+          "No official mention of the exact vitamin C derivative percentage",
+        ],
+      },
+      { type: "heading", level: 2, text: "Comparison With Relevant Dot & Key Products", id: "comparison" },
+      {
+        type: "table",
+        caption: "Dot & Key Vitamin C + E Sunscreen vs. Watermelon Cooling Sunscreen vs. Mineral Sunscreen",
+        headers: ["Feature", "Vitamin C + E Sunscreen", "Watermelon Cooling Sunscreen", "Vitamin C + E Mineral Sunscreen"],
+        rows: [
+          ["Filter type", "Chemical", "Chemical", "100% Mineral"],
+          ["Finish", "Dewy, water-light", "Aqua-gel, non-oily", "Typically more matte"],
+          ["Best for", "Dullness + daily SPF", "Oily/combination skin, cooling feel", "Sensitive skin, filter-avoidant users"],
+          ["Approx. price", "₹445 (50g) / ₹595 (80g)", "₹445 (50g) / ₹595 (80g)", "₹649"],
+        ],
+      },
+      {
+        type: "postGrid",
+        postSlugs: [
+          "dot-and-key-master-guide",
+          "dot-and-key-watermelon-sunscreen-review",
+          "dot-and-key-vitamin-c-e-niacinamide-serum-review",
+        ],
+      },
+      { type: "heading", level: 2, text: "Frequently Asked Questions", id: "faqs" },
+      { type: "heading", level: 2, text: "How We Researched This Guide", id: "methodology" },
+      {
+        type: "paragraph",
+        text: "This guide is based on the official Dot & Key product listing, its published ingredient list, and the brand's own self-assessment study results, as of September 2026. This article does not claim independent lab testing or dermatologist evaluation of the product.",
+      },
+      { type: "heading", level: 2, text: "Final Verdict", id: "verdict" },
+      {
+        type: "paragraph",
+        text: "Dot & Key's Vitamin C + E Sunscreen is a solid daily-wear option for anyone who wants SPF 50+ protection with a dewy, brightening-adjacent finish rather than a matte one. It isn't a substitute for a dedicated vitamin C serum, but it's a reasonable way to keep a brightening routine consistent through to the sunscreen step. Those who specifically want a mattifying feel or a mineral-only filter system should look at Dot & Key's other sunscreens instead.",
+      },
+    ],
+    faqs: [
+      {
+        question: "Does this sunscreen leave a white cast on deeper skin tones?",
+        answer: "Dot & Key's own self-assessment study (36 subjects, light to dusky skin tones) reported that 99% agreed it leaves no white cast. This is brand-reported data, not independent testing, but it's consistent with the product's water-light, chemical-filter formulation.",
+      },
+      {
+        question: "Is this a chemical or mineral sunscreen?",
+        answer: "It's a chemical-filter sunscreen, using Ethylhexyl Methoxycinnamate, Butyl Methoxydibenzoylmethane, and Benzophenone-3. Dot & Key sells a separate 100% Mineral Sunscreen for anyone who prefers to avoid chemical filters.",
+      },
+      {
+        question: "Can I use this sunscreen with a vitamin C serum?",
+        answer: "Yes. Layering a vitamin C serum underneath this sunscreen is a common, complementary approach — apply the serum first, let it absorb, then follow with this sunscreen as the final step.",
+      },
+      {
+        question: "What sizes is this sunscreen available in?",
+        answer: "It's sold in two sizes: 50g at ₹445 and 80g at ₹595, per the official Dot & Key listing.",
+      },
+      {
+        question: "How is this different from Dot & Key's Watermelon Cooling Sunscreen?",
+        answer: "Both are SPF 50+ chemical sunscreens with a similar water-light finish. The Vitamin C + E version leans into a brightening/antioxidant angle with Sicilian Blood Orange, while the Watermelon version emphasizes an instant-cooling sensory effect and oil-free hydration, generally aimed at oily/combination skin.",
+      },
+    ],
+    sources: [
+      { label: "Dot & Key — Vitamin C + E Sunscreen SPF 50+ PA++++ (official product page)", url: "https://www.dotandkey.com/products/dot-key-vitamin-c-e-spf-50-pa-face-sunscreen-for-glowing-skin-uv-protection-for-dull-skin" },
+    ],
+    relatedProductSlugs: [],
+  },
+  {
+    id: "post-dot-and-key-watermelon-sunscreen-review",
+    slug: "dot-and-key-watermelon-sunscreen-review",
+    title: "Dot & Key Watermelon Cooling Sunscreen SPF 50+ PA++++: Ingredients, Benefits & How to Use",
+    excerpt:
+      "A research-based review of Dot & Key's Watermelon Cooling Sunscreen SPF 50+ PA++++ — its aqua-gel, oil-free formula, full ingredient list, and how it compares with the brand's Vitamin C + E Sunscreen.",
+    summary:
+      "Dot & Key Watermelon Cooling Sunscreen SPF 50+ PA++++ is an aqua-gel, chemical-filter sunscreen infused with watermelon extract and hyaluronic acid, formulated for an instant-cooling, non-oily finish suited to oily and combination skin. It's sold in 50g (₹445) and 80g (₹595) sizes. It suits people wanting oil-free hydration and a lightweight daily sunscreen with zero white cast, especially in hot or humid climates.",
+    keyTakeaways: [
+      { text: "Aqua-gel texture built around watermelon extract and hyaluronic acid for an instant-cooling sensory effect alongside SPF 50+ PA++++ protection." },
+      { text: "Uses the same core chemical UV filter combination as Dot & Key's Vitamin C + E Sunscreen, but formulated for a non-oily, oil-free finish." },
+      { text: "Sold in 50g (₹445) and 80g (₹595) sizes, matching the brand's Vitamin C + E Sunscreen pricing tier." },
+      { text: "Positioned specifically for oily and combination skin, per the brand's own skin-type labeling." },
+      { text: "For a brightening, antioxidant-forward angle instead of a cooling one, Dot & Key's Vitamin C + E Sunscreen is the closer match." },
+    ],
+    heroImage: "/products/dotandkey-watermelon-sunscreen.jpg",
+    heroImageAlt: "Dot & Key Watermelon Cooling Sunscreen SPF 50+ PA++++ tube product packaging",
+    categorySlug: "skincare",
+    tagSlugs: ["dot-key", "sunscreen", "spf"],
+    publishedAt: "2026-09-08",
+    updatedAt: "2026-09-08",
+    readingTimeMinutes: 9,
+    editorsPick: true,
+    popular: true,
+    viewCount: 205,
+    content: [
+      {
+        type: "paragraph",
+        text: "Oily and combination skin often struggle most with daily sunscreen use — not because SPF itself feels heavy, but because many formulas add to the midday shine. Dot & Key's Watermelon Cooling Sunscreen is built specifically around that complaint, using an aqua-gel base and a watermelon extract angle to create an instant-cooling, oil-free sensation on application.",
+      },
+      {
+        type: "paragraph",
+        text: "This guide covers what's actually in the formula, why the \"cooling\" claim works the way it does, who it's likely to suit, and how it compares with Dot & Key's Vitamin C + E Sunscreen.",
+      },
+      { type: "heading", level: 2, text: "Quick Answer", id: "quick-answer" },
+      {
+        type: "paragraph",
+        text: "Dot & Key Watermelon Cooling Sunscreen SPF 50+ PA++++ is an aqua-gel, chemical-filter sunscreen infused with watermelon extract and hyaluronic acid, formulated for an instant-cooling, non-oily finish suited to oily and combination skin. It's sold in 50g (₹445) and 80g (₹595) sizes. It suits people wanting oil-free hydration and a lightweight daily sunscreen with zero white cast, especially in hot or humid climates.",
+      },
+      { type: "heading", level: 2, text: "Product Overview", id: "overview" },
+      {
+        type: "table",
+        headers: ["Feature", "Details"],
+        rows: [
+          ["Brand", "Dot & Key"],
+          ["Product Type", "Face sunscreen"],
+          ["Category", "Sunscreen"],
+          ["SPF / PA Rating", "SPF 50+ PA++++"],
+          ["Key Ingredients", "Watermelon Extract, Hyaluronic Acid, new-age UV filters"],
+          ["Primary Purpose", "Sun protection with an instant-cooling, oil-free finish"],
+          ["Texture / Finish", "Aqua-gel, non-oily, lightweight"],
+          ["Skin Type", "Oily & Combination Skin (per brand)"],
+          ["Available Sizes", "50g (₹445), 80g (₹595)"],
+        ],
+      },
+      { type: "heading", level: 2, text: "What Is This Product?", id: "what-is-it" },
+      {
+        type: "paragraph",
+        text: "This is a chemical-filter sunscreen using the same filter category as Dot & Key's Vitamin C + E Sunscreen (Ethylhexyl Methoxycinnamate, Butyl Methoxydibenzoylmethane, Benzophenone-3), but built on a water-and-silicone aqua-gel base with Citrullus Lanatus (Watermelon) Fruit Extract rather than a vitamin C antioxidant angle. The gel format and lighter emollient load are what give it its distinctive \"cooling,\" quick-absorbing feel on application, which is a texture and sensory effect rather than a literal temperature change.",
+      },
+      { type: "heading", level: 2, text: "Official Brand Claims", id: "brand-says" },
+      {
+        type: "list",
+        items: [
+          "Provides oil-free hydration while reducing the look of uneven skin tone.",
+          "Blocks UVA, UVB, and blue light rays to help check tanning and sunburn.",
+          "Aqua-gel and quick-absorbing, blending with zero white cast.",
+        ],
+      },
+      { type: "heading", level: 3, text: "Formulation Analysis", id: "ingredient-analysis" },
+      {
+        type: "paragraph",
+        text: "The \"instant cooling\" sensation from a watermelon-themed aqua-gel is primarily a formulation and sensory effect — driven by the water-gel base and quick evaporation of volatile silicones like Cyclopentasiloxane — rather than an active cooling ingredient like menthol. That's a reasonable, gentler approach for daily facial use, since menthol can be irritating for some skin types. The UV protection itself comes from the same filter combination used across several Dot & Key sunscreens, so the SPF performance should be comparable to the brand's other chemical-filter options.",
+      },
+      { type: "heading", level: 2, text: "Key Ingredients and Their Roles", id: "ingredients" },
+      {
+        type: "list",
+        items: [
+          "Ethylhexyl Methoxycinnamate, Butyl Methoxydibenzoylmethane, Benzophenone-3: the chemical UV filter system providing SPF 50+ PA++++ coverage.",
+          "Citrullus Lanatus (Watermelon) Fruit Extract: the formula's namesake botanical, associated with a light hydrating and soothing effect.",
+          "Sodium Hyaluronate (Hyaluronic Acid): supports oil-free hydration without adding heaviness.",
+          "Cyclopentasiloxane: a lightweight, quick-evaporating silicone that contributes to the gel's fast-absorbing, non-oily finish.",
+        ],
+      },
+      { type: "heading", level: 2, text: "Full Ingredient List", id: "full-ingredient-list" },
+      {
+        type: "paragraph",
+        text: "As listed on the official Dot & Key product page at the time of writing: Aqua, Ethylhexyl Methoxycinnamate (and) Butyl Methoxydibenzoylmethane (and) Benzophenone-3 (and) Phospholipids (and) 1,3-Butylene Glycol, Glycerine, C12-15 Alkyl Benzoate, Caprylic/Capric Triglyceride, Propanediol, Cyclopentasiloxane, Zea Mays (Corn) Starch, Citrullus Lanatus (Watermelon) Fruit Extract, Oxothiazolidine (and) Butylene Glycol (and) Sodium Benzoate, Methylene Bis-Benzotriazolyl Tetramethylbutylphenol, and additional stabilizers and preservatives as disclosed on the official listing.",
+      },
+      {
+        type: "callout",
+        variant: "note",
+        title: "Same filter family as other Dot & Key sunscreens",
+        text: "This formula shares its core UV filter combination with the Vitamin C + E Sunscreen. The meaningful difference between the two is texture and secondary ingredient focus (cooling/hydrating vs. brightening/antioxidant), not the underlying sun protection technology.",
+      },
+      { type: "heading", level: 2, text: "Who May Find It Suitable?", id: "who-may-suit" },
+      {
+        type: "list",
+        items: [
+          "People with oily or combination skin who find richer sunscreens too heavy.",
+          "Anyone in hot, humid climates who wants a genuinely lightweight, non-greasy daily SPF.",
+          "Those who prefer a fragrance-forward, dewy-gel sensory experience over a cream sunscreen.",
+        ],
+      },
+      { type: "heading", level: 2, text: "How to Use It", id: "how-to-use" },
+      { type: "heading", level: 3, text: "Official Brand Directions", id: "brand-directions" },
+      {
+        type: "list",
+        items: [
+          "Dot & Key's product page does not publish a detailed step-by-step application method on this listing.",
+        ],
+      },
+      { type: "heading", level: 3, text: "General Usage Guidance", id: "general-usage" },
+      {
+        type: "list",
+        items: [
+          "Apply generously as the last step of a morning routine, roughly two finger-lengths for full face and neck coverage.",
+          "Reapply every 2-3 hours during continued sun exposure, and after sweating or swimming.",
+          "Allow 15-20 minutes after application before direct sun exposure, standard for chemical-filter sunscreens.",
+          "This is general sunscreen guidance, not specific to Dot & Key.",
+        ],
+      },
+      { type: "heading", level: 2, text: "Where Does It Fit Into a Routine?", id: "routine" },
+      {
+        type: "paragraph",
+        text: "Used as the final step of a morning routine, after a lightweight gel moisturizer such as Dot & Key's 72HR Gel Moisturizer + Probiotics. It's a natural pairing for anyone already using oil-free, gel-based products earlier in their routine.",
+      },
+      { type: "heading", level: 2, text: "Potential Advantages", id: "pros" },
+      { type: "heading", level: 2, text: "Things to Consider", id: "cons" },
+      {
+        type: "prosCons",
+        pros: [
+          "Genuinely lightweight, non-oily aqua-gel texture suited to oily/combination skin",
+          "SPF 50+ PA++++ broad-spectrum rating with zero white cast",
+          "Hyaluronic acid content offsets the drying feel some gel sunscreens have",
+          "Available in two accessible sizes (50g/80g)",
+        ],
+        cons: [
+          "Chemical-filter formula, not suitable for anyone who specifically avoids chemical UV filters",
+          "\"Cooling\" is a sensory/textural effect from the gel base, not an active cooling ingredient",
+          "No official mention of comedogenicity testing for acne-prone skin specifically",
+          "Fragrance is present, worth checking for anyone with fragrance sensitivity",
+        ],
+      },
+      { type: "heading", level: 2, text: "Comparison With Relevant Dot & Key Products", id: "comparison" },
+      {
+        type: "table",
+        caption: "Dot & Key Watermelon Cooling Sunscreen vs. Vitamin C + E Sunscreen vs. Cica + Niacinamide Sunscreen",
+        headers: ["Feature", "Watermelon Cooling Sunscreen", "Vitamin C + E Sunscreen", "Cica + Niacinamide Sunscreen"],
+        rows: [
+          ["Texture", "Aqua-gel, oil-free", "Water-light gel-cream", "Mattifying"],
+          ["Best for", "Oily/combination, cooling feel", "Dullness + daily SPF", "Acne-prone, oil control"],
+          ["Approx. price", "₹445 (50g) / ₹595 (80g)", "₹445 (50g) / ₹595 (80g)", "₹445 (50g) / ₹595 (80g)"],
+        ],
+      },
+      {
+        type: "postGrid",
+        postSlugs: [
+          "dot-and-key-master-guide",
+          "dot-and-key-vitamin-c-e-sunscreen-review",
+          "dot-and-key-72hr-gel-moisturizer-review",
+        ],
+      },
+      { type: "heading", level: 2, text: "Frequently Asked Questions", id: "faqs" },
+      { type: "heading", level: 2, text: "How We Researched This Guide", id: "methodology" },
+      {
+        type: "paragraph",
+        text: "This guide is based on the official Dot & Key product listing and its published ingredient list, as of September 2026. This article does not claim independent lab testing or dermatologist evaluation of the product.",
+      },
+      { type: "heading", level: 2, text: "Final Verdict", id: "verdict" },
+      {
+        type: "paragraph",
+        text: "Dot & Key's Watermelon Cooling Sunscreen is a solid pick for anyone with oily or combination skin who wants a genuinely lightweight, oil-free daily SPF without sacrificing broad-spectrum coverage. It's built for texture and comfort in hot climates rather than a treatment angle — those wanting an added brightening or acne-control benefit should compare it against Dot & Key's Vitamin C + E or Cica + Niacinamide sunscreens instead.",
+      },
+    ],
+    faqs: [
+      {
+        question: "Is this sunscreen actually cooling, or is that just marketing?",
+        answer: "The \"cooling\" effect comes from the aqua-gel base and quick-evaporating silicones in the formula, giving a genuine light, fresh sensory feel on application rather than a literal temperature drop. It doesn't contain an active cooling ingredient like menthol.",
+      },
+      {
+        question: "Is this sunscreen good for oily skin?",
+        answer: "Yes — Dot & Key markets it specifically for oily and combination skin, with an oil-free, non-greasy aqua-gel texture.",
+      },
+      {
+        question: "Does this leave a white cast?",
+        answer: "Per the official product description, it's formulated to blend with zero white cast. As with any sunscreen, individual results can vary slightly by skin tone and application amount.",
+      },
+      {
+        question: "How is this different from the Vitamin C + E Sunscreen?",
+        answer: "Both use the same core UV filter combination for SPF 50+ PA++++ protection. This version emphasizes watermelon extract, hyaluronic acid, and a cooling aqua-gel texture for oily/combination skin, while the Vitamin C + E version leans into a brightening, antioxidant angle.",
+      },
+      {
+        question: "What sizes is this sunscreen available in?",
+        answer: "It's sold in two sizes: 50g at ₹445 and 80g at ₹595, per the official Dot & Key listing.",
+      },
+    ],
+    sources: [
+      { label: "Dot & Key — Watermelon Cooling Sunscreen SPF 50+ PA++++ (official product page)", url: "https://www.dotandkey.com/products/watermelon-cooling-spf-50-face-sunscreen" },
+    ],
+    relatedProductSlugs: [],
+  },
+  {
+    id: "post-dot-and-key-vitamin-c-e-niacinamide-serum-review",
+    slug: "dot-and-key-vitamin-c-e-niacinamide-serum-review",
+    title: "Dot & Key 10% Vitamin C + E Face Serum with 5% Niacinamide: Ingredients, Benefits & How to Use",
+    excerpt:
+      "A research-based review of Dot & Key's beginner-friendly 10% Vitamin C + E Face Serum with 5% Niacinamide — its Ethyl Ascorbic Acid formula, full ingredient list, and how it compares with the brand's Strawberry Niacinamide Serum.",
+    summary:
+      "Dot & Key 10% Vitamin C + E Face Serum with 5% Niacinamide is a fragrance-free serum built on Ethyl Ascorbic Acid (a stable vitamin C derivative) and 5% niacinamide, formulated for dullness, dark spots, and pigmentation, and marketed as beginner-friendly for people new to vitamin C. It's sold in 20ml (₹499) and 30ml (₹695) sizes. It suits vitamin C beginners and those with sensitive-leaning skin who want a non-sticky, gentle daily brightening serum.",
+    keyTakeaways: [
+      { text: "Uses Ethyl Ascorbic Acid, a stable, non-acidic vitamin C derivative, at a 10% concentration — gentler than pure L-ascorbic acid formulas." },
+      { text: "Combines vitamin C with 5% niacinamide and Sicilian Blood Orange extract in a single fragrance-free serum." },
+      { text: "Explicitly marketed by Dot & Key as \"beginner-friendly\" for people new to vitamin C, based on the non-sticky, non-irritating formulation choice." },
+      { text: "Sold in two sizes — 20ml (₹499) and 30ml (₹695) — with a full ingredient list disclosed on the official product page." },
+      { text: "For a higher-strength niacinamide focus instead of a vitamin C lead, Dot & Key's Strawberry Bright 10% Niacinamide Serum is the closer match." },
+    ],
+    heroImage: "/products/dotandkey-vitamin-c-e-niacinamide-serum.jpg",
+    heroImageAlt: "Dot & Key 10% Vitamin C + E Face Serum with 5% Niacinamide bottle product packaging",
+    categorySlug: "skincare",
+    tagSlugs: ["dot-key", "serum", "vitamin-c", "pigmentation"],
+    publishedAt: "2026-09-08",
+    updatedAt: "2026-09-08",
+    readingTimeMinutes: 10,
+    editorsPick: true,
+    popular: true,
+    viewCount: 260,
+    content: [
+      {
+        type: "paragraph",
+        text: "Vitamin C serums have a reputation for tingling, stickiness, or instability that puts off a lot of first-time users. Dot & Key's 10% Vitamin C + E Face Serum is built specifically to sidestep that reputation, using a stable, non-acidic vitamin C derivative rather than pure L-ascorbic acid, and marketing itself directly at people trying vitamin C for the first time.",
+      },
+      {
+        type: "paragraph",
+        text: "This guide covers what's actually in the formula, why the ingredient choice matters for sensitive or beginner skin, who it's likely to suit, and how it compares with Dot & Key's other brightening serums.",
+      },
+      { type: "heading", level: 2, text: "Quick Answer", id: "quick-answer" },
+      {
+        type: "paragraph",
+        text: "Dot & Key 10% Vitamin C + E Face Serum with 5% Niacinamide is a fragrance-free serum built on Ethyl Ascorbic Acid (a stable vitamin C derivative) and 5% niacinamide, formulated for dullness, dark spots, and pigmentation, and marketed as beginner-friendly for people new to vitamin C. It's sold in 20ml (₹499) and 30ml (₹695) sizes. It suits vitamin C beginners and those with sensitive-leaning skin who want a non-sticky, gentle daily brightening serum.",
+      },
+      { type: "heading", level: 2, text: "Product Overview", id: "overview" },
+      {
+        type: "table",
+        headers: ["Feature", "Details"],
+        rows: [
+          ["Brand", "Dot & Key"],
+          ["Product Type", "Face serum"],
+          ["Category", "Serum"],
+          ["Key Ingredients", "10% Ethyl Ascorbic Acid, 5% Niacinamide, Sicilian Blood Orange, Vitamin E"],
+          ["Primary Purpose", "Dullness, dark spots, pigmentation"],
+          ["Texture", "Lightweight, non-sticky, fragrance-free liquid"],
+          ["Skin Type", "All skin types, including vitamin C beginners"],
+          ["When to Use", "AM and PM"],
+          ["Available Sizes", "20ml (₹499), 30ml (₹695)"],
+        ],
+      },
+      { type: "heading", level: 2, text: "What Is This Product?", id: "what-is-it" },
+      {
+        type: "paragraph",
+        text: "This serum pairs 10% Ethyl Ascorbic Acid — a stable, oil-and-water-soluble vitamin C derivative that doesn't require the very low pH pure L-ascorbic acid needs to work — with 5% niacinamide, Sicilian Blood Orange extract, and vitamin E. Dot & Key also lists Kakadu Plum and pumpkin extract in the formula. The combination is designed to deliver vitamin C's brightening and antioxidant benefits without the tingling or instability sometimes associated with high-strength pure ascorbic acid serums, which is the basis for the brand's \"beginner-friendly\" positioning.",
+      },
+      { type: "heading", level: 2, text: "Official Brand Claims", id: "brand-says" },
+      {
+        type: "list",
+        items: [
+          "Visibly reduces dullness and boosts glow with 10% Triple Vitamin C.",
+          "5% Niacinamide helps fade dark spots and treats pigmentation over time.",
+          "Checks free radical damage and re-energizes tired skin with Sicilian Blood Orange.",
+          "Non-sticky and fragrance-free, positioned as suitable for all skin types, including vitamin C beginners.",
+          "Self-assessment study (36 subjects): 91% felt the serum improved skin brightness in 4 weeks; 83% said dark spots faded in 8 weeks.",
+        ],
+      },
+      { type: "heading", level: 3, text: "Formulation Analysis", id: "ingredient-analysis" },
+      {
+        type: "paragraph",
+        text: "Ethyl Ascorbic Acid is a legitimate, well-regarded stable vitamin C derivative — it's less irritating than pure L-ascorbic acid partly because it doesn't need the same acidic pH to remain effective, which supports the \"beginner-friendly\" framing more credibly than a marketing label alone would. Pairing it with niacinamide is a well-established combination for tone-evening, and Dot & Key's own FAQ notes older concerns about vitamin C and niacinamide being incompatible are outdated. The 8-week, 36-subject dark-spot fading figure is brand-reported and should be read as directional, not clinically validated evidence.",
+      },
+      { type: "heading", level: 2, text: "Key Ingredients and Their Roles", id: "ingredients" },
+      {
+        type: "list",
+        items: [
+          "Ethyl Ascorbic Acid (10%): a stable vitamin C derivative that brightens and provides antioxidant protection with lower irritation potential than pure ascorbic acid.",
+          "Niacinamide (5%): supports fading of dark spots and pigmentation, and strengthens the skin barrier over time.",
+          "Citrus Sinensis (Blood Orange) Fruit Extract: an antioxidant-rich botanical that helps counter free radical damage.",
+          "Terminalia Ferdinandiana (Kakadu Plum) Fruit Extract: a naturally vitamin-C-rich botanical extract included alongside the primary active.",
+          "Sodium Hyaluronate: provides a hydrating boost to offset any dryness from the active ingredients.",
+        ],
+      },
+      { type: "heading", level: 2, text: "Full Ingredient List", id: "full-ingredient-list" },
+      {
+        type: "paragraph",
+        text: "As listed on the official Dot & Key product page at the time of writing: Aqua, Ethyl Ascorbic Acid, Niacinamide, Propanediol, Butylene Glycol, Diethylene Glycol Monoethyl Ether, Citric Acid, Benzyl Alcohol (and) Ethylhexylglycerin (and) Tocopherol, Citrus Sinensis (Blood Orange) Fruit Extract, Glycerin (and) Terminalia Ferdinandiana Fruit Extract, Cucurbita Pepo (Pumpkin) Extract, Tocopheryl Acetate, Xanthan Gum, Ferulic Acid, Disodium EDTA, Allantoin, Sodium Hyaluronate, Alpha Arbutin, Laminaria Digitata Extract, Hydrogenated Lecithin, Cetyl-PG Hydroxyethyl Palmitamide, Ceramide 1, 2, 3, 4, 6-II, Cholesterol, 1,2-Hexanediol.",
+      },
+      {
+        type: "callout",
+        variant: "tip",
+        title: "Fragrance-free formulation",
+        text: "Dot & Key explicitly formulates this serum without added fragrance. What you smell is the natural scent of the active ingredients themselves, which is a plus for anyone sensitive to scented actives.",
+      },
+      { type: "heading", level: 2, text: "Who May Find It Suitable?", id: "who-may-suit" },
+      {
+        type: "list",
+        items: [
+          "People trying a vitamin C serum for the first time and wanting a lower-irritation entry point.",
+          "Anyone dealing with dullness, uneven tone, or early-stage dark spots from sun exposure.",
+          "Those who've reacted poorly to high-strength pure L-ascorbic acid serums in the past.",
+        ],
+      },
+      { type: "heading", level: 2, text: "How to Use It", id: "how-to-use" },
+      { type: "heading", level: 3, text: "Official Brand Directions", id: "brand-directions" },
+      {
+        type: "list",
+        items: [
+          "Apply 3-4 drops of serum on clean skin.",
+          "Massage gently until completely absorbed.",
+          "Follow up with moisturizer and sunscreen.",
+          "Suitable for daily AM and PM use, per the brand.",
+        ],
+      },
+      { type: "heading", level: 3, text: "General Usage Guidance", id: "general-usage" },
+      {
+        type: "list",
+        items: [
+          "Even with a gentler derivative, first-time users can patch-test or start with once-daily use before moving to twice daily.",
+          "Daytime use should always be followed by sunscreen, since brightening actives work best alongside consistent sun protection.",
+          "This is general guidance, not specific to Dot & Key.",
+        ],
+      },
+      { type: "heading", level: 2, text: "Where Does It Fit Into a Routine?", id: "routine" },
+      {
+        type: "paragraph",
+        text: "Applied after cleansing and toning, before moisturizer. In the morning, always follow with sunscreen — Dot & Key's own Vitamin C + E Sunscreen is a natural, on-theme pairing.",
+      },
+      { type: "heading", level: 2, text: "Potential Advantages", id: "pros" },
+      { type: "heading", level: 2, text: "Things to Consider", id: "cons" },
+      {
+        type: "prosCons",
+        pros: [
+          "Stable Ethyl Ascorbic Acid derivative, genuinely gentler than pure L-ascorbic acid formulas",
+          "Combines vitamin C and niacinamide in one fragrance-free, non-sticky serum",
+          "Full ingredient list transparently disclosed by the brand",
+          "Two size options (20ml/30ml) with a clear price-per-ml difference",
+        ],
+        cons: [
+          "Ethyl Ascorbic Acid may deliver a gentler effect than higher-strength pure L-ascorbic acid for some users",
+          "8-week dark-spot data is a small, brand-run self-assessment study",
+          "Contains Benzyl Alcohol and other preservatives, worth checking for known sensitivities",
+          "No SPF included — must be paired with a separate sunscreen",
+        ],
+      },
+      { type: "heading", level: 2, text: "Comparison With Relevant Dot & Key Products", id: "comparison" },
+      {
+        type: "table",
+        caption: "Dot & Key Vitamin C + E Serum vs. Strawberry Niacinamide Serum vs. Cica + Niacinamide Serum",
+        headers: ["Feature", "Vitamin C + E Serum", "Strawberry Niacinamide Serum", "Cica + Niacinamide Serum"],
+        rows: [
+          ["Lead active", "10% Ethyl Ascorbic Acid", "10% Niacinamide", "10% Niacinamide + Tranexamic Acid"],
+          ["Best for", "Dullness, dark spots, VitC beginners", "Brightening, texture, pores", "Oily, acne-prone, sensitive skin"],
+          ["Approx. price", "₹499 (20ml) / ₹695 (30ml)", "₹449 (20ml) / ₹599 (30ml)", "₹449 (discounted) / ₹599"],
+        ],
+      },
+      {
+        type: "postGrid",
+        postSlugs: [
+          "dot-and-key-master-guide",
+          "dot-and-key-strawberry-niacinamide-serum-review",
+          "dot-and-key-vitamin-c-e-sunscreen-review",
+        ],
+      },
+      { type: "heading", level: 2, text: "Frequently Asked Questions", id: "faqs" },
+      { type: "heading", level: 2, text: "How We Researched This Guide", id: "methodology" },
+      {
+        type: "paragraph",
+        text: "This guide is based on the official Dot & Key product listing, its published ingredient list, and the brand's own FAQ and self-assessment study results, as of September 2026. This article does not claim independent lab testing or dermatologist evaluation of the product, and does not guarantee results for melasma or other diagnosed pigmentation conditions.",
+      },
+      { type: "heading", level: 2, text: "Final Verdict", id: "verdict" },
+      {
+        type: "paragraph",
+        text: "Dot & Key's 10% Vitamin C + E Face Serum is a well-reasoned entry point for anyone new to vitamin C, built on a genuinely stable derivative rather than a token gentler-sounding label. It's not the most potent vitamin C option on the market for advanced users chasing dramatic results, but as a daily, low-irritation brightening step it does what it sets out to do.",
+      },
+    ],
+    faqs: [
+      {
+        question: "Is this serum suitable for sensitive skin?",
+        answer: "Dot & Key positions it as suitable for all skin types, including beginners to vitamin C, largely because Ethyl Ascorbic Acid is gentler than pure L-ascorbic acid. As with any active serum, patch-testing is still worthwhile if you have known sensitivities.",
+      },
+      {
+        question: "Can I use vitamin C and niacinamide together?",
+        answer: "Yes. This serum combines both in a single formula. Older concerns about vitamin C and niacinamide being incompatible or reducing each other's effectiveness are outdated and not supported by current formulation science.",
+      },
+      {
+        question: "Do I still need sunscreen if I use this serum?",
+        answer: "Yes. Vitamin C serums do not replace sunscreen and can make skin more sun-sensitive. Dot & Key's own directions specifically say to follow up with sunscreen.",
+      },
+      {
+        question: "What's the difference between the 20ml and 30ml sizes?",
+        answer: "They're the same formula at different sizes and price points — 20ml at ₹499 and 30ml at ₹695, per the official Dot & Key listing.",
+      },
+      {
+        question: "Will this serum improve melasma?",
+        answer: "The brand's FAQ mentions the formula may help with hyperpigmentation generally, but melasma is a specific, often stubborn pigmentation condition. Anyone with diagnosed melasma should consult a dermatologist rather than relying on an over-the-counter serum alone.",
+      },
+    ],
+    sources: [
+      { label: "Dot & Key — 10% Vitamin C + E Face Serum with 5% Niacinamide (official product page)", url: "https://www.dotandkey.com/products/dot-key-10-vitamin-c-e-5-niacinamide-serum-for-glowing-skin-beginner-friendly" },
+    ],
+    relatedProductSlugs: [],
+  },
+  {
+    id: "post-dot-and-key-strawberry-niacinamide-serum-review",
+    slug: "dot-and-key-strawberry-niacinamide-serum-review",
+    title: "Dot & Key Strawberry Bright 10% Niacinamide Face Serum: Ingredients, Benefits & How to Use",
+    excerpt:
+      "A research-based review of Dot & Key's Strawberry Bright 10% Niacinamide Face Serum — its Vitamin B12 and strawberry extract formula, full ingredient list, and how it compares with the brand's Vitamin C + E Serum.",
+    summary:
+      "Dot & Key Strawberry Bright 10% Niacinamide Face Serum is a niacinamide-led serum with Vitamin B12 and strawberry extract, formulated to brighten skin, smooth texture, minimize the look of pores, and fade dark spots. It's sold in 20ml (₹449-599) and 30ml (₹509-599) sizes. It suits people prioritizing texture and pore-minimizing benefits alongside brightening, distinct from Dot & Key's vitamin-C-led serum.",
+    keyTakeaways: [
+      { text: "Built around a 10% niacinamide concentration, paired with Vitamin B12 (which also gives the serum its pink color) and strawberry extract." },
+      { text: "Positioned for brightening, texture-smoothing, pore-minimizing, and dark-spot benefits rather than a pure vitamin-C brightening angle." },
+      { text: "Brand self-assessment study: 92% reported brighter skin after 4 weeks, 94% felt smoother skin with regular use." },
+      { text: "Sold in 20ml and 30ml sizes, both priced in the ₹449-₹599 range depending on ongoing offers." },
+      { text: "For a vitamin-C-led brightening approach instead of a niacinamide lead, Dot & Key's 10% Vitamin C + E Serum is the closer match." },
+    ],
+    heroImage: "/products/dotandkey-strawberry-niacinamide-serum.jpg",
+    heroImageAlt: "Dot & Key Strawberry Bright 10% Niacinamide Face Serum bottle product packaging",
+    categorySlug: "skincare",
+    tagSlugs: ["dot-key", "serum", "pigmentation"],
+    publishedAt: "2026-09-08",
+    updatedAt: "2026-09-08",
+    readingTimeMinutes: 9,
+    editorsPick: true,
+    popular: true,
+    viewCount: 230,
+    content: [
+      {
+        type: "paragraph",
+        text: "Niacinamide is one of the most widely used brightening actives precisely because it's well-tolerated at higher concentrations than many alternatives. Dot & Key's Strawberry Bright serum pushes to a 10% concentration and pairs it with Vitamin B12 and strawberry extract, positioning texture and pore appearance alongside the brightening angle rather than treating niacinamide as a single-benefit ingredient.",
+      },
+      {
+        type: "paragraph",
+        text: "This guide covers what's actually in the formula, what the strawberry and B12 additions are doing, who it's likely to suit, and how it compares with Dot & Key's vitamin-C-led serum.",
+      },
+      { type: "heading", level: 2, text: "Quick Answer", id: "quick-answer" },
+      {
+        type: "paragraph",
+        text: "Dot & Key Strawberry Bright 10% Niacinamide Face Serum is a niacinamide-led serum with Vitamin B12 and strawberry extract, formulated to brighten skin, smooth texture, minimize the look of pores, and fade dark spots. It's sold in 20ml and 30ml sizes, both priced in the ₹449-₹599 range depending on ongoing offers. It suits people prioritizing texture and pore-minimizing benefits alongside brightening, distinct from Dot & Key's vitamin-C-led serum.",
+      },
+      { type: "heading", level: 2, text: "Product Overview", id: "overview" },
+      {
+        type: "table",
+        headers: ["Feature", "Details"],
+        rows: [
+          ["Brand", "Dot & Key"],
+          ["Product Type", "Face serum"],
+          ["Category", "Serum"],
+          ["Key Ingredients", "10% Niacinamide, Vitamin B12, Strawberry Extract, Hyaluronic Acid"],
+          ["Primary Purpose", "Brightening, texture-smoothing, pore appearance, dark spots"],
+          ["Texture", "Lightweight liquid serum, pink-tinted"],
+          ["Skin Type", "All skin types (per brand)"],
+          ["When to Use", "AM and PM"],
+          ["Available Sizes", "20ml, 30ml"],
+        ],
+      },
+      { type: "heading", level: 2, text: "What Is This Product?", id: "what-is-it" },
+      {
+        type: "paragraph",
+        text: "This is a niacinamide-forward serum at a 10% concentration — high enough to be a genuinely active ingredient level for tone-evening and barrier support, while remaining generally well-tolerated across skin types. Vitamin B12 (Cyanocobalamin) is included both for its own skin-conditioning role and because it naturally gives the serum its pink tint, and Fragaria Ananassa (Strawberry) Fruit Extract is added as the formula's signature botanical, alongside hyaluronic acid for hydration.",
+      },
+      { type: "heading", level: 2, text: "Official Brand Claims", id: "brand-says" },
+      {
+        type: "list",
+        items: [
+          "A gentle form of niacinamide that works effectively without causing irritation, even at 10%.",
+          "Visibly brightens skin, smooths texture, fades dark spots, treats pigmentation, and minimizes the look of pores.",
+          "Delivers hydration alongside its brightening benefits.",
+          "Self-assessment study: 92% reported brighter skin after 4 weeks; 94% felt smoother skin with regular use.",
+        ],
+      },
+      { type: "heading", level: 3, text: "Formulation Analysis", id: "ingredient-analysis" },
+      {
+        type: "paragraph",
+        text: "10% is on the higher end of typical niacinamide concentrations used in serums, and is generally well tolerated, though a small proportion of users can experience transient flushing or tingling at this strength, particularly early on. The \"minimizes the look of pores\" claim is a reasonable, well-supported framing for niacinamide — it affects oil regulation and the visual appearance of pore size rather than physically shrinking pores, which isn't possible with topical skincare. The strawberry extract and B12 additions are complementary rather than the formula's primary active driver.",
+      },
+      { type: "heading", level: 2, text: "Key Ingredients and Their Roles", id: "ingredients" },
+      {
+        type: "list",
+        items: [
+          "Niacinamide (10%): the lead active for brightening, tone-evening, oil regulation, and barrier support.",
+          "Cyanocobalamin (Vitamin B12): a skin-conditioning ingredient that also provides the serum's characteristic pink color.",
+          "Fragaria Ananassa (Strawberry) Fruit Extract: the formula's signature botanical, associated with restoring a smooth, healthy-looking skin texture.",
+          "Sodium Hyaluronate: hydrates and helps offset any dryness from the niacinamide concentration.",
+          "Amino acid complex (Serine, Alanine, Glycine, and others): supports the skin's natural moisturizing factor.",
+        ],
+      },
+      { type: "heading", level: 2, text: "Full Ingredient List", id: "full-ingredient-list" },
+      {
+        type: "paragraph",
+        text: "As listed on the official Dot & Key product page at the time of writing: Aqua, Niacinamide, Propanediol, Phenyl Trimethicone, Isohexadecane, Hamamelis Virginiana Leaf Extract (and) Propylene Glycol (and) Sodium Benzoate (and) Phenoxyethanol (and) Ethylhexylglycerin (and) Sorbitol, Dimethicone, Fragaria Ananassa Fruit Extract, Cyanocobalamin, Sodium Hyaluronate, Xylitylglucoside (and) Anhydroxylitol (and) Xylitol, Trehalose, Tocopheryl Acetate, Phragmites Communis Extract (and) Poria Cocos Extract, Betaine (and) Sodium PCA (and) Sodium Lactate (and) PCA (and) Serine (and) Alanine (and) Glycine (and) Glutamic Acid (and) Lysine HCl (and) Threonine (and) Arginine (and) Proline, Allantoin, Cetearyl Olivate (and) Sorbitan Olivate, Polymethyl Methacrylate, Polyacrylate Crosspolymer-6, Polymethylsilsesquioxane, Xanthan Gum, Disodium EDTA, Phenoxyethanol (and) Ethylhexylglycerin.",
+      },
+      {
+        type: "callout",
+        variant: "note",
+        title: "Naturally pink-tinted serum",
+        text: "The serum's pink color comes from Vitamin B12 (Cyanocobalamin), not added dye. This is a genuine ingredient-driven color, not a cosmetic colorant.",
+      },
+      { type: "heading", level: 2, text: "Who May Find It Suitable?", id: "who-may-suit" },
+      {
+        type: "list",
+        items: [
+          "People wanting a higher-strength niacinamide serum for texture and pore appearance, not just tone.",
+          "Anyone with rough or uneven skin texture alongside dullness or dark spots.",
+          "Those who prefer a niacinamide-led approach over a vitamin-C-led one for daily brightening.",
+        ],
+      },
+      { type: "heading", level: 2, text: "How to Use It", id: "how-to-use" },
+      { type: "heading", level: 3, text: "Official Brand Directions", id: "brand-directions" },
+      {
+        type: "list",
+        items: [
+          "Apply 3-4 pumps on clean, dry skin.",
+          "Pat gently until fully absorbed.",
+          "Follow up with a moisturizer and sunscreen.",
+          "Use twice daily (AM and PM) for best results, per the brand.",
+        ],
+      },
+      { type: "heading", level: 3, text: "General Usage Guidance", id: "general-usage" },
+      {
+        type: "list",
+        items: [
+          "If you're new to 10% niacinamide, starting once daily and building up to twice daily can help gauge tolerance.",
+          "Layer under moisturizer, and always follow daytime use with sunscreen.",
+          "This is general guidance, not specific to Dot & Key.",
+        ],
+      },
+      { type: "heading", level: 2, text: "Where Does It Fit Into a Routine?", id: "routine" },
+      {
+        type: "paragraph",
+        text: "Applied after cleansing and toning, before moisturizer. It layers well underneath a hydrating moisturizer like Dot & Key's 72HR Gel Moisturizer, and should always be followed by sunscreen during the day.",
+      },
+      { type: "heading", level: 2, text: "Potential Advantages", id: "pros" },
+      { type: "heading", level: 2, text: "Things to Consider", id: "cons" },
+      {
+        type: "prosCons",
+        pros: [
+          "Genuine 10% niacinamide concentration, on the higher end for daily-use serums",
+          "Addresses texture and pore appearance, not just tone, in its claims",
+          "Contains hydrating hyaluronic acid and an amino acid complex alongside the active",
+          "Full ingredient list transparently disclosed by the brand",
+        ],
+        cons: [
+          "10% niacinamide may cause transient tingling or flushing for a small proportion of users, especially initially",
+          "4-8 week brightness/texture data comes from a brand-run self-assessment study",
+          "No SPF included — must be paired with a separate sunscreen",
+          "Contains fragrance-adjacent botanical extracts, worth checking for sensitive skin",
+        ],
+      },
+      { type: "heading", level: 2, text: "Comparison With Relevant Dot & Key Products", id: "comparison" },
+      {
+        type: "table",
+        caption: "Dot & Key Strawberry Niacinamide Serum vs. Vitamin C + E Serum vs. Cica + Niacinamide Serum",
+        headers: ["Feature", "Strawberry Niacinamide Serum", "Vitamin C + E Serum", "Cica + Niacinamide Serum"],
+        rows: [
+          ["Lead active", "10% Niacinamide", "10% Ethyl Ascorbic Acid", "10% Niacinamide + Tranexamic Acid"],
+          ["Best for", "Texture, pores, general brightening", "Dullness, dark spots, VitC beginners", "Oily, acne-prone, sensitive skin"],
+          ["Approx. price", "₹449 (20ml) / ₹599 (30ml)", "₹499 (20ml) / ₹695 (30ml)", "₹449 (discounted) / ₹599"],
+        ],
+      },
+      {
+        type: "postGrid",
+        postSlugs: [
+          "dot-and-key-master-guide",
+          "dot-and-key-vitamin-c-e-niacinamide-serum-review",
+          "dot-and-key-vitamin-c-pink-clay-mask-review",
+        ],
+      },
+      { type: "heading", level: 2, text: "Frequently Asked Questions", id: "faqs" },
+      { type: "heading", level: 2, text: "How We Researched This Guide", id: "methodology" },
+      {
+        type: "paragraph",
+        text: "This guide is based on the official Dot & Key product listing and its published ingredient list, as of September 2026. This article does not claim independent lab testing or dermatologist evaluation of the product.",
+      },
+      { type: "heading", level: 2, text: "Final Verdict", id: "verdict" },
+      {
+        type: "paragraph",
+        text: "Dot & Key's Strawberry Bright 10% Niacinamide Serum is a well-rounded pick for anyone wanting a niacinamide-led serum that also addresses texture and pore appearance, not just tone. It's a genuinely active-strength formula rather than a token niacinamide inclusion. Those specifically chasing a vitamin-C brightening mechanism should compare it against Dot & Key's 10% Vitamin C + E Serum instead.",
+      },
+    ],
+    faqs: [
+      {
+        question: "Why is this serum pink?",
+        answer: "The pink color comes naturally from Vitamin B12 (Cyanocobalamin), one of the formula's included ingredients — it's not an added cosmetic dye.",
+      },
+      {
+        question: "Can 10% niacinamide irritate skin?",
+        answer: "10% is a higher-than-average concentration, and a small proportion of users may notice transient tingling or flushing, especially when first starting. Most people tolerate niacinamide well even at this strength, but patch-testing is a reasonable precaution.",
+      },
+      {
+        question: "Does this serum shrink pores?",
+        answer: "No topical product can physically shrink pores. Niacinamide can help regulate oil production and improve the visual appearance of pore size over consistent use, which is the more accurate way to read this claim.",
+      },
+      {
+        question: "How is this different from Dot & Key's Vitamin C + E Serum?",
+        answer: "This serum leads with 10% niacinamide plus strawberry extract and Vitamin B12, focused on texture, pores, and brightening. The Vitamin C + E Serum leads with 10% Ethyl Ascorbic Acid, focused more specifically on dullness and dark spots, and is marketed as beginner-friendly.",
+      },
+      {
+        question: "What sizes is this serum available in?",
+        answer: "It's sold in 20ml and 30ml sizes, both generally priced in the ₹449-₹599 range depending on ongoing offers, per the official Dot & Key listing.",
+      },
+    ],
+    sources: [
+      { label: "Dot & Key — Strawberry Bright 10% Niacinamide Face Serum (official product page)", url: "https://www.dotandkey.com/products/10-niacinamide-strawberry-brightening-face-serum" },
+    ],
+    relatedProductSlugs: [],
+  },
+  {
+    id: "post-dot-and-key-barrier-repair-face-wash-review",
+    slug: "dot-and-key-barrier-repair-face-wash-review",
+    title: "Dot & Key Barrier Repair Gentle Hydrating Face Wash: Ingredients, Benefits & How to Use",
+    excerpt:
+      "A research-based review of Dot & Key's Barrier Repair Gentle Hydrating Face Wash — its ceramide, hyaluronic acid, and probiotic formula, full ingredient list, and how it compares with the brand's Cica + Salicylic Acid Face Wash.",
+    summary:
+      "Dot & Key Barrier Repair Gentle Hydrating Face Wash is a sulphate-free, soap-free cleanser with 5 essential ceramides, hyaluronic acid, probiotics, and Japanese rice water, formulated for dry, sensitive, and barrier-compromised skin. It's sold in 100ml (₹249) and 175ml (₹375) sizes. It suits people with dry, flaky, or reactive skin who need a cleanser that doesn't strip the skin barrier further.",
+    keyTakeaways: [
+      { text: "Sulphate-free and soap-free formula built around 5 essential ceramides, hyaluronic acid, probiotics, and Japanese rice water." },
+      { text: "Positioned specifically for dryness, flaky or rough patches, weakened skin barrier, and redness or irritation." },
+      { text: "Uses gentle surfactants (Cocamidopropyl Betaine, Decyl Glucoside) rather than harsher sulfates typically found in foaming cleansers." },
+      { text: "Sold in two sizes — 100ml (₹249) and 175ml (₹375) — making it accessible as a daily-use cleanser." },
+      { text: "For an oily, acne-prone skin focus instead of a barrier-repair one, Dot & Key's Cica + Salicylic Acid Face Wash is the closer match." },
+    ],
+    heroImage: "/products/dotandkey-barrier-repair-face-wash.jpg",
+    heroImageAlt: "Dot & Key Barrier Repair Gentle Hydrating Face Wash bottle product packaging",
+    categorySlug: "skincare",
+    tagSlugs: ["dot-key", "cleanser"],
+    publishedAt: "2026-09-08",
+    updatedAt: "2026-09-08",
+    readingTimeMinutes: 8,
+    editorsPick: true,
+    popular: true,
+    viewCount: 190,
+    content: [
+      {
+        type: "paragraph",
+        text: "A cleanser is the one skincare step almost everyone uses daily, which makes it a strange place to introduce harsh surfactants — especially for skin that's already dry or barrier-compromised. Dot & Key's Barrier Repair Gentle Hydrating Face Wash is built around that specific problem, prioritizing gentle cleansing agents and barrier-supporting ingredients over a punchy, squeaky-clean foam.",
+      },
+      {
+        type: "paragraph",
+        text: "This guide covers what's actually in the formula, why the surfactant choice matters for dry or sensitive skin, who it's likely to suit, and how it compares with Dot & Key's other face washes.",
+      },
+      { type: "heading", level: 2, text: "Quick Answer", id: "quick-answer" },
+      {
+        type: "paragraph",
+        text: "Dot & Key Barrier Repair Gentle Hydrating Face Wash is a sulphate-free, soap-free cleanser with 5 essential ceramides, hyaluronic acid, probiotics, and Japanese rice water, formulated for dry, sensitive, and barrier-compromised skin. It's sold in 100ml (₹249) and 175ml (₹375) sizes. It suits people with dry, flaky, or reactive skin who need a cleanser that doesn't strip the skin barrier further.",
+      },
+      { type: "heading", level: 2, text: "Product Overview", id: "overview" },
+      {
+        type: "table",
+        headers: ["Feature", "Details"],
+        rows: [
+          ["Brand", "Dot & Key"],
+          ["Product Type", "Face wash / cleanser"],
+          ["Category", "Face Cleanser"],
+          ["Key Ingredients", "5 Ceramides, Hyaluronic Acid, Probiotics, Japanese Rice Water"],
+          ["Primary Purpose", "Gentle cleansing with barrier support and hydration"],
+          ["Texture", "Sulphate-free, soap-free liquid wash"],
+          ["Skin Type", "Dry, sensitive, and barrier-compromised skin"],
+          ["Available Sizes", "100ml (₹249), 175ml (₹375)"],
+        ],
+      },
+      { type: "heading", level: 2, text: "What Is This Product?", id: "what-is-it" },
+      {
+        type: "paragraph",
+        text: "This is a low-foam, sulphate-free cleanser using Cocamidopropyl Betaine and Decyl Glucoside as its primary surfactants rather than harsher sulfates — a formulation choice that generally cleanses without stripping as much of the skin's natural lipid barrier. It's built around 5 essential ceramides, hyaluronic acid, probiotics, and Japanese rice water, all aimed at supporting rather than compromising the skin barrier during the cleansing step.",
+      },
+      { type: "heading", level: 2, text: "Official Brand Claims", id: "brand-says" },
+      {
+        type: "list",
+        items: [
+          "Gently cleanses skin of dirt and oil without over-drying.",
+          "Provides intense hydration while boosting the skin's barrier function.",
+          "Soap-free formula suitable for dry, sensitive, and barrier-compromised skin.",
+        ],
+      },
+      { type: "heading", level: 3, text: "Formulation Analysis", id: "ingredient-analysis" },
+      {
+        type: "paragraph",
+        text: "Cocamidopropyl Betaine and Decyl Glucoside are both well-regarded, milder surfactant choices commonly used in sensitive-skin cleansers, which supports the \"gentle\" positioning credibly rather than as an unverified marketing claim. Including ceramides and hyaluronic acid in a rinse-off product has a more modest, shorter-contact-time effect than in a leave-on moisturizer, but it can still help reduce the net barrier disruption that cleansing causes, which is the more realistic way to read the \"boosts barrier function\" claim.",
+      },
+      { type: "heading", level: 2, text: "Key Ingredients and Their Roles", id: "ingredients" },
+      {
+        type: "list",
+        items: [
+          "Cocamidopropyl Betaine & Decyl Glucoside: gentle, sulphate-free surfactants that cleanse without excessive stripping.",
+          "Sodium Hyaluronate: provides a hydrating boost even in a rinse-off format.",
+          "Lactococcus Ferment Lysate: a probiotic-derived ingredient associated with supporting the skin's microbiome balance.",
+          "Panthenol (Pro-Vitamin B5): soothes and supports barrier comfort.",
+          "Cocos Nucifera (Coconut) Oil & Simmondsia Chinensis (Jojoba) Seed Oil: lightweight emollients that help offset dryness from cleansing.",
+        ],
+      },
+      { type: "heading", level: 2, text: "Full Ingredient List", id: "full-ingredient-list" },
+      {
+        type: "paragraph",
+        text: "As listed on the official Dot & Key product page at the time of writing: Aqua, Cocamidopropyl Betaine, Glycerine, Decyl Glucoside, Disodium Cocoyl Glutamate, Triethanolamine, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Xanthan Gum, PEG-40 Hydrogenated Castor Oil, Citric Acid, Disodium EDTA, Panthenol, Cocos Nucifera (Coconut) Oil, Simmondsia Chinensis (Jojoba) Seed Oil, Sodium Hyaluronate, Tocopheryl Acetate, Lactococcus Ferment Lysate, Laminaria Digitata Extract, and additional preservatives and stabilizers as disclosed on the official listing.",
+      },
+      {
+        type: "callout",
+        variant: "tip",
+        title: "Sulphate-free and soap-free",
+        text: "This cleanser avoids both sulfates and traditional soap bases, which is generally the more skin-barrier-friendly choice for anyone with dry or reactive skin, even though it means a lower-foam wash experience than a classic foaming face wash.",
+      },
+      { type: "heading", level: 2, text: "Who May Find It Suitable?", id: "who-may-suit" },
+      {
+        type: "list",
+        items: [
+          "People with dry, flaky, or rough-patched skin looking for a non-stripping daily cleanser.",
+          "Anyone actively working on skin barrier repair who needs their cleansing step to support rather than undo that effort.",
+          "Those with redness-prone or reactive skin who find foaming cleansers too harsh.",
+        ],
+      },
+      { type: "heading", level: 2, text: "How to Use It", id: "how-to-use" },
+      { type: "heading", level: 3, text: "Official Brand Directions", id: "brand-directions" },
+      {
+        type: "list",
+        items: [
+          "Squeeze out a small amount.",
+          "Apply to wet face.",
+          "Massage gently for 20 seconds.",
+          "Rinse and pat dry.",
+          "Follow with toner, serum, and moisturizer.",
+        ],
+      },
+      { type: "heading", level: 3, text: "General Usage Guidance", id: "general-usage" },
+      {
+        type: "list",
+        items: [
+          "Twice-daily cleansing (AM and PM) is a common routine, though once daily in the evening with a water-only morning rinse can work for very dry skin.",
+          "Lukewarm rather than hot water helps limit additional barrier stress during cleansing.",
+          "This is general guidance, not specific to Dot & Key.",
+        ],
+      },
+      { type: "heading", level: 2, text: "Where Does It Fit Into a Routine?", id: "routine" },
+      {
+        type: "paragraph",
+        text: "Used as the first step of both morning and evening routines, followed by a toner, treatment serum, and a barrier-supporting moisturizer such as Dot & Key's Barrier Repair Moisturizer with Ceramides.",
+      },
+      { type: "heading", level: 2, text: "Potential Advantages", id: "pros" },
+      { type: "heading", level: 2, text: "Things to Consider", id: "cons" },
+      {
+        type: "prosCons",
+        pros: [
+          "Sulphate-free and soap-free, genuinely milder surfactant system",
+          "Includes ceramides, hyaluronic acid, and probiotic-derived ingredients, unusual for a rinse-off cleanser",
+          "Explicitly formulated for dry, sensitive, and barrier-compromised skin",
+          "Two accessible sizes (100ml/175ml)",
+        ],
+        cons: [
+          "Lower foam than a traditional foaming face wash, which some users may find less \"clean-feeling\" despite comparable cleansing",
+          "Barrier-repair ingredients have limited contact time in a rinse-off format",
+          "Not formulated with oil-control or acne-fighting actives, so it's not the best fit for oily/acne-prone skin",
+        ],
+      },
+      { type: "heading", level: 2, text: "Comparison With Relevant Dot & Key Products", id: "comparison" },
+      {
+        type: "table",
+        caption: "Dot & Key Barrier Repair Face Wash vs. Cica + Salicylic Acid Face Wash vs. Vitamin C Foaming Face Wash",
+        headers: ["Feature", "Barrier Repair Face Wash", "Cica + Salicylic Acid Face Wash", "Vitamin C Foaming Face Wash"],
+        rows: [
+          ["Key actives", "Ceramides + Hyaluronic Acid + Probiotics", "Salicylic Acid + Cica + Green Tea", "Vitamin C"],
+          ["Best for", "Dry, sensitive, barrier-compromised skin", "Oily, acne-prone skin", "Dull, uneven-toned skin"],
+          ["Approx. price", "₹249 (100ml) / ₹375 (175ml)", "₹249 (100ml) / ₹375 (175ml)", "₹295"],
+        ],
+      },
+      {
+        type: "postGrid",
+        postSlugs: [
+          "dot-and-key-master-guide",
+          "dot-and-key-cica-salicylic-face-wash-review",
+          "dot-and-key-barrier-repair-moisturizer-review",
+        ],
+      },
+      { type: "heading", level: 2, text: "Frequently Asked Questions", id: "faqs" },
+      { type: "heading", level: 2, text: "How We Researched This Guide", id: "methodology" },
+      {
+        type: "paragraph",
+        text: "This guide is based on the official Dot & Key product listing and its published ingredient list, as of September 2026. This article does not claim independent lab testing or dermatologist evaluation of the product.",
+      },
+      { type: "heading", level: 2, text: "Final Verdict", id: "verdict" },
+      {
+        type: "paragraph",
+        text: "Dot & Key's Barrier Repair Gentle Hydrating Face Wash is a genuinely well-suited option for anyone with dry, sensitive, or barrier-compromised skin who needs a cleanser that doesn't undo their skincare efforts at the first step. It's not built for oil control or acne, so anyone with oily or breakout-prone skin should look at Dot & Key's Cica + Salicylic Acid Face Wash instead.",
+      },
+    ],
+    faqs: [
+      {
+        question: "Is this face wash good for very dry or eczema-prone skin?",
+        answer: "It's formulated with dry and sensitive skin in mind, using gentle sulphate-free surfactants and barrier-supporting ingredients. That said, anyone with diagnosed eczema or a medical skin condition should check with a dermatologist before introducing new products.",
+      },
+      {
+        question: "Will this face wash properly remove makeup or sunscreen?",
+        answer: "As a gentle, low-foam cleanser, it's better suited to general daily cleansing than heavy makeup or sunscreen removal. For those, a separate oil or micellar-based first cleanse followed by this wash would be more thorough.",
+      },
+      {
+        question: "Does this face wash contain sulfates?",
+        answer: "No. It uses Cocamidopropyl Betaine and Decyl Glucoside as its primary surfactants, both sulphate-free, gentler cleansing agents.",
+      },
+      {
+        question: "What sizes is this face wash available in?",
+        answer: "It's sold in two sizes: 100ml at ₹249 and 175ml at ₹375, per the official Dot & Key listing.",
+      },
+      {
+        question: "Is this face wash suitable for oily skin?",
+        answer: "It can be used by any skin type, but it's specifically formulated for dryness and barrier support rather than oil control. Oily or acne-prone skin may prefer Dot & Key's Cica + Salicylic Acid Face Wash instead.",
+      },
+    ],
+    sources: [
+      { label: "Dot & Key — Barrier Repair Gentle Hydrating Face Wash (official product page)", url: "https://www.dotandkey.com/products/dot-key-barrier-repair-gentle-hydrating-face-wash-with-5-essential-ceramides-hyaluronic-ph-5-5-fragrance-sulphate-free-for-sensitive-dry-skin" },
+    ],
+    relatedProductSlugs: [],
+  },
+  {
+    id: "post-dot-and-key-cica-salicylic-face-wash-review",
+    slug: "dot-and-key-cica-salicylic-face-wash-review",
+    title: "Dot & Key Cica + Salicylic Acid Face Wash for Oily Skin: Ingredients, Benefits & How to Use",
+    excerpt:
+      "A research-based review of Dot & Key's Cica + Salicylic Acid Face Wash — its BHA and Zinc PCA formula, full ingredient list, and how it compares with the brand's Barrier Repair Face Wash.",
+    summary:
+      "Dot & Key Cica + Salicylic Acid Face Wash for Oily Skin is a sulphate-free, anti-acne cleanser with Salicylic Acid, Zinc PCA, and green tea, formulated to reduce active acne, control excess oil, and soothe inflammation. It's sold in 100ml (₹249) and 175ml (₹375) sizes. It suits people with oily or acne-prone skin who want a treatment-level cleanser rather than a purely cosmetic one.",
+    keyTakeaways: [
+      { text: "Contains Salicylic Acid as a leave-on-adjacent active in a rinse-off cleanser, paired with Zinc PCA for oil regulation." },
+      { text: "Positioned specifically for excess oil, active acne, clogged pores, and redness or irritation." },
+      { text: "Includes Tea Tree and Peppermint oils alongside the acne-fighting actives for a cooling, purifying sensory effect." },
+      { text: "Sold in two sizes — 100ml (₹249) and 175ml (₹375) — matching the brand's Barrier Repair Face Wash pricing." },
+      { text: "For dry, sensitive, or barrier-compromised skin instead of oily/acne-prone skin, Dot & Key's Barrier Repair Face Wash is the closer match." },
+    ],
+    heroImage: "/products/dotandkey-cica-salicylic-face-wash.jpg",
+    heroImageAlt: "Dot & Key Cica + Salicylic Acid Face Wash for Oily Skin bottle product packaging",
+    categorySlug: "skincare",
+    tagSlugs: ["dot-key", "cleanser", "acne"],
+    publishedAt: "2026-09-08",
+    updatedAt: "2026-09-08",
+    readingTimeMinutes: 8,
+    editorsPick: true,
+    popular: true,
+    viewCount: 195,
+    content: [
+      {
+        type: "paragraph",
+        text: "A cleanser built for oily or acne-prone skin needs to do more than just remove surface oil — it needs an active ingredient that can actually reach into pores during the short contact time of a wash. Dot & Key's Cica + Salicylic Acid Face Wash addresses that directly by including Salicylic Acid, a BHA typically associated with leave-on treatments, in a daily rinse-off format.",
+      },
+      {
+        type: "paragraph",
+        text: "This guide covers what's actually in the formula, how the BHA and Zinc PCA combination works in a cleanser format, who it's likely to suit, and how it compares with Dot & Key's other face washes.",
+      },
+      { type: "heading", level: 2, text: "Quick Answer", id: "quick-answer" },
+      {
+        type: "paragraph",
+        text: "Dot & Key Cica + Salicylic Acid Face Wash for Oily Skin is a sulphate-free, anti-acne cleanser with Salicylic Acid, Zinc PCA, and green tea, formulated to reduce active acne, control excess oil, and soothe inflammation. It's sold in 100ml (₹249) and 175ml (₹375) sizes. It suits people with oily or acne-prone skin who want a treatment-level cleanser rather than a purely cosmetic one.",
+      },
+      { type: "heading", level: 2, text: "Product Overview", id: "overview" },
+      {
+        type: "table",
+        headers: ["Feature", "Details"],
+        rows: [
+          ["Brand", "Dot & Key"],
+          ["Product Type", "Face wash / cleanser"],
+          ["Category", "Face Cleanser"],
+          ["Key Ingredients", "Salicylic Acid, Zinc PCA, Green Tea, Tea Tree Oil"],
+          ["Primary Purpose", "Acne control, oil regulation, pore-clearing"],
+          ["Texture", "Sulphate-free gel wash"],
+          ["Skin Type", "Oily, acne-prone skin"],
+          ["Available Sizes", "100ml (₹249), 175ml (₹375)"],
+        ],
+      },
+      { type: "heading", level: 2, text: "What Is This Product?", id: "what-is-it" },
+      {
+        type: "paragraph",
+        text: "This is a sulphate-free gel cleanser built around Salicylic Acid, a beta-hydroxy acid (BHA) that's oil-soluble and able to penetrate into sebum-filled pores — the same category of active commonly used in dedicated acne treatments, here formatted for daily rinse-off use. It's paired with Zinc PCA for oil regulation, green tea extract for its antioxidant and calming reputation, and Tea Tree and Peppermint oils for a cooling, purifying sensory finish.",
+      },
+      { type: "heading", level: 2, text: "Official Brand Claims", id: "brand-says" },
+      {
+        type: "list",
+        items: [
+          "Reduces active acne with gentle yet effective cleansing.",
+          "Controls excess oil and soothes skin inflammation.",
+          "Checks further breakouts, positioned as ideal for oily and acne-prone skin.",
+        ],
+      },
+      { type: "heading", level: 3, text: "Formulation Analysis", id: "ingredient-analysis" },
+      {
+        type: "paragraph",
+        text: "Including Salicylic Acid in a rinse-off cleanser is a genuinely relevant formulation choice for oily and acne-prone skin, even though contact time during a wash is inherently shorter than a leave-on BHA treatment. The exact salicylic acid percentage isn't disclosed on the product's public listing, which is common for cleanser-format BHA products but worth knowing if you're trying to compare concentration against a leave-on serum. Zinc PCA and niacinamide-adjacent ingredients are a sensible complement for oil regulation.",
+      },
+      { type: "heading", level: 2, text: "Key Ingredients and Their Roles", id: "ingredients" },
+      {
+        type: "list",
+        items: [
+          "Salicylic Acid: a BHA that penetrates oil-filled pores to help clear the buildup associated with acne.",
+          "Zinc PCA: supports oil regulation and has an established reputation for acne-relevant skin benefits.",
+          "Melaleuca Alternifolia (Tea Tree) Leaf Oil: included for its purifying, cooling sensory reputation.",
+          "Mentha Piperita (Peppermint) Oil: contributes a cooling sensation on application.",
+          "Panthenol: soothes and supports comfort alongside the active exfoliant.",
+        ],
+      },
+      { type: "heading", level: 2, text: "Full Ingredient List", id: "full-ingredient-list" },
+      {
+        type: "paragraph",
+        text: "As listed on the official Dot & Key product page at the time of writing: Aqua, Cocamidopropyl Betaine, Decyl Glucoside, Disodium Cocoyl Glutamate, 1,3-Butylene Glycol, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Salicylic Acid, Xanthan Gum, PEG-40 Hydrogenated Castor Oil, Sodium Hydroxide, Zinc PCA, Disodium EDTA, Benzophenone-4, Camphor, Melaleuca Alternifolia (Tea Tree) Leaf Oil, Mentha Piperita (Peppermint) Oil, Panthenol, Glycine Soja (Soybean) Seed Extract, and additional preservatives and stabilizers as disclosed on the official listing.",
+      },
+      {
+        type: "callout",
+        variant: "note",
+        title: "Camphor and essential oils present",
+        text: "This formula includes Camphor, Tea Tree, and Peppermint oils for its cooling sensory profile. These can occasionally be sensitizing for very reactive skin, so it's worth a patch test if you know your skin reacts to essential oils.",
+      },
+      { type: "heading", level: 2, text: "Who May Find It Suitable?", id: "who-may-suit" },
+      {
+        type: "list",
+        items: [
+          "People with oily skin looking for a daily cleanser with a genuine BHA component.",
+          "Anyone managing mild to moderate active acne who wants their cleansing step to do double duty as a light treatment.",
+          "Those who prefer a cooling, purifying sensory experience during cleansing.",
+        ],
+      },
+      { type: "heading", level: 2, text: "How to Use It", id: "how-to-use" },
+      { type: "heading", level: 3, text: "Official Brand Directions", id: "brand-directions" },
+      {
+        type: "list",
+        items: [
+          "Squeeze out a small amount.",
+          "Apply to wet face.",
+          "Massage gently for 20 seconds.",
+          "Rinse and pat dry.",
+          "Follow with toner, serum, and moisturizer.",
+        ],
+      },
+      { type: "heading", level: 3, text: "General Usage Guidance", id: "general-usage" },
+      {
+        type: "list",
+        items: [
+          "Twice-daily use (AM and PM) is standard for an oily-skin cleanser, though once daily can work if skin feels tight or dry.",
+          "Avoid combining with other leave-on BHA/AHA treatments in the same routine without monitoring for over-exfoliation.",
+          "This is general guidance, not specific to Dot & Key.",
+        ],
+      },
+      { type: "heading", level: 2, text: "Where Does It Fit Into a Routine?", id: "routine" },
+      {
+        type: "paragraph",
+        text: "Used as the first step of both morning and evening routines for oily or acne-prone skin, followed by a lightweight, oil-free toner and moisturizer such as Dot & Key's Cica Calming Night Gel or 72HR Gel Moisturizer.",
+      },
+      { type: "heading", level: 2, text: "Potential Advantages", id: "pros" },
+      { type: "heading", level: 2, text: "Things to Consider", id: "cons" },
+      {
+        type: "prosCons",
+        pros: [
+          "Contains a genuine BHA (Salicylic Acid) rather than just cosmetic acne-fighting language",
+          "Zinc PCA and green tea complement the active for oil regulation and calming",
+          "Sulphate-free surfactant base despite the treatment-level actives",
+          "Two accessible sizes (100ml/175ml)",
+        ],
+        cons: [
+          "Exact salicylic acid concentration isn't disclosed on the public listing",
+          "Contains Camphor and essential oils, which can be sensitizing for very reactive skin",
+          "Short rinse-off contact time limits how much a BHA cleanser alone can do versus a leave-on treatment",
+          "Not formulated for dry or barrier-compromised skin",
+        ],
+      },
+      { type: "heading", level: 2, text: "Comparison With Relevant Dot & Key Products", id: "comparison" },
+      {
+        type: "table",
+        caption: "Dot & Key Cica + Salicylic Face Wash vs. Barrier Repair Face Wash vs. Strawberry Bright Niacinamide Face Wash",
+        headers: ["Feature", "Cica + Salicylic Face Wash", "Barrier Repair Face Wash", "Strawberry Bright Niacinamide Face Wash"],
+        rows: [
+          ["Key actives", "Salicylic Acid + Zinc PCA", "Ceramides + Hyaluronic Acid", "Niacinamide"],
+          ["Best for", "Oily, acne-prone skin", "Dry, sensitive, barrier-compromised skin", "Dullness, general brightening"],
+          ["Approx. price", "₹249 (100ml) / ₹375 (175ml)", "₹249 (100ml) / ₹375 (175ml)", "₹249"],
+        ],
+      },
+      {
+        type: "postGrid",
+        postSlugs: [
+          "dot-and-key-master-guide",
+          "dot-and-key-barrier-repair-face-wash-review",
+          "dot-and-key-cica-niacinamide-toner-review",
+        ],
+      },
+      { type: "heading", level: 2, text: "Frequently Asked Questions", id: "faqs" },
+      { type: "heading", level: 2, text: "How We Researched This Guide", id: "methodology" },
+      {
+        type: "paragraph",
+        text: "This guide is based on the official Dot & Key product listing and its published ingredient list, as of September 2026. This article does not claim independent lab testing or dermatologist evaluation of the product, and is not a substitute for professional treatment of moderate-to-severe acne.",
+      },
+      { type: "heading", level: 2, text: "Final Verdict", id: "verdict" },
+      {
+        type: "paragraph",
+        text: "Dot & Key's Cica + Salicylic Acid Face Wash is a reasonable daily cleanser for oily or acne-prone skin that wants more than a cosmetic wash, thanks to a genuine BHA component and supporting actives. It's not a substitute for a leave-on BHA treatment or, for more stubborn acne, a dermatologist's care — but as an everyday cleansing step, it's built with the right ingredients for the job.",
+      },
+    ],
+    faqs: [
+      {
+        question: "What percentage of salicylic acid does this face wash contain?",
+        answer: "Dot & Key's public product listing doesn't disclose the exact percentage. It's formulated as a treatment-level cleanser for oily and acne-prone skin, but for a precise concentration comparison against leave-on BHA products, that detail isn't published.",
+      },
+      {
+        question: "Is this face wash safe for sensitive skin?",
+        answer: "It's formulated for oily and acne-prone skin and contains Camphor, Tea Tree, and Peppermint oils, which can be sensitizing for very reactive skin types. Anyone with known sensitivity to essential oils should patch-test first.",
+      },
+      {
+        question: "Can I use this with other acne treatments?",
+        answer: "It can generally be combined with other treatments, but stacking multiple BHA/AHA products in one routine increases the risk of over-exfoliation. Monitor your skin's response and space out active ingredients if needed.",
+      },
+      {
+        question: "What sizes is this face wash available in?",
+        answer: "It's sold in two sizes: 100ml at ₹249 and 175ml at ₹375, per the official Dot & Key listing.",
+      },
+      {
+        question: "Is this face wash good for combination skin?",
+        answer: "It can work well for the oilier zones of combination skin, though very dry areas may find it slightly drying with regular use. Some combination-skin users prefer to alternate it with a gentler cleanser.",
+      },
+    ],
+    sources: [
+      { label: "Dot & Key — Cica + Salicylic Acid Face Wash for Oily Skin (official product page)", url: "https://www.dotandkey.com/products/cica-calming-blemish-clearing-face-wash" },
+    ],
+    relatedProductSlugs: [],
+  },
+  {
+    id: "post-dot-and-key-barrier-repair-moisturizer-review",
+    slug: "dot-and-key-barrier-repair-moisturizer-review",
+    title: "Dot & Key Barrier Repair Moisturizer (Hyaluronic + Ceramides): Ingredients, Benefits & How to Use",
+    excerpt:
+      "A research-based review of Dot & Key's Barrier Repair Moisturizer — its 5-ceramide, hyaluronic acid, and probiotic formula, full ingredient list, and how it compares with the brand's other moisturizers.",
+    summary:
+      "Dot & Key Barrier Repair Moisturizer (Hyaluronic + Ceramides) is a fragrance-free, non-comedogenic cream with 5 essential ceramides, hyaluronic acid, Japanese rice water, and probiotics, formulated to repair a weakened skin barrier and provide intense moisturization. It's sold in 100g (₹395) and 175g (₹599) sizes. It suits people with dry, sensitive, or barrier-compromised skin who need a genuinely rich, restorative daily moisturizer.",
+    keyTakeaways: [
+      { text: "Built on 5 essential ceramides plus hyaluronic acid, Japanese rice water, and probiotics — a comprehensive barrier-repair ingredient stack." },
+      { text: "Fragrance-free and non-comedogenic, formulated specifically for dry, normal, sensitive, and combination skin." },
+      { text: "Targets a weakened skin barrier, dry/damaged skin, and itchiness or redness, per the brand's own positioning." },
+      { text: "Sold in 100g (₹395) and 175g (₹599) sizes, one of Dot & Key's more comprehensive moisturizer formulas." },
+      { text: "For an oily-skin, brightening-focused moisturizer instead of a barrier-repair one, Dot & Key's Vitamin C + E Super Bright Moisturizer is the closer match." },
+    ],
+    heroImage: "/products/dotandkey-barrier-repair-moisturizer.jpg",
+    heroImageAlt: "Dot & Key Barrier Repair Moisturizer with Hyaluronic Acid and Ceramides jar product packaging",
+    categorySlug: "skincare",
+    tagSlugs: ["dot-key", "moisturizer"],
+    publishedAt: "2026-09-08",
+    updatedAt: "2026-09-08",
+    readingTimeMinutes: 9,
+    editorsPick: true,
+    popular: true,
+    viewCount: 215,
+    content: [
+      {
+        type: "paragraph",
+        text: "\"Barrier repair\" gets used loosely across skincare marketing, but the ingredient stack behind Dot & Key's version — five named ceramide types alongside hyaluronic acid and probiotic-derived ingredients — is closer to what dermatological literature actually points to for supporting a compromised skin barrier, rather than a single trendy ingredient doing all the work.",
+      },
+      {
+        type: "paragraph",
+        text: "This guide covers what's actually in the formula, why multiple ceramide types matter, who it's likely to suit, and how it compares with Dot & Key's other moisturizers.",
+      },
+      { type: "heading", level: 2, text: "Quick Answer", id: "quick-answer" },
+      {
+        type: "paragraph",
+        text: "Dot & Key Barrier Repair Moisturizer (Hyaluronic + Ceramides) is a fragrance-free, non-comedogenic cream with 5 essential ceramides, hyaluronic acid, Japanese rice water, and probiotics, formulated to repair a weakened skin barrier and provide intense moisturization. It's sold in 100g (₹395) and 175g (₹599) sizes. It suits people with dry, sensitive, or barrier-compromised skin who need a genuinely rich, restorative daily moisturizer.",
+      },
+      { type: "heading", level: 2, text: "Product Overview", id: "overview" },
+      {
+        type: "table",
+        headers: ["Feature", "Details"],
+        rows: [
+          ["Brand", "Dot & Key"],
+          ["Product Type", "Face moisturizer"],
+          ["Category", "Moisturizer"],
+          ["Key Ingredients", "5 Ceramides, Hyaluronic Acid, Japanese Rice Water, Probiotics"],
+          ["Primary Purpose", "Skin barrier repair, intense moisturization"],
+          ["Texture", "Fragrance-free cream, non-comedogenic"],
+          ["Skin Type", "Dry, Normal, Sensitive & Combination Skin"],
+          ["When to Use", "AM and PM"],
+          ["Available Sizes", "100g (₹395), 175g (₹599)"],
+        ],
+      },
+      { type: "heading", level: 2, text: "What Is This Product?", id: "what-is-it" },
+      {
+        type: "paragraph",
+        text: "This is a cream moisturizer built around five named ceramide types (Ceramide 1, 2, 3, 4, 6-II, per the ingredient list) — a more comprehensive ceramide profile than the single-ceramide formulas common in many moisturizers, since the skin's natural lipid barrier is itself made up of multiple ceramide subtypes working together. It's paired with hyaluronic acid for hydration, Japanese rice water and probiotic-derived ingredients for microbiome and comfort support, and is formulated fragrance-free and non-comedogenic.",
+      },
+      { type: "heading", level: 2, text: "Official Brand Claims", id: "brand-says" },
+      {
+        type: "list",
+        items: [
+          "Repairs and strengthens the skin barrier while locking in moisture.",
+          "Nourishes dry, damaged skin with hyaluronic acid.",
+          "With Japanese rice water and probiotics, comforts redness while promoting good bacteria.",
+          "Non-comedogenic and fragrance-free.",
+        ],
+      },
+      { type: "heading", level: 3, text: "Formulation Analysis", id: "ingredient-analysis" },
+      {
+        type: "paragraph",
+        text: "Including multiple ceramide subtypes rather than just one is a formulation detail that genuinely matters — the skin barrier's natural lipid matrix relies on a mix of ceramide types, cholesterol, and fatty acids working together, so a multi-ceramide moisturizer is a more faithful attempt at replicating that structure than a single-ceramide product. The probiotic and microbiome-support claims are a newer, still-developing area of skincare science; treat them as a supportive, comfort-oriented addition rather than the formula's primary mechanism.",
+      },
+      { type: "heading", level: 2, text: "Key Ingredients and Their Roles", id: "ingredients" },
+      {
+        type: "list",
+        items: [
+          "Ceramide 1, 2, 3, 4, 6-II: multiple ceramide subtypes that help rebuild and reinforce the skin's natural lipid barrier.",
+          "Hyaluronic Acid (via humectant complex): draws and holds moisture in the skin.",
+          "Cetearyl Olivate & Sorbitan Olivate: olive-derived emulsifiers that also contribute emollient, skin-conditioning properties.",
+          "Glyceryl Stearate & PEG-100 Stearate: emulsifying agents that give the cream its texture and stability.",
+          "Cyclopentasiloxane: a lightweight silicone that helps the cream spread and absorb without heaviness.",
+        ],
+      },
+      { type: "heading", level: 2, text: "Full Ingredient List", id: "full-ingredient-list" },
+      {
+        type: "paragraph",
+        text: "As listed on the official Dot & Key product page at the time of writing: Aqua, Caprylic/Capric Triglyceride, Glycerine, Glyceryl Stearate (and) PEG-100 Stearate, Cetyl Alcohol, Cetearyl Olivate (and) Sorbitan Olivate, Cyclopentasiloxane, Cyclopentasiloxane (and) Dimethicone Crosspolymer, Sodium Polyacrylate (and) Dicaprylyl Carbonate (and) Polyglyceryl-3 Caprate, Dimethicone, C14-22 Alcohols (and) C12-20 Alkyl Glucoside, Xylitylglucoside (and) Anhydroxylitol, and additional ceramide complex, stabilizers, and preservatives as disclosed on the official listing.",
+      },
+      {
+        type: "callout",
+        variant: "tip",
+        title: "Fragrance-free formulation",
+        text: "This moisturizer is formulated without added fragrance, a sensible choice for a barrier-repair product aimed at sensitive or reactive skin, where fragrance is a common irritant trigger.",
+      },
+      { type: "heading", level: 2, text: "Who May Find It Suitable?", id: "who-may-suit" },
+      {
+        type: "list",
+        items: [
+          "People with dry, sensitive, or normal-to-combination skin dealing with a compromised or weakened barrier.",
+          "Anyone experiencing tightness, flaking, or redness after using actives like retinol or exfoliating acids.",
+          "Those wanting a fragrance-free daily moisturizer without sacrificing a rich, comprehensive ingredient list.",
+        ],
+      },
+      { type: "heading", level: 2, text: "How to Use It", id: "how-to-use" },
+      { type: "heading", level: 3, text: "Official Brand Directions", id: "brand-directions" },
+      {
+        type: "list",
+        items: [
+          "Dot the moisturizer on clean face and neck.",
+          "Massage gently in an upward motion.",
+          "Use twice daily (AM and PM).",
+          "Follow up with sunscreen in the morning.",
+        ],
+      },
+      { type: "heading", level: 3, text: "General Usage Guidance", id: "general-usage" },
+      {
+        type: "list",
+        items: [
+          "Apply to slightly damp skin after cleansing to help lock in more moisture.",
+          "For very dry or actively peeling skin, this can be layered over a hydrating serum for added support.",
+          "This is general guidance, not specific to Dot & Key.",
+        ],
+      },
+      { type: "heading", level: 2, text: "Where Does It Fit Into a Routine?", id: "routine" },
+      {
+        type: "paragraph",
+        text: "Applied after cleansing, toning, and any treatment serums, as the final hydrating step before sunscreen in the morning. It pairs naturally with Dot & Key's Barrier Repair Face Wash and Serum for a consistent barrier-repair routine.",
+      },
+      { type: "heading", level: 2, text: "Potential Advantages", id: "pros" },
+      { type: "heading", level: 2, text: "Things to Consider", id: "cons" },
+      {
+        type: "prosCons",
+        pros: [
+          "Multi-ceramide formula (5 subtypes) rather than a single-ceramide token inclusion",
+          "Fragrance-free and non-comedogenic, well-suited to sensitive and reactive skin",
+          "Combines hyaluronic acid, probiotics, and rice water alongside the ceramide complex",
+          "Two size options (100g/175g) for trial vs. long-term use",
+        ],
+        cons: [
+          "Richer cream texture may feel heavy for very oily skin types",
+          "Probiotic/microbiome-support claims are a newer area of skincare science with less established evidence",
+          "No SPF included — must be paired with a separate sunscreen for daytime use",
+        ],
+      },
+      { type: "heading", level: 2, text: "Comparison With Relevant Dot & Key Products", id: "comparison" },
+      {
+        type: "table",
+        caption: "Dot & Key Barrier Repair Moisturizer vs. Vitamin C + E Moisturizer vs. 72HR Gel Moisturizer",
+        headers: ["Feature", "Barrier Repair Moisturizer", "Vitamin C + E Moisturizer", "72HR Gel Moisturizer"],
+        rows: [
+          ["Key actives", "5 Ceramides + Hyaluronic Acid", "Triple Vitamin C + Blood Orange", "Hyaluronic Acid + Probiotics"],
+          ["Texture", "Rich cream", "Lightweight gel", "Lightweight gel"],
+          ["Best for", "Dry, sensitive, barrier-compromised skin", "Dullness, oily/combination skin", "Dehydrated, oily/combination skin"],
+          ["Approx. price", "₹395 (100g) / ₹599 (175g)", "₹495", "₹495"],
+        ],
+      },
+      {
+        type: "postGrid",
+        postSlugs: [
+          "dot-and-key-master-guide",
+          "dot-and-key-barrier-repair-face-wash-review",
+          "dot-and-key-vitamin-c-e-moisturizer-review",
+        ],
+      },
+      { type: "heading", level: 2, text: "Frequently Asked Questions", id: "faqs" },
+      { type: "heading", level: 2, text: "How We Researched This Guide", id: "methodology" },
+      {
+        type: "paragraph",
+        text: "This guide is based on the official Dot & Key product listing and its published ingredient list, as of September 2026. This article does not claim independent lab testing or dermatologist evaluation of the product.",
+      },
+      { type: "heading", level: 2, text: "Final Verdict", id: "verdict" },
+      {
+        type: "paragraph",
+        text: "Dot & Key's Barrier Repair Moisturizer is a genuinely comprehensive option for anyone with a compromised skin barrier, backed by a real multi-ceramide formula rather than a single headline ingredient. It's rich enough that very oily skin may prefer a lighter gel option, but for dry, sensitive, or actives-fatigued skin, it's a well-reasoned pick.",
+      },
+    ],
+    faqs: [
+      {
+        question: "Why does this moisturizer contain multiple types of ceramides?",
+        answer: "The skin's natural lipid barrier is made up of several different ceramide subtypes working together, not just one. Using multiple ceramide types (this formula lists five) is a more faithful attempt at replicating that natural barrier structure than a single-ceramide product.",
+      },
+      {
+        question: "Is this moisturizer too heavy for oily skin?",
+        answer: "It's formulated as a richer cream aimed at dry, sensitive, and combination skin. Oily skin types wanting a lighter texture may prefer Dot & Key's 72HR Gel Moisturizer or Vitamin C + E Super Bright Gel Moisturizer instead.",
+      },
+      {
+        question: "Can this moisturizer help after using retinol or exfoliating acids?",
+        answer: "Its ceramide, hyaluronic acid, and barrier-support ingredient profile makes it a reasonable choice for calming and re-hydrating skin that's dealing with dryness or sensitivity from active ingredients, though it isn't marketed as a dedicated \"post-retinol\" product.",
+      },
+      {
+        question: "Is this moisturizer fragrance-free?",
+        answer: "Yes, per the official product description, it's formulated without added fragrance, which is generally preferable for sensitive or barrier-compromised skin.",
+      },
+      {
+        question: "What sizes is this moisturizer available in?",
+        answer: "It's sold in two sizes: 100g at ₹395 and 175g at ₹599, per the official Dot & Key listing.",
+      },
+    ],
+    sources: [
+      { label: "Dot & Key — Barrier Repair Moisturizer (Hyaluronic + Ceramides) (official product page)", url: "https://www.dotandkey.com/products/dot-key-ceramides-hyaluronic-hydrating-face-cream-i-repairs-skin-barrier-intense-moisturization-sensitive-dry-skin-fragrance-free" },
+    ],
+    relatedProductSlugs: [],
+  },
+  {
+    id: "post-dot-and-key-vitamin-c-e-moisturizer-review",
+    slug: "dot-and-key-vitamin-c-e-moisturizer-review",
+    title: "Dot & Key Vitamin C + E Super Bright Gel Moisturizer: Ingredients, Benefits & How to Use",
+    excerpt:
+      "A research-based review of Dot & Key's Vitamin C + E Super Bright Gel Moisturizer — its Triple Vitamin C and shea butter formula, full ingredient list, and how it compares with the brand's Barrier Repair Moisturizer.",
+    summary:
+      "Dot & Key Vitamin C + E Super Bright Gel Moisturizer is a lightweight, non-comedogenic gel cream with Triple Vitamin C, Sicilian Blood Orange, and shea butter, formulated for dullness, pigmentation, and dark spots on normal, oily, and combination skin. It's sold in a single 60ml size at ₹495. It suits people wanting a daily brightening moisturizer that doubles as a makeup base.",
+    keyTakeaways: [
+      { text: "Built around a Triple Vitamin C complex with Sicilian Blood Orange and shea butter, targeting dullness, pigmentation, and dark spots." },
+      { text: "Lightweight, non-sticky, and non-comedogenic, formulated specifically for normal, oily, and combination skin." },
+      { text: "Brand self-assessment study: 35% increase in skin brightness in 4 weeks; 111% increase in skin moisturization in 2 weeks." },
+      { text: "Dot & Key's own tip: it can double as a makeup base thanks to its lightweight, quick-absorbing finish." },
+      { text: "For a barrier-repair, dry-skin focus instead of a brightening one, Dot & Key's Barrier Repair Moisturizer is the closer match." },
+    ],
+    heroImage: "/products/dotandkey-vitamin-c-e-moisturizer.jpg",
+    heroImageAlt: "Dot & Key Vitamin C + E Super Bright Gel Moisturizer for Face tube product packaging",
+    categorySlug: "skincare",
+    tagSlugs: ["dot-key", "moisturizer", "vitamin-c"],
+    publishedAt: "2026-09-08",
+    updatedAt: "2026-09-08",
+    readingTimeMinutes: 8,
+    editorsPick: true,
+    popular: true,
+    viewCount: 200,
+    content: [
+      {
+        type: "paragraph",
+        text: "Vitamin C is more commonly associated with serums than moisturizers, but folding it into the moisturizing step can work well for people who want a simpler routine or find serums too potent on their skin. Dot & Key's Vitamin C + E Super Bright Gel Moisturizer takes that approach, pairing a vitamin C complex with a lightweight gel-cream base rather than a separate serum step.",
+      },
+      {
+        type: "paragraph",
+        text: "This guide covers what's actually in the formula, how a vitamin-C moisturizer differs from a vitamin-C serum in practice, who it's likely to suit, and how it compares with Dot & Key's Barrier Repair Moisturizer.",
+      },
+      { type: "heading", level: 2, text: "Quick Answer", id: "quick-answer" },
+      {
+        type: "paragraph",
+        text: "Dot & Key Vitamin C + E Super Bright Gel Moisturizer is a lightweight, non-comedogenic gel cream with Triple Vitamin C, Sicilian Blood Orange, and shea butter, formulated for dullness, pigmentation, and dark spots on normal, oily, and combination skin. It's sold in a single 60ml size at ₹495. It suits people wanting a daily brightening moisturizer that doubles as a makeup base.",
+      },
+      { type: "heading", level: 2, text: "Product Overview", id: "overview" },
+      {
+        type: "table",
+        headers: ["Feature", "Details"],
+        rows: [
+          ["Brand", "Dot & Key"],
+          ["Product Type", "Face moisturizer"],
+          ["Category", "Moisturizer"],
+          ["Key Ingredients", "Triple Vitamin C, Sicilian Blood Orange, Shea Butter"],
+          ["Primary Purpose", "Dullness, pigmentation, dark spots, moisturization"],
+          ["Texture", "Lightweight gel-cream, non-sticky, non-comedogenic"],
+          ["Skin Type", "Normal, Oily, Combination Skin"],
+          ["When to Use", "AM and PM"],
+          ["Available Sizes", "60ml (₹495)"],
+        ],
+      },
+      { type: "heading", level: 2, text: "What Is This Product?", id: "what-is-it" },
+      {
+        type: "paragraph",
+        text: "This is a gel-cream moisturizer that combines Ethyl Ascorbic Acid and niacinamide (the same \"Triple Vitamin C\" theme used across Dot & Key's vitamin C line) with Sicilian Blood Orange extract and shea butter, formulated on a lightweight, dicaprylyl-ether base rather than a heavier oil-based cream. Dot & Key positions it as suitable for daily use on normal, oily, and combination skin, and notes it can double as a lightweight makeup base thanks to its quick-absorbing finish.",
+      },
+      { type: "heading", level: 2, text: "Official Brand Claims", id: "brand-says" },
+      {
+        type: "list",
+        items: [
+          "Helps reduce dullness, treats pigmentation, and fades dark spots.",
+          "Provides healthy, non-sticky moisturization for soft skin.",
+          "Lightweight and non-comedogenic, suitable for oily, combination, and normal skin.",
+          "Self-assessment study: 35% increase in skin brightness in 4 weeks; 111% increase in skin moisturization in 2 weeks.",
+        ],
+      },
+      { type: "heading", level: 3, text: "Formulation Analysis", id: "ingredient-analysis" },
+      {
+        type: "paragraph",
+        text: "Pairing a moisturizer base with vitamin C and niacinamide is a reasonable way to simplify a routine, though the active concentration in a moisturizer format is typically lower than in a dedicated serum, since a moisturizer's primary job is still hydration and occlusion. The brand's own product listing notes an \"Old Formulation\" label in its ingredient disclosure, suggesting this product has been reformulated over time — worth being aware of if comparing against older reviews or purchase history of this exact product.",
+      },
+      { type: "heading", level: 2, text: "Key Ingredients and Their Roles", id: "ingredients" },
+      {
+        type: "list",
+        items: [
+          "Ethyl Ascorbic Acid: a stable vitamin C derivative contributing to the brightening and antioxidant angle.",
+          "Niacinamide: supports tone-evening and barrier function alongside the vitamin C.",
+          "Citrus Sinensis (Blood Orange) Fruit Extract: an antioxidant-rich botanical complementing the vitamin C complex.",
+          "Butyrospermum Parkii (Shea) Butter: an emollient that adds moisturizing richness without excessive heaviness.",
+          "Allantoin & Panthenol: soothing, skin-conditioning ingredients that support comfort.",
+        ],
+      },
+      { type: "heading", level: 2, text: "Full Ingredient List", id: "full-ingredient-list" },
+      {
+        type: "paragraph",
+        text: "As listed on the official Dot & Key product page at the time of writing: Aqua, Dicaprylyl Ether, Glycerine, Dimethicone, Butyrospermum Parkii (Shea) Butter, Xylitylglucoside (and) Anhydroxylitol (and) Xylitol, Polyacrylate Crosspolymer-6, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Cetearyl Alcohol, Ethyl Ascorbic Acid, Acacia Senegal Gum (and) Xanthan Gum, Niacinamide, Saccharide Isomerate (and) Citric Acid (and) Sodium Citrate, Allantoin, Panthenol, and additional stabilizers and preservatives as disclosed on the official listing.",
+      },
+      {
+        type: "callout",
+        variant: "tip",
+        title: "Doubles as a makeup base",
+        text: "Dot & Key's own product page suggests this moisturizer works as a makeup base, thanks to its lightweight, quick-absorbing finish — a useful two-in-one option for a simplified morning routine.",
+      },
+      { type: "heading", level: 2, text: "Who May Find It Suitable?", id: "who-may-suit" },
+      {
+        type: "list",
+        items: [
+          "People with normal, oily, or combination skin wanting a lightweight, brightening-focused daily moisturizer.",
+          "Anyone who prefers combining vitamin C into their moisturizing step rather than adding a separate serum.",
+          "Those looking for a moisturizer that can double as a makeup base.",
+        ],
+      },
+      { type: "heading", level: 2, text: "How to Use It", id: "how-to-use" },
+      { type: "heading", level: 3, text: "Official Brand Directions", id: "brand-directions" },
+      {
+        type: "list",
+        items: [
+          "Dot the moisturizer on clean face and neck.",
+          "Massage gently in an upward motion.",
+          "Use daily for AM and PM routine.",
+          "Follow up with SPF during daytime.",
+        ],
+      },
+      { type: "heading", level: 3, text: "General Usage Guidance", id: "general-usage" },
+      {
+        type: "list",
+        items: [
+          "For a stronger brightening effect, this can be layered over a dedicated vitamin C serum rather than used as the sole vitamin C source.",
+          "Always follow morning use with sunscreen, since vitamin C works best alongside consistent sun protection.",
+          "This is general guidance, not specific to Dot & Key.",
+        ],
+      },
+      { type: "heading", level: 2, text: "Where Does It Fit Into a Routine?", id: "routine" },
+      {
+        type: "paragraph",
+        text: "Applied after cleansing (and a serum, if used), as the final hydrating step before sunscreen in the morning. It's a natural companion to Dot & Key's Vitamin C + E Sunscreen for a consistent brightening-themed routine, or can be used as a standalone treatment moisturizer.",
+      },
+      { type: "heading", level: 2, text: "Potential Advantages", id: "pros" },
+      { type: "heading", level: 2, text: "Things to Consider", id: "cons" },
+      {
+        type: "prosCons",
+        pros: [
+          "Lightweight, non-sticky gel-cream texture suited to oily/combination skin",
+          "Combines vitamin C, niacinamide, and shea butter for both brightening and comfort",
+          "Doubles as a makeup base per the brand's own usage tip",
+          "Non-comedogenic formulation",
+        ],
+        cons: [
+          "Vitamin C concentration in a moisturizer format is typically lower than in a dedicated serum",
+          "Listing references an \"Old Formulation\" ingredient disclosure, suggesting a past reformulation",
+          "Only sold in one size (60ml), less flexible than products with multiple size options",
+          "No SPF included — must be paired with a separate sunscreen",
+        ],
+      },
+      { type: "heading", level: 2, text: "Comparison With Relevant Dot & Key Products", id: "comparison" },
+      {
+        type: "table",
+        caption: "Dot & Key Vitamin C + E Moisturizer vs. Barrier Repair Moisturizer vs. 72HR Gel Moisturizer",
+        headers: ["Feature", "Vitamin C + E Moisturizer", "Barrier Repair Moisturizer", "72HR Gel Moisturizer"],
+        rows: [
+          ["Key actives", "Triple Vitamin C + Blood Orange", "5 Ceramides + Hyaluronic Acid", "Hyaluronic Acid + Probiotics"],
+          ["Best for", "Dullness, oily/combination skin", "Dry, sensitive, barrier-compromised skin", "Dehydrated, oily/combination skin"],
+          ["Approx. price", "₹495 (60ml)", "₹395 (100g) / ₹599 (175g)", "₹495 (60ml)"],
+        ],
+      },
+      {
+        type: "postGrid",
+        postSlugs: [
+          "dot-and-key-master-guide",
+          "dot-and-key-vitamin-c-e-sunscreen-review",
+          "dot-and-key-72hr-gel-moisturizer-review",
+        ],
+      },
+      { type: "heading", level: 2, text: "Frequently Asked Questions", id: "faqs" },
+      { type: "heading", level: 2, text: "How We Researched This Guide", id: "methodology" },
+      {
+        type: "paragraph",
+        text: "This guide is based on the official Dot & Key product listing, its published ingredient list, and the brand's own self-assessment study results, as of September 2026. This article does not claim independent lab testing or dermatologist evaluation of the product.",
+      },
+      { type: "heading", level: 2, text: "Final Verdict", id: "verdict" },
+      {
+        type: "paragraph",
+        text: "Dot & Key's Vitamin C + E Super Bright Gel Moisturizer is a solid, simplified option for anyone wanting a brightening-themed daily moisturizer without adding a separate serum step. For more concentrated vitamin C treatment, pairing it with (rather than replacing) a dedicated serum will generally deliver a stronger effect. Anyone with dry or barrier-compromised skin should look at Dot & Key's Barrier Repair Moisturizer instead.",
+      },
+    ],
+    faqs: [
+      {
+        question: "Can this moisturizer replace a vitamin C serum?",
+        answer: "It contains vitamin C, but typically at a lower concentration than a dedicated serum, since a moisturizer's primary role is hydration. For a stronger brightening effect, layering this moisturizer over a vitamin C serum rather than replacing it is the more effective approach.",
+      },
+      {
+        question: "Is this moisturizer good for oily skin?",
+        answer: "Yes — Dot & Key markets it for normal, oily, and combination skin, with a lightweight, non-sticky, non-comedogenic gel-cream texture.",
+      },
+      {
+        question: "Can I use this as a makeup base?",
+        answer: "Dot & Key's own product page suggests it works well as a makeup base, thanks to its lightweight, quick-absorbing finish.",
+      },
+      {
+        question: "Why does the ingredient list mention an 'Old Formulation'?",
+        answer: "The official listing includes an \"Old Formulation\" label on part of its ingredient disclosure, suggesting the product has been reformulated at some point. If you're comparing against an older purchase or review, keep in mind the current formula may differ slightly.",
+      },
+      {
+        question: "What size is this moisturizer available in?",
+        answer: "It's sold in a single 60ml size at ₹495, per the official Dot & Key listing.",
+      },
+    ],
+    sources: [
+      { label: "Dot & Key — Vitamin C + E Super Bright Gel Moisturizer for Face (official product page)", url: "https://www.dotandkey.com/products/vitamin-c-e-super-bright-moisturizer" },
+    ],
+    relatedProductSlugs: [],
+  },
+  {
+    id: "post-dot-and-key-72hr-gel-moisturizer-review",
+    slug: "dot-and-key-72hr-gel-moisturizer-review",
+    title: "Dot & Key 72HR Gel Moisturizer + Probiotics: Ingredients, Benefits & How to Use",
+    excerpt:
+      "A research-based review of Dot & Key's 72HR Gel Moisturizer + Probiotics — its hyaluronic acid, probiotic, and rice water formula, full ingredient list, and how it compares with the brand's other moisturizers.",
+    summary:
+      "Dot & Key 72HR Gel Moisturizer + Probiotics is a non-comedogenic, oil-free gel moisturizer with hyaluronic acid, probiotics, and Japanese rice water, formulated for long-lasting hydration and skin barrier support on oily and combination skin. It's sold in a single 60ml size at ₹495. It suits people who need lightweight, long-duration hydration without a heavy or greasy after-feel.",
+    keyTakeaways: [
+      { text: "Combines hyaluronic acid, probiotics, and Japanese rice water in a lightweight, oil-free gel formula." },
+      { text: "Marketed around a \"72HR\" continuous hydration claim, aimed at dehydration, weakened barrier, and loss of skin elasticity." },
+      { text: "Non-comedogenic and oil-free, specifically formulated for oily and combination skin." },
+      { text: "Sold in a single 60ml size at ₹495, matching the brand's Vitamin C + E Moisturizer pricing." },
+      { text: "For a dry-skin, ceramide-forward moisturizer instead of a lightweight gel, Dot & Key's Barrier Repair Moisturizer is the closer match." },
+    ],
+    heroImage: "/products/dotandkey-72hr-gel-moisturizer.jpg",
+    heroImageAlt: "Dot & Key 72HR Gel Moisturizer + Probiotics for Face tube product packaging",
+    categorySlug: "skincare",
+    tagSlugs: ["dot-key", "moisturizer"],
+    publishedAt: "2026-09-08",
+    updatedAt: "2026-09-08",
+    readingTimeMinutes: 8,
+    editorsPick: true,
+    popular: true,
+    viewCount: 205,
+    content: [
+      {
+        type: "paragraph",
+        text: "Oily and combination skin often gets stuck choosing between \"hydrating enough\" and \"too heavy,\" especially with gel moisturizers that promise long-lasting effects. Dot & Key's 72HR Gel Moisturizer takes on that specific claim directly, building a hyaluronic-acid-and-probiotic formula meant to sustain hydration well past the point most lightweight gels start feeling like they need reapplication.",
+      },
+      {
+        type: "paragraph",
+        text: "This guide covers what's actually in the formula, what the \"72HR\" claim is realistically based on, who it's likely to suit, and how it compares with Dot & Key's other moisturizers.",
+      },
+      { type: "heading", level: 2, text: "Quick Answer", id: "quick-answer" },
+      {
+        type: "paragraph",
+        text: "Dot & Key 72HR Gel Moisturizer + Probiotics is a non-comedogenic, oil-free gel moisturizer with hyaluronic acid, probiotics, and Japanese rice water, formulated for long-lasting hydration and skin barrier support on oily and combination skin. It's sold in a single 60ml size at ₹495. It suits people who need lightweight, long-duration hydration without a heavy or greasy after-feel.",
+      },
+      { type: "heading", level: 2, text: "Product Overview", id: "overview" },
+      {
+        type: "table",
+        headers: ["Feature", "Details"],
+        rows: [
+          ["Brand", "Dot & Key"],
+          ["Product Type", "Face moisturizer"],
+          ["Category", "Moisturizer"],
+          ["Key Ingredients", "Hyaluronic Acid, Probiotics, Japanese Rice Water"],
+          ["Primary Purpose", "Long-lasting hydration, barrier support"],
+          ["Texture", "Lightweight gel, oil-free, non-comedogenic"],
+          ["Skin Type", "Oily & Combination Skin"],
+          ["When to Use", "AM and PM"],
+          ["Available Sizes", "60ml (₹495)"],
+        ],
+      },
+      { type: "heading", level: 2, text: "What Is This Product?", id: "what-is-it" },
+      {
+        type: "paragraph",
+        text: "This is an oil-free gel moisturizer built on a silicone-elastomer gel base (Cyclopentasiloxane and related polymers) rather than a traditional oil-in-water cream, combined with hyaluronic acid derivatives, probiotic-fermented ingredients, and Japanese rice water. The gel structure is what allows the formula to feel lightweight while still holding a meaningful amount of humectant, which is the basis for the brand's \"72HR non-stop hydration\" positioning.",
+      },
+      { type: "heading", level: 2, text: "Official Brand Claims", id: "brand-says" },
+      {
+        type: "list",
+        items: [
+          "Enjoy 72HR non-stop hydration for plump, healthy skin.",
+          "Binds water molecules skin deep for lightweight yet intense hydration.",
+          "Boosts skin microbiome and repairs skin barrier for healthy skin.",
+          "Non-comedogenic and oil-free, ideal for oily and combination skin.",
+        ],
+      },
+      { type: "heading", level: 3, text: "Formulation Analysis", id: "ingredient-analysis" },
+      {
+        type: "paragraph",
+        text: "A \"72-hour hydration\" claim is best understood as a measure of a single application's sustained moisture-binding effect under lab or self-assessment testing conditions, not a literal guarantee that skipping moisturizer for three days will leave skin equally hydrated — daily application is still the sensible default. The oil-free, silicone-gel base is a legitimate, well-established way to deliver hydration without adding pore-clogging oils, which supports the oily/combination-skin positioning.",
+      },
+      { type: "heading", level: 2, text: "Key Ingredients and Their Roles", id: "ingredients" },
+      {
+        type: "list",
+        items: [
+          "Dimethylsilanol Hyaluronate: a silicone-modified hyaluronic acid derivative suited to a gel base, providing hydration with a lightweight after-feel.",
+          "Xylitylglucoside (and) Anhydroxylitol (and) Xylitol: a humectant complex that helps the skin retain moisture over time.",
+          "Cyclopentasiloxane: forms the lightweight, quick-absorbing gel base.",
+          "Sodium Polyacryloyldimethyl Taurate: a gelling agent that helps stabilize the water-in-silicone structure.",
+        ],
+      },
+      { type: "heading", level: 2, text: "Full Ingredient List", id: "full-ingredient-list" },
+      {
+        type: "paragraph",
+        text: "As listed on the official Dot & Key product page at the time of writing: Aqua, Cyclopentasiloxane, Cyclopentasiloxane (and) Dimethicone Crosspolymer, Glycerine, Xylitylglucoside (and) Anhydroxylitol (and) Xylitol, Divinyldimethicone/Dimethicone Copolymer (and) C12-13 Pareth-23 (and) C12-13 Pareth-3, Polyacrylamide (and) C13-14 Isoparaffin (and) Laureth-7, Sodium Polyacryloyldimethyl Taurate, Hydrogenated Polydecene, Trideceth-10, Dimethylsilanol Hyaluronate, and additional stabilizers and preservatives as disclosed on the official listing.",
+      },
+      {
+        type: "callout",
+        variant: "note",
+        title: "Silicone-forward gel base",
+        text: "This formula relies heavily on silicone elastomers (Cyclopentasiloxane and related ingredients) for its texture. This is a common, generally well-tolerated approach for lightweight gels, though anyone specifically avoiding silicones should check the full ingredient list.",
+      },
+      { type: "heading", level: 2, text: "Who May Find It Suitable?", id: "who-may-suit" },
+      {
+        type: "list",
+        items: [
+          "People with oily or combination skin who find cream moisturizers too heavy.",
+          "Anyone wanting a hydrating gel that layers well under makeup or sunscreen.",
+          "Those experiencing dehydration despite oily skin — a common combination that a rich cream isn't always the right answer for.",
+        ],
+      },
+      { type: "heading", level: 2, text: "How to Use It", id: "how-to-use" },
+      { type: "heading", level: 3, text: "Official Brand Directions", id: "brand-directions" },
+      {
+        type: "list",
+        items: [
+          "Dot the gel on clean face and neck.",
+          "Massage gently in an upward motion.",
+          "Use daily for AM and PM routine.",
+          "Follow up with sunscreen during daytime.",
+        ],
+      },
+      { type: "heading", level: 3, text: "General Usage Guidance", id: "general-usage" },
+      {
+        type: "list",
+        items: [
+          "Apply to slightly damp skin to help maximize the humectant effect.",
+          "Daily application remains the sensible default regardless of the 72-hour marketing framing.",
+          "This is general guidance, not specific to Dot & Key.",
+        ],
+      },
+      { type: "heading", level: 2, text: "Where Does It Fit Into a Routine?", id: "routine" },
+      {
+        type: "paragraph",
+        text: "Applied after cleansing and any treatment serums, as the final hydrating step before sunscreen. It pairs naturally with Dot & Key's Watermelon Cooling Sunscreen for a fully oil-free, gel-based morning routine.",
+      },
+      { type: "heading", level: 2, text: "Potential Advantages", id: "pros" },
+      { type: "heading", level: 2, text: "Things to Consider", id: "cons" },
+      {
+        type: "prosCons",
+        pros: [
+          "Genuinely lightweight, oil-free gel texture suited to oily/combination skin",
+          "Combines hyaluronic acid, probiotics, and rice water for hydration and barrier support",
+          "Non-comedogenic formulation",
+          "Layers well under makeup or sunscreen without pilling",
+        ],
+        cons: [
+          "\"72HR\" claim is based on sustained-effect testing, not a literal skip-three-days guarantee",
+          "Silicone-forward base may not suit anyone specifically avoiding silicones",
+          "Only sold in one size (60ml)",
+          "No SPF included — must be paired with a separate sunscreen",
+        ],
+      },
+      { type: "heading", level: 2, text: "Comparison With Relevant Dot & Key Products", id: "comparison" },
+      {
+        type: "table",
+        caption: "Dot & Key 72HR Gel Moisturizer vs. Vitamin C + E Moisturizer vs. Barrier Repair Moisturizer",
+        headers: ["Feature", "72HR Gel Moisturizer", "Vitamin C + E Moisturizer", "Barrier Repair Moisturizer"],
+        rows: [
+          ["Key actives", "Hyaluronic Acid + Probiotics", "Triple Vitamin C + Blood Orange", "5 Ceramides + Hyaluronic Acid"],
+          ["Best for", "Dehydrated, oily/combination skin", "Dullness, oily/combination skin", "Dry, sensitive, barrier-compromised skin"],
+          ["Approx. price", "₹495 (60ml)", "₹495 (60ml)", "₹395 (100g) / ₹599 (175g)"],
+        ],
+      },
+      {
+        type: "postGrid",
+        postSlugs: [
+          "dot-and-key-master-guide",
+          "dot-and-key-watermelon-sunscreen-review",
+          "dot-and-key-vitamin-c-e-moisturizer-review",
+        ],
+      },
+      { type: "heading", level: 2, text: "Frequently Asked Questions", id: "faqs" },
+      { type: "heading", level: 2, text: "How We Researched This Guide", id: "methodology" },
+      {
+        type: "paragraph",
+        text: "This guide is based on the official Dot & Key product listing and its published ingredient list, as of September 2026. This article does not claim independent lab testing or dermatologist evaluation of the product.",
+      },
+      { type: "heading", level: 2, text: "Final Verdict", id: "verdict" },
+      {
+        type: "paragraph",
+        text: "Dot & Key's 72HR Gel Moisturizer is a well-suited pick for oily or combination skin that wants meaningful hydration without heaviness, backed by a genuinely humectant-forward formula rather than just a lightweight feel. The \"72-hour\" framing shouldn't change your daily application habit, but as an everyday gel moisturizer for oil-prone skin, it does its job.",
+      },
+    ],
+    faqs: [
+      {
+        question: "Does this moisturizer really last 72 hours?",
+        answer: "The \"72HR\" claim reflects a sustained-hydration effect measured under testing conditions, not a literal recommendation to skip applying it for three days. Daily use (AM and PM) remains the sensible approach.",
+      },
+      {
+        question: "Is this moisturizer good for acne-prone skin?",
+        answer: "It's non-comedogenic and oil-free, which are generally favorable traits for acne-prone skin, though it isn't formulated with a specific acne-fighting active. Pair it with a treatment product if acne is an active concern.",
+      },
+      {
+        question: "Does this moisturizer contain silicones?",
+        answer: "Yes — it uses a silicone-elastomer gel base (Cyclopentasiloxane and related ingredients) for its lightweight texture. Anyone specifically avoiding silicones should check the full ingredient list before use.",
+      },
+      {
+        question: "How is this different from the Vitamin C + E Moisturizer?",
+        answer: "Both are lightweight gel-cream formulas at the same price and size. This one focuses on hydration and barrier support via hyaluronic acid and probiotics, while the Vitamin C + E version focuses on brightening via a vitamin C complex.",
+      },
+      {
+        question: "What size is this moisturizer available in?",
+        answer: "It's sold in a single 60ml size at ₹495, per the official Dot & Key listing.",
+      },
+    ],
+    sources: [
+      { label: "Dot & Key — 72HR Gel Moisturizer + Probiotics for Face (official product page)", url: "https://www.dotandkey.com/products/hydrating-gel-probiotics-72-hr" },
+    ],
+    relatedProductSlugs: [],
+  },
+  {
+    id: "post-dot-and-key-vitamin-c-pink-clay-mask-review",
+    slug: "dot-and-key-vitamin-c-pink-clay-mask-review",
+    title: "Dot & Key Vitamin C Pink Clay Mask: Ingredients, Benefits & How to Use",
+    excerpt:
+      "A research-based review of Dot & Key's Vitamin C Pink Clay Mask — its French pink clay and Kakadu Plum formula, full ingredient list, and how it compares with the brand's other clay masks.",
+    summary:
+      "Dot & Key Vitamin C Pink Clay Mask is a deep-cleansing clay mask with French pink clay, bentonite, and vitamin C from Kakadu Plum, formulated to clear impurities and brighten dull, tired-looking skin. It's sold in a single 85g size at ₹550. It suits people with oily, normal, or dry skin who want a weekly deep-cleanse treatment with a brightening angle rather than a purely mattifying clay mask.",
+    keyTakeaways: [
+      { text: "Combines two clays — French pink clay and bentonite — with a vitamin C complex sourced partly from Kakadu Plum extract." },
+      { text: "Positioned for dullness, dark spots, pigmentation, and uneven skin tone, alongside standard clay-mask deep-cleansing benefits." },
+      { text: "Marketed as suitable for oily, normal, and dry skin, broader than many clay masks that lean purely toward oily-skin use." },
+      { text: "Sold in a single 85g size at ₹550, positioned as an occasional treatment rather than a daily-use product." },
+      { text: "For a tan-specific or cooling clay mask instead of a brightening one, Dot & Key's Mango Detan or Watermelon Icy Plunge Clay Masks are the closer match." },
+    ],
+    heroImage: "/products/dotandkey-vitamin-c-pink-clay-mask.jpg",
+    heroImageAlt: "Dot & Key Vitamin C Pink Clay Mask jar product packaging",
+    categorySlug: "skincare",
+    tagSlugs: ["dot-key", "mask", "vitamin-c"],
+    publishedAt: "2026-09-08",
+    updatedAt: "2026-09-08",
+    readingTimeMinutes: 8,
+    editorsPick: true,
+    popular: true,
+    viewCount: 175,
+    content: [
+      {
+        type: "paragraph",
+        text: "Clay masks are usually framed as a pure oil-control, deep-cleansing step, but Dot & Key's Vitamin C Pink Clay Mask layers a brightening angle on top of that base function, using a vitamin C complex alongside its clay blend rather than treating the mask as a one-note purifying product.",
+      },
+      {
+        type: "paragraph",
+        text: "This guide covers what's actually in the formula, how the clay-plus-vitamin-C combination works, who it's likely to suit, and how it compares with Dot & Key's other clay masks.",
+      },
+      { type: "heading", level: 2, text: "Quick Answer", id: "quick-answer" },
+      {
+        type: "paragraph",
+        text: "Dot & Key Vitamin C Pink Clay Mask is a deep-cleansing clay mask with French pink clay, bentonite, and vitamin C from Kakadu Plum, formulated to clear impurities and brighten dull, tired-looking skin. It's sold in a single 85g size at ₹550. It suits people with oily, normal, or dry skin who want a weekly deep-cleanse treatment with a brightening angle rather than a purely mattifying clay mask.",
+      },
+      { type: "heading", level: 2, text: "Product Overview", id: "overview" },
+      {
+        type: "table",
+        headers: ["Feature", "Details"],
+        rows: [
+          ["Brand", "Dot & Key"],
+          ["Product Type", "Face mask"],
+          ["Category", "Face Mask"],
+          ["Key Ingredients", "French Pink Clay, Bentonite, Vitamin C, Kakadu Plum"],
+          ["Primary Purpose", "Deep cleansing, dullness, dark spots, uneven tone"],
+          ["Texture", "Rich, creamy clay mask"],
+          ["Skin Type", "Oily, Normal & Dry Skin"],
+          ["Recommended Use", "Weekly treatment mask"],
+          ["Available Sizes", "85g (₹550)"],
+        ],
+      },
+      { type: "heading", level: 2, text: "What Is This Product?", id: "what-is-it" },
+      {
+        type: "paragraph",
+        text: "This is a clay-based treatment mask combining Kaolin, Bentonite, and French Pink Clay for deep pore cleansing, layered with a vitamin C complex that includes Sodium Ascorbyl Phosphate, Ethyl Ascorbic Acid, and Kakadu Plum extract. Dot & Key describes the texture as \"rich and creamy,\" which is generally gentler and less drying than a pure kaolin or bentonite mask, making it more broadly wearable across skin types than a typical oil-absorbing clay mask.",
+      },
+      { type: "heading", level: 2, text: "Official Brand Claims", id: "brand-says" },
+      {
+        type: "list",
+        items: [
+          "Deep cleanses to make your skin glow, using French pink clay and vitamin C from Kakadu Plum.",
+          "Clears deep-seated impurities to reverse dull, tired skin and reveal a bright, even-toned complexion.",
+          "Has a rich, creamy texture that glides on smoothly to calm and soothe skin.",
+        ],
+      },
+      { type: "heading", level: 3, text: "Formulation Analysis", id: "ingredient-analysis" },
+      {
+        type: "paragraph",
+        text: "Combining clay-based deep cleansing with a vitamin C complex is a reasonable dual-purpose approach for a weekly treatment mask, though the vitamin C's contact time during a rinse-off mask (typically 10-15 minutes) is much shorter than a leave-on serum, so its brightening contribution should be viewed as a supportive, cumulative benefit rather than the mask's primary function. The \"rich, creamy\" texture claim is consistent with the inclusion of Titanium Dioxide and glycols in the ingredient list, which soften the drying effect typical of pure clay.",
+      },
+      { type: "heading", level: 2, text: "Key Ingredients and Their Roles", id: "ingredients" },
+      {
+        type: "list",
+        items: [
+          "Kaolin & Bentonite: absorb excess oil and draw out impurities from the pores.",
+          "French Pink Clay: a milder clay variant that supports gentle exfoliation and cleansing.",
+          "Sodium Ascorbyl Phosphate & Ethyl Ascorbic Acid: stable vitamin C derivatives contributing to the brightening angle.",
+          "Tocopheryl Acetate (Vitamin E): an antioxidant that complements the vitamin C complex.",
+          "Niacinamide: supports tone-evening alongside the mask's deep-cleansing action.",
+        ],
+      },
+      { type: "heading", level: 2, text: "Full Ingredient List", id: "full-ingredient-list" },
+      {
+        type: "paragraph",
+        text: "As listed on the official Dot & Key product page at the time of writing: Aqua, Kaolin, Glycerine, Bentonite, French Pink Clay, PEG-8, Titanium Dioxide, Polysorbate 20, PPG-33 Butyl Ether, Propylene Glycol, Niacinamide (and) Calcium Pantothenate (and) Sodium Ascorbyl Phosphate (and) Tocopheryl Acetate (and) Pyridoxine HCl (and) Maltodextrin (and) Sodium Starch Octenylsuccinate (and) Silica, Phenoxyethanol (and) Ethylhexylglycerin (and) Octenidine HCl, Ethyl Ascorbic Acid, and additional stabilizers and preservatives as disclosed on the official listing.",
+      },
+      {
+        type: "callout",
+        variant: "tip",
+        title: "Gentler than a pure clay mask",
+        text: "The \"rich, creamy\" formulation is designed to be less drying than a straight kaolin or bentonite mask, which is why Dot & Key markets it across oily, normal, and dry skin rather than oily skin alone.",
+      },
+      { type: "heading", level: 2, text: "Who May Find It Suitable?", id: "who-may-suit" },
+      {
+        type: "list",
+        items: [
+          "People wanting a weekly deep-cleanse mask that doesn't leave skin feeling overly tight or stripped.",
+          "Anyone dealing with dullness or uneven tone who wants a treatment-mask option alongside their regular brightening routine.",
+          "Those with normal-to-dry skin who've found other clay masks too harsh, given this one's creamier formulation.",
+        ],
+      },
+      { type: "heading", level: 2, text: "How to Use It", id: "how-to-use" },
+      { type: "heading", level: 3, text: "Official Brand Directions", id: "brand-directions" },
+      {
+        type: "list",
+        items: [
+          "Dot & Key's product page does not publish detailed step-by-step directions for this mask.",
+        ],
+      },
+      { type: "heading", level: 3, text: "General Usage Guidance", id: "general-usage" },
+      {
+        type: "list",
+        items: [
+          "Apply an even layer to clean, dry skin, avoiding the eye area.",
+          "Leave on for 10-15 minutes, or until the mask feels tacky rather than fully hardened, to avoid over-drying.",
+          "Rinse thoroughly with lukewarm water and follow with toner and moisturizer.",
+          "Once or twice weekly is a typical frequency for a clay treatment mask; this is general guidance, not specific to Dot & Key.",
+        ],
+      },
+      { type: "heading", level: 2, text: "Where Does It Fit Into a Routine?", id: "routine" },
+      {
+        type: "paragraph",
+        text: "Used as a weekly treatment step after cleansing and before serum, on the days it's applied. It's not a daily-use product like a cleanser or moisturizer — it supplements the regular routine rather than replacing any step in it.",
+      },
+      { type: "heading", level: 2, text: "Potential Advantages", id: "pros" },
+      { type: "heading", level: 2, text: "Things to Consider", id: "cons" },
+      {
+        type: "prosCons",
+        pros: [
+          "Dual-clay formula (French pink clay + bentonite) for genuine deep-cleansing action",
+          "Vitamin C complex adds a brightening angle beyond typical clay-mask claims",
+          "Creamy texture is gentler and more broadly wearable across skin types than a pure clay mask",
+          "Marketed for oily, normal, and dry skin, wider than many single-purpose clay masks",
+        ],
+        cons: [
+          "Vitamin C's rinse-off contact time limits its brightening contribution compared to a leave-on serum",
+          "Brand doesn't publish a specific recommended frequency on the listing",
+          "Only sold in one size (85g)",
+          "Not a daily-use product — results depend on consistent weekly use over time",
+        ],
+      },
+      { type: "heading", level: 2, text: "Comparison With Relevant Dot & Key Products", id: "comparison" },
+      {
+        type: "table",
+        caption: "Dot & Key Vitamin C Pink Clay Mask vs. Cica & Salicylic Green Clay Mask vs. Watermelon Icy Plunge Clay Mask",
+        headers: ["Feature", "Vitamin C Pink Clay Mask", "Cica & Salicylic Green Clay Mask", "Watermelon Icy Plunge Clay Mask"],
+        rows: [
+          ["Key actives", "Vitamin C + Kakadu Plum", "Salicylic Acid + Cica", "Watermelon Extract"],
+          ["Best for", "Dullness, uneven tone", "Acne-prone, oily skin", "Cooling, refreshing feel"],
+          ["Approx. price", "₹550 (85g)", "₹550", "₹499"],
+        ],
+      },
+      {
+        type: "postGrid",
+        postSlugs: [
+          "dot-and-key-master-guide",
+          "dot-and-key-vitamin-c-e-niacinamide-serum-review",
+          "dot-and-key-strawberry-niacinamide-serum-review",
+        ],
+      },
+      { type: "heading", level: 2, text: "Frequently Asked Questions", id: "faqs" },
+      { type: "heading", level: 2, text: "How We Researched This Guide", id: "methodology" },
+      {
+        type: "paragraph",
+        text: "This guide is based on the official Dot & Key product listing and its published ingredient list, as of September 2026. This article does not claim independent lab testing or dermatologist evaluation of the product.",
+      },
+      { type: "heading", level: 2, text: "Final Verdict", id: "verdict" },
+      {
+        type: "paragraph",
+        text: "Dot & Key's Vitamin C Pink Clay Mask is a solid weekly treatment for anyone wanting a deep-cleanse mask with a genuine brightening angle, formulated gently enough to suit a wider range of skin types than a typical clay mask. It's a supplementary treatment step, not a replacement for a daily vitamin C routine.",
+      },
+    ],
+    faqs: [
+      {
+        question: "How often should I use this clay mask?",
+        answer: "Dot & Key's listing doesn't specify an exact frequency. A common approach for a clay treatment mask is once or twice weekly, adjusted based on how your skin responds.",
+      },
+      {
+        question: "Is this mask drying?",
+        answer: "It's formulated with a creamier texture than a pure kaolin or bentonite mask, which makes it gentler and less drying, and is why Dot & Key markets it across oily, normal, and dry skin rather than oily skin alone.",
+      },
+      {
+        question: "Can this mask replace my vitamin C serum?",
+        answer: "No. A rinse-off mask has much shorter skin contact time than a leave-on serum, so its vitamin C content should be viewed as a supportive, occasional boost rather than a substitute for a daily serum.",
+      },
+      {
+        question: "What size is this mask available in?",
+        answer: "It's sold in a single 85g size at ₹550, per the official Dot & Key listing.",
+      },
+      {
+        question: "Is this mask good for sensitive skin?",
+        answer: "It's marketed for oily, normal, and dry skin generally, but any clay mask can feel tight or slightly irritating for very reactive skin. Patch-testing and limiting wear time to 10-15 minutes is a reasonable precaution.",
+      },
+    ],
+    sources: [
+      { label: "Dot & Key — Vitamin C Pink Clay Mask (official product page)", url: "https://www.dotandkey.com/products/vitamin-c-pink-clay-mask" },
+    ],
+    relatedProductSlugs: [],
+  },
+  {
+    id: "post-dot-and-key-cica-niacinamide-toner-review",
+    slug: "dot-and-key-cica-niacinamide-toner-review",
+    title: "Dot & Key Cica + Niacinamide Toner with Green Tea: Ingredients, Benefits & How to Use",
+    excerpt:
+      "A research-based review of Dot & Key's Cica + Niacinamide Toner with Green Tea — its alcohol-free, acne-focused formula, full ingredient list, and how it compares with the brand's other toners.",
+    summary:
+      "Dot & Key Cica + Niacinamide Toner with Green Tea is an alcohol-free toner with lactic acid, glycolic acid, niacinamide, and green tea, formulated to calm redness, control excess oil, and mildly exfoliate oily, acne-prone, and sensitive skin. It's sold in a single 150ml size at ₹395. It suits people wanting a treatment toner for acne-prone skin rather than a purely hydrating one.",
+    keyTakeaways: [
+      { text: "Alcohol-free toner combining Cica, niacinamide, and green tea with mild AHA exfoliation from lactic and glycolic acid." },
+      { text: "Positioned specifically for oily, acne-prone, and sensitive skin, aiming to calm redness while controlling excess oil." },
+      { text: "Contains a genuine mild-exfoliation component (lactic + glycolic acid), not just soothing botanicals." },
+      { text: "Sold in a single 150ml size at ₹395, positioned as a daily-use toning step." },
+      { text: "For a purely hydrating, non-exfoliating toner instead, Dot & Key's Blueberry Hydrate Barrier Repair Toner range is the closer match." },
+    ],
+    heroImage: "/products/dotandkey-cica-niacinamide-toner.jpg",
+    heroImageAlt: "Dot & Key Cica + Niacinamide Toner with Green Tea bottle product packaging",
+    categorySlug: "skincare",
+    tagSlugs: ["dot-key", "toner", "acne"],
+    publishedAt: "2026-09-08",
+    updatedAt: "2026-09-08",
+    readingTimeMinutes: 8,
+    editorsPick: true,
+    popular: true,
+    viewCount: 165,
+    content: [
+      {
+        type: "paragraph",
+        text: "Toners often get treated as an optional, purely cosmetic step, but a formula like Dot & Key's Cica + Niacinamide Toner is built with genuine active ingredients — mild AHAs alongside its calming botanicals — making it closer to a lightweight treatment step than a simple skin-prep liquid.",
+      },
+      {
+        type: "paragraph",
+        text: "This guide covers what's actually in the formula, how the acid-plus-cica combination works for acne-prone skin, who it's likely to suit, and how it compares with Dot & Key's hydrating toners.",
+      },
+      { type: "heading", level: 2, text: "Quick Answer", id: "quick-answer" },
+      {
+        type: "paragraph",
+        text: "Dot & Key Cica + Niacinamide Toner with Green Tea is an alcohol-free toner with lactic acid, glycolic acid, niacinamide, and green tea, formulated to calm redness, control excess oil, and mildly exfoliate oily, acne-prone, and sensitive skin. It's sold in a single 150ml size at ₹395. It suits people wanting a treatment toner for acne-prone skin rather than a purely hydrating one.",
+      },
+      { type: "heading", level: 2, text: "Product Overview", id: "overview" },
+      {
+        type: "table",
+        headers: ["Feature", "Details"],
+        rows: [
+          ["Brand", "Dot & Key"],
+          ["Product Type", "Face toner"],
+          ["Category", "Toner"],
+          ["Key Ingredients", "Lactic Acid, Glycolic Acid, Niacinamide, Green Tea"],
+          ["Primary Purpose", "Oil control, mild exfoliation, redness calming"],
+          ["Texture", "Alcohol-free liquid toner"],
+          ["Skin Type", "Oily, Acne-Prone & Sensitive Skin"],
+          ["Available Sizes", "150ml (₹395)"],
+        ],
+      },
+      { type: "heading", level: 2, text: "What Is This Product?", id: "what-is-it" },
+      {
+        type: "paragraph",
+        text: "This is an alcohol-free toner combining two AHAs (lactic acid and glycolic acid) at toner-appropriate low concentrations with niacinamide, green tea extract, and Salix Alba (Willow) Bark Extract — a botanical source of salicin, a compound related to salicylic acid. The combination positions this as a mild, daily-use exfoliating and calming toner rather than a purely humectant, hydration-only formula.",
+      },
+      { type: "heading", level: 2, text: "Official Brand Claims", id: "brand-says" },
+      {
+        type: "list",
+        items: [
+          "Daily-use alcohol-free toner for calm, clear, and oil-free skin.",
+          "Contains acne-busting ingredients like Cica, niacinamide, and green tea.",
+          "Calms redness and skin irritation while controlling excess oil.",
+          "Fights acne-causing bacteria to reduce breakout frequency; mildly exfoliates to unclog pores and smooth skin.",
+        ],
+      },
+      { type: "heading", level: 3, text: "Formulation Analysis", id: "ingredient-analysis" },
+      {
+        type: "paragraph",
+        text: "The combined lactic and glycolic acid content, even at toner-level concentrations, means this product is doing genuine mild exfoliation work rather than just cosmetic toning — worth factoring in if you're already using a separate leave-on AHA/BHA elsewhere in your routine, to avoid over-exfoliating. \"Fights acne-causing bacteria\" is a broader claim than the ingredient list directly supports on its own (none of the named actives are antibacterial in the way a prescription treatment would be), and is better understood as a supportive, oil-control-driven reduction in the conditions that favor acne-causing bacteria.",
+      },
+      { type: "heading", level: 2, text: "Key Ingredients and Their Roles", id: "ingredients" },
+      {
+        type: "list",
+        items: [
+          "Lactic Acid & Glycolic Acid: mild AHAs providing gentle exfoliation and smoother-feeling skin.",
+          "Salix Alba (Willow) Bark Extract: a natural salicin source, relevant to acne-prone skin's needs.",
+          "Rosmarinus Officinalis (Rosemary) Extract: an antioxidant botanical included for its calming reputation.",
+          "Cucumis Sativus (Cucumber) Fruit Extract: a soothing, hydrating botanical addition.",
+          "Allantoin: supports skin comfort and helps calm irritation from the acid content.",
+        ],
+      },
+      { type: "heading", level: 2, text: "Full Ingredient List", id: "full-ingredient-list" },
+      {
+        type: "paragraph",
+        text: "As listed on the official Dot & Key product page at the time of writing: Aqua, Lactic Acid, Glycerine, Propanediol, Sodium Hydroxide, Glycolic Acid, PEG-40 Hydrogenated Castor Oil, Hydroxyethylcellulose, PPG-26-Buteth-26 (and) PEG-40 Hydrogenated Castor Oil (and) Water, Polysorbate 20, Mentha Piperita (Peppermint) Oil, Allantoin, Cucumis Sativus (Cucumber) Fruit Extract, Citrullus Lanatus (Watermelon) Fruit Extract, Salix Alba (Willow) Bark Extract, Rosmarinus Officinalis (Rosemary) Extract, and additional preservatives as disclosed on the official listing.",
+      },
+      {
+        type: "callout",
+        variant: "note",
+        title: "Contains active exfoliants, not just soothing botanicals",
+        text: "This toner's lactic and glycolic acid content means it's doing real exfoliation work. If you already use a leave-on AHA or BHA serum, factor this toner into your overall weekly acid exposure to avoid over-exfoliating.",
+      },
+      { type: "heading", level: 2, text: "Who May Find It Suitable?", id: "who-may-suit" },
+      {
+        type: "list",
+        items: [
+          "People with oily or acne-prone skin wanting a daily toning step that also mildly exfoliates.",
+          "Anyone dealing with redness or irritation alongside oiliness, thanks to the calming botanical additions.",
+          "Those who prefer folding light exfoliation into their toner rather than using a separate dedicated AHA/BHA product.",
+        ],
+      },
+      { type: "heading", level: 2, text: "How to Use It", id: "how-to-use" },
+      { type: "heading", level: 3, text: "Official Brand Directions", id: "brand-directions" },
+      {
+        type: "list",
+        items: [
+          "Pour on your hands or a cotton pad.",
+          "Pat gently on face and neck.",
+          "Let it get fully absorbed.",
+          "Follow up with serum and moisturizer.",
+          "Use SPF in the daytime.",
+        ],
+      },
+      { type: "heading", level: 3, text: "General Usage Guidance", id: "general-usage" },
+      {
+        type: "list",
+        items: [
+          "Once or twice daily is typical for a mild-exfoliation toner; reduce frequency if you notice dryness or sensitivity.",
+          "Avoid combining with other strong exfoliating acids in the same routine without monitoring your skin's tolerance.",
+          "This is general guidance, not specific to Dot & Key.",
+        ],
+      },
+      { type: "heading", level: 2, text: "Where Does It Fit Into a Routine?", id: "routine" },
+      {
+        type: "paragraph",
+        text: "Applied after cleansing, before serum and moisturizer. It pairs well with Dot & Key's Cica + Salicylic Acid Face Wash for a consistent acne-focused routine, though combining two exfoliating steps means watching your skin's overall tolerance.",
+      },
+      { type: "heading", level: 2, text: "Potential Advantages", id: "pros" },
+      { type: "heading", level: 2, text: "Things to Consider", id: "cons" },
+      {
+        type: "prosCons",
+        pros: [
+          "Alcohol-free formula despite containing active exfoliants",
+          "Combines mild AHA exfoliation with calming, oil-control botanicals",
+          "Marketed specifically for oily, acne-prone, and sensitive skin together",
+          "Full ingredient list transparently disclosed by the brand",
+        ],
+        cons: [
+          "Genuine acid content means it should be factored into your total weekly exfoliation, not treated as a plain hydrating toner",
+          "\"Fights acne-causing bacteria\" is a broader claim than the ingredient list directly demonstrates on its own",
+          "Contains Peppermint Oil, which can be sensitizing for some very reactive skin",
+          "Only sold in one size (150ml)",
+        ],
+      },
+      { type: "heading", level: 2, text: "Comparison With Relevant Dot & Key Products", id: "comparison" },
+      {
+        type: "table",
+        caption: "Dot & Key Cica + Niacinamide Toner vs. Blueberry Hydrate Rice Water Toner vs. Watermelon Pore Tightening Toner",
+        headers: ["Feature", "Cica + Niacinamide Toner", "Blueberry Hydrate Rice Water Toner", "Watermelon Pore Tightening Toner"],
+        rows: [
+          ["Key actives", "Lactic + Glycolic Acid + Niacinamide", "Hyaluronic Acid + Probiotics + Rice Water", "Glycolic Acid"],
+          ["Best for", "Oily, acne-prone, sensitive skin", "Dehydrated, dry skin", "Oily skin, pore appearance"],
+          ["Approx. price", "₹395 (150ml)", "₹395 (150ml)", "₹395"],
+        ],
+      },
+      {
+        type: "postGrid",
+        postSlugs: [
+          "dot-and-key-master-guide",
+          "dot-and-key-cica-salicylic-face-wash-review",
+          "dot-and-key-72hr-gel-moisturizer-review",
+        ],
+      },
+      { type: "heading", level: 2, text: "Frequently Asked Questions", id: "faqs" },
+      { type: "heading", level: 2, text: "How We Researched This Guide", id: "methodology" },
+      {
+        type: "paragraph",
+        text: "This guide is based on the official Dot & Key product listing and its published ingredient list, as of September 2026. This article does not claim independent lab testing or dermatologist evaluation of the product, and is not a substitute for professional treatment of moderate-to-severe acne.",
+      },
+      { type: "heading", level: 2, text: "Final Verdict", id: "verdict" },
+      {
+        type: "paragraph",
+        text: "Dot & Key's Cica + Niacinamide Toner is a genuinely active formula for oily, acne-prone, and sensitive skin, doing real mild-exfoliation work rather than functioning as a purely cosmetic toning step. Anyone wanting a purely hydrating toner without exfoliation should look at Dot & Key's Blueberry Hydrate range instead.",
+      },
+    ],
+    faqs: [
+      {
+        question: "Is this toner just for hydration, or does it exfoliate?",
+        answer: "It genuinely exfoliates — it contains both lactic acid and glycolic acid at toner-appropriate concentrations, alongside niacinamide and calming botanicals. It's not a purely hydrating, humectant-only toner.",
+      },
+      {
+        question: "Can I use this toner every day?",
+        answer: "Many people use it daily, but since it contains active AHAs, start with once daily and monitor your skin's response, especially if you use other exfoliating products in your routine.",
+      },
+      {
+        question: "Does this toner contain alcohol?",
+        answer: "No — it's formulated alcohol-free, which is generally gentler for acne-prone or sensitive skin than alcohol-based toners.",
+      },
+      {
+        question: "Is this toner suitable for sensitive skin?",
+        answer: "Dot & Key markets it for oily, acne-prone, and sensitive skin together. That said, it contains Peppermint Oil and active acids, so very reactive skin should patch-test first.",
+      },
+      {
+        question: "What size is this toner available in?",
+        answer: "It's sold in a single 150ml size at ₹395, per the official Dot & Key listing.",
+      },
+    ],
+    sources: [
+      { label: "Dot & Key — Cica + Niacinamide Toner with Green Tea (official product page)", url: "https://www.dotandkey.com/products/cica-calming-skin-clarifying-toner" },
+    ],
+    relatedProductSlugs: [],
+  },
+  {
+    id: "post-dot-and-key-lip-plumping-mask-review",
+    slug: "dot-and-key-lip-plumping-mask-review",
+    title: "Dot & Key Lip Plumping Mask with Vitamin C + E: Ingredients, Benefits & How to Use",
+    excerpt:
+      "A research-based review of Dot & Key's Lip Plumping Mask — its shea butter, turmeric oil, and vitamin C formula, full ingredient list, and how it compares with the brand's SPF lip balms.",
+    summary:
+      "Dot & Key Lip Plumping Mask with Vitamin C + E is a treatment-style lip balm with 20% shea butter, hyaluronic acid, natural plant oils, and vitamin C, formulated to heal dry, chapped lips and fade lip pigmentation over time. It's sold in a single tinted shade (Turmeric Oil and Lingonberry Medium Tint) at ₹259. It suits people wanting an overnight or anytime lip treatment rather than a daily SPF lip balm.",
+    keyTakeaways: [
+      { text: "Built around 20% shea butter plus hyaluronic acid and natural plant oils for what Dot & Key calls a \"Triple Hydration Action.\"" },
+      { text: "Includes vitamin C specifically to help fade lip pigmentation and reveal natural lip color over time." },
+      { text: "Comes in a medium-tinted shade (Turmeric Oil and Lingonberry), giving a sheer color payoff alongside the treatment benefits." },
+      { text: "Sold as a single SKU at ₹259, positioned as a treatment mask rather than a daily SPF balm." },
+      { text: "For daytime sun protection instead of overnight treatment, Dot & Key's SPF lip balms (Meltie, Gloss Boss, or Barrier Repair) are the better fit." },
+    ],
+    heroImage: "/products/dotandkey-lip-plumping-mask.jpg",
+    heroImageAlt: "Dot & Key Lip Plumping Mask with Vitamin C + E tube product packaging",
+    categorySlug: "skincare",
+    tagSlugs: ["dot-key", "lip-care", "vitamin-c"],
+    publishedAt: "2026-09-08",
+    updatedAt: "2026-09-08",
+    readingTimeMinutes: 8,
+    editorsPick: true,
+    popular: true,
+    viewCount: 160,
+    content: [
+      {
+        type: "paragraph",
+        text: "Lip care usually splits into two categories — daytime SPF balms and overnight treatment masks — and Dot & Key's Lip Plumping Mask sits firmly in the second camp, built around a richer shea-butter-and-oil base and a lip-pigmentation-focused vitamin C angle rather than sun protection.",
+      },
+      {
+        type: "paragraph",
+        text: "This guide covers what's actually in the formula, what the \"lip pigmentation\" claim realistically means, who it's likely to suit, and how it compares with Dot & Key's SPF lip balms.",
+      },
+      { type: "heading", level: 2, text: "Quick Answer", id: "quick-answer" },
+      {
+        type: "paragraph",
+        text: "Dot & Key Lip Plumping Mask with Vitamin C + E is a treatment-style lip balm with 20% shea butter, hyaluronic acid, natural plant oils, and vitamin C, formulated to heal dry, chapped lips and fade lip pigmentation over time. It's sold in a single tinted shade (Turmeric Oil and Lingonberry Medium Tint) at ₹259. It suits people wanting an overnight or anytime lip treatment rather than a daily SPF lip balm.",
+      },
+      { type: "heading", level: 2, text: "Product Overview", id: "overview" },
+      {
+        type: "table",
+        headers: ["Feature", "Details"],
+        rows: [
+          ["Brand", "Dot & Key"],
+          ["Product Type", "Lip mask / treatment balm"],
+          ["Category", "Lip Care"],
+          ["Key Ingredients", "20% Shea Butter, Hyaluronic Acid, Vitamin C, Turmeric Oil"],
+          ["Primary Purpose", "Lip hydration, pigmentation fading, healing dry/chapped lips"],
+          ["Finish", "Tinted, sheer color payoff"],
+          ["SPF", "None — this is a treatment mask, not a sun-protection balm"],
+          ["Available Sizes / Shade", "Turmeric Oil and Lingonberry Medium Tint (₹259)"],
+        ],
+      },
+      { type: "heading", level: 2, text: "What Is This Product?", id: "what-is-it" },
+      {
+        type: "paragraph",
+        text: "This is a richer, occlusive lip treatment built on a base of Castor Seed Oil, Shea Butter, Petrolatum, and Beeswax — ingredients chosen for their ability to seal in moisture and heal chapped, flaking lip skin. Vitamin C (via Tocopheryl Acetate and other antioxidants) and Turmeric Root Oil are included specifically to target lip pigmentation, while Lingonberry Seed Oil and a sheer tint round out the sensory and cosmetic finish.",
+      },
+      { type: "heading", level: 2, text: "Official Brand Claims", id: "brand-says" },
+      {
+        type: "list",
+        items: [
+          "An ultra-moisturizing, antioxidant-rich lip mask for soft, smooth, and plump lips.",
+          "Infused with vitamin C to fade lip pigmentation and reveal natural lip color over time.",
+          "Powered by a \"Triple Hydration Action\" — hyaluronic acid, natural plant oils, and 20% shea butter — to heal dry, chapped, and flaking lips.",
+        ],
+      },
+      { type: "heading", level: 3, text: "Formulation Analysis", id: "ingredient-analysis" },
+      {
+        type: "paragraph",
+        text: "A 20% shea butter concentration is a genuinely rich, occlusive base well-suited to healing very dry or chapped lip skin, and the Petrolatum and Beeswax combination reinforces that moisture-sealing function. \"Fade lip pigmentation and reveal natural lip color\" is a gradual, cumulative claim tied to consistent use and the vitamin C/turmeric content — it's not a bleaching or instant-lightening treatment, and results will vary depending on what's causing the pigmentation in the first place (sun exposure, dryness-related darkening, or other factors).",
+      },
+      { type: "heading", level: 2, text: "Key Ingredients and Their Roles", id: "ingredients" },
+      {
+        type: "list",
+        items: [
+          "Butyrospermum Parkii (Shea) Butter (20%): a rich emollient that heals and seals in moisture for dry, chapped lips.",
+          "Ricinus Communis (Castor) Seed Oil & Petrolatum: occlusive ingredients that lock in hydration.",
+          "Curcuma Longa (Turmeric) Root Oil: included for its traditional reputation in supporting a brighter, more even lip tone.",
+          "Sodium Hyaluronate (Hyaluronic Acid): draws in moisture as part of the \"Triple Hydration Action.\"",
+          "Vaccinium Vitis-Idaea (Lingonberry) Seed Oil: a nourishing plant oil that also contributes to the formula's tint.",
+        ],
+      },
+      { type: "heading", level: 2, text: "Full Ingredient List", id: "full-ingredient-list" },
+      {
+        type: "paragraph",
+        text: "As listed on the official Dot & Key product page at the time of writing: Ricinus Communis (Castor) Seed Oil, Butyrospermum Parkii (Shea) Butter, Petrolatum, Bees Wax, PEG-40 Hydrogenated Castor Oil, Isopropyl Palmitate, Cocos Nucifera (Coconut) Oil, Tocopheryl Acetate, Prunus Amygdalus Dulcis (Almond) Oil, Curcuma Longa (Turmeric) Root Oil, Honey Extract, Citrus Medica Limonum (Lemon) Peel Oil, Vaccinium Vitis-Idaea (Lingonberry) Seed Oil, Silanetriol (and) Hyaluronic Acid, and additional colorants and preservatives as disclosed on the official listing.",
+      },
+      {
+        type: "callout",
+        variant: "note",
+        title: "No SPF included",
+        text: "This is a treatment mask, not a sun-protection product. For daytime wear, pair it with or switch to one of Dot & Key's SPF lip balms to protect against further sun-related lip pigmentation.",
+      },
+      { type: "heading", level: 2, text: "Who May Find It Suitable?", id: "who-may-suit" },
+      {
+        type: "list",
+        items: [
+          "People with dry, chapped, or flaking lips wanting a richer overnight or anytime treatment.",
+          "Anyone dealing with darkened or uneven lip pigmentation looking for a gradual, gentle approach.",
+          "Those who like a sheer tinted finish alongside their lip treatment.",
+        ],
+      },
+      { type: "heading", level: 2, text: "How to Use It", id: "how-to-use" },
+      { type: "heading", level: 3, text: "Official Brand Directions", id: "brand-directions" },
+      {
+        type: "list",
+        items: [
+          "Dot & Key's product page does not publish detailed step-by-step directions for this mask.",
+        ],
+      },
+      { type: "heading", level: 3, text: "General Usage Guidance", id: "general-usage" },
+      {
+        type: "list",
+        items: [
+          "Apply a generous layer to clean lips, ideally before bed to let the richer formula work overnight.",
+          "Can also be used during the day as a tinted, hydrating treatment balm, reapplying as needed.",
+          "This is general guidance, not specific to Dot & Key.",
+        ],
+      },
+      { type: "heading", level: 2, text: "Where Does It Fit Into a Routine?", id: "routine" },
+      {
+        type: "paragraph",
+        text: "Used as the final step of a nighttime routine, applied generously before bed, or as an anytime treatment layer during the day. For daytime sun protection specifically, follow up with or substitute one of Dot & Key's SPF lip balms.",
+      },
+      { type: "heading", level: 2, text: "Potential Advantages", id: "pros" },
+      { type: "heading", level: 2, text: "Things to Consider", id: "cons" },
+      {
+        type: "prosCons",
+        pros: [
+          "Genuinely rich, occlusive formula (20% shea butter + petrolatum + beeswax) well-suited to very dry lips",
+          "Vitamin C and turmeric oil content targets lip pigmentation specifically, not just dryness",
+          "Sheer tint adds a cosmetic bonus alongside the treatment benefits",
+          "Official bestseller status per Dot & Key's own merchandising tags",
+        ],
+        cons: [
+          "No SPF — not suitable as a substitute for daytime sun protection",
+          "\"Fades lip pigmentation\" is a gradual, cumulative claim, not an instant-lightening effect",
+          "Only available in one tinted shade, less choice than shade-driven lip products",
+          "Contains Lemon Peel Oil, a potential photosensitizer if used right before sun exposure without SPF",
+        ],
+      },
+      { type: "heading", level: 2, text: "Comparison With Relevant Dot & Key Products", id: "comparison" },
+      {
+        type: "table",
+        caption: "Dot & Key Lip Plumping Mask vs. Meltie Lip Balm vs. Barrier Repair Hydrating Lip Balm",
+        headers: ["Feature", "Lip Plumping Mask", "Meltie Lip Balm", "Barrier Repair Hydrating Lip Balm"],
+        rows: [
+          ["SPF", "None", "SPF 50+ PA+++", "SPF 50+ PA+++"],
+          ["Best for", "Overnight treatment, pigmentation", "Daily SPF + hydration", "Daily SPF + ceramide barrier support"],
+          ["Approx. price", "₹259", "₹249", "₹249"],
+        ],
+      },
+      {
+        type: "postGrid",
+        postSlugs: [
+          "dot-and-key-master-guide",
+          "dot-and-key-vitamin-c-e-niacinamide-serum-review",
+          "dot-and-key-retinol-eye-cream-review",
+        ],
+      },
+      { type: "heading", level: 2, text: "Frequently Asked Questions", id: "faqs" },
+      { type: "heading", level: 2, text: "How We Researched This Guide", id: "methodology" },
+      {
+        type: "paragraph",
+        text: "This guide is based on the official Dot & Key product listing and its published ingredient list, as of September 2026. This article does not claim independent lab testing or dermatologist evaluation of the product.",
+      },
+      { type: "heading", level: 2, text: "Final Verdict", id: "verdict" },
+      {
+        type: "paragraph",
+        text: "Dot & Key's Lip Plumping Mask is a well-formulated overnight or anytime treatment for dry, chapped, or pigmented lips, built on a genuinely rich occlusive base rather than a thin, cosmetic-only balm. It's not a sun-protection product, so daytime users should pair it with an SPF lip balm rather than relying on it alone.",
+      },
+    ],
+    faqs: [
+      {
+        question: "Does this lip mask contain SPF?",
+        answer: "No. It's formulated as a treatment mask for hydration and pigmentation, not sun protection. For daytime SPF, Dot & Key sells separate lip balms like Meltie or the Barrier Repair Hydrating Lip Balm.",
+      },
+      {
+        question: "Can this lip mask actually lighten dark lips?",
+        answer: "It's formulated with vitamin C and turmeric oil to help fade lip pigmentation gradually with consistent use. This is a cumulative, gentle effect rather than an instant-lightening treatment, and results depend on what's causing the pigmentation.",
+      },
+      {
+        question: "Is this a plumping product in the sense of temporary lip-filler-like swelling?",
+        answer: "No. \"Plumping\" here refers to hydration-driven smoothness and softness from ingredients like hyaluronic acid and shea butter, not a tingling, blood-flow-stimulating plumping effect some lip glosses use.",
+      },
+      {
+        question: "What shade does this lip mask come in?",
+        answer: "It's sold in one shade, described as \"Turmeric Oil and Lingonberry Medium Tint,\" giving a sheer, medium-tinted finish.",
+      },
+      {
+        question: "Can I wear this under lipstick?",
+        answer: "Given its rich, balm-like texture, it works best as a standalone overnight treatment or daytime tinted balm rather than a base layer under long-wear lipstick, where a thinner primer-balm may perform better.",
+      },
+    ],
+    sources: [
+      { label: "Dot & Key — Lip Plumping Mask with Vitamin C + E (official product page)", url: "https://www.dotandkey.com/products/lip-plumping-sleeping-mask" },
+    ],
+    relatedProductSlugs: [],
+  },
+  {
+    id: "post-dot-and-key-retinol-eye-cream-review",
+    slug: "dot-and-key-retinol-eye-cream-review",
+    title: "Dot & Key Pomegranate + Retinol Eye Cream for Dark Circles: Ingredients, Benefits & How to Use",
+    excerpt:
+      "A research-based review of Dot & Key's Pomegranate + Retinol Eye Cream — its collagen peptide and caffeine formula, full ingredient list, and how it fits into a broader anti-aging routine.",
+    summary:
+      "Dot & Key Pomegranate + Retinol Eye Cream for Dark Circles is a collagen-boosting under-eye cream with retinol, pomegranate extract, and caffeine, formulated to reduce fine lines, de-puff, and fade the look of dark circles. It's sold in a single 20ml size at ₹495. It suits people wanting a dedicated PM eye treatment for early signs of aging, puffiness, and dark circles together.",
+    keyTakeaways: [
+      { text: "Combines retinol with pomegranate extract and a collagen peptide, targeting fine lines, wrinkles, firmness, and dark circles together." },
+      { text: "Includes caffeine specifically for de-puffing, alongside a built-in metal roller applicator for a cooling massage effect." },
+      { text: "Marketed for normal, oily, and combination skin, formulated at an eye-area-appropriate gentler retinol level than a facial retinol serum." },
+      { text: "Sold in a single 20ml size at ₹495, positioned as a PM-only treatment." },
+      { text: "As a retinol product, it should be introduced gradually and always paired with daytime sunscreen." },
+    ],
+    heroImage: "/products/dotandkey-retinol-eye-cream.jpg",
+    heroImageAlt: "Dot & Key Pomegranate + Retinol Eye Cream for Dark Circles tube with metal roller applicator",
+    categorySlug: "skincare",
+    tagSlugs: ["dot-key", "retinol", "anti-aging"],
+    publishedAt: "2026-09-08",
+    updatedAt: "2026-09-08",
+    readingTimeMinutes: 9,
+    editorsPick: true,
+    popular: true,
+    viewCount: 180,
+    content: [
+      {
+        type: "paragraph",
+        text: "The under-eye area shows aging, dehydration, and lifestyle fatigue faster than most other facial skin, largely because it's thinner and has fewer oil glands. Dot & Key's Pomegranate + Retinol Eye Cream tries to address several of these concerns at once — fine lines, puffiness, and dark circles — rather than formulating around a single symptom.",
+      },
+      {
+        type: "paragraph",
+        text: "This guide covers what's actually in the formula, how retinol behaves differently in an eye cream versus a facial serum, who it's likely to suit, and how to introduce it safely.",
+      },
+      { type: "heading", level: 2, text: "Quick Answer", id: "quick-answer" },
+      {
+        type: "paragraph",
+        text: "Dot & Key Pomegranate + Retinol Eye Cream for Dark Circles is a collagen-boosting under-eye cream with retinol, pomegranate extract, and caffeine, formulated to reduce fine lines, de-puff, and fade the look of dark circles. It's sold in a single 20ml size at ₹495. It suits people wanting a dedicated PM eye treatment for early signs of aging, puffiness, and dark circles together.",
+      },
+      { type: "heading", level: 2, text: "Product Overview", id: "overview" },
+      {
+        type: "table",
+        headers: ["Feature", "Details"],
+        rows: [
+          ["Brand", "Dot & Key"],
+          ["Product Type", "Eye cream"],
+          ["Category", "Eye Care"],
+          ["Key Ingredients", "Retinol, Pomegranate Extract, Collagen Peptide, Caffeine"],
+          ["Primary Purpose", "Fine lines, firmness, puffiness, dark circles"],
+          ["Texture", "Cream with built-in metal roller applicator"],
+          ["Skin Type", "Normal, Oily, Combination Skin"],
+          ["When to Use", "PM only (retinol-containing product)"],
+          ["Available Sizes", "20ml (₹495)"],
+        ],
+      },
+      { type: "heading", level: 2, text: "What Is This Product?", id: "what-is-it" },
+      {
+        type: "paragraph",
+        text: "This is a multi-benefit eye cream combining retinol (a well-studied ingredient for supporting collagen production and reducing the look of fine lines) with Punica Granatum (Pomegranate) extract, a collagen peptide, and caffeine. The built-in metal ball applicator is a genuine formulation feature, not just packaging — cool metal massage tools are commonly used to help temporarily reduce the appearance of puffiness through light lymphatic-style massage.",
+      },
+      { type: "heading", level: 2, text: "Official Brand Claims", id: "brand-says" },
+      {
+        type: "list",
+        items: [
+          "Collagen-boosting under-eye cream that depuffs, smoothens, and firms the delicate under-eye area.",
+          "Visibly reduces fine lines and wrinkles for smoother, firmer skin.",
+          "Effectively fades dark circles and de-puffs for fresher, more radiant under-eyes.",
+          "Deeply moisturizes the under-eye area.",
+        ],
+      },
+      { type: "heading", level: 3, text: "Formulation Analysis", id: "ingredient-analysis" },
+      {
+        type: "paragraph",
+        text: "Retinol's collagen-supporting and fine-line benefits are well-documented in skincare literature generally, though results from any retinol product take weeks to months of consistent use to become visible, not days. Eye-area retinol formulas are typically gentler than facial retinol serums, since the skin there is thinner and more prone to irritation — Dot & Key doesn't disclose the exact retinol percentage on this listing, which is fairly standard for eye creams but worth noting if you're trying to compare potency against a facial retinol product.",
+      },
+      { type: "heading", level: 2, text: "Key Ingredients and Their Roles", id: "ingredients" },
+      {
+        type: "list",
+        items: [
+          "Retinol: supports collagen production and helps reduce the look of fine lines and wrinkles over consistent use.",
+          "Punica Granatum (Pomegranate) Extract: an antioxidant-rich botanical that complements retinol's free-radical-fighting role.",
+          "Collagen Peptide: included to support the skin's firmness and elasticity.",
+          "Caffeine: has a temporary de-puffing and mild vasoconstricting effect, useful for the appearance of puffiness.",
+          "Siloxanetriol Alginate: works alongside caffeine in the formula's de-puffing complex.",
+        ],
+      },
+      { type: "heading", level: 2, text: "Full Ingredient List", id: "full-ingredient-list" },
+      {
+        type: "paragraph",
+        text: "As listed on the official Dot & Key product page at the time of writing: Aqua, Caprylic/Capric Triglyceride, 1,3-Butylene Glycol, Dicaprylyl Ether, Siloxanetriol Alginate (and) Caffeine (and) Butylene Glycol, Glyceryl Stearate (and) PEG-100 Stearate, Cetearyl Alcohol, Cetearyl Olivate (and) Sorbitan Olivate, Lauryl Laurate, Glycerine, C14-22 Alcohols (and) C12-20 Alkyl Glucoside, Stearyl Dimethicone (and) Octadecene, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Allantoin, and additional retinol complex, stabilizers, and preservatives as disclosed on the official listing.",
+      },
+      {
+        type: "callout",
+        variant: "warning",
+        title: "Introduce retinol gradually",
+        text: "Even eye-area-formulated retinol can cause dryness or irritation if introduced too quickly. Start with 2-3 uses per week and always apply sunscreen during the day, since retinol increases sun sensitivity.",
+      },
+      { type: "heading", level: 2, text: "Who May Find It Suitable?", id: "who-may-suit" },
+      {
+        type: "list",
+        items: [
+          "People noticing early fine lines, crepiness, or loss of firmness around the eyes.",
+          "Anyone dealing with both puffiness and dark circles who wants a single product addressing both.",
+          "Those already comfortable with retinol on their face and looking to extend a similar approach to the eye area.",
+        ],
+      },
+      { type: "heading", level: 2, text: "How to Use It", id: "how-to-use" },
+      { type: "heading", level: 3, text: "Official Brand Directions", id: "brand-directions" },
+      {
+        type: "list",
+        items: [
+          "Apply eye cream around the eye contour.",
+          "Massage gently with the built-in metal applicator.",
+          "Dab the excess with your fingertips.",
+          "Use daily in PM for best results, per the brand.",
+        ],
+      },
+      { type: "heading", level: 3, text: "General Usage Guidance", id: "general-usage" },
+      {
+        type: "list",
+        items: [
+          "First-time retinol users, even for the eye area, should start with 2-3 nights per week and build up gradually.",
+          "Apply a rice-grain-sized amount per eye — a little goes a long way for this delicate area.",
+          "Always follow with daytime sunscreen, since retinol increases photosensitivity.",
+          "This is general guidance, not specific to Dot & Key.",
+        ],
+      },
+      { type: "heading", level: 2, text: "Where Does It Fit Into a Routine?", id: "routine" },
+      {
+        type: "paragraph",
+        text: "Applied as the last PM step around the eye area, after facial serums and before or in place of a facial moisturizer's eye-area application. Not intended for AM use, given the retinol content.",
+      },
+      { type: "heading", level: 2, text: "Potential Advantages", id: "pros" },
+      { type: "heading", level: 2, text: "Things to Consider", id: "cons" },
+      {
+        type: "prosCons",
+        pros: [
+          "Combines retinol, collagen peptide, and caffeine for a multi-benefit approach to aging, puffiness, and dark circles",
+          "Built-in metal roller applicator adds a genuine functional (not just cosmetic) massage benefit",
+          "Formulated specifically for the eye area, generally gentler than a facial retinol product",
+          "Single, accessible size and price point (20ml, ₹495)",
+        ],
+        cons: [
+          "Exact retinol percentage isn't disclosed on the public listing",
+          "Retinol requires gradual introduction and consistent sunscreen use during the day",
+          "Results take weeks to months to become visible, not an overnight fix",
+          "Not suitable for use during pregnancy or breastfeeding without medical guidance, consistent with general retinoid precautions",
+        ],
+      },
+      { type: "heading", level: 2, text: "Comparison With Relevant Dot & Key Products", id: "comparison" },
+      {
+        type: "table",
+        caption: "Dot & Key Retinol Eye Cream vs. Watermelon Hydrogel Eye Patches",
+        headers: ["Feature", "Retinol Eye Cream", "Watermelon Hydrogel Eye Patches"],
+        rows: [
+          ["Format", "Daily leave-on cream", "Occasional patch treatment"],
+          ["Best for", "Fine lines, firmness, dark circles (long-term)", "Instant de-puffing, cooling refresh"],
+          ["When to use", "PM only", "Anytime, as needed"],
+        ],
+      },
+      {
+        type: "postGrid",
+        postSlugs: [
+          "dot-and-key-master-guide",
+          "dot-and-key-barrier-repair-moisturizer-review",
+          "dot-and-key-lip-plumping-mask-review",
+        ],
+      },
+      { type: "heading", level: 2, text: "Frequently Asked Questions", id: "faqs" },
+      { type: "heading", level: 2, text: "How We Researched This Guide", id: "methodology" },
+      {
+        type: "paragraph",
+        text: "This guide is based on the official Dot & Key product listing and its published ingredient list, as of September 2026. This article does not claim independent lab testing or dermatologist evaluation of the product, and does not guarantee results for medically diagnosed under-eye conditions.",
+      },
+      { type: "heading", level: 2, text: "Final Verdict", id: "verdict" },
+      {
+        type: "paragraph",
+        text: "Dot & Key's Pomegranate + Retinol Eye Cream is a well-rounded option for anyone wanting to address fine lines, firmness, puffiness, and dark circles with one product, backed by genuinely relevant actives rather than a single trendy ingredient. Like any retinol product, it needs a gradual introduction and consistent daytime SPF to work safely and effectively.",
+      },
+    ],
+    faqs: [
+      {
+        question: "Can this eye cream be used every night right away?",
+        answer: "It's best to introduce it gradually, starting with 2-3 nights a week, even though it's formulated for the eye area. This helps your skin adjust to the retinol content before moving to nightly use.",
+      },
+      {
+        question: "Will this eye cream completely remove dark circles?",
+        answer: "It's formulated to help fade the look of dark circles over consistent use, but dark circles have multiple causes (genetics, pigmentation, thinning skin, blood vessel visibility), so results vary and a complete removal isn't a realistic expectation from any topical product.",
+      },
+      {
+        question: "Is the metal roller just for packaging, or does it do anything?",
+        answer: "The built-in metal ball applicator has a genuine functional role — a cool metal surface used with gentle massage can help temporarily reduce the look of puffiness, working alongside the formula's caffeine content.",
+      },
+      {
+        question: "Can I use this eye cream in the morning?",
+        answer: "It's formulated and marketed for PM use, consistent with general retinol guidance, since retinol increases sun sensitivity and works best applied at night with daytime sunscreen as follow-up protection.",
+      },
+      {
+        question: "Is this eye cream safe during pregnancy?",
+        answer: "Retinoids are generally advised against during pregnancy and breastfeeding. Anyone who is pregnant or breastfeeding should consult a doctor before using this or any retinol-containing product.",
+      },
+    ],
+    sources: [
+      { label: "Dot & Key — Pomegranate + Retinol Eye Cream for Dark Circles (official product page)", url: "https://www.dotandkey.com/products/retinol-eye-cream" },
+    ],
+    relatedProductSlugs: [],
+  },
+  {
+    id: "post-dot-and-key-watermelon-underarm-roll-on-review",
+    slug: "dot-and-key-watermelon-underarm-roll-on-review",
+    title: "Dot & Key Watermelon Cooling Underarm Roll On: Ingredients, Benefits & How to Use",
+    excerpt:
+      "A research-based review of Dot & Key's Watermelon Cooling Underarm Roll On — its 4% AHA/BHA formula, full ingredient list, and who it's likely to suit.",
+    summary:
+      "Dot & Key Watermelon Cooling Underarm Roll On is a roll-on underarm treatment with 4% AHA and BHA plus watermelon extract, formulated to fight odor-causing bacteria, exfoliate, and reduce underarm pigmentation. It's sold in a single 50ml size at ₹299. It suits people wanting an active-ingredient underarm treatment rather than a plain cosmetic deodorant.",
+    keyTakeaways: [
+      { text: "Combines 4% AHA and BHA acids with watermelon extract in a roll-on format, targeting odor, texture, and pigmentation together." },
+      { text: "Contains sun-filter-adjacent ingredients (Ethylhexyl Methoxycinnamate and others) typically associated with UV protection, alongside its exfoliating actives." },
+      { text: "Positioned for instant cooling, freshness, and gentle exfoliation to unclog pores and even out underarm skin tone." },
+      { text: "Sold in a single 50ml size at ₹299, an accessible entry point into treatment-level underarm care." },
+      { text: "This is an active-ingredient underarm product, not a plain antiperspirant — check for interactions if using alongside other underarm actives." },
+    ],
+    heroImage: "/products/dotandkey-watermelon-underarm-roll-on.jpg",
+    heroImageAlt: "Dot & Key Watermelon Cooling Underarm Roll On bottle product packaging",
+    categorySlug: "skincare",
+    tagSlugs: ["dot-key", "body-care"],
+    publishedAt: "2026-09-08",
+    updatedAt: "2026-09-08",
+    readingTimeMinutes: 8,
+    editorsPick: true,
+    popular: true,
+    viewCount: 155,
+    content: [
+      {
+        type: "paragraph",
+        text: "Underarm care has moved beyond plain deodorant in recent years, with brands introducing AHA/BHA-based treatments aimed at pigmentation, texture, and odor together rather than masking smell alone. Dot & Key's Watermelon Cooling Underarm Roll On is built in that treatment-first category, disclosing an actual acid percentage rather than relying on vague \"brightening\" language.",
+      },
+      {
+        type: "paragraph",
+        text: "This guide covers what's actually in the formula, what the disclosed 4% AHA/BHA concentration means in practice, who it's likely to suit, and how to use it safely.",
+      },
+      { type: "heading", level: 2, text: "Quick Answer", id: "quick-answer" },
+      {
+        type: "paragraph",
+        text: "Dot & Key Watermelon Cooling Underarm Roll On is a roll-on underarm treatment with 4% AHA and BHA plus watermelon extract, formulated to fight odor-causing bacteria, exfoliate, and reduce underarm pigmentation. It's sold in a single 50ml size at ₹299. It suits people wanting an active-ingredient underarm treatment rather than a plain cosmetic deodorant.",
+      },
+      { type: "heading", level: 2, text: "Product Overview", id: "overview" },
+      {
+        type: "table",
+        headers: ["Feature", "Details"],
+        rows: [
+          ["Brand", "Dot & Key"],
+          ["Product Type", "Underarm roll-on"],
+          ["Category", "Body Care"],
+          ["Key Ingredients", "4% AHA/BHA Complex, Watermelon Extract, Hyaluronic Acid"],
+          ["Primary Purpose", "Odor control, exfoliation, underarm pigmentation"],
+          ["Texture", "Roll-on liquid"],
+          ["Available Sizes", "50ml (₹299)"],
+        ],
+      },
+      { type: "heading", level: 2, text: "What Is This Product?", id: "what-is-it" },
+      {
+        type: "paragraph",
+        text: "This is a roll-on underarm product combining a disclosed 4% AHA/BHA complex with Citrullus Lanatus (Watermelon) Fruit Extract and Sodium Hyaluronate. The formula also lists Ethylhexyl Methoxycinnamate and Phenylbenzimidazole Sulfonic Acid — ingredients more commonly associated with UV filtering — suggesting a secondary sun-protective function for the underarm area alongside its primary exfoliating and odor-control role, though Dot & Key doesn't market this product with an SPF rating.",
+      },
+      { type: "heading", level: 2, text: "Official Brand Claims", id: "brand-says" },
+      {
+        type: "list",
+        items: [
+          "Instant cooling underarm roll-on for fresh, smooth, and even-toned skin.",
+          "Infused with watermelon, 4% AHA and BHA to deliver visible results.",
+          "Fights odor and sweat-causing bacteria to keep underarms fresh for long hours.",
+          "Gently exfoliates to unclog pores, even skin texture, and reduce pigmentation.",
+        ],
+      },
+      { type: "heading", level: 3, text: "Formulation Analysis", id: "ingredient-analysis" },
+      {
+        type: "paragraph",
+        text: "Disclosing a specific 4% AHA/BHA figure is a meaningfully transparent choice compared to many underarm products that just say \"exfoliating\" without a number, and that concentration is broadly consistent with what's used in body-safe exfoliating treatments. Underarm skin is delicate and prone to irritation from both shaving and friction, so introducing an acid-based roll-on gradually, rather than switching from a plain deodorant immediately every day, is a reasonable, cautious approach.",
+      },
+      { type: "heading", level: 2, text: "Key Ingredients and Their Roles", id: "ingredients" },
+      {
+        type: "list",
+        items: [
+          "4% AHA/BHA Complex: exfoliates to unclog pores, smooth texture, and support a more even underarm tone.",
+          "Citrullus Lanatus (Watermelon) Fruit Extract: contributes to the product's cooling, refreshing sensory profile.",
+          "Sodium Hyaluronate: provides hydration to offset any dryness from the acid content.",
+          "Terephthalylidene Dicamphor Sulfonic Acid & Phenylbenzimidazole Sulfonic Acid: UV-filtering compounds, suggesting a secondary sun-protective role for this exposed skin area.",
+          "Menthyl Lactate: contributes a cooling sensory effect on application.",
+        ],
+      },
+      { type: "heading", level: 2, text: "Full Ingredient List", id: "full-ingredient-list" },
+      {
+        type: "paragraph",
+        text: "As listed on the official Dot & Key product page at the time of writing: Aloe Barbadensis (Aloe Vera) Leaf Water, Cyclopentasiloxane, Isododecane, Ethylhexyl Methoxycinnamate, Butylene Glycol, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Dibutyl Adipate, Phenylbenzimidazole Sulfonic Acid, Propylene Glycol, Triethanolamine, Sodium Chloride, Terephthalylidene Dicamphor Sulfonic Acid, Menthyl Lactate, Citrullus Lanatus (Watermelon) Fruit Extract, Sodium Hyaluronate, Tocopheryl Acetate, and additional stabilizers and preservatives as disclosed on the official listing.",
+      },
+      {
+        type: "callout",
+        variant: "note",
+        title: "Not marketed as an SPF product",
+        text: "Despite containing UV-filtering compounds, Dot & Key doesn't market or rate this product for sun protection. Treat any sun-protective effect as incidental rather than relying on it as your underarm's SPF.",
+      },
+      { type: "heading", level: 2, text: "Who May Find It Suitable?", id: "who-may-suit" },
+      {
+        type: "list",
+        items: [
+          "People dealing with underarm darkening or pigmentation from shaving, friction, or deodorant buildup.",
+          "Anyone wanting an active-ingredient underarm treatment rather than a plain fragrance-based deodorant.",
+          "Those who prefer a roll-on cooling sensation over a stick or spray format.",
+        ],
+      },
+      { type: "heading", level: 2, text: "How to Use It", id: "how-to-use" },
+      { type: "heading", level: 3, text: "Official Brand Directions", id: "brand-directions" },
+      {
+        type: "list",
+        items: [
+          "Dot & Key's product page does not publish detailed step-by-step directions for this roll-on.",
+        ],
+      },
+      { type: "heading", level: 3, text: "General Usage Guidance", id: "general-usage" },
+      {
+        type: "list",
+        items: [
+          "Apply to clean, dry underarms, ideally after showering.",
+          "First-time users of an acid-based underarm product may want to start with alternate-day use to check for irritation, especially right after shaving.",
+          "Avoid applying immediately after shaving if you notice stinging, and allow skin to settle for a few hours first.",
+          "This is general guidance, not specific to Dot & Key.",
+        ],
+      },
+      { type: "heading", level: 2, text: "Where Does It Fit Into a Routine?", id: "routine" },
+      {
+        type: "paragraph",
+        text: "Used as a standalone underarm step after showering, in place of (or alongside monitoring against) a separate deodorant or antiperspirant, depending on personal preference and how your skin responds.",
+      },
+      { type: "heading", level: 2, text: "Potential Advantages", id: "pros" },
+      { type: "heading", level: 2, text: "Things to Consider", id: "cons" },
+      {
+        type: "prosCons",
+        pros: [
+          "Discloses a specific 4% AHA/BHA concentration rather than vague exfoliation language",
+          "Combines odor control, exfoliation, and pigmentation support in one product",
+          "Cooling, quick-absorbing roll-on format",
+          "Accessible single size and price point (50ml, ₹299)",
+        ],
+        cons: [
+          "Acid-based formula may irritate underarm skin, especially right after shaving",
+          "Not a substitute for a dedicated antiperspirant if controlling sweat volume (not just odor) is the primary goal",
+          "Contains UV-filter ingredients but isn't SPF-rated or marketed for sun protection",
+          "Only sold in one size",
+        ],
+      },
+      { type: "heading", level: 2, text: "Comparison With Relevant Dot & Key Products", id: "comparison" },
+      {
+        type: "table",
+        caption: "Dot & Key Watermelon Underarm Roll On vs. Watermelon Cooling Sunscreen (shared ingredient theme)",
+        headers: ["Feature", "Watermelon Underarm Roll On", "Watermelon Cooling Sunscreen"],
+        rows: [
+          ["Purpose", "Underarm odor, exfoliation, pigmentation", "Facial sun protection"],
+          ["Format", "Roll-on liquid", "Aqua-gel"],
+          ["Approx. price", "₹299 (50ml)", "₹445 (50g) / ₹595 (80g)"],
+        ],
+      },
+      {
+        type: "postGrid",
+        postSlugs: [
+          "dot-and-key-master-guide",
+          "dot-and-key-watermelon-sunscreen-review",
+          "dot-and-key-moringa-argan-shampoo-review",
+        ],
+      },
+      { type: "heading", level: 2, text: "Frequently Asked Questions", id: "faqs" },
+      { type: "heading", level: 2, text: "How We Researched This Guide", id: "methodology" },
+      {
+        type: "paragraph",
+        text: "This guide is based on the official Dot & Key product listing and its published ingredient list, as of September 2026. This article does not claim independent lab testing or dermatologist evaluation of the product.",
+      },
+      { type: "heading", level: 2, text: "Final Verdict", id: "verdict" },
+      {
+        type: "paragraph",
+        text: "Dot & Key's Watermelon Cooling Underarm Roll On is a reasonably formulated treatment option for anyone wanting to address underarm pigmentation and texture alongside basic odor control, with a transparently disclosed acid concentration. Anyone with sensitive underarm skin, especially right after shaving, should introduce it gradually.",
+      },
+    ],
+    faqs: [
+      {
+        question: "Can I use this roll-on right after shaving?",
+        answer: "It's best to wait a few hours after shaving before applying, since the acid content can sting on freshly shaved, more sensitive skin. If you notice irritation, space out shaving and application further.",
+      },
+      {
+        question: "Does this roll-on control sweat, or just odor?",
+        answer: "It's formulated primarily around odor control, exfoliation, and pigmentation, not as an antiperspirant. If controlling sweat volume is your main concern, this isn't formulated as a dedicated antiperspirant.",
+      },
+      {
+        question: "Will this actually lighten dark underarms?",
+        answer: "The 4% AHA/BHA complex can help with texture and the visual evenness of underarm skin over consistent use, but results depend on what's causing the darkening (friction, shaving, or other factors) and should be viewed as a gradual, supportive effect rather than a guaranteed fix.",
+      },
+      {
+        question: "Is this roll-on safe for sensitive skin?",
+        answer: "Because it contains active exfoliating acids, sensitive skin should patch-test and consider starting with alternate-day use rather than daily application from the start.",
+      },
+      {
+        question: "What size is this roll-on available in?",
+        answer: "It's sold in a single 50ml size at ₹299, per the official Dot & Key listing.",
+      },
+    ],
+    sources: [
+      { label: "Dot & Key — Watermelon Cooling Underarm Roll On (official product page)", url: "https://www.dotandkey.com/products/watermelon-cooling-underarm-roll-on" },
+    ],
+    relatedProductSlugs: [],
+  },
+  {
+    id: "post-dot-and-key-moringa-argan-shampoo-review",
+    slug: "dot-and-key-moringa-argan-shampoo-review",
+    title: "Dot & Key Moringa & Argan Oil Hair Fall Control Shampoo: Ingredients, Benefits & How to Use",
+    excerpt:
+      "A research-based review of Dot & Key's Moringa & Argan Oil Hair Fall Control Shampoo — its sulphate-free, keratin-infused formula, full ingredient list, and how it fits into a hair-fall-control routine.",
+    summary:
+      "Dot & Key Moringa & Argan Oil Hair Fall Control Shampoo is a sulphate-free shampoo with Pea Peptide Protein, Hydrolyzed Keratin, Argan Oil, and Moringa Oil, formulated to strengthen hair follicles and reduce hair fall while adding shine to limp, dull hair. It's sold in a single 200ml size at ₹395. It suits people wanting a gentle, treatment-oriented shampoo for weak or hair-fall-prone hair rather than a purely cosmetic cleansing shampoo.",
+    keyTakeaways: [
+      { text: "Sulphate-free shampoo built around Pea Peptide Protein and Hydrolyzed Keratin, aimed specifically at strengthening weak hair follicles." },
+      { text: "Combines Argan and Moringa oils for shine and softness alongside the hair-fall-focused actives." },
+      { text: "One of three products in Dot & Key's Moringa & Argan haircare line, alongside a matching conditioner and hair mask." },
+      { text: "Sold in a single 200ml size at ₹395, an official Dot & Key bestseller." },
+      { text: "Best paired with the matching Moringa & Argan Conditioner and Hair Mask for a complete hair-fall-control routine." },
+    ],
+    heroImage: "/products/dotandkey-moringa-argan-shampoo.jpg",
+    heroImageAlt: "Dot & Key Moringa & Argan Oil Hair Fall Control Shampoo bottle product packaging",
+    categorySlug: "haircare",
+    tagSlugs: ["dot-key"],
+    publishedAt: "2026-09-08",
+    updatedAt: "2026-09-08",
+    readingTimeMinutes: 8,
+    editorsPick: true,
+    popular: true,
+    viewCount: 150,
+    content: [
+      {
+        type: "paragraph",
+        text: "Hair-fall-control shampoos often lean entirely on marketing language without disclosing what's actually meant to be doing the strengthening work. Dot & Key's Moringa & Argan Oil Hair Fall Control Shampoo names its active ingredients directly — Pea Peptide Protein and Hydrolyzed Keratin — rather than relying on the oils alone to carry the hair-fall claim.",
+      },
+      {
+        type: "paragraph",
+        text: "This guide covers what's actually in the formula, how the protein-and-keratin combination supports hair strength, who it's likely to suit, and how it fits alongside Dot & Key's matching conditioner and hair mask.",
+      },
+      { type: "heading", level: 2, text: "Quick Answer", id: "quick-answer" },
+      {
+        type: "paragraph",
+        text: "Dot & Key Moringa & Argan Oil Hair Fall Control Shampoo is a sulphate-free shampoo with Pea Peptide Protein, Hydrolyzed Keratin, Argan Oil, and Moringa Oil, formulated to strengthen hair follicles and reduce hair fall while adding shine to limp, dull hair. It's sold in a single 200ml size at ₹395. It suits people wanting a gentle, treatment-oriented shampoo for weak or hair-fall-prone hair rather than a purely cosmetic cleansing shampoo.",
+      },
+      { type: "heading", level: 2, text: "Product Overview", id: "overview" },
+      {
+        type: "table",
+        headers: ["Feature", "Details"],
+        rows: [
+          ["Brand", "Dot & Key"],
+          ["Product Type", "Shampoo"],
+          ["Category", "Hair Care"],
+          ["Key Ingredients", "Pea Peptide Protein, Hydrolyzed Keratin, Argan Oil, Moringa Oil"],
+          ["Primary Purpose", "Hair fall control, follicle strengthening, shine"],
+          ["Texture", "Sulphate-free, gentle cleansing formula"],
+          ["Available Sizes", "200ml (₹395)"],
+        ],
+      },
+      { type: "heading", level: 2, text: "What Is This Product?", id: "what-is-it" },
+      {
+        type: "paragraph",
+        text: "This is a sulphate-free shampoo using a blended gentle-surfactant system (Cocamidopropyl Betaine, Sodium Methyl Cocoyl Taurate, Decyl Glucoside, and related ingredients) rather than harsher sulfates, combined with Pea Peptide Protein and Hydrolyzed Keratin as its named hair-strengthening actives. Argania Spinosa (Argan) Kernel Oil and Moringa Oleifera Seed Oil round out the formula for shine and softness, and Vitamin E is included as an antioxidant.",
+      },
+      { type: "heading", level: 2, text: "Official Brand Claims", id: "brand-says" },
+      {
+        type: "list",
+        items: [
+          "Gentle, sulphate-free shampoo with Vitamin E for hair-fall control.",
+          "Contains high-performance actives like Pea Peptide Protein and Hydrolyzed Keratin.",
+          "Strengthens hair follicles to reduce hair fall.",
+          "Adds shine and volume to dull, limp hair, and is keratin-infused for silky-smooth hair.",
+        ],
+      },
+      { type: "heading", level: 3, text: "Formulation Analysis", id: "ingredient-analysis" },
+      {
+        type: "paragraph",
+        text: "Hydrolyzed Keratin and pea-derived peptides are legitimate, commonly used ingredients in strengthening haircare formulas — they work primarily by conditioning and temporarily reinforcing the hair shaft's surface rather than by biologically changing follicle activity at the scalp. \"Strengthens hair follicles to reduce hair fall\" should be read with that distinction in mind: for hair fall driven by genetic, hormonal, or medical causes, a shampoo's contact-time effect is supportive at most, not a treatment for the underlying cause. A sulphate-free base is a reasonable, gentler choice that's less likely to strip hair and scalp oils excessively.",
+      },
+      { type: "heading", level: 2, text: "Key Ingredients and Their Roles", id: "ingredients" },
+      {
+        type: "list",
+        items: [
+          "Pea Peptide Protein: a plant-derived peptide included to support hair strength and resilience.",
+          "Hydrolyzed Keratin: conditions and temporarily reinforces the hair shaft's surface for smoother, stronger-feeling hair.",
+          "Argania Spinosa (Argan) Kernel Oil: adds shine and softness, a signature ingredient of the product line.",
+          "Moringa Oleifera Seed Oil: a lightweight oil contributing to the formula's conditioning and softness.",
+          "Cocamidopropyl Betaine & Decyl Glucoside: gentle, sulphate-free surfactants for cleansing.",
+        ],
+      },
+      { type: "heading", level: 2, text: "Full Ingredient List", id: "full-ingredient-list" },
+      {
+        type: "paragraph",
+        text: "As listed on the official Dot & Key product page at the time of writing: Aqua, Cocamidopropyl Betaine (and) Glycerin (and) Caprylyl/Capryl Glucoside (and) Sodium Methyl Cocoyl Taurate, Disodium Laureth Sulfosuccinate, Sodium Lauroyl Sarcosinate, Disodium Cocoamphodiacetate, Decyl Glucoside, Cocamide MEA, Cetrimonium Chloride, PEG-150 Distearate, Argania Spinosa (Argan) Kernel Oil, Moringa Oleifera Seed Oil, Pisum Sativum (Pea) Peptide, Cysteine, Acetamide MEA, and additional Hydrolyzed Keratin, stabilizers, and preservatives as disclosed on the official listing.",
+      },
+      {
+        type: "callout",
+        variant: "info",
+        title: "Part of a three-product haircare line",
+        text: "This shampoo is one of three official Dot & Key bestsellers in the Moringa & Argan line, alongside a matching Frizz Control Hair Conditioner and a Moringa & Argan Hair Mask, designed to be used together for a complete routine.",
+      },
+      { type: "heading", level: 2, text: "Who May Find It Suitable?", id: "who-may-suit" },
+      {
+        type: "list",
+        items: [
+          "People noticing excess hair fall who want a gentler, protein-supported shampoo.",
+          "Anyone with dull, limp hair looking for added shine and softness alongside the strengthening claim.",
+          "Those who prefer a sulphate-free shampoo generally, regardless of hair-fall concerns.",
+        ],
+      },
+      { type: "heading", level: 2, text: "How to Use It", id: "how-to-use" },
+      { type: "heading", level: 3, text: "Official Brand Directions", id: "brand-directions" },
+      {
+        type: "list",
+        items: [
+          "Dot & Key's product page does not publish detailed step-by-step directions for this shampoo.",
+        ],
+      },
+      { type: "heading", level: 3, text: "General Usage Guidance", id: "general-usage" },
+      {
+        type: "list",
+        items: [
+          "Apply to wet hair, massage into the scalp and lengths, and rinse thoroughly.",
+          "A second, lighter lather can help ensure thorough cleansing, particularly for oily scalps.",
+          "Follow with the matching conditioner, focusing on mid-lengths and ends rather than the scalp.",
+          "This is general guidance, not specific to Dot & Key.",
+        ],
+      },
+      { type: "heading", level: 2, text: "Where Does It Fit Into a Routine?", id: "routine" },
+      {
+        type: "paragraph",
+        text: "Used as the first step of a hair-wash routine, followed by Dot & Key's Moringa & Argan Frizz Control Conditioner, with the Moringa & Argan Hair Mask used periodically (roughly weekly) as a deeper treatment step.",
+      },
+      { type: "heading", level: 2, text: "Potential Advantages", id: "pros" },
+      { type: "heading", level: 2, text: "Things to Consider", id: "cons" },
+      {
+        type: "prosCons",
+        pros: [
+          "Sulphate-free formula, gentler than many mainstream shampoos",
+          "Names specific strengthening actives (Pea Peptide Protein, Hydrolyzed Keratin) rather than relying on oils alone",
+          "Part of a matched three-product system for a complete hair-fall-control routine",
+          "Official Dot & Key bestseller status",
+        ],
+        cons: [
+          "Strengthening effect works at the hair-shaft level, not as a treatment for hair fall caused by genetic, hormonal, or medical factors",
+          "Sulphate-free formulas can sometimes feel less \"foamy\" than traditional shampoos, even though cleansing is comparable",
+          "Only sold in one size (200ml)",
+          "Persistent or severe hair fall is better addressed by a dermatologist or trichologist than a shampoo alone",
+        ],
+      },
+      { type: "heading", level: 2, text: "Comparison With Relevant Dot & Key Products", id: "comparison" },
+      {
+        type: "table",
+        caption: "Dot & Key Moringa & Argan Shampoo vs. Conditioner vs. Hair Mask",
+        headers: ["Feature", "Shampoo", "Conditioner", "Hair Mask"],
+        rows: [
+          ["Role", "Cleansing + strengthening", "Detangling + frizz control", "Deep weekly treatment"],
+          ["Frequency", "Every wash", "Every wash", "Weekly"],
+          ["Approx. price", "₹395 (200ml)", "₹349 (120ml)", "₹645"],
+        ],
+      },
+      {
+        type: "postGrid",
+        postSlugs: [
+          "dot-and-key-master-guide",
+          "dot-and-key-watermelon-underarm-roll-on-review",
+        ],
+      },
+      { type: "heading", level: 2, text: "Frequently Asked Questions", id: "faqs" },
+      { type: "heading", level: 2, text: "How We Researched This Guide", id: "methodology" },
+      {
+        type: "paragraph",
+        text: "This guide is based on the official Dot & Key product listing and its published ingredient list, as of September 2026. This article does not claim independent lab testing or dermatologist evaluation of the product, and is not a substitute for professional care for persistent or medically significant hair loss.",
+      },
+      { type: "heading", level: 2, text: "Final Verdict", id: "verdict" },
+      {
+        type: "paragraph",
+        text: "Dot & Key's Moringa & Argan Oil Hair Fall Control Shampoo is a well-formulated, sulphate-free option that names its strengthening actives directly rather than relying on vague marketing. It's a supportive, cosmetic-level strengthening shampoo, not a medical treatment — anyone with significant or persistent hair fall should also consult a dermatologist or trichologist.",
+      },
+    ],
+    faqs: [
+      {
+        question: "Will this shampoo stop hair fall completely?",
+        answer: "No shampoo can address hair fall caused by genetic, hormonal, or medical factors on its own. This shampoo can support hair-shaft strength and reduce breakage-related hair fall through its protein and keratin content, but persistent or significant hair loss should be evaluated by a dermatologist or trichologist.",
+      },
+      {
+        question: "Is this shampoo sulphate-free?",
+        answer: "Yes — it uses a blend of gentler surfactants like Cocamidopropyl Betaine and Decyl Glucoside instead of harsher sulfates.",
+      },
+      {
+        question: "Do I need to use the matching conditioner and hair mask too?",
+        answer: "They're not required, but Dot & Key designs this shampoo as part of a three-product Moringa & Argan system alongside a matching conditioner and weekly hair mask, and using them together is likely to give more complete results than the shampoo alone.",
+      },
+      {
+        question: "Is this shampoo suitable for color-treated hair?",
+        answer: "The product listing doesn't make a specific color-safe claim. If you have color-treated hair, it's worth checking for a shampoo specifically labeled color-safe if that's your primary concern.",
+      },
+      {
+        question: "What size is this shampoo available in?",
+        answer: "It's sold in a single 200ml size at ₹395, per the official Dot & Key listing.",
+      },
+    ],
+    sources: [
+      { label: "Dot & Key — Moringa & Argan Oil Hair Fall Control Shampoo (official product page)", url: "https://www.dotandkey.com/products/moringa-argan-hair-fall-control-shampoo" },
+    ],
+    relatedProductSlugs: [],
+  },
+  {
+    id: "post-dot-and-key-sunscreens-guide",
+    slug: "dot-and-key-sunscreens-guide",
+    title: "Dot & Key Sunscreens: A Complete Guide to the Brand's SPF Range",
+    excerpt: "A category guide to Dot & Key's SPF 50+ sunscreen range, covering the Vitamin C + E and Watermelon Cooling formulas, with links to full individual reviews.",
+    summary: "Dot & Key sells a wide range of SPF 50+ PA++++ sunscreens across chemical and mineral filter types, spanning brightening, cooling, mattifying, tinted, and sport-focused formulas. This guide organizes the range and links to in-depth reviews of the brand's Vitamin C + E and Watermelon Cooling sunscreens, with more individual reviews planned.",
+    keyTakeaways: [
+      { text: "Dot & Key's sunscreen range spans 12 distinct formulas, from brightening and cooling gels to mattifying, tinted, mineral, and sport-focused options, all at SPF 50+ PA++++." },
+      { text: "Most use the same core chemical UV filter combination, so the choice between them usually comes down to texture, finish, and secondary skincare benefits." },
+      { text: "The Vitamin C + E Sunscreen leans into a brightening, dewy-finish angle; the Watermelon Cooling Sunscreen leans into an oil-free, cooling angle for oily/combination skin." },
+      { text: "A dedicated 100% Mineral Sunscreen is available for anyone who prefers to avoid chemical UV filters entirely." },
+    ],
+    heroImage: "/products/dotandkey-vitamin-c-e-sunscreen.jpg",
+    heroImageAlt: "Dot & Key sunscreen range product packaging",
+    categorySlug: "skincare",
+    tagSlugs: ["dot-key", "sunscreen", "spf"],
+    publishedAt: "2026-09-08",
+    updatedAt: "2026-09-08",
+    readingTimeMinutes: 6,
+    viewCount: 120,
+    content: [
+      {
+        type: "paragraph",
+        text: "Dot & Key's sunscreen lineup is one of the brand's largest and most varied categories, spanning 12 distinct formulas built around different skin needs — brightening, cooling, mattifying, tinted coverage, mineral-only filters, and sport/swim-focused water resistance. Most share the same SPF 50+ PA++++ rating and a common core filter combination, so the meaningful differences between them are mostly about texture, finish, and secondary ingredients.",
+      },
+      { type: "heading", level: 2, text: "Sunscreens Covered So Far", id: "covered" },
+      {
+        type: "paragraph",
+        text: "In-depth, ingredient-level reviews are currently published for two of the range's most popular formulas, with more planned:",
+      },
+      {
+        type: "postGrid",
+        postSlugs: [
+          "dot-and-key-vitamin-c-e-sunscreen-review",
+          "dot-and-key-watermelon-sunscreen-review",
+        ],
+      },
+      { type: "heading", level: 2, text: "The Rest of the Range", id: "rest-of-range" },
+      {
+        type: "paragraph",
+        text: "Dot & Key also sells a Cica + Niacinamide Sunscreen (mattifying, for acne-prone/oily skin), a Vitamin C + E 100% Mineral Sunscreen (for filter-avoidant users), a Dragon Fruit Bounce Gel Sunscreen, a Strawberry Dew Tinted Sunscreen (with shade options), a Strawberry Sunscreen Face Mist and Sunscreen Stick, a Mango Detan Gel Sunscreen, a Swim + Sports Sunscreen, and a Watermelon Cooling Sunscreen Body Spray. Dedicated reviews for these are in progress; check back for updates.",
+      },
+      { type: "heading", level: 2, text: "How to Choose Between Them", id: "how-to-choose" },
+      {
+        type: "table",
+        headers: ["If you want...", "Consider"],
+        rows: [
+          ["A brightening, dewy daily sunscreen", "Vitamin C + E Sunscreen"],
+          ["An oil-free, cooling feel for oily/combination skin", "Watermelon Cooling Sunscreen"],
+          ["A mattifying finish for acne-prone skin", "Cica + Niacinamide Sunscreen"],
+          ["To avoid chemical UV filters entirely", "Vitamin C + E 100% Mineral Sunscreen"],
+        ],
+      },
+      { type: "heading", level: 2, text: "Frequently Asked Questions", id: "faqs" },
+    ],
+    faqs: [
+      {
+        question: "Are all Dot & Key sunscreens SPF 50?",
+        answer: "The large majority of the range is SPF 50+ PA++++. Always check the specific product listing to confirm, since formulations and ratings can be updated over time.",
+      },
+      {
+        question: "Which Dot & Key sunscreen has no chemical filters?",
+        answer: "The Vitamin C + E 100% Mineral Sunscreen is Dot & Key's dedicated mineral-filter option, for anyone who prefers to avoid chemical UV filters.",
+      },
+    ],
+    sources: [
+      { label: "Dot & Key — Official Website", url: "https://www.dotandkey.com" },
+    ],
+    relatedProductSlugs: [],
+  },
+  {
+    id: "post-dot-and-key-serums-guide",
+    slug: "dot-and-key-serums-guide",
+    title: "Dot & Key Serums: A Complete Guide to the Brand's Treatment Serums",
+    excerpt: "A category guide to Dot & Key's face serum range, covering the Vitamin C + E and Strawberry Niacinamide formulas, with links to full individual reviews.",
+    summary: "Dot & Key sells 8 individually eligible face serums spanning vitamin C, niacinamide, retinol, salicylic acid, glycolic acid, and hydrating hyaluronic/ceramide formulas. This guide organizes the range and links to in-depth reviews of the brand's two flagship brightening serums, with more individual reviews planned.",
+    keyTakeaways: [
+      { text: "Dot & Key's serum range covers vitamin C, niacinamide, retinol, salicylic acid, glycolic acid, and hydrating hyaluronic/ceramide formulas." },
+      { text: "The 10% Vitamin C + E Serum is marketed as beginner-friendly, using a stable Ethyl Ascorbic Acid derivative rather than pure L-ascorbic acid." },
+      { text: "The Strawberry Bright 10% Niacinamide Serum leads with a higher-strength niacinamide for texture, pores, and brightening." },
+      { text: "Serums targeting different concerns (acne, aging, hydration) are also available; check the individual product pages for the full range." },
+    ],
+    heroImage: "/products/dotandkey-vitamin-c-e-niacinamide-serum.jpg",
+    heroImageAlt: "Dot & Key face serum range product packaging",
+    categorySlug: "skincare",
+    tagSlugs: ["dot-key", "serum"],
+    publishedAt: "2026-09-08",
+    updatedAt: "2026-09-08",
+    readingTimeMinutes: 6,
+    viewCount: 115,
+    content: [
+      {
+        type: "paragraph",
+        text: "Serums are where Dot & Key concentrates most of its active-ingredient formulations, and the range covers a genuinely wide spread of concerns — brightening, texture, acne, aging, and hydration — rather than repeating the same vitamin C or niacinamide theme across every product.",
+      },
+      { type: "heading", level: 2, text: "Serums Covered So Far", id: "covered" },
+      {
+        type: "paragraph",
+        text: "In-depth, ingredient-level reviews are currently published for the brand's two flagship brightening serums, with more planned:",
+      },
+      {
+        type: "postGrid",
+        postSlugs: [
+          "dot-and-key-vitamin-c-e-niacinamide-serum-review",
+          "dot-and-key-strawberry-niacinamide-serum-review",
+        ],
+      },
+      { type: "heading", level: 2, text: "The Rest of the Range", id: "rest-of-range" },
+      {
+        type: "paragraph",
+        text: "Dot & Key also sells a 12% Barrier Boost Serum (hyaluronic + ceramides), a Cica + 10% Niacinamide Serum for oily/acne-prone skin, a Cica + 2% Salicylic Acid Serum for acne, a Hyaluronic & Ceramides Hydrating Serum, a Pomegranate Youth 0.2% Retinol Complex Serum, and a Watermelon & 10% Glycolic Serum. Dedicated reviews for these are in progress; check back for updates.",
+      },
+      { type: "heading", level: 2, text: "How to Choose Between Them", id: "how-to-choose" },
+      {
+        type: "table",
+        headers: ["If your main concern is...", "Consider"],
+        rows: [
+          ["Dullness, dark spots, and you're new to vitamin C", "10% Vitamin C + E Serum with 5% Niacinamide"],
+          ["Texture, pores, and general brightening", "Strawberry Bright 10% Niacinamide Serum"],
+          ["Oily, acne-prone, sensitive skin", "Cica + 10% Niacinamide Serum or Cica + 2% Salicylic Acid Serum"],
+          ["Early signs of aging", "Pomegranate Youth 0.2% Retinol Complex Serum"],
+        ],
+      },
+      { type: "heading", level: 2, text: "Frequently Asked Questions", id: "faqs" },
+    ],
+    faqs: [
+      {
+        question: "Can I use two Dot & Key serums together?",
+        answer: "It depends on the actives involved. Vitamin C and niacinamide layer well together, but combining multiple exfoliating-acid serums (like the salicylic and glycolic acid options) in the same routine increases irritation risk — introduce one active at a time and monitor your skin.",
+      },
+      {
+        question: "Which Dot & Key serum is best for beginners?",
+        answer: "The 10% Vitamin C + E Serum with 5% Niacinamide is explicitly marketed by Dot & Key as beginner-friendly, using a gentler, stable vitamin C derivative.",
+      },
+    ],
+    sources: [
+      { label: "Dot & Key — Official Website", url: "https://www.dotandkey.com" },
+    ],
+    relatedProductSlugs: [],
+  },
+  {
+    id: "post-dot-and-key-cleansers-guide",
+    slug: "dot-and-key-cleansers-guide",
+    title: "Dot & Key Face Cleansers: A Complete Guide to the Brand's Face Wash Range",
+    excerpt: "A category guide to Dot & Key's face wash range, covering the Barrier Repair and Cica + Salicylic Acid formulas, with links to full individual reviews.",
+    summary: "Dot & Key sells 10 individually eligible face washes spanning barrier-repair, acne-focused, brightening, and cleansing-balm formats. This guide organizes the range and links to in-depth reviews of the brand's two flagship cleansers, with more individual reviews planned.",
+    keyTakeaways: [
+      { text: "Dot & Key's face wash range spans barrier-repair, acne/BHA-focused, brightening, and cleansing-balm formats." },
+      { text: "The Barrier Repair Face Wash is built for dry, sensitive, and barrier-compromised skin using gentle, sulphate-free surfactants." },
+      { text: "The Cica + Salicylic Acid Face Wash is built for oily, acne-prone skin using a genuine BHA active." },
+      { text: "Most of the range is sulphate-free, even the treatment-level acne washes." },
+    ],
+    heroImage: "/products/dotandkey-barrier-repair-face-wash.jpg",
+    heroImageAlt: "Dot & Key face wash range product packaging",
+    categorySlug: "skincare",
+    tagSlugs: ["dot-key", "cleanser"],
+    publishedAt: "2026-09-08",
+    updatedAt: "2026-09-08",
+    readingTimeMinutes: 6,
+    viewCount: 110,
+    content: [
+      {
+        type: "paragraph",
+        text: "A cleanser is the one product almost everyone uses daily, so Dot & Key's face wash range is built around matching the surfactant system to skin need — gentle, barrier-supporting formulas for dry or sensitive skin, and treatment-level BHA formulas for oily, acne-prone skin — rather than a one-size-fits-all approach.",
+      },
+      { type: "heading", level: 2, text: "Face Washes Covered So Far", id: "covered" },
+      {
+        type: "paragraph",
+        text: "In-depth, ingredient-level reviews are currently published for the brand's two flagship cleansers, with more planned:",
+      },
+      {
+        type: "postGrid",
+        postSlugs: [
+          "dot-and-key-barrier-repair-face-wash-review",
+          "dot-and-key-cica-salicylic-face-wash-review",
+        ],
+      },
+      { type: "heading", level: 2, text: "The Rest of the Range", id: "rest-of-range" },
+      {
+        type: "paragraph",
+        text: "Dot & Key also sells a Deep Pore Clean Foaming Face Wash, a Mango Detan Gel Face Wash, a Strawberry Bright Niacinamide Gel Face Wash, a Strawberry Dew Cleansing Balm, a Strawberry Dew Micellar Face Wash, a Vitamin C + E Gel Face Wash, a Vitamin C Foaming Face Wash, and a Watermelon Gel Face Wash. Dedicated reviews for these are in progress; check back for updates.",
+      },
+      { type: "heading", level: 2, text: "How to Choose Between Them", id: "how-to-choose" },
+      {
+        type: "table",
+        headers: ["If your skin is...", "Consider"],
+        rows: [
+          ["Dry, sensitive, or barrier-compromised", "Barrier Repair Gentle Hydrating Face Wash"],
+          ["Oily and acne-prone", "Cica + Salicylic Acid Face Wash"],
+          ["Dull or unevenly toned", "Vitamin C Foaming Face Wash or Watermelon Gel Face Wash"],
+        ],
+      },
+      { type: "heading", level: 2, text: "Frequently Asked Questions", id: "faqs" },
+    ],
+    faqs: [
+      {
+        question: "Are Dot & Key's face washes sulphate-free?",
+        answer: "Most of the range, including both the Barrier Repair and Cica + Salicylic Acid washes, uses sulphate-free surfactant systems. Always check the specific product's ingredient list to confirm for any individual SKU.",
+      },
+      {
+        question: "Can oily skin use the Barrier Repair Face Wash?",
+        answer: "It can, but it's specifically formulated for dry, sensitive, and barrier-compromised skin. Oily or acne-prone skin will generally get more benefit from the Cica + Salicylic Acid Face Wash instead.",
+      },
+    ],
+    sources: [
+      { label: "Dot & Key — Official Website", url: "https://www.dotandkey.com" },
+    ],
+    relatedProductSlugs: [],
+  },
+  {
+    id: "post-dot-and-key-moisturizers-guide",
+    slug: "dot-and-key-moisturizers-guide",
+    title: "Dot & Key Moisturizers: A Complete Guide to the Brand's Moisturizer Range",
+    excerpt: "A category guide to Dot & Key's moisturizer range, covering the Barrier Repair, Vitamin C + E, and 72HR Gel formulas, with links to full individual reviews.",
+    summary: "Dot & Key sells 12 individually eligible moisturizers spanning barrier-repair creams, brightening gels, hydrating gels, and retinol-focused night creams. This guide organizes the range and links to in-depth reviews of the brand's three flagship moisturizers, with more individual reviews planned.",
+    keyTakeaways: [
+      { text: "Dot & Key's moisturizer range spans rich barrier-repair creams, lightweight brightening gels, hydrating gels, and retinol night creams." },
+      { text: "The Barrier Repair Moisturizer uses a genuine 5-ceramide complex for dry, sensitive, and barrier-compromised skin." },
+      { text: "The Vitamin C + E and 72HR Gel Moisturizers are both lightweight gel-creams suited to oily/combination skin, differing in whether they lead with brightening or hydration." },
+      { text: "A dedicated Retinol Night Repair Cream and an SPF 30 anti-aging moisturizer are also available for specific concerns." },
+    ],
+    heroImage: "/products/dotandkey-barrier-repair-moisturizer.jpg",
+    heroImageAlt: "Dot & Key moisturizer range product packaging",
+    categorySlug: "skincare",
+    tagSlugs: ["dot-key", "moisturizer"],
+    publishedAt: "2026-09-08",
+    updatedAt: "2026-09-08",
+    readingTimeMinutes: 6,
+    viewCount: 118,
+    content: [
+      {
+        type: "paragraph",
+        text: "Moisturizer is the category where texture and skin type matter most, and Dot & Key's range reflects that — richer, ceramide-forward creams for dry and sensitive skin sit alongside lightweight, oil-free gels for oily and combination skin, with the same general split showing up in almost every skincare brand's lineup.",
+      },
+      { type: "heading", level: 2, text: "Moisturizers Covered So Far", id: "covered" },
+      {
+        type: "paragraph",
+        text: "In-depth, ingredient-level reviews are currently published for three of the range's most popular formulas, with more planned:",
+      },
+      {
+        type: "postGrid",
+        postSlugs: [
+          "dot-and-key-barrier-repair-moisturizer-review",
+          "dot-and-key-vitamin-c-e-moisturizer-review",
+          "dot-and-key-72hr-gel-moisturizer-review",
+        ],
+      },
+      { type: "heading", level: 2, text: "The Rest of the Range", id: "rest-of-range" },
+      {
+        type: "paragraph",
+        text: "Dot & Key also sells a Barrier Repair Intense Moisturizer, a Cica + Niacinamide Oil-Free Moisturizer, a Cica Calming Night Gel, a Dragon Fruit Bounce Jelly Moisturizer, a Pomegranate + Multi-Peptide Anti-Ageing Moisturizer SPF 30, a Retinol Night Repair Cream, a Strawberry + Niacinamide Moisturizer, a Strobe Cream (moisturizer + highlighter), and a Watermelon Cooling Icy Gel Moisturizer. Dedicated reviews for these are in progress; check back for updates.",
+      },
+      { type: "heading", level: 2, text: "How to Choose Between Them", id: "how-to-choose" },
+      {
+        type: "table",
+        headers: ["If your skin is...", "Consider"],
+        rows: [
+          ["Dry, sensitive, or barrier-compromised", "Barrier Repair Moisturizer (Hyaluronic + Ceramides)"],
+          ["Oily/combination and dull", "Vitamin C + E Super Bright Gel Moisturizer"],
+          ["Oily/combination and dehydrated", "72HR Gel Moisturizer + Probiotics"],
+          ["Looking for a night-time anti-aging option", "Retinol Night Repair Cream"],
+        ],
+      },
+      { type: "heading", level: 2, text: "Frequently Asked Questions", id: "faqs" },
+    ],
+    faqs: [
+      {
+        question: "Which Dot & Key moisturizer is richest for very dry skin?",
+        answer: "The Barrier Repair Moisturizer (Hyaluronic + Ceramides) is the brand's most comprehensive barrier-repair cream, built on a 5-ceramide complex specifically for dry, sensitive, and barrier-compromised skin.",
+      },
+      {
+        question: "Can I use a gel moisturizer if I have dry skin?",
+        answer: "You can, but Dot & Key's gel moisturizers (like the 72HR Gel or Vitamin C + E Gel) are primarily formulated and marketed for oily/combination skin. Very dry skin will generally get more from the richer Barrier Repair cream.",
+      },
+    ],
+    sources: [
+      { label: "Dot & Key — Official Website", url: "https://www.dotandkey.com" },
+    ],
+    relatedProductSlugs: [],
+  },
+  {
+    id: "post-dot-and-key-master-guide",
+    slug: "dot-and-key-master-guide",
+    title: "Dot & Key Products: A Complete Guide to the Brand's Skincare Range",
+    excerpt: "The complete Glow by Kudozz guide to Dot & Key — organized by category, linking to in-depth, ingredient-level reviews of the brand's sunscreens, serums, cleansers, moisturizers, and more.",
+    summary: "Dot & Key is an Indian D2C skincare and haircare brand with a catalogue of 66 individually eligible products across sunscreens, serums, cleansers, moisturizers, masks, toners, lip care, eye care, body care, and hair care. This master guide organizes the full range by category and links to dedicated category hubs and individual product reviews as they're published.",
+    keyTakeaways: [
+      { text: "Dot & Key's current official catalogue includes 66 individually eligible (non-bundle) products across 10 categories." },
+      { text: "The brand is best known for its ingredient-forward, dermatology-adjacent positioning — disclosed active percentages, multi-ceramide barrier formulas, and named actives rather than vague marketing language." },
+      { text: "Sunscreens, Serums, Face Cleansers, and Moisturizers each have dedicated category hubs; Face Masks, Toners, Lip Care, Eye Care, Body Care, and Hair Care currently link directly to their first published reviews." },
+      { text: "This guide will be updated as more individual product reviews are published across the remaining categories." },
+    ],
+    heroImage: "/products/dotandkey-vitamin-c-e-sunscreen.jpg",
+    heroImageAlt: "Dot & Key product range across skincare and haircare categories",
+    categorySlug: "skincare",
+    tagSlugs: ["dot-key"],
+    publishedAt: "2026-09-08",
+    updatedAt: "2026-09-08",
+    readingTimeMinutes: 8,
+    featured: true,
+    editorsPick: true,
+    viewCount: 300,
+    content: [
+      {
+        type: "paragraph",
+        text: "Dot & Key has grown into one of India's most recognizable D2C skincare brands, built on a positioning that leans into disclosed active-ingredient percentages, multi-ceramide barrier repair, and named actives — closer to a dermatology-adjacent approach than a purely botanical or purely fragrance-led one. The catalogue has also grown large and includes a meaningful number of combo packs, gift sets, and duplicate-SKU marketing pages alongside the genuine standalone products.",
+      },
+      {
+        type: "paragraph",
+        text: "This guide is Glow by Kudozz's central hub for Dot & Key content — organized by category, linking out to dedicated category guides and individual, ingredient-level product reviews as they're published.",
+      },
+      { type: "heading", level: 2, text: "About Dot & Key as a Brand", id: "about-brand" },
+      {
+        type: "paragraph",
+        text: "Dot & Key sells directly through its own website (dotandkey.com) as well as major Indian marketplaces. Its catalogue spans facial skincare (sunscreens, serums, cleansers, moisturizers, toners, masks, eye care, lip care), body care, and a smaller haircare line built around Moringa and Argan oil. Many of its product names reference a signature ingredient or fruit extract (Watermelon, Strawberry, Cica, Dragon Fruit, Pomegranate), which the brand uses consistently as a naming convention across categories.",
+      },
+      { type: "heading", level: 2, text: "Sunscreens", id: "sunscreens" },
+      {
+        type: "paragraph",
+        text: "A 12-product range spanning brightening, cooling, mattifying, tinted, mineral, and sport-focused SPF 50+ formulas.",
+      },
+      {
+        type: "postGrid",
+        postSlugs: [
+          "dot-and-key-sunscreens-guide",
+        ],
+      },
+      { type: "heading", level: 2, text: "Serums", id: "serums" },
+      {
+        type: "paragraph",
+        text: "8 treatment serums covering vitamin C, niacinamide, retinol, salicylic acid, glycolic acid, and hydrating formulas.",
+      },
+      {
+        type: "postGrid",
+        postSlugs: [
+          "dot-and-key-serums-guide",
+        ],
+      },
+      { type: "heading", level: 2, text: "Face Cleansers", id: "cleansers" },
+      {
+        type: "paragraph",
+        text: "10 face washes spanning barrier-repair, acne-focused, brightening, and cleansing-balm formats.",
+      },
+      {
+        type: "postGrid",
+        postSlugs: [
+          "dot-and-key-cleansers-guide",
+        ],
+      },
+      { type: "heading", level: 2, text: "Moisturizers", id: "moisturizers" },
+      {
+        type: "paragraph",
+        text: "12 moisturizers spanning rich barrier-repair creams, lightweight brightening and hydrating gels, and retinol night creams.",
+      },
+      {
+        type: "postGrid",
+        postSlugs: [
+          "dot-and-key-moisturizers-guide",
+        ],
+      },
+      { type: "heading", level: 2, text: "Face Masks", id: "masks" },
+      {
+        type: "paragraph",
+        text: "4 clay masks. The Vitamin C Pink Clay Mask is the first covered in depth, with the Cica & Salicylic Green Clay Mask, Mango Detan Clay Mask, and Watermelon Icy Plunge Clay Mask to follow.",
+      },
+      {
+        type: "postGrid",
+        postSlugs: [
+          "dot-and-key-vitamin-c-pink-clay-mask-review",
+        ],
+      },
+      { type: "heading", level: 2, text: "Toners", id: "toners" },
+      {
+        type: "paragraph",
+        text: "4 toners spanning treatment-level acid toners and purely hydrating rice-water/probiotic formulas. The Cica + Niacinamide Toner with Green Tea is the first covered in depth.",
+      },
+      {
+        type: "postGrid",
+        postSlugs: [
+          "dot-and-key-cica-niacinamide-toner-review",
+        ],
+      },
+      { type: "heading", level: 2, text: "Lip Care", id: "lip-care" },
+      {
+        type: "paragraph",
+        text: "5 lip products spanning SPF balms and overnight treatment masks. The Lip Plumping Mask with Vitamin C + E is the first covered in depth.",
+      },
+      {
+        type: "postGrid",
+        postSlugs: [
+          "dot-and-key-lip-plumping-mask-review",
+        ],
+      },
+      { type: "heading", level: 2, text: "Eye Care", id: "eye-care" },
+      {
+        type: "paragraph",
+        text: "2 eye-area products: a daily retinol eye cream and an occasional hydrogel eye-patch treatment. The Pomegranate + Retinol Eye Cream is the first covered in depth.",
+      },
+      {
+        type: "postGrid",
+        postSlugs: [
+          "dot-and-key-retinol-eye-cream-review",
+        ],
+      },
+      { type: "heading", level: 2, text: "Body Care", id: "body-care" },
+      {
+        type: "paragraph",
+        text: "6 body-care products spanning body lotions, shower gels, and an active-ingredient underarm roll-on. The Watermelon Cooling Underarm Roll On is the first covered in depth.",
+      },
+      {
+        type: "postGrid",
+        postSlugs: [
+          "dot-and-key-watermelon-underarm-roll-on-review",
+        ],
+      },
+      { type: "heading", level: 2, text: "Hair Care", id: "hair-care" },
+      {
+        type: "paragraph",
+        text: "A 3-product Moringa & Argan line — shampoo, conditioner, and hair mask. The Moringa & Argan Hair Fall Control Shampoo is the first covered in depth.",
+      },
+      {
+        type: "postGrid",
+        postSlugs: [
+          "dot-and-key-moringa-argan-shampoo-review",
+        ],
+      },
+      { type: "heading", level: 2, text: "Frequently Asked Questions", id: "faqs" },
+      { type: "heading", level: 2, text: "How We Researched This Guide", id: "methodology" },
+      {
+        type: "paragraph",
+        text: "This guide and its linked reviews are based on Dot & Key's official product sitemap and official Shopify product data fetched directly from dotandkey.com, as of September 2026. Combo packs, bundles, kits, and promotional/duplicate SKU listings were identified and excluded using Dot & Key's own product-type classification and SKU data, not keyword guessing.",
+      },
+    ],
+    faqs: [
+      {
+        question: "Where can I buy Dot & Key products?",
+        answer: "Dot & Key sells directly through its own website (dotandkey.com) and through major Indian marketplaces. Individual product articles link to the official Dot & Key product page for that specific item.",
+      },
+      {
+        question: "Which Dot & Key category should I start with?",
+        answer: "For most people, a sunscreen and a cleanser matched to their skin type are the foundational picks — see the Sunscreens and Face Cleansers guides above. From there, a serum and moisturizer can address specific concerns like brightening, acne, or barrier repair.",
+      },
+      {
+        question: "Are all of Dot & Key's products covered on Glow by Kudozz yet?",
+        answer: "Not yet. This guide currently links to in-depth reviews for a first wave of 15 flagship and bestselling products across all 10 categories, with the remaining catalogue queued for future coverage.",
+      },
+    ],
+    sources: [
+      { label: "Dot & Key — Official Website", url: "https://www.dotandkey.com" },
+    ],
+    relatedProductSlugs: [],
+  },
 ];
 
 export function getPostBySlug(slug: string) {
